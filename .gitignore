@@ -1,0 +1,16 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.RDataTmp*
+
+# Large database files
+*.db
+*.sqbpro
+*.sql.gz
+*.sql
+
+# Temporary files
+o365_token.txt
+*_token.txt
+*firebase-adminsdk*.json
