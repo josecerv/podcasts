@@ -1,0 +1,30 @@
+{
+  "enhancements": {
+    "use_pattern_extraction": true,
+    "use_context_extraction": true,
+    "use_enhanced_prompts": true,
+    "use_web_enrichment": false,
+    "use_photo_analysis": false
+  },
+  "rss_settings": {
+    "timeout": 30,
+    "retry_attempts": 3,
+    "retry_delay": 5,
+    "user_agents": [
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "PodcastAddict/v5 (Linux; Android 11)",
+      "Overcast/3.0 (iPhone; iOS 14.0)"
+    ]
+  },
+  "extraction_settings": {
+    "min_name_parts": 2,
+    "max_name_parts": 4,
+    "confidence_threshold": 0.7,
+    "combine_with_llm": true
+  },
+  "validation": {
+    "log_extraction_methods": true,
+    "save_confidence_scores": true,
+    "enable_manual_review_flags": true
+  }
+}
