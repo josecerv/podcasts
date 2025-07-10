@@ -1,0 +1,26 @@
+{
+  "guest_name": "Unc",
+  "searched_at": "2025-07-10T16:15:31.147307",
+  "search_results": [
+    {
+      "title": "Bland Simpson - UNC English & Comparative Literature",
+      "snippet": "Diamond Studs, The Life of Jesse James (co-author, with Jim Wann) (Musical, Samuel French, NY, 1975) \u00b7 The Great Dismal, A Carolinian's Swamp Memoir (UNC Press, ...",
+      "link": "https://englishcomplit.unc.edu/faculty-directory/bland-simpson/"
+    },
+    {
+      "title": "Tressie McMillan Cottom - School of Information and Library ...",
+      "snippet": "Biography. Dr. Tressie McMillan Cottom is an award-winning author, sociologist, professor at the UNC School of Information and Library ...",
+      "link": "https://sils.unc.edu/people/tressie-mcmillan-cottom/"
+    },
+    {
+      "title": "Stephanie Elizondo Griest",
+      "snippet": "Faculty Fellow, Institute for the Arts & Humanities, UNC Chapel Hill, 2023 \u00b7 Writer-in-Residence, Helene Wurlitzer Foundation, Taos, NM 2021 \u00b7 Artist-in-Residence ...",
+      "link": "https://englishcomplit.unc.edu/faculty-directory/stephanie-elizondo-griest/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

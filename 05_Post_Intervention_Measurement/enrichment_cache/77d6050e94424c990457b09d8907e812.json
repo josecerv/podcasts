@@ -1,0 +1,26 @@
+{
+  "guest_name": "Elder",
+  "searched_at": "2025-07-10T16:23:01.399520",
+  "search_results": [
+    {
+      "title": "Linda Elder",
+      "snippet": "Linda Elder is an American educational psychologist, author and president of the Foundation for Critical Thinking. She is currently an executive director of ...",
+      "link": "https://en.wikipedia.org/wiki/Linda_Elder"
+    },
+    {
+      "title": "John Elder",
+      "snippet": "John Elder was born in Louisville, Kentucky in 1947 and grew up in Louisiana and California. His parents were Lyn Elder, a Baptist minister and seminary ...",
+      "link": "http://www.johnelderauthor.com/johnelder"
+    },
+    {
+      "title": "Laurel Elder",
+      "snippet": "Laurel Elder is a Professor of Political Science at Hartwick College. She teaches a wide array of courses in American politics focusing on public opinion, ...",
+      "link": "https://www.hartwick.edu/people/laurel-elder/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

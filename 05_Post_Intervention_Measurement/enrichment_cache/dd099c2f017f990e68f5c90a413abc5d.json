@@ -1,0 +1,26 @@
+{
+  "guest_name": "Maurice",
+  "searched_at": "2025-07-10T14:51:57.833374",
+  "search_results": [
+    {
+      "title": "Maurice Bucaille",
+      "snippet": "Maurice Bucaille was a French doctor known primarily for his book The Bible, The Qur'an and Science. Maurice Bucaille. Born. Maurice Henri Jules Bucaille.",
+      "link": "https://en.wikipedia.org/wiki/Maurice_Bucaille"
+    },
+    {
+      "title": "About \u2014 Maurice J. Hobson",
+      "snippet": "Dr. Maurice Hobson is an advanced Associate Professor of Africana Studies and Historian at Georgia State University. He earned the Ph.D. degree in History, ...",
+      "link": "http://www.mauricehobson.com/about"
+    },
+    {
+      "title": "Maurice Finocchiaro | People",
+      "snippet": "Maurice Finocchiaro was born in the Italian island of Sicily, and grew up there until age 15, when his family immigrated legally to the US.",
+      "link": "https://www.unlv.edu/people/maurice-finocchiaro"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

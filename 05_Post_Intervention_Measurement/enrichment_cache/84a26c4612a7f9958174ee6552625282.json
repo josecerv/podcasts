@@ -1,0 +1,26 @@
+{
+  "guest_name": "Gus",
+  "searched_at": "2025-07-10T15:53:16.695638",
+  "search_results": [
+    {
+      "title": "About",
+      "snippet": "For the past 20 years, Gus has been a popular speaker at conferences, retreats and parish missions. He speaks on apologetics, evangelization, men's issues, ...",
+      "link": "https://guslloyd.com/pages/about"
+    },
+    {
+      "title": "Ron 'Gus' Gustafson, Inspirational Speaker & Author",
+      "snippet": "Gus is a remarkable motivator. To experience his message is to lose all self-doubt and to find the strength to succeed.",
+      "link": "https://capcityspeakers.com/ron-gus-gustafson/"
+    },
+    {
+      "title": "Speaker: Gus Olsthoorn",
+      "snippet": "Biography. Augustinus \u201cGus\u201d Olsthoorn is a licensed Aircraft Maintenance Engineer, and a training professional, recently retired after 45 years in the ...",
+      "link": "https://creation.com/gus-olsthoorn"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

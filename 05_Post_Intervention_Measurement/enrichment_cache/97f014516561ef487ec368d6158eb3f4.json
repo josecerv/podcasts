@@ -1,0 +1,26 @@
+{
+  "guest_name": "Silver",
+  "searched_at": "2025-07-10T15:48:23.353132",
+  "search_results": [
+    {
+      "title": "The Silver Professors",
+      "snippet": "The Silver Professorships are one of the University's highest honors: the most prestigious named professorship NYU can offer its faculty.",
+      "link": "https://as.nyu.edu/people/silverprofessors.html"
+    },
+    {
+      "title": "Leon Silver",
+      "snippet": "Leon Theodore \"Lee\" Silver (April 9, 1925 \u2013 January 31, 2022) was an American geologist who was professor of geology at the California Institute of Technology ...",
+      "link": "https://en.wikipedia.org/wiki/Leon_Silver"
+    },
+    {
+      "title": "Charles M. Silver | Faculty - Texas Law",
+      "snippet": "Charles Silver teaches courses on civil procedure, health law, and professional responsibility. His current research focuses on aggregate lawsuits.",
+      "link": "https://law.utexas.edu/faculty/charles-m-silver/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

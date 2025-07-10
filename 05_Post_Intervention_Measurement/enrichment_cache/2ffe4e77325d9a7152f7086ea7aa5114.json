@@ -1,0 +1,26 @@
+{
+  "guest_name": "Max",
+  "searched_at": "2025-07-10T14:57:28.826906",
+  "search_results": [
+    {
+      "title": "Max Lucado",
+      "snippet": "Max Lucado (born January 11, 1955) is an American author [1] and minister at Oak Hills Church (formerly the Oak Hills Church of Christ) in San Antonio, Texas.",
+      "link": "https://en.wikipedia.org/wiki/Max_Lucado"
+    },
+    {
+      "title": "Max H. Bazerman",
+      "snippet": "Max Hal Bazerman (born August 14, 1955) is an author and researcher whose work focuses on negotiation, behavioral economics, and ethics.",
+      "link": "https://en.wikipedia.org/wiki/Max_H._Bazerman"
+    },
+    {
+      "title": "Max Lucado - Best-selling Christian Author of Anxious for ...",
+      "snippet": "Max Lucado is a pastor, speaker, and best-selling author who, in his own words, \u201cwrites books for people who don't read books.\u201d",
+      "link": "https://maxlucado.com/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

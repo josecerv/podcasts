@@ -1,0 +1,26 @@
+{
+  "guest_name": "Naspers",
+  "searched_at": "2025-07-10T17:29:06.082195",
+  "search_results": [
+    {
+      "title": "Naspers",
+      "snippet": "Naspers Limited (until 1998 Die Nasionale Pers) is a South African multinational internet, technology and multimedia holding company headquartered in Cape Town.",
+      "link": "https://en.wikipedia.org/wiki/Naspers"
+    },
+    {
+      "title": "Leadership",
+      "snippet": "Phuthi Mahanyele-Dabengwa joined Naspers as South Africa CEO, in July 2019. She is an independent director of Vodacom Group. She serves on the advisory board ...",
+      "link": "https://www.naspers.com/the-group/leadership"
+    },
+    {
+      "title": "The Group",
+      "snippet": "Established in 1915, Naspers has transformed itself into one of the largest technology investors in the world. Naspers is the largest primary listed company on ...",
+      "link": "https://www.naspers.com/the-group"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

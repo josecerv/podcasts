@@ -1,0 +1,26 @@
+{
+  "guest_name": "Bea",
+  "searched_at": "2025-07-10T15:19:25.285807",
+  "search_results": [
+    {
+      "title": "Bea Johnson",
+      "snippet": "Bea Johnson ... B\u00e9a Johnson is a US-based environmental activist, author and motivational speaker. ... She is best known for waste free living by reducing her ...",
+      "link": "https://en.wikipedia.org/wiki/Bea_Johnson"
+    },
+    {
+      "title": "Bea Ingalls - Author",
+      "snippet": "Bea Ingalls is a Hertfordshire based English graduate and author who writes contemporary YA fiction inspired by her love of big, cinematic storytelling.",
+      "link": "https://www.beaingalls.com/"
+    },
+    {
+      "title": "Bea Boccalandro: Home",
+      "snippet": "Bea is a world-renowned corporate purpose, CSR (corporate social responsibility) and ESG (environment social governance) speaker and instructor.",
+      "link": "https://www.beaboccalandro.com/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

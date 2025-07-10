@@ -1,0 +1,26 @@
+{
+  "guest_name": "Stephen",
+  "searched_at": "2025-07-10T14:48:12.999192",
+  "search_results": [
+    {
+      "title": "Stephen Covey",
+      "snippet": "Stephen Richards Covey (October 24, 1932 \u2013 July 16, 2012) was an American educator, author, businessman, and speaker. His most popular book is The 7 Habits ...",
+      "link": "https://en.wikipedia.org/wiki/Stephen_Covey"
+    },
+    {
+      "title": "Stephen Molton Biography",
+      "snippet": "Stephen Molton is an author, screenwriter, producer, professor, artist, and former television executive with a passion for writing and teaching.",
+      "link": "https://www.writeyourscreenplay.com/team/stephen-molton/"
+    },
+    {
+      "title": "Stephen Greenblatt",
+      "snippet": "Stephen Jay Greenblatt (born November 7, 1943) is an American literary historian and author. He has served as the John Cogan University Professor of the ...",
+      "link": "https://en.wikipedia.org/wiki/Stephen_Greenblatt"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

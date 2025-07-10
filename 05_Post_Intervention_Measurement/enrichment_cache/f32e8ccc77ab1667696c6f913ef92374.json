@@ -1,0 +1,26 @@
+{
+  "guest_name": "The crew",
+  "searched_at": "2025-07-10T15:51:20.825197",
+  "search_results": [
+    {
+      "title": "The Crew: books, biography, latest update",
+      "snippet": "Follow The Crew and explore their bibliography from Amazon's The Crew Author Page ... Visit Author Central to update your books, profile picture, and biography.",
+      "link": "https://www.amazon.com/The-Crew/e/B007HWLIS2"
+    },
+    {
+      "title": "The Crew (video game)",
+      "snippet": "The Crew was a 2014 online-only racing video game co-developed by Ubisoft Ivory Tower and Ubisoft Reflections and published by Ubisoft.",
+      "link": "https://en.wikipedia.org/wiki/The_Crew_(video_game)"
+    },
+    {
+      "title": "The Crew | P.G. Holyfield: Author and Podcaster",
+      "snippet": "The Crew ... Paulette Jaxton is the host and primary author of the Form Letter Rejection Theatre podcast. A collection of short speculative stories presented with ...",
+      "link": "https://pgholyfield.com/maah/the-podcast/the-crew.html"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

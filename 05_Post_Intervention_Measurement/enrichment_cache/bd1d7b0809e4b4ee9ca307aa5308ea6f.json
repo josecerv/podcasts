@@ -1,0 +1,26 @@
+{
+  "guest_name": "Mom",
+  "searched_at": "2025-07-10T15:42:31.795320",
+  "search_results": [
+    {
+      "title": "Amy Chua",
+      "snippet": "Amy Lynn Chua (Chinese: \u8521\u7f8e\u513f; born October 26, 1962), also known as \"the Tiger Mom\", is an American legal scholar, corporate lawyer, and writer.",
+      "link": "https://en.wikipedia.org/wiki/Amy_Chua"
+    },
+    {
+      "title": "About",
+      "snippet": "Along with advice and inspiration, this veteran homeschooling mom of four offers a path forward for parents of all backgrounds who are craving a lifegiving home ...",
+      "link": "https://heritagemom.com/about/"
+    },
+    {
+      "title": "Mom, I Want to Hear Your Story: A Mother's Guided ...",
+      "snippet": "When you want to know everything about your mom's life from her first memory and every single one from then forward. Her favorite things to eat as a child, ...",
+      "link": "https://www.amazon.com/Mom-Want-Hear-Your-Story/dp/1081439793"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

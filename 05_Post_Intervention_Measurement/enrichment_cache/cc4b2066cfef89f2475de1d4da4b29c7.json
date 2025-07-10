@@ -1,0 +1,26 @@
+{
+  "guest_name": "Cindy",
+  "searched_at": "2025-07-10T15:14:28.158562",
+  "search_results": [
+    {
+      "title": "Cindy Bultema: Home",
+      "snippet": "Cindy is an experienced communicator who delivers powerful, faith-filled messages that resonate deeply with listeners.",
+      "link": "https://cindybultema.com/"
+    },
+    {
+      "title": "About | Cindy McCormick",
+      "snippet": "A national best-selling author, Cindy has written 12 novels including: Beautiful (2010 Christy Award Finalist for YA and 2011 Revolve YA Tour Book of the Year); ...",
+      "link": "https://cindycoloma.com/about/"
+    },
+    {
+      "title": "About",
+      "snippet": "Cindy Rasicot write about the woman defied convention to become the first woman fully ordained in the Thai Theravada tradition, Bhikkhuni Dhammananda.",
+      "link": "https://cindyrasicot.com/about/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Reactor",
+  "searched_at": "2025-07-10T14:42:34.810810",
+  "search_results": [
+    {
+      "title": "BYU profs create new micro nuclear reactor to produce ...",
+      "snippet": "BYU profs create new micro nuclear reactor to produce nuclear energy more safely. By Emily Lambert,. October 04, 2022. Molten salt nuclear ...",
+      "link": "https://news.byu.edu/byu-profs-create-safer-system-to-produce-nuclear-energy"
+    },
+    {
+      "title": "The Reactor by Nick Blackburn review \u2013 the fallout of grief",
+      "snippet": "Blackburn's most closely tended alternative narrative is that of the explosion of the fourth reactor at the nuclear power plant at Chernobyl in ...",
+      "link": "https://www.theguardian.com/books/2022/jan/20/the-reactor-by-nick-blackburn-review-the-fallout-of-grief"
+    },
+    {
+      "title": "Light Water Reactor Materials | Arthur T. Motta",
+      "snippet": "A new book: Light Water Reactor Materials Textbook. Authored by Donald R. Olander (corresponding author) of the Department of Nuclear Engineering at the ...",
+      "link": "https://www.nuce.psu.edu/motta/Book.html"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

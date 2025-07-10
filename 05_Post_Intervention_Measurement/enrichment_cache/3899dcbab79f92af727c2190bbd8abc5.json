@@ -1,0 +1,26 @@
+{
+  "guest_name": "Ninja",
+  "searched_at": "2025-07-10T14:43:49.006797",
+  "search_results": [
+    {
+      "title": "Ninja (singer)",
+      "snippet": "Ninja (singer) ; Birth name, Amit Bhalla ; Born, (1991-03-06) 6 March 1991 (age 34) Ludhiana, Punjab, India ; Genres. Hip hop \u00b7 Bhangra ; Occupations. Singer; actor.",
+      "link": "https://en.wikipedia.org/wiki/Ninja_(singer)"
+    },
+    {
+      "title": "Ninja (gamer)",
+      "snippet": "Richard Tyler Blevins (born June 5, 1991), better known as Ninja, is an American online streamer, YouTuber, and professional gamer. Blevins began streaming ...",
+      "link": "https://en.wikipedia.org/wiki/Ninja_(gamer)"
+    },
+    {
+      "title": "Who were the REAL NINJA? Shinobi History with Antony ...",
+      "snippet": "Antony Cummins and Matt Easton take a look at who the ninja (AKA shinobi) actually were. Did they exist, what historical sources do we have, ...",
+      "link": "https://www.youtube.com/watch?v=bWEuGjg8USE"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

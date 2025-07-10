@@ -1,0 +1,26 @@
+{
+  "guest_name": "Wambli",
+  "searched_at": "2025-07-10T15:42:05.701636",
+  "search_results": [
+    {
+      "title": "Wambli Gleska Quintana, Youth Employment Initiative ...",
+      "snippet": "A citizen of the Cheyenne River Sioux Tribe and the Navajo Nation, Wambli is recognized for his leadership and dedication to his community.",
+      "link": "https://lakotayouth.org/about/staff/wambli-gleska-quintana/"
+    },
+    {
+      "title": "Wambli Quintana",
+      "snippet": "Wambli Quintana is a senior at Dupree High School in South Dakota and a 2024 Champion for Change with the Center for Native American Youth at the Aspen ...",
+      "link": "https://www.aspenideas.org/speakers/wambli-quintana"
+    },
+    {
+      "title": "About Wambli Ska",
+      "snippet": "Wambli Ska Okolakiciye began in 2005 as a vision of Daron White Eagle, who worked tirelessly to bring traditional song and dance to youth and their families to ...",
+      "link": "https://www.wambliska.org/about-us"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

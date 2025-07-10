@@ -1,0 +1,26 @@
+{
+  "guest_name": "Unnamed woman who used the hotline",
+  "searched_at": "2025-07-10T16:44:35.216007",
+  "search_results": [
+    {
+      "title": "Idaho Town Hall Incident: Teresa Borrenpohl's Free ...",
+      "snippet": "She spoke up at a town hall in Idaho and was dragged out after being zip tied by unknown men and charged with battery. The speaker taunted her continually.",
+      "link": "https://www.facebook.com/groups/WomenWithoutReligion/posts/24110767905179508/"
+    },
+    {
+      "title": "An Interview with Jessica Gross, Author of 'Hysteria'",
+      "snippet": "I sat down with author Jessica Gross to talk about along with thoughts on writing about sex, feminist literature, her influences, and, of course, Freud.",
+      "link": "https://www.12thstreetonline.com/an-interview-with-jessica-gross-author-of-hysteria/"
+    },
+    {
+      "title": "Tara Florentino's Portfolio :: Welcome",
+      "snippet": "Girl (unnamed) works as a \u201clistener\u201d at a crisis hotline; She has taken the night shift, and her fellow volunteer can no longer make it so she is left to ...",
+      "link": "https://bu.digication.com/wr100G6_taraflorentino"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Miller",
+  "searched_at": "2025-07-10T16:03:22.247008",
+  "search_results": [
+    {
+      "title": "Arthur Miller",
+      "snippet": "Arthur Asher Miller (October 17, 1915 \u2013 February 10, 2005) was an American playwright, essayist and screenwriter in the 20th-century American theater.",
+      "link": "https://en.wikipedia.org/wiki/Arthur_Miller"
+    },
+    {
+      "title": "Arthur I. Miller \u2013 Scientist, author, speaker",
+      "snippet": "Scientist, Author, Playwright, Speaker. Welcome to the Website of Arthur I. Miller and to the universe of creativity.",
+      "link": "https://arthurimiller.com/"
+    },
+    {
+      "title": "Arthur Miller | Biography, Plays, Books, The Crucible, ...",
+      "snippet": "American playwright Arthur Miller was born and raised in New York City, where his father owned a successful manufacturing business. The Great ...",
+      "link": "https://www.britannica.com/biography/Arthur-Miller-American-playwright"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

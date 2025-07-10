@@ -1,0 +1,26 @@
+{
+  "guest_name": "Mike Brown",
+  "searched_at": "2025-07-10T14:51:16.029726",
+  "search_results": [
+    {
+      "title": "Michael E. Brown",
+      "snippet": "\"Mike\" Brown (born June 5, 1965) is an American astronomer, who has been professor of planetary astronomy at the California Institute of Technology (Caltech) ...",
+      "link": "https://en.wikipedia.org/wiki/Michael_E._Brown"
+    },
+    {
+      "title": "About - Mike Brown - Caltech",
+      "snippet": "Dr. Michael E. Brown. Mike Brown scans the skies searching for and intensely studying distant bodies in our solar system in the hope of gaining insight into ...",
+      "link": "https://mikebrown.caltech.edu/about"
+    },
+    {
+      "title": "Mike Brown: books, biography, latest update",
+      "snippet": "Mike Brown is the Richard and Barbara Rosenberg Professor of Planetary Astronomy at the California Institute of Technology and has been on the faculty there ...",
+      "link": "https://www.amazon.com/Mike-Brown/e/B003K5NGD0"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

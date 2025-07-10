@@ -1,0 +1,26 @@
+{
+  "guest_name": "Manny",
+  "searched_at": "2025-07-10T15:21:45.786533",
+  "search_results": [
+    {
+      "title": "Manuel Scott, Ph.D.",
+      "snippet": "Manny Scott is an original Freedom Writer whose story is told in the 2007 hit movie, Freedom Writers. He has energized over 2 million educators worldwide.",
+      "link": "https://www.mannyscott.com/meet-manny"
+    },
+    {
+      "title": "Manny Scott: Scholar, Speaker, Author",
+      "snippet": "Dr. Manny Scott is a keynote speaker teachers will love!",
+      "link": "https://www.mannyscott.com/"
+    },
+    {
+      "title": "Original Freedom Writer and Acclaimed Speaker Manny ...",
+      "snippet": "Manny Scott will welcome Starkville Oktibbeha Consolidated School District teachers, administrators and support staff to a new year with relevant, riveting, ...",
+      "link": "https://www.starkvillesd.com/news/1662733/original-freedom-writer-and-acclaimed-speaker-manny-scott-to-deliver-keynote-for-convocation-2019"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

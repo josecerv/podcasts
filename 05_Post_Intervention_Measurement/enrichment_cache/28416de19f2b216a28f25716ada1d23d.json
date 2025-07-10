@@ -1,0 +1,26 @@
+{
+  "guest_name": "UC Berkeley",
+  "searched_at": "2025-07-10T17:31:47.016142",
+  "search_results": [
+    {
+      "title": "Michael Pollan - UC Berkeley Research",
+      "snippet": "Pollan served for many years as executive editor of Harper's Magazine and is now the Knight Professor of Science and Environmental Journalism at UC Berkeley.",
+      "link": "https://vcresearch.berkeley.edu/faculty/michael-pollan"
+    },
+    {
+      "title": "Michael Pollan | UC Berkeley Graduate School of Journalism",
+      "snippet": "Pollan served for many years as executive editor of Harper's Magazine and is now the Knight Professor of Science and Environmental Journalism at UC Berkeley.",
+      "link": "https://journalism.berkeley.edu/person/pollan/"
+    },
+    {
+      "title": "Matthew P. Walker | UC Psych - UC Berkeley Psychology",
+      "snippet": "Professor. Email Address: mpwalker@berkeley.edu. Office: 3111 Berkeley Way ... UC Berkeley \u00b7 Accessibility \u00b7 Contact Webmaster \u00b7 Share Your Alumni Story \u00b7 Add ...",
+      "link": "https://psychology.berkeley.edu/people/matthew-p-walker"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

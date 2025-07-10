@@ -1,0 +1,26 @@
+{
+  "guest_name": "Judge Boasberg",
+  "searched_at": "2025-07-10T16:17:46.097147",
+  "search_results": [
+    {
+      "title": "James Boasberg",
+      "snippet": "Biography of Judge Boasberg at the Superior Court \u00b7 James Boasberg on LittleSis, a website that publishes data on who-knows-who between government, donors and ...",
+      "link": "https://en.wikipedia.org/wiki/James_Boasberg"
+    },
+    {
+      "title": "Chief Judge James E. Boasberg | District of Columbia",
+      "snippet": "Chief Judge Boasberg is a native Washingtonian, having graduated from St. Albans School in 1981. He received a B.A., magna cum laude, in History in 1985 ...",
+      "link": "https://www.dcd.uscourts.gov/content/chief-judge-james-e-boasberg"
+    },
+    {
+      "title": "Here are 4 things to know about Judge Boasberg",
+      "snippet": "4 things to know about Judge Boasberg as he battles Trump over deportation flights \u00b7 1. Boasberg played basketball at Yale University, and future ...",
+      "link": "https://www.npr.org/2025/03/18/g-s1-54493/judge-boasberg-trump-deportation-flights"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

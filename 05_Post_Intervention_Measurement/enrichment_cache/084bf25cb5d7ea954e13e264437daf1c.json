@@ -1,0 +1,26 @@
+{
+  "guest_name": "Mitchell",
+  "searched_at": "2025-07-10T15:10:13.798647",
+  "search_results": [
+    {
+      "title": "David Mitchell (author)",
+      "snippet": "David Stephen Mitchell (born 12 January 1969) is an English novelist, screenwriter, and translator. He has written nine novels.",
+      "link": "https://en.wikipedia.org/wiki/David_Mitchell_(author)"
+    },
+    {
+      "title": "Mitchell, David T. | English Department",
+      "snippet": "Mitchell (born January 6, 1962) is an American disability studies professor. He has written several books and has also made films as a part of his academic ...",
+      "link": "https://english.columbian.gwu.edu/david-mitchell"
+    },
+    {
+      "title": "About Dave Mitchell | Founder of The Leadership Difference",
+      "snippet": "Dave Mitchell is an internationally recognized speaker, author, and founder of the Leadership Difference, Inc.- a firm he launched in 1995.",
+      "link": "https://www.theleadershipdifference.com/about"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

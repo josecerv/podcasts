@@ -1,0 +1,26 @@
+{
+  "guest_name": "Tyler",
+  "searched_at": "2025-07-10T15:05:08.191627",
+  "search_results": [
+    {
+      "title": "Ralph W. Tyler",
+      "snippet": "Ralph Winfred Tyler (April 22, 1902 \u2013 February 18, 1994) was an American educator who worked in the field of assessment and evaluation.",
+      "link": "https://en.wikipedia.org/wiki/Ralph_W._Tyler"
+    },
+    {
+      "title": "Tyler Griffin - Religious Education",
+      "snippet": "Associate Dean Tyler was born and raised in Providence, Utah in the beautiful Cache Valley. After serving a mission in Brazil Curitiba, he returned home and ...",
+      "link": "https://religion.byu.edu/directory/tyler-griffin"
+    },
+    {
+      "title": "Guide to the Ralph W. Tyler Papers 1932-1988",
+      "snippet": "Ralph W. Tyler (1902-1994) Professor of Education and university administrator. Contains correspondence, minutes, sample dissertations, examinations, ...",
+      "link": "https://www.lib.uchicago.edu/e/scrc/findingaids/view.php?eadid=ICU.SPCL.TYLER"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

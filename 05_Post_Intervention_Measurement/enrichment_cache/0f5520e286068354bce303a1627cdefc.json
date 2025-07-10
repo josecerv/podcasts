@@ -1,0 +1,26 @@
+{
+  "guest_name": "Chrissy",
+  "searched_at": "2025-07-10T15:23:20.234080",
+  "search_results": [
+    {
+      "title": "Chrissy Scivicque - Executive Speakers Bureau",
+      "snippet": "Chrissy Scivicque is the founder of Eat Your Career, a popular online destination for career advice, and the Career Success Library.",
+      "link": "https://www.executivespeakers.com/speaker/chrissy-scivicque"
+    },
+    {
+      "title": "About",
+      "snippet": "Chrissy King is a writer, speaker, strength coach, and educator with a passion for creating a diverse and inclusive wellness industry.",
+      "link": "https://chrissyking.com/about/"
+    },
+    {
+      "title": "About",
+      "snippet": "With nearly twenty years of experience as a yoga teacher and teacher trainer, Chrissy is known for her intelligent, intuitive, and heartfelt teaching. Chrissy ...",
+      "link": "https://chrissycarter.com/about/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

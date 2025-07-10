@@ -1,0 +1,26 @@
+{
+  "guest_name": "Jim",
+  "searched_at": "2025-07-10T14:58:23.930572",
+  "search_results": [
+    {
+      "title": "Jim Rohn",
+      "snippet": "Emanuel James Rohn (September 17, 1930 \u2013 December 5, 2009) was an American entrepreneur, author, and motivational speaker. ... ^ \"Motivation Force: Jim Rohn ...",
+      "link": "https://en.wikipedia.org/wiki/Jim_Rohn"
+    },
+    {
+      "title": "Jim Cathcart",
+      "snippet": "Jim Cathcart is an American entrepreneur, speaker and author. Jim Cathcart. Helping People Grow since 1977. Born. Little Rock, Arkansas.",
+      "link": "https://en.wikipedia.org/wiki/Jim_Cathcart"
+    },
+    {
+      "title": "Author Bio: Jim Burke",
+      "snippet": "Jim Burke is the author of numerous bestselling Heinemann titles, including the English Teacher's Companion, Fourth Edition and What's the Big Idea.",
+      "link": "https://www.heinemann.com/authors/1334.aspx"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

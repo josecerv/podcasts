@@ -1,0 +1,26 @@
+{
+  "guest_name": "Kenny",
+  "searched_at": "2025-07-10T14:47:27.401420",
+  "search_results": [
+    {
+      "title": "Kevin Kenny",
+      "snippet": "Kevin Kenny is Professor of History and Glucksman Professor in Irish Studies at New York University. He received his Ph.D. in American History from Columbia ...",
+      "link": "https://as.nyu.edu/faculty/KevinKenny.html"
+    },
+    {
+      "title": "Kenny, Robert W. | Department of History",
+      "snippet": "Professor Robert Kenny, emeritus, lives in McLean, Va., and Santa Fe, N.M. He is completing a memoir about growing up in a pre-modern agricultural world.",
+      "link": "https://history.columbian.gwu.edu/robert-kenny"
+    },
+    {
+      "title": "Kenny Williams (educator)",
+      "snippet": "Kenny J. Williams (1927\u20132003) was an African American scholar and author, and an English professor at Duke University. Williams was born in Kentucky, ...",
+      "link": "https://en.wikipedia.org/wiki/Kenny_Williams_(educator)"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": "Black",
+  "gender_confidence": 0.8,
+  "race_confidence": 0.7,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Mani",
+  "searched_at": "2025-07-10T15:08:14.061431",
+  "search_results": [
+    {
+      "title": "Mani Lal Bhaumik",
+      "snippet": "Mani Lal Bhaumik (born 30 March 1931) is an Indian American physicist and an internationally bestselling author, celebrated lecturer, entrepreneur and ...",
+      "link": "https://en.wikipedia.org/wiki/Mani_Lal_Bhaumik"
+    },
+    {
+      "title": "About - Anandi Mani",
+      "snippet": "Bio. Anandi Mani is Professor of Behavioural Economics and Public Policy at the Blavatnik School of Government. Her research interests are in the area of ...",
+      "link": "https://www.anandimani.com/about"
+    },
+    {
+      "title": "Biography of Mani L. Bhaumik",
+      "snippet": "Mani L. Bhaumik rose from poverty to become an eminent scientist who played a key role in developing the laser technology that paved the way for Lasik eye ...",
+      "link": "http://bhaumik-institute.physics.ucla.edu/biography"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

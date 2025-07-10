@@ -1,0 +1,26 @@
+{
+  "guest_name": "PJ",
+  "searched_at": "2025-07-10T16:29:34.057305",
+  "search_results": [
+    {
+      "title": "PJ Caposey",
+      "snippet": "Dr. PJ Caposey is an award-winning educator, keynote speaker, consultant and author of eight books who currently serves as the superintendent of schools.",
+      "link": "https://www.edutopia.org/profile/pj-caposey/"
+    },
+    {
+      "title": "PJ MANNEY | Bestselling Author, Speaker, and Futurist",
+      "snippet": "PJ Manney is the author of the bestselling and Philip K. Dick Award nominated Phoenix Horizon trilogy, (R)EVOLUTION, (ID)ENTITY, and (CON)SCIENCE.",
+      "link": "https://www.pjmanney.com/"
+    },
+    {
+      "title": "P.J. Nelson - Biography",
+      "snippet": "PJ Nelson is the pseudonym of an award-winning actor, dramatist, professor and novelist (among other many other professions) who has done just about everything ...",
+      "link": "https://www.bookreporter.com/authors/pj-nelson"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

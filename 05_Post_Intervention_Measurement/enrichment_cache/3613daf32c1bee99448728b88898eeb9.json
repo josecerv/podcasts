@@ -1,0 +1,26 @@
+{
+  "guest_name": "Amy Skjerseth",
+  "searched_at": "2025-07-10T16:45:22.641924",
+  "search_results": [
+    {
+      "title": "Amy Skjerseth (She/Her/Hers) - UCR Profiles",
+      "snippet": "Biography. Amy Skjerseth (she/her) is an Assistant Professor in Popular Music at UC Riverside. Her scholarship focuses on intersections of music, media ...",
+      "link": "https://profiles.ucr.edu/amy.skjerseth"
+    },
+    {
+      "title": "About Amy Skjerseth",
+      "snippet": "Amy Skjerseth recently received her Ph.D. in Cinema and Media Studies from the University of Chicago. She co-produces the sound studies podcast Phantom ...",
+      "link": "https://www.intellectbooks.com/amy-skjerseth"
+    },
+    {
+      "title": "Sound mind | Tableau - The University of Chicago",
+      "snippet": "Amy Skjerseth, a doctoral candidate in Cinema and Media Studies, researches sound, from its emotional uses in film to lip-syncing and deepfakes.",
+      "link": "https://tableau.uchicago.edu/articles/2021/09/sound-mind"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

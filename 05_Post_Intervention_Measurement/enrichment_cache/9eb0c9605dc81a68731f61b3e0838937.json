@@ -1,0 +1,26 @@
+{
+  "guest_name": "Miguel",
+  "searched_at": "2025-07-10T16:16:00.384545",
+  "search_results": [
+    {
+      "title": "Don Miguel Ruiz",
+      "snippet": "Miguel \u00c1ngel Ruiz Mac\u00edas (born August 27, 1952), better known as Don Miguel Ruiz, is a Mexican author of Toltec spiritual and neoshamanistic texts.",
+      "link": "https://en.wikipedia.org/wiki/Don_Miguel_Ruiz"
+    },
+    {
+      "title": "About Me | Miguel Briones Write",
+      "snippet": "Miguel Antony Briones is an award-winning educator, community organizer, public speaker, and self-published author and illustrator of the bilingual children's ...",
+      "link": "https://www.miguelbrioneswrites.com/about-5"
+    },
+    {
+      "title": "Don Miguel Ruiz",
+      "snippet": "Miguel Ruiz was born in Tijuana, Baja California, Mexico, on August 27, 1952. He is the youngest of eleven brothers and two sisters. Although his family was ...",
+      "link": "https://www.miguelruiz.com/don-miguel-ruiz/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

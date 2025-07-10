@@ -1,0 +1,26 @@
+{
+  "guest_name": "Gerhard",
+  "searched_at": "2025-07-10T15:52:46.830343",
+  "search_results": [
+    {
+      "title": "Gerhard Forde",
+      "snippet": "Gerhard O. Forde (September 10, 1927 \u2013 August 9, 2005) was an American Lutheran theologian who wrote extensively on the Protestant Reformation and Lutheran ...",
+      "link": "https://en.wikipedia.org/wiki/Gerhard_Forde"
+    },
+    {
+      "title": "Gerhard Maroscher - Self Employed Public Speaker/Author",
+      "snippet": "Gerhard Maroscher. My book,\"Why Can't Somebody Just Die Around Here?\" was selected as the 2016 IAN History Book of the Year.",
+      "link": "https://www.linkedin.com/in/gerhard-maroscher-030b7820"
+    },
+    {
+      "title": "JANE GERHARD: BIOGRAPHY",
+      "snippet": "Jane Gerhard has a PhD in American Studies from Brown University. She is the author of Desiring Revolution: Second Wave Feminism and the Rewriting of American ...",
+      "link": "https://janegerhard.com/bio/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

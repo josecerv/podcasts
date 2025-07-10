@@ -1,0 +1,26 @@
+{
+  "guest_name": "Aurora Robson",
+  "searched_at": "2025-07-10T17:02:18.323415",
+  "search_results": [
+    {
+      "title": "Bio Statement",
+      "snippet": "Aurora Robson is a visual artist known predominantly for her innovative, meditative work intercepting the plastic waste stream. Born in Toronto, Canada, Robson ...",
+      "link": "https://www.aurorarobson.com/bio"
+    },
+    {
+      "title": "Aurora Robson",
+      "snippet": "Aurora Robson is a Canadian-American artist who works in sculpture, installation, painting and collage, focusing on themes related to the environment.",
+      "link": "https://en.wikipedia.org/wiki/Aurora_Robson"
+    },
+    {
+      "title": "Artist Aurora Robson on Making Art From Cast-Off ...",
+      "snippet": "Artist Aurora Robson has spent the last two decades turning trash into treasure, quite literally: Her multidisciplinary practice intercepts waste streams.",
+      "link": "https://news.artnet.com/art-world/aurora-robson-interview-2079525"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

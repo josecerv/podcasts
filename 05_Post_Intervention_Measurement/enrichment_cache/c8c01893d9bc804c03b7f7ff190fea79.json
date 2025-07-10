@@ -1,0 +1,26 @@
+{
+  "guest_name": "Tate",
+  "searched_at": "2025-07-10T16:24:32.228157",
+  "search_results": [
+    {
+      "title": "James Tate (writer)",
+      "snippet": "James Vincent Tate (December 8, 1943 \u2013 July 8, 2015) was an American poet. His work earned him the Pulitzer Prize and the National Book Award.",
+      "link": "https://en.wikipedia.org/wiki/James_Tate_(writer)"
+    },
+    {
+      "title": "Merze Tate",
+      "snippet": "Vernie Merze Tate (February 6, 1905 \u2013 June 27, 1996) was a professor, scholar and expert on United States diplomacy. She was the first African-American ...",
+      "link": "https://en.wikipedia.org/wiki/Merze_Tate"
+    },
+    {
+      "title": "Allen Tate | Biography, Notable Poems & Themes",
+      "snippet": "Allen Tate was an American poet, teacher, novelist, and a leading exponent of the New Criticism. In both his criticism and his poetry, he emphasized the ...",
+      "link": "https://www.britannica.com/biography/Allen-Tate"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

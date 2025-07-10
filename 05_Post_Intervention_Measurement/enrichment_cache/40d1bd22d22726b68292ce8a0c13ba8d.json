@@ -1,0 +1,26 @@
+{
+  "guest_name": "Benny's father",
+  "searched_at": "2025-07-10T16:52:00.761950",
+  "search_results": [
+    {
+      "title": "BENNY | Meet the Children",
+      "snippet": "Benny's father died when he was only 10 years old. Being the oldest of 4 children, he had to grow up quickly. He was required to help his mother with the other ...",
+      "link": "https://www.treasuresofafrica.org/meet-the-children/benny"
+    },
+    {
+      "title": "Benny Goodman",
+      "snippet": "Benny Goodman was born into a family so poor that they often did not have enough to eat. However, Benny's father made sure there was enough money for music ...",
+      "link": "https://mitchelllanepub.com/products/benny-goodman?srsltid=AfmBOoon11rxvz85-G3qpuo99SG8SnkQE35nWr2Y-jyJc83C39_d7wQC"
+    },
+    {
+      "title": "Monday, Sept. 5: Author Talk with Prof. Ruth Ozeki",
+      "snippet": "The story, which is narrated by a book, follows 14-year-old Benny Oh and his mother, as they cope with the death of Benny's father. \"\" Ozeki\u2014who ...",
+      "link": "https://www.smith.edu/news-events/news/monday-sept-5-author-talk-prof-ruth-ozeki"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Uncle",
+  "searched_at": "2025-07-10T15:14:56.429258",
+  "search_results": [
+    {
+      "title": "Uncle Ebo Whyte",
+      "snippet": "Uncle Ebo Whyte is a Ghanaian playwright, author and motivational speaker. He is the artistic director and lead writer at Roverman Productions and has ...",
+      "link": "https://en.wikipedia.org/wiki/Uncle_Ebo_Whyte"
+    },
+    {
+      "title": "About Uncle | Center for the Art of Translation | Two Lines ...",
+      "snippet": "An unnamed young woman finds herself moving to a small town at the seaside to care for her uncle. He's a disabled war veteran with questionable habits.",
+      "link": "https://www.catranslation.org/shop/book/about-uncle/"
+    },
+    {
+      "title": "Uncle Fester (author)",
+      "snippet": "Uncle Fester is the pen name of Stephen Preisler, author of such controversial books as Secrets of Methamphetamine Manufacture and Silent Death.",
+      "link": "https://en.wikipedia.org/wiki/Uncle_Fester_(author)"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

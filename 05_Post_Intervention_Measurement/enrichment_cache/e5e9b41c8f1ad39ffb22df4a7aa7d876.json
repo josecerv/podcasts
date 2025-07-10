@@ -1,0 +1,26 @@
+{
+  "guest_name": "Brenda",
+  "searched_at": "2025-07-10T15:10:28.377960",
+  "search_results": [
+    {
+      "title": "About",
+      "snippet": "Brenda Garrison is an author and speaker who loves to challenge and encourage women to a deeper relationship with God, to know His never-ending love for them.",
+      "link": "http://brendagarrison.com/about.php"
+    },
+    {
+      "title": "Brenda L. Yoder, Speaker - Life Beyond the Picket Fence",
+      "snippet": "Brenda is a speaker, author, life coach, and counselor whose passion is encouraging others when life doesn't fit the storybook image.",
+      "link": "https://brendayoder.com/"
+    },
+    {
+      "title": "Brenda Flanagan",
+      "snippet": "Brenda Flanagan. Edward M. Armfield, Sr. Professor of English. Brenda Flanagan ... I was the first Afro-Caribbean writer to be sent to Libya in 25 years, and the ...",
+      "link": "https://www.davidson.edu/people/brenda-flanagan"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

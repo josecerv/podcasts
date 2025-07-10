@@ -1,0 +1,26 @@
+{
+  "guest_name": "Rana",
+  "searched_at": "2025-07-10T16:13:58.685383",
+  "search_results": [
+    {
+      "title": "Fazale Rana",
+      "snippet": "Fazale \u201cFuz\u201d Rana (born February 6, 1963) is an American biochemist, Christian apologist, author, and science lecturer. Since July 2022, he has advanced ...",
+      "link": "https://en.wikipedia.org/wiki/Fazale_Rana"
+    },
+    {
+      "title": "Aziz Rana",
+      "snippet": "Aziz Rana is an American legal scholar and author who is a Provost's Distinguished Fellow and the J. Donald Monan, S.J., University Professor of Law and ...",
+      "link": "https://en.wikipedia.org/wiki/Aziz_Rana"
+    },
+    {
+      "title": "Rana Mitter",
+      "snippet": "Rana Mitter is ST Lee Chair in US-Asia Relations at the Harvard Kennedy School. He is the author of several books, including Forgotten Ally: China's World War ...",
+      "link": "https://www.hks.harvard.edu/faculty/rana-mitter"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

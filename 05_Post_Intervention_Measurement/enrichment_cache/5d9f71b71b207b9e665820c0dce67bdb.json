@@ -1,0 +1,26 @@
+{
+  "guest_name": "Benjamin",
+  "searched_at": "2025-07-10T14:50:30.289317",
+  "search_results": [
+    {
+      "title": "Walter Benjamin",
+      "snippet": "Walter Bendix Sch\u00f6nflies Benjamin was a German-Jewish philosopher, cultural critic, media theorist, and essayist. An eclectic thinker who combined elements ...",
+      "link": "https://en.wikipedia.org/wiki/Walter_Benjamin"
+    },
+    {
+      "title": "About Me \u2014 Benjamin Reiss",
+      "snippet": "Benjamin Reiss \u00b7 About Me \u00b7 Publications \u00b7 Events. Media. Radio ... I am an English professor and a writer specializing in American cultural ...",
+      "link": "https://www.benjamin-reiss.com/about-me"
+    },
+    {
+      "title": "About - Ruha Benjamin",
+      "snippet": "Ruha Benjamin is Professor of African American Studies at Princeton University, founder of the Ida B. Wells Just Data Lab, and author of the award winning ...",
+      "link": "https://www.ruhabenjamin.com/about"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": "Black",
+  "gender_confidence": 0.0,
+  "race_confidence": 0.7,
+  "additional_context": {}
+}

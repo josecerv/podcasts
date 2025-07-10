@@ -1,0 +1,26 @@
+{
+  "guest_name": "Unknown American tech worker",
+  "searched_at": "2025-07-10T17:16:38.371700",
+  "search_results": [
+    {
+      "title": "About Jane - Jane Goodall Institute USA",
+      "snippet": "In July 1960, at the age of 26, Jane Goodall traveled from England to what is now Tanzania and ventured into the little-known world of wild chimpanzees.",
+      "link": "https://janegoodall.org/our-story/about-jane/"
+    },
+    {
+      "title": "The Book of Unknown Americans by Cristina Henr\u00edquez",
+      "snippet": "This ambitious story about Hispanic tenants in a run-down apartment building is lit by sharp observations, but it's a pity none of the characters sounds ...",
+      "link": "https://www.theguardian.com/books/2014/jul/19/book-of-unknown-americans-cristina-henriquez-review"
+    },
+    {
+      "title": "Even the scientists who build AI can't tell you how it works - Vox",
+      "snippet": "Bowman is a professor at NYU, where he runs an AI research lab, and he's a researcher at Anthropic, an AI research company. He's spent years ...",
+      "link": "https://www.vox.com/unexplainable/2023/7/15/23793840/chat-gpt-ai-science-mystery-unexplainable-podcast"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": "Hispanic/Latino",
+  "gender_confidence": 0.8,
+  "race_confidence": 0.7,
+  "additional_context": {}
+}

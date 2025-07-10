@@ -1,0 +1,26 @@
+{
+  "guest_name": "Kami Garcia",
+  "searched_at": "2025-07-10T16:18:34.066508",
+  "search_results": [
+    {
+      "title": "Kami Garcia",
+      "snippet": "Kami Garcia (born March 25, 1972) is an American writer. She is known for writing young adult fiction and graphic novels for DC Comics.",
+      "link": "https://en.wikipedia.org/wiki/Kami_Garcia"
+    },
+    {
+      "title": "Kami Garcia",
+      "snippet": "KAMI GARCIA is a #1 New York Times, USA Today, and international bestselling author and comic book writer. As an award-winning, Bram Stoker Award-nominated ...",
+      "link": "https://kamigarcia.com/"
+    },
+    {
+      "title": "Bio",
+      "snippet": "Kami Garcia a #1 New York Times, USA Today and international bestselling author and comic book writer. As an award-winning, Bram Stoker Award-nominated young ...",
+      "link": "https://kamigarcia.com/bio/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Alex",
+  "searched_at": "2025-07-10T15:09:09.825826",
+  "search_results": [
+    {
+      "title": "Alex Budak \u2013 UC Berkeley Faculty, Author, Speaker ...",
+      "snippet": "Official Bio. Alex Budak is a UC Berkeley faculty member, co-founder of StartSomeGood, and the author of Becoming a Changemaker.",
+      "link": "https://www.alexbudak.com/"
+    },
+    {
+      "title": "Alex Kotlowitz - Medill - Northwestern University",
+      "snippet": "For years, Medill Professor Alex Kotlowitz has been telling stories from the heart of America, deeply intimate tales of struggle and perseverance.",
+      "link": "https://www.medill.northwestern.edu/directory/faculty/alex-kotlowitz.html"
+    },
+    {
+      "title": "Alex Hutchinson: Journalist, Author, Speaker",
+      "snippet": "Alex Hutchinson is the author of the New York Times bestseller Endure: Mind, Body, and the Curiously Elastic Limits of Human Performance.",
+      "link": "https://www.alexhutchinson.net/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

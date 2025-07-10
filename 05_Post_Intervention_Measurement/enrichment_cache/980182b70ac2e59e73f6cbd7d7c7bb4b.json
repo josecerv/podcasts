@@ -1,0 +1,26 @@
+{
+  "guest_name": "Doyle",
+  "searched_at": "2025-07-10T15:17:58.898607",
+  "search_results": [
+    {
+      "title": "Arthur Conan Doyle",
+      "snippet": "Sir Arthur Ignatius Conan Doyle (22 May 1859 \u2013 7 July 1930) was a British writer and physician. He created the character Sherlock Holmes in 1887.",
+      "link": "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle"
+    },
+    {
+      "title": "Arthur Conan Doyle - Books, Quotes & Death",
+      "snippet": "Arthur Conan Doyle wrote 60 mystery stories featuring the wildly popular detective character Sherlock Holmes and his loyal assistant Watson.",
+      "link": "https://www.biography.com/authors-writers/arthur-conan-doyle"
+    },
+    {
+      "title": "Arthur Conan Doyle | Biography, Books, Sherlock Holmes ...",
+      "snippet": "Arthur Conan Doyle, Scottish writer best known for his creation of the detective Sherlock Holmes, one of the most vivid and enduring ...",
+      "link": "https://www.britannica.com/biography/Arthur-Conan-Doyle"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

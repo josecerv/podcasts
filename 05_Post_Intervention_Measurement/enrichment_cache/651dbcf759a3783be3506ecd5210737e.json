@@ -1,0 +1,26 @@
+{
+  "guest_name": "Max Velocity",
+  "searched_at": "2025-07-10T16:06:59.821394",
+  "search_results": [
+    {
+      "title": "Max Velocity (@MaxVelocityWX) / X",
+      "snippet": "Max Velocity is a meteorologist who provides accurate, honest, and reliable weather forecasts and live streams across the USA. Media Personality",
+      "link": "https://x.com/maxvelocitywx?lang=en"
+    },
+    {
+      "title": "Max Velocity - Severe Weather Center",
+      "snippet": "Max Velocity provides accurate, honest, and reliable weather information across the United States. Whenever severe weather, hurricanes, blizzards, brutal heat ...",
+      "link": "https://www.youtube.com/@MaxVelocityWX"
+    },
+    {
+      "title": "Max Velocity",
+      "snippet": "Max Velocity. 134040 likes \u00b7 144591 talking about this. Max Velocity provides accurate, honest, and reliable weather information across the United States.",
+      "link": "https://www.facebook.com/maxvelocitywx/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

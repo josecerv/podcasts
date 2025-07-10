@@ -1,0 +1,26 @@
+{
+  "guest_name": "Bill",
+  "searched_at": "2025-07-10T14:53:22.472734",
+  "search_results": [
+    {
+      "title": "Bill Roorbach",
+      "snippet": "Bill Roorbach ; William Roorbach (1953-08-08) August 8, 1953 (age 71) Chicago, Illinois, U.S. \u00b7 Novelist \u00b7 short story writer; memoirist; nature writer ...",
+      "link": "https://en.wikipedia.org/wiki/Bill_Roorbach"
+    },
+    {
+      "title": "About Bill McKibben - Biography",
+      "snippet": "Bill McKibben is founder of Third Act, which organizes people over the age of 60 for action on climate and justice.",
+      "link": "https://billmckibben.com/bio.html"
+    },
+    {
+      "title": "Bill Williams | Keynote Speaker & Author",
+      "snippet": "Bill WIlliams is a keynote speaker and executive development coach Bill Williams shares small but powerful micro steps to tap into a well of endless energy.",
+      "link": "https://speakerscanada.com/keynote-speaker/bill-williams/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

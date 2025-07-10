@@ -1,0 +1,26 @@
+{
+  "guest_name": "Cameron",
+  "searched_at": "2025-07-10T15:31:23.261139",
+  "search_results": [
+    {
+      "title": "Julia Cameron",
+      "snippet": "Cameron (born March 4, 1948) is an American teacher, author, artist, poet, playwright, novelist, filmmaker, composer, and journalist. She is best known for her ...",
+      "link": "https://en.wikipedia.org/wiki/Julia_Cameron"
+    },
+    {
+      "title": "Sharon Cameron",
+      "snippet": "Professor of English, Sharon Cameron taught courses in nineteenth-century American literature, twentieth- century American poetry, and, at the undergraduate ...",
+      "link": "https://english.jhu.edu/directory/sharon-cameron/"
+    },
+    {
+      "title": "About Cameron",
+      "snippet": "Cameron Huddleston is an author, speaker and financial journalist.",
+      "link": "https://cameronhuddleston.com/about-cameron/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

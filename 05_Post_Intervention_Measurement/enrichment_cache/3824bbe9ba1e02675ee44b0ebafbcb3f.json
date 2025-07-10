@@ -1,0 +1,26 @@
+{
+  "guest_name": "Aunt",
+  "searched_at": "2025-07-10T15:14:53.273549",
+  "search_results": [
+    {
+      "title": "One to One | Emily Bingham Discusses Aunt's Biography ...",
+      "snippet": "Louisville native and author Emily Bingham discusses her book, Irrepressible: The Jazz Age Life of Henrietta Bingham, a biography about her great aunt.",
+      "link": "https://www.pbs.org/video/one-one-emily-bingham-discusses-aunts-biography/"
+    },
+    {
+      "title": "About Author",
+      "snippet": "Aunt Dimity's World. About the Author. Picture. Nancy Atherton is not a white-haired Englishwoman with a softly wrinkled face, a wry smile, and wise gray eyes ...",
+      "link": "http://www.aunt-dimity.com/about-author.html"
+    },
+    {
+      "title": "Aunt Shelly: books, biography, latest update",
+      "snippet": "Michelle Kolodziejczyk, pen name Aunt Shelly, is a special education teacher in Texas. She has been writing poems or singing made-up tunes to her students",
+      "link": "https://www.amazon.com/Aunt-Shelly/e/B09131WW8Z"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

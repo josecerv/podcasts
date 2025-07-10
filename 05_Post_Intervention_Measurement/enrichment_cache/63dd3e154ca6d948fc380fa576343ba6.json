@@ -1,0 +1,26 @@
+{
+  "guest_name": "Ravi",
+  "searched_at": "2025-07-10T17:23:49.308830",
+  "search_results": [
+    {
+      "title": "Ravi Batra",
+      "snippet": "Raveendra Nath \"Ravi\" Batra (born June 27, 1943) is an Indian-American economist, author, and professor at Southern Methodist University.",
+      "link": "https://en.wikipedia.org/wiki/Ravi_Batra"
+    },
+    {
+      "title": "Ravi Howard | Department of English",
+      "snippet": "Ravi Howard, Assistant Professor, MFA University of Virginia, specializes in fiction and creative non-fiction. He is the author of Driving the King (2015) and ...",
+      "link": "https://english.fsu.edu/faculty/ravi-howard"
+    },
+    {
+      "title": "R. Ravi Profile",
+      "snippet": "R. Ravi is the Vasantrao Dempo Professor of Operations Research and Computer Science at Carnegie Mellon University. Ravi received his bachelor's degree from IIT ...",
+      "link": "https://scholars.cmu.edu/4018-r-ravi"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

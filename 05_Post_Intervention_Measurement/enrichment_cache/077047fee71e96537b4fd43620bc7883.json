@@ -1,0 +1,26 @@
+{
+  "guest_name": "Patti",
+  "searched_at": "2025-07-10T16:23:37.395837",
+  "search_results": [
+    {
+      "title": "Dr. Patti Fletcher",
+      "snippet": "Patti -. Visionary. Disrupter. Storyteller. Speaker. Best-selling Author. Bostonian. As a best-selling author, international speaker, and award-winning ...",
+      "link": "https://www.drpattifletcher.com/"
+    },
+    {
+      "title": "Patti F. Smith \u2013 Writer, Storyteller, Teacher",
+      "snippet": "Patti F. Smith. Writer, Storyteller, Teacher. Close collapsed. Hello and ... I am a teacher, published author, storyteller, public speaker, licensed ...",
+      "link": "https://teacherpatti.com/"
+    },
+    {
+      "title": "Patti Foster: Inspirational Speaker, Author & Voice-Over",
+      "snippet": "Patti Foster, a Traumatic Brain Injury (TBI) Survivor, is a courageous inspirational communicator who puts her motto \"Make A Difference Now!",
+      "link": "https://pattifoster.com/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

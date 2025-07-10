@@ -1,0 +1,26 @@
+{
+  "guest_name": "Tom",
+  "searched_at": "2025-07-10T14:59:33.922307",
+  "search_results": [
+    {
+      "title": "Tom Nichols (academic)",
+      "snippet": "His work dealt with issues involving Russia, nuclear weapons, and national security affairs. Tom Nichols. Nichols in 2009. Born. Thomas Michael Nichols.",
+      "link": "https://en.wikipedia.org/wiki/Tom_Nichols_(academic)"
+    },
+    {
+      "title": "Tom Peters",
+      "snippet": "Tom Peters ; (1942-11-07) November 7, 1942 (age 82). Baltimore, Maryland \u00b7 American \u00b7 Cornell University (BS, MS) Stanford University (MBA, Ph.D.) \u00b7 Author, ...",
+      "link": "https://en.wikipedia.org/wiki/Tom_Peters"
+    },
+    {
+      "title": "Tom McAllisterTom McAllister",
+      "snippet": "Website of author, editor, and podcaster Tom McAllister. Contents include discussion of literature, writing, editing, and publishing.",
+      "link": "http://www.tom.mcallister.ws/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

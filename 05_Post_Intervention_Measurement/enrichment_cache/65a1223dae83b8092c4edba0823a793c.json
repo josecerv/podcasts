@@ -1,0 +1,26 @@
+{
+  "guest_name": "Raj",
+  "searched_at": "2025-07-10T16:41:40.749365",
+  "search_results": [
+    {
+      "title": "Meet Raj - Raj Patel",
+      "snippet": "Raj Patel is an award-winning author, film-maker and academic. He is a Research Professor in the Lyndon B Johnson School of Public Affairs at the University of ...",
+      "link": "https://rajpatel.org/meet-raj/"
+    },
+    {
+      "title": "About Raj",
+      "snippet": "Raj is a professor of Marketing at the McCombs School of Business at The University of Texas at Austin, where he relies on themes from psychology, behaviorial ...",
+      "link": "https://happysmarts.com/about-raj/"
+    },
+    {
+      "title": "Raj Sisodia: Home",
+      "snippet": "A globally acclaimed thought leader, co-founder of the Conscious Capitalism movement and prolific author, Raj Sisodia's brilliant and profound insights, derived ...",
+      "link": "https://rajsisodia.com/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

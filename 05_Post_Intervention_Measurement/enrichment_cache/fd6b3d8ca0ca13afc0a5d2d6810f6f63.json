@@ -1,0 +1,26 @@
+{
+  "guest_name": "CEO of Anthropic",
+  "searched_at": "2025-07-10T17:13:40.559592",
+  "search_results": [
+    {
+      "title": "Dario Amodei",
+      "snippet": "Dario Amodei (born 1983) is an American artificial intelligence researcher and entrepreneur. He is the co-founder and CEO of Anthropic, the company behind ...",
+      "link": "https://en.wikipedia.org/wiki/Dario_Amodei"
+    },
+    {
+      "title": "Dario Amodei Keynote Speaker",
+      "snippet": "Dario Amodei Keynote Speaker. Co-founder and CEO of Anthropic, focusing on creating reliable and steerable AI systems. Former Vice President of Research at ...",
+      "link": "https://www.chartwellspeakers.com/speaker/dario-amodei/"
+    },
+    {
+      "title": "Who is the CEO of Anthropic? Dario Amodei's Bio",
+      "snippet": "Dario Amodei is an Italian-American artificial intelligence researcher and entrepreneur, currently serving as the co-founder and CEO of Anthropic, ...",
+      "link": "https://www.clay.com/dossier/anthropic-ceo"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

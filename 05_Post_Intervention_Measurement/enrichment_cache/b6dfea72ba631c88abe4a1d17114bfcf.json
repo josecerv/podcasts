@@ -1,0 +1,26 @@
+{
+  "guest_name": "Hank",
+  "searched_at": "2025-07-10T17:33:22.470973",
+  "search_results": [
+    {
+      "title": "About Hank",
+      "snippet": "Hank grew up in St. George, Utah. His interests include marathons and hiking with his family. He and his wife, Sara, are the parents of five adorable children ...",
+      "link": "https://hanksmith.com/about/"
+    },
+    {
+      "title": "Hank Klibanoff - Emory's English Department",
+      "snippet": "Hank Klibanoff, a veteran journalist, a Pulitzer Prize-winning author, and a Peabody Award-winning podcast host, is a Professor of Practice in Emory's Creative ...",
+      "link": "https://english.emory.edu/people/bios/klibanoff-hank.html"
+    },
+    {
+      "title": "Henry (\u201cHank\u201d) Greenspan, Ph.D. - Biography",
+      "snippet": "HENRY (HANK) GREENSPAN holds degrees from Harvard University (B.A, M.Ed.) and Brandeis University (Ph.D.) and held a Junior Fellowship of the Michigan ...",
+      "link": "https://www.henrygreenspan.com/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

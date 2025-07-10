@@ -1,0 +1,26 @@
+{
+  "guest_name": "Chris Brown",
+  "searched_at": "2025-07-10T17:25:56.575939",
+  "search_results": [
+    {
+      "title": "Chris Brown",
+      "snippet": "Chris Brown \u00b7 Singer \u00b7 songwriter \u00b7 rapper \u00b7 dancer \u00b7 actor.",
+      "link": "https://en.wikipedia.org/wiki/Chris_Brown"
+    },
+    {
+      "title": "Chris Brown - Singer Wins Second Grammy Award",
+      "snippet": "Chris Brown is a Grammy Award-winning R&B singer and entertainer who made headlines for assaulting ex-girlfriend Rihanna.",
+      "link": "https://www.biography.com/musicians/chris-brown"
+    },
+    {
+      "title": "Chris Brown",
+      "snippet": "CHRIS BROWN. Highly sought after Pastor, Speaker, and Church Leadership Expert, Chris brings over 20 years of ministry and financial experience. He worked ...",
+      "link": "https://chrisbrownonair.com/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

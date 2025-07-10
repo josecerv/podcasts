@@ -1,0 +1,26 @@
+{
+  "guest_name": "Chad",
+  "searched_at": "2025-07-10T15:24:12.871238",
+  "search_results": [
+    {
+      "title": "Meet Chad",
+      "snippet": "Chad Hymas is an internationally acclaimed speaker, bestselling author, and passionate advocate for safety awareness and personal empowerment.",
+      "link": "https://www.chadhymas.com/meet-chad/"
+    },
+    {
+      "title": "About Chad E. Foster | Blind Ambition\u2122",
+      "snippet": "Chad became the first blind executive to graduate Harvard Business School's leadership program and did what Oracle said couldn't be done.",
+      "link": "https://chadefoster.com/about/"
+    },
+    {
+      "title": "Chad Orzel",
+      "snippet": "Chad Orzel is a professor of physics and science author, noted for his books How to Teach Quantum Physics to Your Dog, which has been translated into 9 ...",
+      "link": "https://en.wikipedia.org/wiki/Chad_Orzel"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

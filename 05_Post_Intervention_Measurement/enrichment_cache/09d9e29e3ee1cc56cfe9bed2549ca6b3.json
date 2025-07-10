@@ -1,0 +1,26 @@
+{
+  "guest_name": "Ari Schlesinger",
+  "searched_at": "2025-07-10T17:11:24.737436",
+  "search_results": [
+    {
+      "title": "Ari Schlesinger",
+      "snippet": "Ari Schlesinger is an Assistant Professor of Computer Science at the University of Georgia (UGA). She is also the director of the Socially Responsible Tech Lab.",
+      "link": "https://arischlesinger.com/"
+    },
+    {
+      "title": "Bio \u2014 Ari Schlesinger",
+      "snippet": "Ari Schlesinger is an Assistant Professor of Computer Science at the University of Georgia (UGA) and the director of the Socially Responsible Tech Lab.",
+      "link": "https://arischlesinger.com/bio"
+    },
+    {
+      "title": "Ari Schlesinger - Assistant Professor - The University of ...",
+      "snippet": "Ari Schlesinger is a Computing Researcher who works with tech professionals, open source projects, and policy practitioners to advance socially responsible ...",
+      "link": "https://www.linkedin.com/in/arischlesinger"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

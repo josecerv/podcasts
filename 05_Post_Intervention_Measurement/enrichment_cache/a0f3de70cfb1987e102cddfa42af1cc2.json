@@ -1,0 +1,26 @@
+{
+  "guest_name": "Barkin",
+  "searched_at": "2025-07-10T15:00:04.618565",
+  "search_results": [
+    {
+      "title": "Elaine Barkin",
+      "snippet": "Elaine \"Ray\" Barkin (n\u00e9e Radoff, December 15, 1932 \u2013 February 22, 2023) was an American composer, writer, and educator.",
+      "link": "https://en.wikipedia.org/wiki/Elaine_Barkin"
+    },
+    {
+      "title": "Samuel.Barkin",
+      "snippet": "Biography. J. Samuel Barkin is Professor of Global Governance in the Department of Conflict Resolution, Human Security, and Global Governance at the ...",
+      "link": "https://www.umb.edu/directory/samuelbarkin/"
+    },
+    {
+      "title": "Side by Side with Nido Qubein | Dan Barkin, Author ...",
+      "snippet": "Dan Barkin, who once covered economics in NC, is now a leading columnist on the NC military.",
+      "link": "https://www.pbs.org/video/dan-barkin-author-columnist-researcher-gxcdiv/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

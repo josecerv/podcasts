@@ -1,0 +1,26 @@
+{
+  "guest_name": "Betirri",
+  "searched_at": "2025-07-10T16:25:07.819241",
+  "search_results": [
+    {
+      "title": "About \u2013 Betirri's Art",
+      "snippet": "Born in Puebla, Mexico, Betirri is a local artist based in Houston, Texas. His educational background includes a B.A. in Architecture in 2007 and a B.A. in ...",
+      "link": "https://betirri.com/about/"
+    },
+    {
+      "title": "Meet Betirri Be",
+      "snippet": "Born in Puebla, Mexico, Betirri is a local artist in Houston, Texas. His educational background includes a BA in Architecture in 2007 and a BA in Fine Arts in ...",
+      "link": "https://boldjourney.com/meet-betirri-be/"
+    },
+    {
+      "title": "Betirri's Art \u2013 Where sports meets art",
+      "snippet": "Part of Betirri's mission in life is to give back to the community. In 2017, Betirri proposed Goal Park to the city of Houston, transforming seven blocks of the ...",
+      "link": "https://betirri.com/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

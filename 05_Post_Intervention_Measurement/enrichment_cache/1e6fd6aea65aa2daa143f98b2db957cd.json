@@ -1,0 +1,26 @@
+{
+  "guest_name": "D.T.",
+  "searched_at": "2025-07-10T15:49:29.751907",
+  "search_results": [
+    {
+      "title": "D. T. Iverson: books, biography, latest update",
+      "snippet": "Our pen name DT Iverson represents a loving Midwestern couple, taking time out from their crazy lives to write Sexy Romance novels.",
+      "link": "https://www.amazon.com/stores/author/B00G2LP9F2"
+    },
+    {
+      "title": "D. T. Suzuki: A Biographical Summary",
+      "snippet": "D. T. Suzuki did not just hold up a \u201cspiritual\u201d mirror to the modern West to reveal its moral contradictions, nor did he engage in activism of any kind. He was, ...",
+      "link": "https://www.asianstudies.org/publications/eaa/archives/d-t-suzuki-a-biographical-summary/"
+    },
+    {
+      "title": "D. T. Suzuki",
+      "snippet": "Biography ; D. T. Suzuki was born Teitar\u014d Suzuki in Honda-machi, Kanazawa ; Suzuki studied at Waseda University ; Suzuki lived and studied several years with the ...",
+      "link": "https://en.wikipedia.org/wiki/D._T._Suzuki"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

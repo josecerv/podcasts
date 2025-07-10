@@ -1,0 +1,26 @@
+{
+  "guest_name": "Dave",
+  "searched_at": "2025-07-10T15:39:07.084465",
+  "search_results": [
+    {
+      "title": "Professor Dave",
+      "snippet": "David James \"Dave\" Farina, more well known as Professor Dave, is an American Italian science educator, YouTuber and former lecturer.",
+      "link": "https://rationalwiki.org/wiki/Professor_Dave"
+    },
+    {
+      "title": "Professor Dave Explains",
+      "snippet": "Welcome to Professor Dave Explains! \u00b7 Physics & Astronomy \u00b7 Chemistry \u00b7 Biological Sciences \u00b7 Biomedical Topics \u00b7 Life Sciences/Earth Sciences \u00b7 Mathematics \u00b7 Social ...",
+      "link": "https://www.youtube.com/professordaveexplains"
+    },
+    {
+      "title": "Meet Dave",
+      "snippet": "Dave \"Mr. Accountability\" Anderson is a leading international speaker and author on personal and corporate performance improvement.",
+      "link": "https://www.learntolead.com/meet-dave/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

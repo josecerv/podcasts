@@ -1,0 +1,26 @@
+{
+  "guest_name": "Mason",
+  "searched_at": "2025-07-10T15:39:19.875048",
+  "search_results": [
+    {
+      "title": "Daniel Mason",
+      "snippet": "Daniel Mason (born c. 1976) is an American novelist and physician. He is the author of The Piano Tuner, A Far Country and North Woods.",
+      "link": "https://en.wikipedia.org/wiki/Daniel_Mason"
+    },
+    {
+      "title": "Matthew Mason - History",
+      "snippet": "Matthew E. Mason is a professor of history at BYU. He received his PhD in history from the University of Maryland in 2002, and started at BYU in fall 2003.",
+      "link": "https://history.byu.edu/directory/matthew-mason"
+    },
+    {
+      "title": "Edward S. Mason",
+      "snippet": "Edward Sagendorph Mason (February 22, 1899 \u2013 February 29, 1992) was an American economist and professor at Harvard University.",
+      "link": "https://en.wikipedia.org/wiki/Edward_S._Mason"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

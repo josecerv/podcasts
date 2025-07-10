@@ -1,0 +1,26 @@
+{
+  "guest_name": "Rick",
+  "searched_at": "2025-07-10T16:14:51.967167",
+  "search_results": [
+    {
+      "title": "Learn More About Author and Speaker, Rick Thomas",
+      "snippet": "Rick is an author, speaker, educator, and podcaster living in Greenville, SC. He launched this ministry to serve the body of Christ in 2008.",
+      "link": "https://lifeovercoffee.com/meet-rick/?srsltid=AfmBOoqtRYGcPTWdd_FlAKZVSdkXISViFykoDHQFapHZbG30VBm76QXc"
+    },
+    {
+      "title": "Rick Renner \u2014 Biography",
+      "snippet": "Rick Renner is a highly respected Bible teacher and leader in the international Christian community. He is the author of a long list of books.",
+      "link": "https://renner.org/rick-renner-biography/"
+    },
+    {
+      "title": "About Dr. Rick Hanson - Rick Hanson, PhD",
+      "snippet": "Dr. Rick Hanson is a psychologist, NYT bestselling author, expert in positive neuroplasticity, co-host of the Being Well Podcast, and meditation teacher.",
+      "link": "https://rickhanson.com/about-dr-rick-hanson/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

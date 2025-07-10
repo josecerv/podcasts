@@ -1,0 +1,26 @@
+{
+  "guest_name": "Running Man",
+  "searched_at": "2025-07-10T17:12:15.563907",
+  "search_results": [
+    {
+      "title": "The Running Man (novel)",
+      "snippet": "The Running Man is a dystopian thriller novel by American writer Stephen King, first published under the pseudonym Richard Bachman in 1982 as a paperback ...",
+      "link": "https://en.wikipedia.org/wiki/The_Running_Man_(novel)"
+    },
+    {
+      "title": "Running Man",
+      "snippet": "In RUNNING MAN, Charlie tells the gripping, surprising, funny, emotional, and inspiring story of his life, detailing his setbacks and struggles.",
+      "link": "https://www.charlieengle.com/runningman"
+    },
+    {
+      "title": "The Running Man: Flying High for the Glory of God",
+      "snippet": "The Running Man: Flying High for the Glory of God [Rogers, Orville] on Amazon ... About the Author. Pilot and world champion runner Orville Rogers ...",
+      "link": "https://www.amazon.com/Running-Man-Flying-High-Glory/dp/1942557906"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

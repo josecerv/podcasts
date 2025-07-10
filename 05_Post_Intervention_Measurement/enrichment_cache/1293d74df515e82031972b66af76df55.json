@@ -1,0 +1,26 @@
+{
+  "guest_name": "Alexandra Cooks",
+  "searched_at": "2025-07-10T17:05:31.965079",
+  "search_results": [
+    {
+      "title": "Alexandra's Kitchen - A food blog with mostly simple, always ...",
+      "snippet": "A food blog with mostly simple, sometimes fussy, always seasonal recipes.",
+      "link": "https://alexandracooks.com/"
+    },
+    {
+      "title": "About Alexandra's Kitchen",
+      "snippet": "For nearly 20 years, Alexandra's Kitchen has been a place for mostly simple, always seasonal recipes. With its approachable, well-tested recipes, it reaches ...",
+      "link": "https://alexandracooks.com/about/"
+    },
+    {
+      "title": "Alexandra Stafford",
+      "snippet": "Alexandra (Ali) Stafford is the founder of Alexandra's Kitchen and the author of two cookbooks: Bread Toast Crumbs and The New York Times bestselling Pizza ...",
+      "link": "https://alexandracooks.com/alexandra-stafford/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

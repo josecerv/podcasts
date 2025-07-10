@@ -1,0 +1,21 @@
+{
+  "guest_name": "Slim Walt",
+  "searched_at": "2025-07-10T17:32:36.517970",
+  "search_results": [
+    {
+      "title": "Mr. Vertigo",
+      "snippet": "In the three-year search for Uncle Slim, Walt turns into his old, city dwelling self again. He finds Slim working for drugs smugglers in Chicago. After Walt ...",
+      "link": "https://en.wikipedia.org/wiki/Mr._Vertigo"
+    },
+    {
+      "title": "Sugar press - CSU - Great Western Sugar Company Records",
+      "snippet": "... Slim; Walt; Herb; Marshall, Ray; Kelim, Jim; Eileen; Rutten, Glen; Denise, Vicki; Rothe, Fred; Garrett, Howard; Garrett; Arthur; Johnston, Jim; Morgan ...",
+      "link": "https://archives.mountainscholar.org/digital/collection/p17393coll85/id/53514/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

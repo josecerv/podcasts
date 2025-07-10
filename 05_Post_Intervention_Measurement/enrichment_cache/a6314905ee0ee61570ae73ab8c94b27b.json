@@ -1,0 +1,26 @@
+{
+  "guest_name": "Uncle Junior",
+  "searched_at": "2025-07-10T17:10:00.883835",
+  "search_results": [
+    {
+      "title": "African-American Icons: Uncle Junior inspires young artists",
+      "snippet": "Hicks, better known as \u201cUncle Junior,\u201d is a patron to the arts and a dedicated educator. He\u2019s best known for his intricate, cooper-plate engraving.",
+      "link": "https://www.wtxl.com/news/african-american-icons-uncle-junior-inspires-young-artists/article_5ffdcab2-28d5-11e9-adf6-9b7e120c3dd5.html"
+    },
+    {
+      "title": "Dominic Chianese",
+      "snippet": "In December 2018, he and co-author Matthew Sargent published his biography ... A conversation with Dominic Chianese, The Sopranos' Uncle Junior in Lavery ...",
+      "link": "https://en.wikipedia.org/wiki/Dominic_Chianese"
+    },
+    {
+      "title": "Uncle Junior Project, Author at StageLync",
+      "snippet": "The Uncle Junior Project is a community-driven documentary series that gives people the opportunity to learn, celebrate, and take pride in the inspiring ...",
+      "link": "https://stagelync.com/news/author/uncle-junior-project"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

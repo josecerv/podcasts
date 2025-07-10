@@ -1,0 +1,26 @@
+{
+  "guest_name": "M\u00f6tley Cr\u00fce",
+  "searched_at": "2025-07-10T17:35:37.411941",
+  "search_results": [
+    {
+      "title": "M\u00f6tley Cr\u00fce",
+      "snippet": "M\u00f6tley Cr\u00fce is an American heavy metal band formed in Hollywood, California, in 1981 by bassist Nikki Sixx and drummer Tommy Lee, with guitarist Mick Mars ...",
+      "link": "https://en.wikipedia.org/wiki/M%C3%B6tley_Cr%C3%BCe"
+    },
+    {
+      "title": "Bio - M\u00f6tley Cr\u00fce",
+      "snippet": "Hailing from Los Angeles, CA, M\u00f6tley Cr\u00fce \u2014 Vince Neil (vocals), Nikki Sixx (bass), Tommy Lee (drums) and Mick Mars (guitars) \u2014 has commandeered the rock ...",
+      "link": "https://www.motley.com/bio"
+    },
+    {
+      "title": "The Dirt: Confessions of the World's Most Notorious Rock ...",
+      "snippet": "Thomas Lee Bass (born October 3, 1962), best known as Tommy Lee, is a Greek-American musician and founding member of heavy metal band M\u00f6tley Cr\u00fce. As well as ...",
+      "link": "https://www.amazon.com/Dirt-Confessions-Worlds-Most-Notorious/dp/0060989157"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Lars",
+  "searched_at": "2025-07-10T15:10:49.478254",
+  "search_results": [
+    {
+      "title": "Lars Brownworth",
+      "snippet": "Lars Mehrling Brownworth (born c. 1975) is an author and United States history, political science and humanities teacher at The Stony Brook School",
+      "link": "https://en.wikipedia.org/wiki/Lars_Brownworth"
+    },
+    {
+      "title": "Lars Sudmann \u2013 Keynote Speaker",
+      "snippet": "Lars Sudmann is an advisor, keynote speaker and executive trainer on leadership, strategy, innovation and communication for global corporations and their.",
+      "link": "https://us.londonspeakerbureau.com/speaker-profile/lars-sudmann/"
+    },
+    {
+      "title": "Lars Maischak",
+      "snippet": "Lars Maischak is a lecturer in the Department of History at California State University, Fresno. According to his university biography, Maischak teaches the ...",
+      "link": "https://www.professorwatchlist.org/professor/larsmaischak"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

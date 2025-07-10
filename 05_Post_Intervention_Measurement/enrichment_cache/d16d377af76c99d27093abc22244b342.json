@@ -1,0 +1,26 @@
+{
+  "guest_name": "Jordan",
+  "searched_at": "2025-07-10T15:05:38.675636",
+  "search_results": [
+    {
+      "title": "Jordan Peterson",
+      "snippet": "Jordan Bernt Peterson (born 12 June 1962) is a Canadian psychologist, author, and media commentator. He received widespread attention in the late 2010s for ...",
+      "link": "https://en.wikipedia.org/wiki/Jordan_Peterson"
+    },
+    {
+      "title": "Robert Jordan",
+      "snippet": "James Oliver Rigney Jr. (October 17, 1948 \u2013 September 16, 2007), better known by his pen name Robert Jordan, was an American author of epic fantasy.",
+      "link": "https://en.wikipedia.org/wiki/Robert_Jordan"
+    },
+    {
+      "title": "Michael Jordan: The Life: Lazenby, Roland: 9780316194761",
+      "snippet": "Roland Lazenby has written a memoir biography of Michael Jordan. He takes the reader through his childhood and the family structure and issues. Jordan's time at ...",
+      "link": "https://www.amazon.com/Michael-Jordan-Life-Roland-Lazenby/dp/031619476X"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

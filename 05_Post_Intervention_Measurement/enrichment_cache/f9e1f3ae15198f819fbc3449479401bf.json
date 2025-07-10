@@ -1,0 +1,26 @@
+{
+  "guest_name": "Natalie",
+  "searched_at": "2025-07-10T16:30:51.731612",
+  "search_results": [
+    {
+      "title": "Dr. Natalie Brand, Author, Speaker, Theologian",
+      "snippet": "Dr. Natalie Brand is a theologian, author, and speaker. She lives in the UK with her husband and three daughters. For many years she taught Historical and ...",
+      "link": "https://womenwork.net/natalie-brand/"
+    },
+    {
+      "title": "About Natalie",
+      "snippet": "Natalie Goldberg is the author of fifteen books, including Writing Down the Bones (Shambhala, 1986), which has sold over one million copies.",
+      "link": "https://nataliegoldberg.com/about/"
+    },
+    {
+      "title": "About Natalie Lloyd, New York Times Bestselling ...",
+      "snippet": "Natalie Lloyd is the New York Times Bestselling Author of novels for young readers (and the young at heart). Her first novel, A Snicker of Magic (2014), ...",
+      "link": "https://natalielloyd.com/about-natalie/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

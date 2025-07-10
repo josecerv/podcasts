@@ -1,0 +1,26 @@
+{
+  "guest_name": "Producer Tom",
+  "searched_at": "2025-07-10T15:39:07.096726",
+  "search_results": [
+    {
+      "title": "Tom Brooks (music producer)",
+      "snippet": "Producer: Tom Brooks, producer, arranger, engineer, keyboards; Certification: Gold Album-RIAA \u00b7 Give Thanks \u2013 Don Moen. Released: 1986 \u2013 recorded live in Mobile ...",
+      "link": "https://en.wikipedia.org/wiki/Tom_Brooks_(music_producer)"
+    },
+    {
+      "title": "Media Kit",
+      "snippet": "Tom Ryan is an award-winning author, screenwriter and producer. Tom was born and raised in Inverness, Nova Scotia, and is a graduate of Mount Allison University ...",
+      "link": "http://www.tomryanauthor.com/media-kit"
+    },
+    {
+      "title": "Tom Wilson, Producer",
+      "snippet": "Record Producer. March 25, 1931 - September 6, 1978. This website aims to serve as a clearinghouse for information about the late producer Tom Wilson.",
+      "link": "https://www.producertomwilson.com/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

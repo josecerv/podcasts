@@ -1,0 +1,26 @@
+{
+  "guest_name": "Philip",
+  "searched_at": "2025-07-10T15:22:12.836166",
+  "search_results": [
+    {
+      "title": "Author",
+      "snippet": "I hope you enjoy the books as much as I enjoyed writing them. \u00a9 2025 Philip Freeman. Home \u00b7 Books \u00b7 Author \u00b7 Contact.",
+      "link": "https://philipfreemanbooks.com/author/"
+    },
+    {
+      "title": "Philip Fisher (author)",
+      "snippet": "Philip Fisher (born 1941) is the Felice Crowl Reid Professor of English and American Literature at Harvard University and an author.",
+      "link": "https://en.wikipedia.org/wiki/Philip_Fisher_(author)"
+    },
+    {
+      "title": "Philip Altbach",
+      "snippet": "Philip G. Altbach is an American author, researcher and former professor at Boston College, and the founding director of the Boston College Center for ...",
+      "link": "https://en.wikipedia.org/wiki/Philip_Altbach"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

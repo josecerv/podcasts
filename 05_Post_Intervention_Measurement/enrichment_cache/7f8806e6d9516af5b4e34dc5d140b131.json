@@ -1,0 +1,26 @@
+{
+  "guest_name": "Kika",
+  "searched_at": "2025-07-10T15:52:49.716310",
+  "search_results": [
+    {
+      "title": "Kika Dorsey | English",
+      "snippet": "Kika Dorsey is a CU lecturer and author in Boulder, Colorado. She has a PhD in Comparative Literature and her books include the chapbook Beside Herself.",
+      "link": "https://www.colorado.edu/english/kika-dorsey"
+    },
+    {
+      "title": "Bio",
+      "snippet": "Kika Dorsey is an author and a Lecturer at the University of Colorado, Boulder. She teaches literature and creative writing classes.",
+      "link": "https://www.kikadorsey.com/bio/"
+    },
+    {
+      "title": "Meet Kika Dorsey | University Lecturer and Author",
+      "snippet": "Hi Kika, what habits do you feel helped you succeed? The habits that nourish and serve me are those that address my body and mind, and not ...",
+      "link": "https://shoutoutcolorado.com/?p=194007"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

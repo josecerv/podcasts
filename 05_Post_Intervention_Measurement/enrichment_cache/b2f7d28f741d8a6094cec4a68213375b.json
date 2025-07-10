@@ -1,0 +1,26 @@
+{
+  "guest_name": "Kerry",
+  "searched_at": "2025-07-10T16:48:00.639463",
+  "search_results": [
+    {
+      "title": "KM \u2013 About Me",
+      "snippet": "Kerry Magro is an award winning national speaker and best-selling author. Kerry has become a rolemodel in the disabled community.",
+      "link": "https://kerrymagro.com/about-me/"
+    },
+    {
+      "title": "Kerry Egan: Spirituality Author, Speaker",
+      "snippet": "Kerry Egan is a Harvard Divinity School educated hospice chaplain and the author of On Living, a profoundly moving book about how we give meaning to our lives.",
+      "link": "https://www.prhspeakers.com/speaker/kerry-egan"
+    },
+    {
+      "title": "About Author Kerry O'Malley Cerra",
+      "snippet": "Kerry O'Malley Cerra is an award-winning author of middle grade books and picture books. Her first novel, Just a Drop of Water, landed on five state reading ...",
+      "link": "https://www.kerryomalleycerra.com/about-me/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

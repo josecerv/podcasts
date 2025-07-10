@@ -1,0 +1,26 @@
+{
+  "guest_name": "members of KISS",
+  "searched_at": "2025-07-10T17:30:20.542023",
+  "search_results": [
+    {
+      "title": "Kiss (band)",
+      "snippet": "On April 10, 2014, the four original members of Kiss were inducted into the Rock and Roll Hall of Fame. Kiss was ranked by MTV as the ninth \"Greatest Metal ...",
+      "link": "https://en.wikipedia.org/wiki/Kiss_(band)"
+    },
+    {
+      "title": "The Life and Times of Kiss",
+      "snippet": "... members of Kiss reading about themselves in magazines and worrying that all the abundant glossy photographs will prompt women to expect them to pay for dinner.",
+      "link": "https://grantland.com/features/chuck-klosterman-kiss-hall-of-fame/"
+    },
+    {
+      "title": "Gene Simmons",
+      "snippet": "Scooby-Doo! and Kiss: Rock and Roll Mystery, Gene Simmons and the other members of Kiss appear in this animated movie of Scooby Doo where the gang is ...",
+      "link": "https://en.wikipedia.org/wiki/Gene_Simmons"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

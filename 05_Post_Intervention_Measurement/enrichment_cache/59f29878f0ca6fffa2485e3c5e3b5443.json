@@ -1,0 +1,26 @@
+{
+  "guest_name": "Stephanie",
+  "searched_at": "2025-07-10T15:54:43.950961",
+  "search_results": [
+    {
+      "title": "Biography",
+      "snippet": "Biography. ABOUT STEPHANIE. I was born in New York City to a family of artists and fell in love with historical fiction at an early age. I began printing ...",
+      "link": "https://www.stephaniecowell.com/bio.htm"
+    },
+    {
+      "title": "About",
+      "snippet": "Biography. STEPHANIE DRAY is a New York Times, Wall Street Journal & USA Today bestselling author of historical women's fiction. Her award-winning work has ...",
+      "link": "https://www.stephaniedray.com/about/"
+    },
+    {
+      "title": "Stephanie Coontz: Home",
+      "snippet": "Stephanie Coontz is the Director of Research and Public Education for the Council on Contemporary Families and emeritus faculty of History and Family Studies.",
+      "link": "https://www.stephaniecoontz.com/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

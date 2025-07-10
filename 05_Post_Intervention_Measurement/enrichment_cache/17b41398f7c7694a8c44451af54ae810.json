@@ -1,0 +1,26 @@
+{
+  "guest_name": "Altan",
+  "searched_at": "2025-07-10T15:57:17.484629",
+  "search_results": [
+    {
+      "title": "Mehmet Altan",
+      "snippet": "Mehmet Hasan Altan (born 11 January 1953) is a Turkish academic economist, journalist, and author of over 25 books.",
+      "link": "https://en.wikipedia.org/wiki/Mehmet_Altan"
+    },
+    {
+      "title": "Biography - Ahmet Altan",
+      "snippet": "Ahmet Altan (1950) ranks among Turkey's most-read novelists as well as its most influential political columnists. It is a role to which he was born.",
+      "link": "https://ahmetaltan.info/biography/"
+    },
+    {
+      "title": "History professor Selda Altan granted tenure",
+      "snippet": "Altan, who came to Randolph in 2019, received a B.A. in history and sociology and a master's degree in history from Bogazi\u00e7i University in ...",
+      "link": "https://www.randolphcollege.edu/news/2025/05/history-professor-selda-altan-granted-tenure/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

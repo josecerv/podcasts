@@ -1,0 +1,26 @@
+{
+  "guest_name": "Unknown SWAT Team Friend",
+  "searched_at": "2025-07-10T17:35:20.088242",
+  "search_results": [
+    {
+      "title": "SWAT teams: armed and ready - Washington Carnegie Public Library",
+      "snippet": "SWAT teams: armed and ready ; Author. Miller, Connie Colwell ; Publisher. Capstone Press ; Publication Date. [2008] ; Language. English.",
+      "link": "https://washingtoncarnegie.evergreenindiana.org/GroupedWork/f6bf7aee-f1e8-7861-2177-852c4026da12-eng/Home"
+    },
+    {
+      "title": "Reviewer 1487250",
+      "snippet": "Kenzie King is a tough-as-nails tactical medic who has finally earned her spot on a SWAT team. But proving herself among an all-male team isn't easy.",
+      "link": "https://www.netgalley.com/book/376489/reviews?direction=desc&page=10&=r.updated"
+    },
+    {
+      "title": "Nine SWAT teams, 131 tactical officers, cost unknown",
+      "snippet": "Nine SWAT teams, 131 tactical officers, cost unknown. With 131 tactical officers in area, some suggest a regional approach.",
+      "link": "https://www.timesunion.com/tuplus-local/article/Nine-SWAT-teams-131-tactical-officers-cost-10924052.php"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Xavier",
+  "searched_at": "2025-07-10T15:00:26.175255",
+  "search_results": [
+    {
+      "title": "Xavier Garza",
+      "snippet": "Xavier Garza (born 14 October 1968) is an author and illustrator of children's books and professor of art at Northwest Vista College in San Antonio.",
+      "link": "https://en.wikipedia.org/wiki/Xavier_Garza"
+    },
+    {
+      "title": "Dr. Arthur Dewey - Theology Department",
+      "snippet": "Arthur J. Dewey is Professor of Theology at Xavier University in Cincinnati and a long-time Fellow of the Jesus Seminar.",
+      "link": "https://www.xavier.edu/theology-department/directory/arthur-dewey"
+    },
+    {
+      "title": "Xavier M. Montecel, Ph.D.",
+      "snippet": "Biography. Xavier M. Montecel, Ph.D., is a moral theologian whose primary research investigates the relationship between liturgy and ethics. He ...",
+      "link": "https://www.stmarytx.edu/academics/faculty/xavier-montecel/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

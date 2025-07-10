@@ -1,0 +1,26 @@
+{
+  "guest_name": "Benedick",
+  "searched_at": "2025-07-10T15:05:13.590220",
+  "search_results": [
+    {
+      "title": "Richard E. Benedick",
+      "snippet": "Richard Elliot Benedick (May 15, 1935 \u2013 March 16, 2024) was an American diplomat who was president of the National Council for Science and the Environment.",
+      "link": "https://en.wikipedia.org/wiki/Richard_E._Benedick"
+    },
+    {
+      "title": "Benedick G. Turner, Ph.D.",
+      "snippet": "Benedick G. Turner, Ph.D. Associate Professor, Coordinator of Bridge Programs. English BK LI. Contact. bturner@sjny.edu. Brooklyn.",
+      "link": "https://www.sjny.edu/directory/faculty/benedick-turner-ph.d"
+    },
+    {
+      "title": "Benedick's Transformation",
+      "snippet": "Benedick is fascinated by Beatrice but fears her; anguishes over love though he is animated by it; and refuses absolutely to marry until he chooses ...",
+      "link": "https://www.bard.org/study-guides/benedicks-transformation/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

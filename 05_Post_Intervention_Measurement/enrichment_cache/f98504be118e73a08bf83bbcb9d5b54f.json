@@ -1,0 +1,26 @@
+{
+  "guest_name": "Filth",
+  "searched_at": "2025-07-10T16:50:18.375320",
+  "search_results": [
+    {
+      "title": "Filth (novel)",
+      "snippet": "Filth is a 1998 novel by Scottish writer Irvine Welsh. It was adapted into a 2013 film of the same name, directed by Jon S. Baird with James McAvoy in the ...",
+      "link": "https://en.wikipedia.org/wiki/Filth_(novel)"
+    },
+    {
+      "title": "Filth: Welsh, Irvine - Books",
+      "snippet": "FILTH is the hilariously tragic tale of policeman Bruce Robertson, one of the most unrepentantly vile characters I've ever had the pleasure to \"meet\". When a ...",
+      "link": "https://www.amazon.com/Filth-Irvine-Welsh/dp/0393318680"
+    },
+    {
+      "title": "The University of Baltimore",
+      "snippet": "John Waters, acclaimed filmmaker and self-proclaimed \"filth elder,\" credits a professor he met during his time at UBalt in the mid 1960s and ...",
+      "link": "https://www.facebook.com/ubaltimore/posts/john-waters-acclaimed-filmmaker-and-self-proclaimed-filth-elder-credits-a-profes/961756531895281/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

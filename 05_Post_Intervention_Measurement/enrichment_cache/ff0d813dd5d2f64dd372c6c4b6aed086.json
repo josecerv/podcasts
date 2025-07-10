@@ -1,0 +1,26 @@
+{
+  "guest_name": "Monica",
+  "searched_at": "2025-07-10T16:01:57.046940",
+  "search_results": [
+    {
+      "title": "Monica Genta \u2013 Speaker. Author. Teacher. Motivator.",
+      "snippet": "Monica is the author of six books, including the best-seller 180 Days of Awesome, a classroom teacher, and international educational consultant and keynote ...",
+      "link": "https://monicagenta.com/"
+    },
+    {
+      "title": "Children's Book Author - Biography",
+      "snippet": "Monica Brown is the award-winning author over thirty magical multicultural picture books for children including Waiting for the Biblioburro.",
+      "link": "http://www.monicabrown.net/about/"
+    },
+    {
+      "title": "Bio - Monica Hesse",
+      "snippet": "Monica Hesse is the national bestselling author of the true crime love story American Fire and the Edgar Award-winning young adult historical mystery novel ...",
+      "link": "https://www.monicahesse.com/bio.html"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

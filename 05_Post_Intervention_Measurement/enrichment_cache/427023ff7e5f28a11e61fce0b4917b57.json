@@ -1,0 +1,26 @@
+{
+  "guest_name": "Cardinal",
+  "searched_at": "2025-07-10T16:35:53.867231",
+  "search_results": [
+    {
+      "title": "Biography of Cardinal Kurt Koch",
+      "snippet": "Cardinal Kurt Koch, Prefect of the Dicastery for Promoting Christian Unity, and Bishop Emeritus of Basel, was born in Emmenbr\u00fccke, Diocese of Basel ...",
+      "link": "https://www.christianunity.va/content/unitacristiani/en/cardinal-koch/biografia-cardinale-kurt-koch.html"
+    },
+    {
+      "title": "Cardinal Robert Francis Prevost, O.S.A.",
+      "snippet": "Cardinal Robert Francis Prevost, a former prefect of the influential Dicastery for Bishops, is a Chicago-born prelate with views close to Pope Francis.",
+      "link": "https://collegeofcardinalsreport.com/cardinals/robert-francis-prevost/"
+    },
+    {
+      "title": "Avery Cardinal Dulles, S.J.",
+      "snippet": "He was created a Cardinal of the Catholic Church in Rome on February 21, 2001 by Pope John Paul II, the first American-born theologian who is not a bishop to ...",
+      "link": "https://www.fordham.edu/academics/faculty/endowed-chairs/mcginley-chair/avery-cardinal-dulles-biography/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

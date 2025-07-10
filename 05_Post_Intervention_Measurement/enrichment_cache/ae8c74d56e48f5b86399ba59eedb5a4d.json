@@ -1,0 +1,26 @@
+{
+  "guest_name": "Herbie",
+  "searched_at": "2025-07-10T16:01:48.318940",
+  "search_results": [
+    {
+      "title": "Herbie Hancock's Biography",
+      "snippet": "Pianist and composer Herbert Jeffrey \"Herbie\" Hancock was born on April 12, 1940 in Chicago, Illinois to Winnie Belle and Wayman Edward Hancock.",
+      "link": "https://www.thehistorymakers.org/biography/herbie-hancock"
+    },
+    {
+      "title": "Biography - Full page - Herbie HancockHerbie Hancock",
+      "snippet": "Born in Chicago in 1940, Herbie was a child piano prodigy who performed a Mozart piano concerto with the Chicago Symphony Orchestra at age 11. He began playing ...",
+      "link": "https://www.herbiehancock.com/biography-full-page/"
+    },
+    {
+      "title": "Herbie by Rich Cohen",
+      "snippet": "You will meet indelible characters along the way, especially Herbie, the author's father (author of the classic business book You Can ...",
+      "link": "https://www.goodreads.com/book/show/53847727-herbie"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

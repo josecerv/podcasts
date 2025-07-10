@@ -1,0 +1,26 @@
+{
+  "guest_name": "Mia",
+  "searched_at": "2025-07-10T17:05:48.224824",
+  "search_results": [
+    {
+      "title": "Bio - Mia Kankim\u00e4ki \u2014 Author",
+      "snippet": "Mia Kankim\u00e4ki (b. 1971) is a Finnish author. Her two best-selling books blend travelogue, memoir, biography and women's history.",
+      "link": "https://www.miakankimaki.com/bio"
+    },
+    {
+      "title": "M.I.A. | Biography, Music, & Facts",
+      "snippet": "MIA (born July 18, 1975, London, England) is a British-born Sri Lankan rapper who achieved global fame with politically charged dance music.",
+      "link": "https://www.britannica.com/biography/MIA"
+    },
+    {
+      "title": "About Mia",
+      "snippet": "Mia P. Manansala (she/her) is a writer from Chicago who loves books, baking, and bad-ass women. Her debut, ARSENIC AND ADOBO, garnered starred reviews.",
+      "link": "https://miapmanansala.com/about/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Jenny",
+  "searched_at": "2025-07-10T14:47:16.094629",
+  "search_results": [
+    {
+      "title": "About",
+      "snippet": "An award-winning journalist, speaker, and author specializing in learning, technology, and parenting. ... By signing up you agree to our privacy policy. \u00a9 Jenny ...",
+      "link": "https://www.jennywestanderson.org/about"
+    },
+    {
+      "title": "Jenny Wood | Home",
+      "snippet": "I'm Jenny, a former Google executive, New York Times bestselling author, speaker, Harvard Business Review writer, Founder of Own Your Career, mom, and pilot.",
+      "link": "https://itsjennywood.com/"
+    },
+    {
+      "title": "About \u2014Jenny Randle | Faith-based Author + Speaker",
+      "snippet": "Jenny Randle is an Emmy\u00ae-award-winning editor who went on a journey to discover what it really means to live on purpose.",
+      "link": "https://www.jennyrandle.com/about"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

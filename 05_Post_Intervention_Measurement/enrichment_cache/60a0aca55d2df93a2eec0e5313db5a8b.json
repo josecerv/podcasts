@@ -1,0 +1,26 @@
+{
+  "guest_name": "Kelley",
+  "searched_at": "2025-07-10T15:40:55.642497",
+  "search_results": [
+    {
+      "title": "\u2022 Biography \u2014 Blair LM Kelley",
+      "snippet": "Blair LM Kelley, Ph.D. is an award-winning author, historian, and scholar of the African American experience, and the newly appointed president of the ...",
+      "link": "https://www.profblmkelley.com/bio"
+    },
+    {
+      "title": "Robin D. G. Kelley",
+      "snippet": "Robin Davis Gibran Kelley (born March 14, 1962) is an American historian and academic, who is the Gary B. Nash Professor of American History at the ...",
+      "link": "https://en.wikipedia.org/wiki/Robin_D._G._Kelley"
+    },
+    {
+      "title": "Robin DG Kelley - APB Speakers",
+      "snippet": "Biography. Author and historian Robin D.G. Kelley is one of the most distinguished experts on African American studies and a celebrated professor who has ...",
+      "link": "https://www.apbspeakers.com/speaker/robin-d-g-kelley/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": "Black",
+  "gender_confidence": 0.0,
+  "race_confidence": 0.7,
+  "additional_context": {}
+}

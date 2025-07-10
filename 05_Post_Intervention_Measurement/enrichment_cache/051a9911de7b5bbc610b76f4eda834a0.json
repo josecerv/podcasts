@@ -1,0 +1,26 @@
+{
+  "guest_name": "JK",
+  "searched_at": "2025-07-10T16:01:42.792737",
+  "search_results": [
+    {
+      "title": "J. K. Rowling",
+      "snippet": "JK Rowling is a British author and philanthropist. She is the author of Harry Potter, a seven-volume fantasy novel series published from 1997 to 2007.",
+      "link": "https://en.wikipedia.org/wiki/J._K._Rowling"
+    },
+    {
+      "title": "J.K. Rowling - Books, Family & Facts",
+      "snippet": "JK Rowling is a British author and screenwriter best known for her seven-book Harry Potter children's book series.",
+      "link": "https://www.biography.com/authors-writers/jk-rowling"
+    },
+    {
+      "title": "About - J.K. Rowling",
+      "snippet": "J.K. Rowling has been married to Dr Neil Murray since 2001. They live in Edinburgh with their son, David (born 2003) and daughter, Mackenzie (born 2005) ...",
+      "link": "https://www.jkrowling.com/about/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

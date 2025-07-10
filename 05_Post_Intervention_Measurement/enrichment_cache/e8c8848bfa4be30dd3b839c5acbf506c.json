@@ -1,0 +1,26 @@
+{
+  "guest_name": "Mamdani",
+  "searched_at": "2025-07-10T16:52:18.484500",
+  "search_results": [
+    {
+      "title": "Mahmood Mamdani",
+      "snippet": "Mahmood Mamdani FBA is a Ugandan academic, author, and political commentator. The Herbert Lehman Professor of Government and a professor of anthropology, ...",
+      "link": "https://en.wikipedia.org/wiki/Mahmood_Mamdani"
+    },
+    {
+      "title": "Mahmood Mamdani | Department of Anthropology",
+      "snippet": "Mahmood Mamdani is the Herbert Lehman Professor of Government. He was also professor and executive director of Makerere Institute of Social Research.",
+      "link": "https://anthropology.columbia.edu/content/mahmood-mamdani"
+    },
+    {
+      "title": "Zohran K. Mamdani - Assembly District 36",
+      "snippet": "Zohran Kwame Mamdani was born and raised in Kampala, Uganda, moving to New York City with his family at the age of 7.",
+      "link": "https://nyassembly.gov/mem/Zohran-K-Mamdani"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

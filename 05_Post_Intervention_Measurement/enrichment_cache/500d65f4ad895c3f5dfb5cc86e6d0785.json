@@ -1,0 +1,26 @@
+{
+  "guest_name": "Black Circle",
+  "searched_at": "2025-07-10T16:54:00.881917",
+  "search_results": [
+    {
+      "title": "The Black Circle",
+      "snippet": "In The Black Circle, Jeff Love reinterprets Koj\u00e8ve's works, showing him to be an essential thinker who challenged modern society.",
+      "link": "https://cup.columbia.edu/book/the-black-circle/9780231546706/"
+    },
+    {
+      "title": "The Black Circle: A Life of Alexandre Koj\u00e8ve",
+      "snippet": "In The Black Circle, Jeff Love reinterprets Koj\u00e8ve's works, showing him to be a provocative thinker who challenged modern society.",
+      "link": "https://www.goodreads.com/book/show/36906202-the-black-circle"
+    },
+    {
+      "title": "jeff-love-the-black-circle-a-life-of-alexandre-kojeve-1.pdf",
+      "snippet": "Alexandre Koj\u00e8ve, Boulogne-sur-Seine, July 6, 1930. Anonymous photo. Biblioth\u00e8que nationale de France, Fonds Koj\u00e8ve. Page 4. THE BLACK CIRCLE.",
+      "link": "https://cominsitu.wordpress.com/wp-content/uploads/2019/03/jeff-love-the-black-circle-a-life-of-alexandre-kojeve-1.pdf"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

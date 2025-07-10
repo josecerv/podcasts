@@ -1,0 +1,26 @@
+{
+  "guest_name": "JJ",
+  "searched_at": "2025-07-10T15:09:15.230680",
+  "search_results": [
+    {
+      "title": "J. J. Johnson bio",
+      "snippet": "JJ Johnson is an internationally acclaimed, award-winning author, editor, and activist. After growing up in Norwich, a small town in central New York.",
+      "link": "https://www.jjjohnsonauthor.com/bio.html"
+    },
+    {
+      "title": "About \u2014 J.J. Peterson",
+      "snippet": "He is a film maker, a story teller, and passionate about all things art. J.J. has studied CS Lewis in Oxford, debated theology with film makers at the Sundance ...",
+      "link": "http://www.youaregoingtobeok.com/new"
+    },
+    {
+      "title": "J. J. Howard",
+      "snippet": "J.J. Howard is an American author of young adult fiction. Her debut novel, That Time I Joined the Circus, was published by Scholastic Point in April, 2013.",
+      "link": "https://en.wikipedia.org/wiki/J._J._Howard"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

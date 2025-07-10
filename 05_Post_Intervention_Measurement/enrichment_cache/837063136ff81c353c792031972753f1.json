@@ -1,0 +1,26 @@
+{
+  "guest_name": "David Amram",
+  "searched_at": "2025-07-10T15:00:31.767090",
+  "search_results": [
+    {
+      "title": "David Amram",
+      "snippet": "David Amram ; (1930-11-17) November 17, 1930 (age 94) Philadelphia, Pennsylvania, U.S. \u00b7 Jazz, classical, folk \u00b7 Musician; composer; conductor; author \u00b7 French horn ...",
+      "link": "https://en.wikipedia.org/wiki/David_Amram"
+    },
+    {
+      "title": "David Amram",
+      "snippet": "\u201cDavid Amram is the Renaissance Man of American Music.\u201d (The Boston Globe) \"If you have not yet encountered this extraordinary man of music, you will marvel ...",
+      "link": "https://www.davidamram.com/"
+    },
+    {
+      "title": "David Amram: Artist Emeritus of The Village Trip",
+      "snippet": "David Amram, Artist Emeritus of The Village Trip, began his professional life in 1951 as a French hornist in the National Symphony Orchestra in Washington DC.",
+      "link": "https://www.thevillagetrip.com/david-amram-2023/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

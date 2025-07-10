@@ -1,0 +1,26 @@
+{
+  "guest_name": "Kyle",
+  "searched_at": "2025-07-10T14:50:07.519755",
+  "search_results": [
+    {
+      "title": "About Kyle Winkler",
+      "snippet": "Kyle Winkler is a practical Bible teacher, author and creator of the popular Shut Up, Devil! mobile app. He is known for his vulnerable but bold messages.",
+      "link": "https://www.kylewinkler.org/about/kyle-winkler/"
+    },
+    {
+      "title": "Kyle J. Anderson | Historian & Writer",
+      "snippet": "Kyle J. Anderson is an Associate Professor at SUNY Old Westbury and the author of The Egyptian Labor Corps: Race, Space, and Place in the First World War.",
+      "link": "https://kylejanderson.com/"
+    },
+    {
+      "title": "Kyle Lukoff (he/him)",
+      "snippet": "He grew up near Seattle, Washington but moved to New York City in 2002, and now lives in Connecticut after two years in Philadelphia. Kyle is the author of the ...",
+      "link": "https://theauthorvillage.com/presenters/kyle-lukoff/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Ron",
+  "searched_at": "2025-07-10T15:41:02.011395",
+  "search_results": [
+    {
+      "title": "Ron Clark (teacher)",
+      "snippet": "(born October 24, 1972) is an American educator, author, and motivational speaker. He has taught in North Carolina and New York City, and later founded the Ron ...",
+      "link": "https://en.wikipedia.org/wiki/Ron_Clark_(teacher)"
+    },
+    {
+      "title": "Ron Chernow: History & Politics Author, Speaker",
+      "snippet": "An honors graduate of Yale and Cambridge, Ron Chernow is one of the most distinguished commentators on history, politics, and business in America today. He has ...",
+      "link": "https://www.prhspeakers.com/speaker/ron-chernow"
+    },
+    {
+      "title": "Ron Hall",
+      "snippet": "Ron Hall speaker: Ron Hall's life was centered around a successful career as an international art dealer and a passion for his Rocky Top ranch.",
+      "link": "https://www.executivespeakers.com/speaker/ron-hall"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

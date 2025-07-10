@@ -1,0 +1,26 @@
+{
+  "guest_name": "Kevin Valentine",
+  "searched_at": "2025-07-10T17:22:10.154949",
+  "search_results": [
+    {
+      "title": "Kevin Valentine",
+      "snippet": "Kevin Valentine works across disciplines creating artwork in paint, print, video, performance and installation. He has a BA in Art and Philosophy from ...",
+      "link": "https://www.northcentralcollege.edu/profile/kjvalentine"
+    },
+    {
+      "title": "Kevin M. Valentine, MD - Indiana University School of Medicine",
+      "snippet": "Bio. Kevin Valentine, MD, joined the IU School of Medicine faculty in 2014. He trained at Wayne State University, Children's Hospital of Michigan.",
+      "link": "https://medicine.iu.edu/faculty/23157/valentine-kevin"
+    },
+    {
+      "title": "2024: Kevin Valentine '24: Nursing major finds his calling",
+      "snippet": "When he was in high school, Kevin Valentine '24 thought about pursuing an action-packed career as an FBI or CIA agent.",
+      "link": "https://www.umassd.edu/feature-stories/2024/kevin-valentine-24.html"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

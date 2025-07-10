@@ -1,0 +1,26 @@
+{
+  "guest_name": "Jo",
+  "searched_at": "2025-07-10T14:45:53.649275",
+  "search_results": [
+    {
+      "title": "Jo Boaler",
+      "snippet": "Jo Boaler (born 1964) is a British education author and Nomellini\u2013Olivier Professor of Education at the Stanford Graduate School of Education.",
+      "link": "https://en.wikipedia.org/wiki/Jo_Boaler"
+    },
+    {
+      "title": "About Me",
+      "snippet": "I'm sad to say, our family doesn't have one. I'm still trying to get my hands on a good madstone. Head Shot of Jo Watson Hackl - high ...",
+      "link": "https://johackl.com/about/"
+    },
+    {
+      "title": "Professor Jo Boaler",
+      "snippet": "Crossing the Line: When Academic Disagreement becomes Harassment and Abuse. Jo Boaler, The Nomellini-Olivier Professor of Education, Stanford University.",
+      "link": "https://joboaler.people.stanford.edu/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

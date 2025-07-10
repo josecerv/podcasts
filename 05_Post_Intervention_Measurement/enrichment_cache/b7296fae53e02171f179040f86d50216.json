@@ -1,0 +1,26 @@
+{
+  "guest_name": "Adam B",
+  "searched_at": "2025-07-10T15:00:08.995267",
+  "search_results": [
+    {
+      "title": "Adam B",
+      "snippet": "Adam Beales (born 11 October 1999), known as Adam B, is a YouTuber, actor, and television host from Derry, Northern Ireland. He is a former co-presenter of ...",
+      "link": "https://en.wikipedia.org/wiki/Adam_B"
+    },
+    {
+      "title": "Adam B: books, biography, latest update",
+      "snippet": "UK and Irish BESTSELLING Author, Adam B is a household name. Not only hugely popular online, with his videos boasting over half a billion views overall.",
+      "link": "https://www.amazon.com/stores/author/B0BFFZQH5H"
+    },
+    {
+      "title": "Adam B. Resnick",
+      "snippet": "Adam B. Resnick (born March 10, 1972) is an American health care entrepreneur, public speaker, author, and professional whistleblower.",
+      "link": "https://en.wikipedia.org/wiki/Adam_B._Resnick"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Emma",
+  "searched_at": "2025-07-10T16:44:09.570232",
+  "search_results": [
+    {
+      "title": "Biography of Emma Donoghue",
+      "snippet": "Emma Donoghue. Born in Dublin, Ireland, in October 1969, I am the youngest of eight children of Frances and Denis Donoghue (the literary critic).",
+      "link": "https://www.emmadonoghue.com/emma-donoghue.html"
+    },
+    {
+      "title": "Emma Jane",
+      "snippet": "Emma A. Jane (born 1969), previously known as Emma Tom, is an Australian professor, author, and journalist. She once wrote a weekly column for The Australian ...",
+      "link": "https://en.wikipedia.org/wiki/Emma_Jane"
+    },
+    {
+      "title": "Meet Emma Marris / WRITER, AUTHOR, SPEAKER",
+      "snippet": "Emma Marris is an award-winning author (Rambunctious Garden and Wild Souls) and journalist whose writing on science and the environment.",
+      "link": "https://emmamarris.com/about/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

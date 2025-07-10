@@ -1,0 +1,26 @@
+{
+  "guest_name": "Harrison",
+  "searched_at": "2025-07-10T15:17:25.930811",
+  "search_results": [
+    {
+      "title": "Jim Harrison",
+      "snippet": "James Harrison (December 11, 1937 \u2013 March 26, 2016) was an American poet, novelist, and essayist. He was a prolific and versatile writer publishing over three ...",
+      "link": "https://en.wikipedia.org/wiki/Jim_Harrison"
+    },
+    {
+      "title": "Harrison Scott Key",
+      "snippet": "Harrison Scott Key is the author of How to Stay Married, Congratulations, Who Are You Again?, and The World's Largest Man, winner of the Thurber Prize for ...",
+      "link": "http://www.harrisonscottkey.com/"
+    },
+    {
+      "title": "R. K. Harrison",
+      "snippet": "Roland Kenneth Harrison ; Born, (1920-08-04)4 August 1920 ; Died, 2 May 1993(1993-05-02) (aged 72) ; Nationality, British ; Occupation, Professor of Old Testament ...",
+      "link": "https://en.wikipedia.org/wiki/R._K._Harrison"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

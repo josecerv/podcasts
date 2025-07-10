@@ -1,0 +1,26 @@
+{
+  "guest_name": "Tomahawk",
+  "searched_at": "2025-07-10T16:35:50.109848",
+  "search_results": [
+    {
+      "title": "Professor Tomahawk",
+      "snippet": "Professor Tomahawk, Fort Smith, AR. 137 likes \u00b7 28 talking about this. Sharing the joy of Pok\u00e9mon to everyone.",
+      "link": "https://www.facebook.com/professortomahawk/"
+    },
+    {
+      "title": "'Tomahawk Warrior' author David E. Huntley gives ...",
+      "snippet": "'Tomahawk Warrior' author David E. Huntley gives presentation at Road Lake Pub \u00b7 Tomahawk Leader Wednesday, July 2, 2025.",
+      "link": "https://tomahawkleader.com/stories/tomahawk-warrior-author-david-e-huntley-gives-presentation-at-road-lake-pub,183201?"
+    },
+    {
+      "title": "Tomahawk Park | Basehor, KS",
+      "snippet": "The land where the park is located was generously donated by Steve and Darla Miles. Once Tomahawk Park is fully constructed, it will connect to the improvements ...",
+      "link": "https://www.cityofbasehor.org/334"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

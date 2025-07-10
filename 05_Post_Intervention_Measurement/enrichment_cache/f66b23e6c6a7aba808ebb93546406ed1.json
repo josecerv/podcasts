@@ -1,0 +1,26 @@
+{
+  "guest_name": "of Intel",
+  "searched_at": "2025-07-10T17:06:46.192739",
+  "search_results": [
+    {
+      "title": "Biographies",
+      "snippet": "Michelle Johnston Holthaus. Chief Executive Officer of Intel Products. A person with short dark hair smiles slightly, wearing a blue ...",
+      "link": "https://newsroom.intel.com/biographies"
+    },
+    {
+      "title": "Intel",
+      "snippet": "General Manager of Intel's custom foundry division Sunit Rikhi indicated ... of Intel's business until the mid-1980s. (Note: Intel is usually given ...",
+      "link": "https://en.wikipedia.org/wiki/Intel"
+    },
+    {
+      "title": "The Intel Trinity: How Robert Noyce, Gordon Moore, and ...",
+      "snippet": "The Intel Trinity is the first full history of Intel Corporation\u2014the essential company of the digital age\u2014 told through the lives of the three most important ...",
+      "link": "https://www.amazon.com/Intel-Trinity-Robert-Important-Company/dp/0062226762"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

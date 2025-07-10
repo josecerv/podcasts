@@ -1,0 +1,26 @@
+{
+  "guest_name": "Jose",
+  "searched_at": "2025-07-10T16:50:07.313366",
+  "search_results": [
+    {
+      "title": "About",
+      "snippet": "Jos\u00e9 Luis Vilson is an educator, sociologist, and bestselling author who ... \u00a9 2025 The Jose Vilson. Featuring. Blog \u00b7 Books \u00b7 Works \u00b7 EduColor \u00b7 Shop.",
+      "link": "https://thejosevilson.com/about/"
+    },
+    {
+      "title": "The Jose Vilson | Educator, Author, Sociologist",
+      "snippet": "Jose Luis Vilson is an educator, sociologist, author, & executive director ... That transcendent voice belongs to \u201cThe\u201d Jos\u00e9 Luis Vilson.\u201d Karen Lewis ...",
+      "link": "https://thejosevilson.com/"
+    },
+    {
+      "title": "Jose Vergara",
+      "snippet": "Jose Vergara. Associate Professor of Russian on the Myra T. Cooley ... Biography. Jos\u00e9 Vergara is a scholar and teacher of Russian language and Russian ...",
+      "link": "https://www.brynmawr.edu/inside/people/jose-vergara"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

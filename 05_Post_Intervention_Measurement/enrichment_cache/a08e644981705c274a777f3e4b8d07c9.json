@@ -1,0 +1,26 @@
+{
+  "guest_name": "Jools",
+  "searched_at": "2025-07-10T16:23:34.500448",
+  "search_results": [
+    {
+      "title": "Jools Gilson",
+      "snippet": "Jools Gilson is an Irish Fulbright Scholar / Artist based at CU Boulder for the Fall Semester 2021. In Ireland she is Professor of Creative Practice.",
+      "link": "https://www.colorado.edu/outreach/paces/jools-gilson"
+    },
+    {
+      "title": "Jools Gilson - UCC Research Profiles",
+      "snippet": "Jools Gilson is an artist, writer and educator. She directed the dance theatre company half/angel from 1995 to 2006, and since 2010 has made creative radio ...",
+      "link": "https://research.ucc.ie/profiles/jgilson@UCC.ie"
+    },
+    {
+      "title": "Meet Jools Sinclair",
+      "snippet": "Hi, I'm Jools. I'm an author, teacher, storyteller, spirit guide. I've written over 20 books, including Forty-Four, a bestselling fictional ...",
+      "link": "https://canvasrebel.com/meet-jools-sinclair/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

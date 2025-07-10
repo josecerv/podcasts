@@ -1,0 +1,26 @@
+{
+  "guest_name": "William M.",
+  "searched_at": "2025-07-10T14:58:03.232563",
+  "search_results": [
+    {
+      "title": "William M. Tuttle Jr.",
+      "snippet": "William M. Tuttle Jr. is a professor and author of several books of note on twentieth-century American history and African-American history.",
+      "link": "https://en.wikipedia.org/wiki/William_M._Tuttle_Jr."
+    },
+    {
+      "title": "William M. Hutchins",
+      "snippet": "William M. Hutchins ... William Maynard Hutchins (born October 11, 1944) is an American academic, author and translator of contemporary Arabic literature. ... He ...",
+      "link": "https://en.wikipedia.org/wiki/William_M._Hutchins"
+    },
+    {
+      "title": "William M. Fowler: books, biography, latest update",
+      "snippet": "William M. Fowler, Jr. the former director of the Massachusetts Historical Society is Distinguished Professor of History Emeritus at Northeastern University.",
+      "link": "https://www.amazon.com/stores/author/B001IYTOG8"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

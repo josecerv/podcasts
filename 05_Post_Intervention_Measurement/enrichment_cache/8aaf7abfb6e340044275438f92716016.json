@@ -1,0 +1,26 @@
+{
+  "guest_name": "Kimberly Clark",
+  "searched_at": "2025-07-10T17:20:38.265647",
+  "search_results": [
+    {
+      "title": "Speaker Kimberly Clark",
+      "snippet": "Kimberly Clark is a nationally recognized speaker, best-selling author, award-winning navy veteran, minister, certified peer support specialist, and blue-belt ...",
+      "link": "https://kimberlyclarkspeaks.com/aboutme"
+    },
+    {
+      "title": "Student Success Story: Kimberly Clark",
+      "snippet": "Kimberly Clark is a dynamic motivational speaker, Navy Veteran, Author and Breakthrough Coach with 10+ years' experience with wellness, mental ...",
+      "link": "https://thespeakerlab.com/stories/kimberly-clark/"
+    },
+    {
+      "title": "KIMBERLY CLARK",
+      "snippet": "Kimberly Clark stands out from other youth speakers because she doesn't just share theories, she embodies resilience, authenticity, and transformation. Her ...",
+      "link": "https://kimberlyclarkspeaks.com/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

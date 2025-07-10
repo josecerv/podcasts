@@ -1,0 +1,26 @@
+{
+  "guest_name": "Oscar",
+  "searched_at": "2025-07-10T17:01:07.006615",
+  "search_results": [
+    {
+      "title": "Oscar Casares",
+      "snippet": "Oscar C\u00e1sares (born May 7, 1964) is an American writer and associate professor of creative writing. He is the author of Brownsville: Stories, Amigoland, ...",
+      "link": "https://en.wikipedia.org/wiki/Oscar_Casares"
+    },
+    {
+      "title": "Oscar C\u00e1sares - UT Austin College of Liberal Arts",
+      "snippet": "Oscar C\u00e1sares is the author of three noted books, earning him fellowships from the National Endowment for the Arts, the Copernicus Society of America, ...",
+      "link": "https://liberalarts.utexas.edu/english/faculty/ohc56"
+    },
+    {
+      "title": "Oscar C\u00e1sares | Author",
+      "snippet": "Oscar C\u00e1sares is an American writer and an associate professor of creative writing. He is the author of Where We Come From, Brownsville: Stories and ...",
+      "link": "https://www.oscarcasares.com/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

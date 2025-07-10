@@ -1,0 +1,26 @@
+{
+  "guest_name": "Crossy",
+  "searched_at": "2025-07-10T15:44:36.184882",
+  "search_results": [
+    {
+      "title": "Crossy",
+      "snippet": "5 hours of Crossy with some of the absolute best mcs in the game. All styles, all flavours, I'm gunna take you all on a carefully crafted journey.",
+      "link": "https://www.facebook.com/Crossy114/"
+    },
+    {
+      "title": "Crossy (Thomas Crosse) - A Little Foresight",
+      "snippet": "Crossy is an award winning radio presenter and producer on Dublins FM104, he's a reporter/presenter at many red carpets in London and Europe ...",
+      "link": "https://podcasts.apple.com/us/podcast/crossy-thomas-crosse/id1566409988?i=1000539855181"
+    },
+    {
+      "title": "Crossy's Corner with Peter Smith and his new book on the rise ...",
+      "snippet": "Crossy and Peter talk about his fab new book on Oxford Brookes BC called: 'Oxford Brookes, A Sporting Miracle, from a cowshed on the Thames ...",
+      "link": "https://www.youtube.com/watch?v=YlMp9WzXizo"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

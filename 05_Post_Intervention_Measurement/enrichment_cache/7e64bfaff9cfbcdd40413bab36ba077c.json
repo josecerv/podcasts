@@ -1,0 +1,26 @@
+{
+  "guest_name": "Carl Seaton",
+  "searched_at": "2025-07-10T16:16:40.088601",
+  "search_results": [
+    {
+      "title": "Carl Seaton",
+      "snippet": "Carl Seaton is an award-nominated director and filmmaker, known for his work in episodic television. Born in Chicago, Carl's story begins as a little kid.",
+      "link": "https://carlseaton.com/"
+    },
+    {
+      "title": "Carl Seaton",
+      "snippet": "Carl Seaton was born on 10 November 1971 in Chicago, Illinois, USA. He is a director and writer, known for One Week (2000), Snowfall (2017) and Interface.",
+      "link": "https://www.imdb.com/name/nm0780825/"
+    },
+    {
+      "title": "Carl Seaton - Biography",
+      "snippet": "Carl Seaton was born on November 10, 1971 in Chicago, Illinois, USA. He is a director and writer, known for One Week (2000), Snowfall (2017) and Interface.",
+      "link": "https://www.imdb.com/name/nm0780825/bio/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

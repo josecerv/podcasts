@@ -1,0 +1,26 @@
+{
+  "guest_name": "Robo",
+  "searched_at": "2025-07-10T16:14:43.484306",
+  "search_results": [
+    {
+      "title": "Robo-Teachers? | Larry Cuban on School Reform and ...",
+      "snippet": "Robo-Teachers? \u201cThe Robot & Frank\u201d is a 2012 film about an elderly Dad who is slipping into dementia. His adult son and ...",
+      "link": "https://larrycuban.wordpress.com/2025/02/04/robo-teachers-2/"
+    },
+    {
+      "title": "Atomic Robo Wiki | Fandom",
+      "snippet": "Created in 1923 by Nikola Tesla, Atomic Robo has led a long and interesting life. In 1928 he received his doctorate in physics from Columbia University.",
+      "link": "https://atomicrobo.fandom.com/wiki/Atomic_Robo"
+    },
+    {
+      "title": "Robo sapiens japanicus: Robots, Gender, Family, and the ...",
+      "snippet": "In Robo sapiens japanicus, Jennifer Robertson casts a critical eye on press releases and public relations videos that misrepresent robots as being as versatile ...",
+      "link": "https://www.amazon.com/Robo-sapiens-japanicus-Robots-Japanese/dp/0520283201"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

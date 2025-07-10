@@ -1,0 +1,26 @@
+{
+  "guest_name": "CJ",
+  "searched_at": "2025-07-10T14:49:23.786468",
+  "search_results": [
+    {
+      "title": "CJ Arthur",
+      "snippet": "CJ Arthur (born 17 December 1973) is an American educator, teacher trainer, public speaker, writer, Equity 2.0 consultant, and the owner of WordHaven BookHouse ...",
+      "link": "https://en.wikipedia.org/wiki/CJ_Arthur"
+    },
+    {
+      "title": "About CJ | New York Times Bestseller CJ Lyons",
+      "snippet": "I'm CJ Lyons,pediatric ER doc turned suspense/thriller author. My agent wants me to change that to \u201caward-winning, critically-acclaimed, New York Times and USA ...",
+      "link": "https://cjlyons.net/about-cj/"
+    },
+    {
+      "title": "About C.J. Box \u2014 Author C.J. Box",
+      "snippet": "CJ Box is the #1 New York Times bestselling author of 31 novels including the Joe Pickett series. He won the Edgar Alan Poe Award for Best Novel.",
+      "link": "https://www.cjbox.net/about-cj-box"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

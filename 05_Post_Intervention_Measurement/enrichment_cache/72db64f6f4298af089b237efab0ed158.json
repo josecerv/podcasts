@@ -1,0 +1,26 @@
+{
+  "guest_name": "Nicky",
+  "searched_at": "2025-07-10T15:49:37.183184",
+  "search_results": [
+    {
+      "title": "Nicky Ali Jackson, Ph.D.",
+      "snippet": "Nicky Jackson is a professor of Criminal Justice at PNW and Executive Director for the Center for Justice and Exoneration Network.",
+      "link": "https://www.pnw.edu/people/nicky-ali-jackson/"
+    },
+    {
+      "title": "About Me | Diary of a Short Woman - Nicky Drayden",
+      "snippet": "Nicky Drayden is a Systems Analyst who dabbles in prose when she's not buried in code. She resides in Austin, Texas where being weird is highly encouraged.",
+      "link": "http://www.nickydrayden.com/about-me/"
+    },
+    {
+      "title": "Global Inspirational Keynote Speaker",
+      "snippet": "Nicky Abdinor is a sought-after inspirational speaker available for virtual, hybrid and in-person events. She is known as an expert on doing MORE with less.",
+      "link": "https://nickyabdinor.com/speaking/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

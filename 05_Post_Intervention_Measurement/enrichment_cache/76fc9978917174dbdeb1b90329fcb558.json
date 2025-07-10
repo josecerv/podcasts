@@ -1,0 +1,26 @@
+{
+  "guest_name": "Rascal News",
+  "searched_at": "2025-07-10T15:34:46.878681",
+  "search_results": [
+    {
+      "title": "Thomas Manuel",
+      "snippet": "Rascal News. Rascal is a tabletop roleplaying game and culture outlet striving to sustainably publish ... We're also a little cheeky. \u00a9 2025 Rascal News.",
+      "link": "https://www.rascal.news/author/thomas-manuel/"
+    },
+    {
+      "title": "Draco Aleksander",
+      "snippet": "Rascal News. Rascal is a tabletop roleplaying game and culture outlet striving to sustainably publish voicey journalism that is compelling, deeply-reported ...",
+      "link": "https://www.rascal.news/author/draco/"
+    },
+    {
+      "title": "David Jackson (he/him)",
+      "snippet": "Rascal News. Rascal is a tabletop roleplaying game and culture outlet striving to ... We're also a little cheeky. \u00a9 2025 Rascal News.",
+      "link": "https://www.rascal.news/author/david/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

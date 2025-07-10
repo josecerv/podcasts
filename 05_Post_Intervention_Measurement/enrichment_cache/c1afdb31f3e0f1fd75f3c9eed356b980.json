@@ -1,0 +1,26 @@
+{
+  "guest_name": "Peggy Smith",
+  "searched_at": "2025-07-10T15:09:54.659373",
+  "search_results": [
+    {
+      "title": "Peggy Smith",
+      "snippet": "Peggy Smith studied Nonviolent Communication with Marshall Rosenberg (creator of NVC) and been a student of Sarah Peyton for over 10 years.",
+      "link": "https://sarahpeyton.com/speakers/peggy-smith/"
+    },
+    {
+      "title": "Peggy Smith",
+      "snippet": "Peggy Smith is a certified trainer with the International Center for Nonviolent Communication, with over four decades of teaching experience. She has a ...",
+      "link": "https://nvcacademy.com/nvc-trainer/peggy-smith"
+    },
+    {
+      "title": "'Raise Your Voice And Make A Difference!': Q&A With Prof ...",
+      "snippet": "Dr. Peggy Smith is a registered professional forester and a renowned professor whose research have focused on the social impacts of natural resources ...",
+      "link": "https://www.woodbusiness.ca/raise-your-voice-and-make-a-difference-qa-with-prof-peggy-smith/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Theo",
+  "searched_at": "2025-07-10T16:47:40.003113",
+  "search_results": [
+    {
+      "title": "Theo Sandfort",
+      "snippet": "Theo Sandfort is a Dutch professor, author and former president of the International Academy of Sex Research. He served as professor and postdoctoral ...",
+      "link": "https://en.wikipedia.org/wiki/Theo_Sandfort"
+    },
+    {
+      "title": "Book Theo Wilson for Speaking, Events and Appearances",
+      "snippet": "Theo E.J. Wilson is a founding member of the Denver Slam Nuba team, who won the National Poetry Slam in 2011. He's also known as \u201cThe New Black Klansman.",
+      "link": "https://www.apbspeakers.com/speaker/theo-wilson/"
+    },
+    {
+      "title": "Theo Colborn",
+      "snippet": "She was an environmental health analyst, and best known for her studies on the health effects of endocrine disrupting chemicals. She died in 2014. Theo Colborn.",
+      "link": "https://en.wikipedia.org/wiki/Theo_Colborn"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

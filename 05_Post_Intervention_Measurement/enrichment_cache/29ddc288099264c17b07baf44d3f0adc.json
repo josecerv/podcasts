@@ -1,0 +1,26 @@
+{
+  "guest_name": "Kate",
+  "searched_at": "2025-07-10T15:53:25.980462",
+  "search_results": [
+    {
+      "title": "The world of Kate Bowler is beautiful and terrible ...",
+      "snippet": "Kate Bowler, Ph.D. is a 3x New York Times bestselling author, award-winning podcast host, and professor at Duke University.",
+      "link": "https://katebowler.com/about/"
+    },
+    {
+      "title": "Kate Bowler",
+      "snippet": "Kate Bowler is a historian and expert in the stories we tell about success and failure, suffering and happiness.",
+      "link": "https://katebowler.com/"
+    },
+    {
+      "title": "Kate Bowler | Scholars@Duke profile",
+      "snippet": "Kate Bowler, PhD is a three time New York Times bestselling author, award-winning podcast host, and an Associate Professor of American Religious History at ...",
+      "link": "https://scholars.duke.edu/person/kate.bowler"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Luis",
+  "searched_at": "2025-07-10T15:07:48.289063",
+  "search_results": [
+    {
+      "title": "Remembering Luis Palau",
+      "snippet": "Luis Palau played an influential role in Christian missions and worldwide evangelism as a powerful speaker, teacher, and author.",
+      "link": "https://luispalau.org/his-life"
+    },
+    {
+      "title": "About",
+      "snippet": "Luis Jaramillo is the author of The Witches of El Paso. He is also the author of the award-winning short story collection The Doctor's Wife.",
+      "link": "https://luisjaramillo.com/about-2/"
+    },
+    {
+      "title": "Urrea, Luis | English | University of Illinois Chicago",
+      "snippet": "Bio. Luis Urrea has recently completed 20 years of historical, cultural, and spiritual research for the historical novel, The Hummingbird's Daughter.",
+      "link": "https://engl.uic.edu/profiles/urrea-luis/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

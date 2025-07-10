@@ -1,0 +1,26 @@
+{
+  "guest_name": "Summer",
+  "searched_at": "2025-07-10T14:52:47.678810",
+  "search_results": [
+    {
+      "title": "About \u2014 Summer Brennan",
+      "snippet": "Summer Brennan is an award-winning journalist and author. She is a recipient of the Matthew Power Literary Reporting Award, and was a visiting scholar.",
+      "link": "https://www.summer-brennan.com/about"
+    },
+    {
+      "title": "Summer Allen | Profile - Greater Good Science Center",
+      "snippet": "Summer Allen, Ph.D., is a Research/Writing Fellow with the Greater Good Science Center. A graduate of Carleton College and Brown University.",
+      "link": "https://greatergood.berkeley.edu/profile/summer_allen"
+    },
+    {
+      "title": "Summer R. Jackson - Faculty & Research",
+      "snippet": "Summer Jackson is an Assistant Professor of Management in the Organizational Behavior unit at Harvard Business School. She teaches LEAD in the MBA required ...",
+      "link": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=946932"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

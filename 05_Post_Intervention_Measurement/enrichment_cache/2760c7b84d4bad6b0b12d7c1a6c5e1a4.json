@@ -1,0 +1,26 @@
+{
+  "guest_name": "Lauren",
+  "searched_at": "2025-07-10T16:07:29.435110",
+  "search_results": [
+    {
+      "title": "Lauren Kessler",
+      "snippet": "Lauren Kessler is an award-winning narrative nonfiction author who has published 15 books and hundreds of articles, essays, and blogs.",
+      "link": "https://www.laurenkessler.com/"
+    },
+    {
+      "title": "Lauren Grodstein",
+      "snippet": "Lauren Grodstein is an American novelist and professor at Rutgers University-Camden who is known for her use of male characters and family narratives.",
+      "link": "https://en.wikipedia.org/wiki/Lauren_Grodstein"
+    },
+    {
+      "title": "Bio",
+      "snippet": "Lauren Willig is the New York Times and USA Today bestselling author of more than twenty-five works of historical fiction, including Band of Sisters, ...",
+      "link": "https://laurenwillig.com/bio/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

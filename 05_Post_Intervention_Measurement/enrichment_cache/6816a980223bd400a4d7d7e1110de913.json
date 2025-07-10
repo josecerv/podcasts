@@ -1,0 +1,26 @@
+{
+  "guest_name": "Hyphen",
+  "searched_at": "2025-07-10T16:16:55.063639",
+  "search_results": [
+    {
+      "title": "About - The Hyphen by Emma Gannon",
+      "snippet": "The Hyphen by Emma Gannon \u00b7 Welcome to The Hyphen \ud83d\uddde\ufe0f \u00b7 a newsletter from Sunday Times Bestselling author Emma Gannon. A cosy space for 70k+ curious readers.",
+      "link": "https://thehyphen.substack.com/about"
+    },
+    {
+      "title": "About \u2014 Hyphen Poetry",
+      "snippet": "Hyphen Poetry focuses on making complex and challenging conversations simple and meaningful using poetry. We are uniquely positioned; sitting at the ...",
+      "link": "https://www.hyphenpoetry.com/about"
+    },
+    {
+      "title": "About Us | Hyphen",
+      "snippet": "Hyphen is a network of young adults equipped and empowered to be the church. Our Vision: To release young adults to daily impact their church and community.",
+      "link": "https://hyphenonline.org/about"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

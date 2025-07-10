@@ -1,0 +1,26 @@
+{
+  "guest_name": "Lili-Anne Brown",
+  "searched_at": "2025-07-10T15:22:11.727781",
+  "search_results": [
+    {
+      "title": "About",
+      "snippet": "Lili-Anne Brown, a Chicago South Side native, works as a director, actor and educator, and has performed in, directed and produced many award-winning shows.",
+      "link": "https://www.lilbrownchicago.com/about"
+    },
+    {
+      "title": "Lili-Anne Brown",
+      "snippet": "Lili-Anne Brown, a Chicago South Side native, works as a director, actor and educator, and has performed in, directed and produced many award-winning shows.",
+      "link": "https://www.huntingtontheatre.org/bio/lili-anne-brown/"
+    },
+    {
+      "title": "Lili-Anne Brown - Department of Theatre and Dance",
+      "snippet": "Lili-Anne Brown (Director). A native Chicagoan, Brown works as a director, actor and educator, both locally and nationally. In recent years she helmed the ...",
+      "link": "https://arts-sciences.buffalo.edu/theatre-dance/news-and-events/GuestArtists.host.html/content/shared/arts-sciences/theatre-dance/THDGuestArtists/GuestArtists_2023-2024/23-24_UpcomingArtists/Guests-2023-Brown-Theatre.detail.html"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

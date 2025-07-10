@@ -1,0 +1,26 @@
+{
+  "guest_name": "Mike Butcher",
+  "searched_at": "2025-07-10T17:07:35.271680",
+  "search_results": [
+    {
+      "title": "Mike Butcher (journalist)",
+      "snippet": "Mike Butcher MBE is a UK-based journalist and editor-at-large for TechCrunch. He was appointed Member of the Order of the British Empire (MBE) in the 2016 ...",
+      "link": "https://en.wikipedia.org/wiki/Mike_Butcher_(journalist)"
+    },
+    {
+      "title": "About",
+      "snippet": "Mike Butcher MBE is Editor-at-large of TechCrunch. He has been named one of the most influential journalists in European technology and is a regular broadcaster ...",
+      "link": "https://mikebutcher.me/about-2/"
+    },
+    {
+      "title": "Mike Butcher's Biography",
+      "snippet": "Mike Butcher MBE is Editor-at-large of TechCrunch, the biggest breaking news site about the world's hottest tech companies. Mike has been named one of the ...",
+      "link": "https://muckrack.com/mikebutcher/bio"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

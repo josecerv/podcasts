@@ -1,0 +1,26 @@
+{
+  "guest_name": "Heidi",
+  "searched_at": "2025-07-10T15:13:10.271253",
+  "search_results": [
+    {
+      "title": "About Heidi",
+      "snippet": "Heidi is a native Oregonian. She met Jay, her college-sweetheart, while attending Portland Oregon's Multnomah School of the Bible in the late 80s. They became ...",
+      "link": "https://www.heidistjohn.net/about-heidi"
+    },
+    {
+      "title": "Heidi Dening - Speaker, Author, Educator",
+      "snippet": "Heidi Dening is an inspiring keynote speaker, best-selling author and award-winning educator who empowers leaders and their people to build their ...",
+      "link": "https://heididening.com/"
+    },
+    {
+      "title": "Heidi Campbell (professor)",
+      "snippet": "Heidi A. Campbell (born August 26, 1970) is a professor of communications at Texas A&M University. [1] She is known for her work in digital religion.",
+      "link": "https://en.wikipedia.org/wiki/Heidi_Campbell_(professor)"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

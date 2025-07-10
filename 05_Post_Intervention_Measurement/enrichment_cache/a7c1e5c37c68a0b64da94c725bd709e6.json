@@ -1,0 +1,21 @@
+{
+  "guest_name": "Dreyfuss (Bear the Dog)",
+  "searched_at": "2025-07-10T17:02:15.653792",
+  "search_results": [
+    {
+      "title": "TV Q&A with David Inman",
+      "snippet": "... Dreyfuss (Bear the dog). Meanwhile, the movie is \u201cWomen of Valor,\u201d a 1986 made-for-TV film that stars Susan Sarandon, Valerie Mahaffey and \u2013 wait for it ...",
+      "link": "https://www.bostonherald.com/2008/06/15/tv-qa-with-david-inman-2/"
+    },
+    {
+      "title": "Empty Nest (seri\u00e1l 1988-1995)",
+      "snippet": "Dreyfuss (Bear the Dog) \u00b7 Sophia Petrillo (Estelle Getty) \u00b7 Dr. Maxine Douglas (Marsha Warfield) \u00b7 Dr. Harry Weston (Richard Mulligan), Carol Weston (Dinah ...",
+      "link": "https://www.tv-archiv.sk/empty-nest"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

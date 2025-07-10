@@ -1,0 +1,26 @@
+{
+  "guest_name": "Hamas",
+  "searched_at": "2025-07-10T15:04:50.931906",
+  "search_results": [
+    {
+      "title": "Hamas Contained",
+      "snippet": "Hamas Contained, first published in 2018, offers a history of the group, drawing on interviews with organization leaders and their publications.",
+      "link": "https://www.sup.org/books/middle-east-studies/hamas-contained"
+    },
+    {
+      "title": "Understanding Hamas - Helena Cobban & Rami G. Khouri",
+      "snippet": "Across Western mainstream discourse, the Palestinian resistance movement Hamas has been subjected to intense vilification. Branding it as \u201cterrorist\u201d or ...",
+      "link": "https://orbooks.com/catalog/understanding-hamas/"
+    },
+    {
+      "title": "What Is Hamas?",
+      "snippet": "Hamas is an Islamist militant movement that has controlled the Gaza Strip for nearly two decades. It violently rejects the existence of Israel.",
+      "link": "https://www.cfr.org/backgrounder/what-hamas"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

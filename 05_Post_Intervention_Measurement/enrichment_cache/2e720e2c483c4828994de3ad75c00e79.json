@@ -1,0 +1,26 @@
+{
+  "guest_name": "Our guest today has",
+  "searched_at": "2025-07-10T15:06:22.238253",
+  "search_results": [
+    {
+      "title": "By Untangle",
+      "snippet": "A Beginner's Guide to Healing and Growing with Psychedelics. With Matt Zemon. Matt Zemon, our guest today, has a Masters's in Psychology and Neuroscience and ...",
+      "link": "https://creators.spotify.com/pod/profile/untangle-muse/episodes/The-Neurobiology-of-Happiness--Love--Motivation-and-Mood--With-Dr--Tobias-Esch-e25qndf"
+    },
+    {
+      "title": "319: Speaking As Your Side Hustle with Ryan Gottfredson",
+      "snippet": "Our guest today has done just that. Ryan Gottfredson is a leadership professor at Cal State-Fullerton, and his speaking and consulting work ...",
+      "link": "https://thespeakerlab.com/podcast/ryan-gottfredson/"
+    },
+    {
+      "title": "Dr. Ellen Langer on Mindfulness and the Healing Power of ...",
+      "snippet": "Speaker 3 (02:23): It does. Speaker 1 (02:24): And our guest today has done a ton of research on mindfulness. She's way less woo wu than we ...",
+      "link": "https://www.iheart.com/podcast/1119-the-bright-side-149753542/episode/dr-ellen-langer-on-mindfulness-and-205484918/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

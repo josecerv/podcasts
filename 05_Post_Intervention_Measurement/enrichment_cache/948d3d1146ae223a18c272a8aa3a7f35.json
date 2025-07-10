@@ -1,0 +1,26 @@
+{
+  "guest_name": "Sam Mitchell",
+  "searched_at": "2025-07-10T17:04:26.799832",
+  "search_results": [
+    {
+      "title": "Sam Mitchell - Mental Mages Podcast",
+      "snippet": "Sam Mitchell has autism and runs his own podcast called, Autism Rocks and Rolls. He was diagnosed at the age of 4, and today at 20 years old, ...",
+      "link": "https://www.mentalmages.com/guests/sam-mitchell/"
+    },
+    {
+      "title": "Sam Mitchell and What is Normal, Anyways?",
+      "snippet": "I am Sam Mitchell and I am the face of Autism Rocks and Rolls. My advocacy organization started when I was 16 and started a podcast, Autism Rocks and Rolls.",
+      "link": "https://flutiefoundation.org/blog/sam-mitchell-and-what-is-normal-anyways/"
+    },
+    {
+      "title": "Sam Mitchell: books, biography, latest update",
+      "snippet": "Follow Sam Mitchell and explore their bibliography from Amazon's Sam Mitchell Author Page.",
+      "link": "https://www.amazon.com/stores/author/B001KMJZ6M"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

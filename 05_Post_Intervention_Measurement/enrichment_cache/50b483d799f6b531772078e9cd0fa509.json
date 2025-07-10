@@ -1,0 +1,26 @@
+{
+  "guest_name": "Valentino",
+  "searched_at": "2025-07-10T16:12:34.151624",
+  "search_results": [
+    {
+      "title": "Nicholas Valentino",
+      "snippet": "Nicholas A. Valentino is an American political scientist. He currently serves as a principal investigator of the American National Election Studies (ANES).",
+      "link": "https://en.wikipedia.org/wiki/Nicholas_Valentino"
+    },
+    {
+      "title": "Nicholas A. Valentino | U-M LSA Political Science",
+      "snippet": "Nicholas A. Valentino is the Donald R. Kinder Collegiate Professor of Political Science and Research Professor in the Center for Political Studies at the ...",
+      "link": "https://lsa.umich.edu/polisci/people/faculty/nvalenti.html"
+    },
+    {
+      "title": "Valentino | Biography, Designs, & Facts",
+      "snippet": "Valentino (born May 11, 1932, Voghera, Italy) is an Italian fashion designer known for garments in his trademark \u201cValentino red\u201d (rosso ...",
+      "link": "https://www.britannica.com/biography/Valentino"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

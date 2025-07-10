@@ -1,0 +1,26 @@
+{
+  "guest_name": "Adonis",
+  "searched_at": "2025-07-10T17:07:10.722071",
+  "search_results": [
+    {
+      "title": "Adonis (poet)",
+      "snippet": "Ali Ahmad Said Esber also known by the pen name Adonis or Adunis is a Syrian poet, essayist and translator. Maya Jaggi, writing for The Guardian stated \"He ...",
+      "link": "https://en.wikipedia.org/wiki/Adonis_(poet)"
+    },
+    {
+      "title": "Adonis",
+      "snippet": "Adonis was born Ali Ahmed Said in the village of Al Qassabin in Syria, in 1930, to a family of farmers, the oldest of six children.",
+      "link": "https://poets.org/poet/adonis"
+    },
+    {
+      "title": "Adonis Lenzy | Official Website",
+      "snippet": "Adonis Lenzy is an author, speaker, and pastor who enjoys speaking to people from all walks and stages of life, inspiring them to live the life they have ...",
+      "link": "https://www.adonislenzy.com/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

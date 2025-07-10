@@ -1,0 +1,26 @@
+{
+  "guest_name": "Mitch",
+  "searched_at": "2025-07-10T15:56:44.063722",
+  "search_results": [
+    {
+      "title": "About - Mitch Albom",
+      "snippet": "Mitch Albom is an internationally renowned and best-selling author, journalist, screenwriter, playwright, radio and television broadcaster and musician.",
+      "link": "https://www.mitchalbom.com/about/"
+    },
+    {
+      "title": "Mitch Albom",
+      "snippet": "Mitch Albom ; (1958-05-23) May 23, 1958 (age 67) \u00b7 Passaic, New Jersey, U.S. \u00b7 Novelist \u00b7 sports journalist \u00b7 radio talk show host \u00b7 musician \u00b7 Brandeis University ...",
+      "link": "https://en.wikipedia.org/wiki/Mitch_Albom"
+    },
+    {
+      "title": "Mitch Matthews ~ Keynote Speaker, Success Coach, Best ...",
+      "snippet": "Mitch Matthews is a keynote speaker, success coach, and best-selling author. He's become a well-respected thought leader in coaching and work-place ...",
+      "link": "https://mitchmatthews.com/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

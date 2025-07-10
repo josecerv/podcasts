@@ -1,0 +1,26 @@
+{
+  "guest_name": "Keith",
+  "searched_at": "2025-07-10T17:30:42.794656",
+  "search_results": [
+    {
+      "title": "About Keith Hawkins",
+      "snippet": "Discover the inspiring story of Keith Hawkins and how he overcame adversity to become an international speaker, author, and leadership expert.",
+      "link": "https://keithhawkins.com/about/about-keith-hawkins/"
+    },
+    {
+      "title": "Michael C. Keith",
+      "snippet": "Keith (born 1945 in Albany, New York) is an American media historian and author. He has served as a faculty member of the Boston College Communication ...",
+      "link": "https://en.wikipedia.org/wiki/Michael_C._Keith"
+    },
+    {
+      "title": "Home - Keith Edwards PhD - Speaker Author Coach",
+      "snippet": "Leaders and organizations turn to Keith as an authentic educator, trusted leader, and unconventional scholar helping them advance leadership, learning, and ...",
+      "link": "https://keithedwards.com/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

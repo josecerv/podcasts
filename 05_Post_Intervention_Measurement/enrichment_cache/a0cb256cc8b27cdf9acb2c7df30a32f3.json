@@ -1,0 +1,26 @@
+{
+  "guest_name": "Street Professor",
+  "searched_at": "2025-07-10T16:24:08.157800",
+  "search_results": [
+    {
+      "title": "Brian Street (Inducted 2016)",
+      "snippet": "Brian Vincent Street, professor emeritus at King's College London and visiting professor at the University of Pennsylvania, died on June 21, 2017.",
+      "link": "https://www.readinghalloffame.org/node/638"
+    },
+    {
+      "title": "chris street - Professor - California State University, Fullerton",
+      "snippet": "Dr. Chris Street is a Professor of Secondary Education at Cal State Fullerton, where he directed the masters program in secondary education for two decades.",
+      "link": "https://www.linkedin.com/in/chris-street-981641b6"
+    },
+    {
+      "title": "Jack D. Street, Professor Emeritus of French",
+      "snippet": "Street, Professor Emeritus of French ... Professor Emeritus of Modern Languages and Literatures Jack Street was a Beloit treasure \u2014 a teacher and ...",
+      "link": "https://www.beloit.edu/live/news/3691-in-remembrance-jack-d-street-professor-emeritus-of"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

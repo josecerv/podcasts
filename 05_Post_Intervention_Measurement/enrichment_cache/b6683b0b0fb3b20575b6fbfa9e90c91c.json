@@ -1,0 +1,26 @@
+{
+  "guest_name": "Jacqui",
+  "searched_at": "2025-07-10T15:50:14.827505",
+  "search_results": [
+    {
+      "title": "About Jacqui",
+      "snippet": "The Rev. Dr. Jacqui Lewis uses her gifts as author, activist, preacher, and public theologian toward creating an antiracist, just, gun violence free, fully ...",
+      "link": "https://jacquilewis.com/about/"
+    },
+    {
+      "title": "Jacqui Burnett: Dare to Be Love Author, Speaker and Spiritual ...",
+      "snippet": "\u201cJacqui comes up with innovative ways of engaging with people given that she is always aware of her surroundings. During her recent talk with the first years, ...",
+      "link": "https://jacquiburnett.com/"
+    },
+    {
+      "title": "About Jacqui",
+      "snippet": "Jacqui Murray has been teaching K-18 technology for 30 years. She is the editor/author of over a hundred tech ed resources.",
+      "link": "https://jacquimurray.net/work-with-me/about/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

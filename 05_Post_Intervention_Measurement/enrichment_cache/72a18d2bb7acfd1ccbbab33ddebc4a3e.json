@@ -1,0 +1,26 @@
+{
+  "guest_name": "King Libertarin",
+  "searched_at": "2025-07-10T16:08:38.145291",
+  "search_results": [
+    {
+      "title": "Bob King",
+      "snippet": "Bob King (Libertarian Party) ran for election to the US House to represent Texas' 21st Congressional District. He lost in the general election on November 5, ...",
+      "link": "https://ballotpedia.org/Bob_King"
+    },
+    {
+      "title": "Bob King's Post",
+      "snippet": "Meet Bob King, Libertarian Candidate for Congress in Texas' 21st Congressional District. https://www.youtube.com/. 14 3 Comments \u00b7 Like Comment.",
+      "link": "https://www.linkedin.com/posts/bobking84_meet-bob-king-libertarian-candidate-for-activity-7161068068482248704-h6f3"
+    },
+    {
+      "title": "Q&A: Hook, King looking to unseat Congressional District ...",
+      "snippet": "Bob King, Libertarian. Q: What platform issues are you the most passionate about? A: The two major parties have completely abdicated any ...",
+      "link": "https://herald-zeitung.com/news/q-a-hook-king-looking-to-unseat-congressional-district-21-representative-chip-roy/article_48f57140-97a5-11ef-bd69-f36d2e15d4dd.html"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

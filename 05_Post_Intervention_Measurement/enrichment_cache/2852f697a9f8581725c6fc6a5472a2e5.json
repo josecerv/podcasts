@@ -1,0 +1,26 @@
+{
+  "guest_name": "Ash",
+  "searched_at": "2025-07-10T16:03:22.707346",
+  "search_results": [
+    {
+      "title": "Timothy Garton Ash",
+      "snippet": "Timothy Garton Ash CMG FRSA FRHistS FRSL (born 12 July 1955) is a British historian, author and commentator. He is Professor of European Studies at the ...",
+      "link": "https://en.wikipedia.org/wiki/Timothy_Garton_Ash"
+    },
+    {
+      "title": "Christopher Ash",
+      "snippet": "Christopher Ash is a preacher, teacher, and writer. After working in telecommunications and as a teacher of maths, Christopher studied theology at Oxford.",
+      "link": "https://tyndalehouse.com/about/staff/christopher-ash/"
+    },
+    {
+      "title": "Writer \u2014 Ash Davidson",
+      "snippet": "Ash Davidson is the author of the novel, Damnation Spring, about logging and herbicide contamination in the redwoods in the 1970s.",
+      "link": "https://www.ashdavidson.net/about"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Aura",
+  "searched_at": "2025-07-10T16:28:16.043448",
+  "search_results": [
+    {
+      "title": "Aura (novel)",
+      "snippet": "Aura is a short novel written by Mexican novelist Carlos Fuentes, first published in 1962 in Mexico. This novel is considered as magic realism literary fiction.",
+      "link": "https://en.wikipedia.org/wiki/Aura_(novel)"
+    },
+    {
+      "title": "Aura - Prestige Club - Take Your Sexy Escape Behind ...",
+      "snippet": "With ultra modern design, luxurious amenities and penthouse suites, Aura is the ultimate destination for adult couples.",
+      "link": "http://www.verycoolrooms.com/aura.aspx"
+    },
+    {
+      "title": "About Us | Aura - Digital Security",
+      "snippet": "Learn about Aura's mission of creating a safer internet for everyone. We're building a digital security suite that's simple to understand and easy to use.",
+      "link": "https://www.aura.com/about"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

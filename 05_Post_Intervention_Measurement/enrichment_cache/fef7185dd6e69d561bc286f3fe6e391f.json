@@ -1,0 +1,26 @@
+{
+  "guest_name": "Orlando",
+  "searched_at": "2025-07-10T16:21:09.807150",
+  "search_results": [
+    {
+      "title": "Orlando: A Biography",
+      "snippet": "Orlando: A Biography is a novel by Virginia Woolf, first published on 11 October 1928, inspired by the tumultuous family history of the aristocratic poet.",
+      "link": "https://en.wikipedia.org/wiki/Orlando:_A_Biography"
+    },
+    {
+      "title": "Orlando Figes",
+      "snippet": "Orlando Guy Figes is a British and German historian and writer. He was a professor of history at Birkbeck College, University of London, where he was made ...",
+      "link": "https://en.wikipedia.org/wiki/Orlando_Figes"
+    },
+    {
+      "title": "Orlando: Virginia Woolf and Orlando Background",
+      "snippet": "Orlando, Virginia Woolf's sixth major novel, is a fantastic historical biography, which spans almost 400 years in the lifetime of its protagonist.",
+      "link": "https://www.sparknotes.com/lit/orlando/context/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

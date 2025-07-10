@@ -1,0 +1,26 @@
+{
+  "guest_name": "Yael",
+  "searched_at": "2025-07-10T15:49:50.603027",
+  "search_results": [
+    {
+      "title": "Dr. Yael Schonbrun | Clinical Psychologist | Author | Speaker",
+      "snippet": "Dr. Yael Schonbrun a practicing clinical psychologist, writer, and faculty at Brown University. She writes and speaks with the aim of translating science ...",
+      "link": "https://www.yaelschonbrun.com/"
+    },
+    {
+      "title": "Yael Niv",
+      "snippet": "Yael Niv (Hebrew: \u05d9\u05e2\u05dc \u05e0\u05d9\u05d1) is a neuroscientist who studies human and animal reinforcement learning and decision making. She is Professor of Psychology and ...",
+      "link": "https://en.wikipedia.org/wiki/Yael_Niv"
+    },
+    {
+      "title": "Yael Schonbrun, Author at ParentData by Emily Oster",
+      "snippet": "Yael is a practicing clinical psychologist, an assistant professor at Brown University, a relationship specialist, and a mom of three. She is the author of Work ...",
+      "link": "https://parentdata.org/author/yaelschonbrun/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

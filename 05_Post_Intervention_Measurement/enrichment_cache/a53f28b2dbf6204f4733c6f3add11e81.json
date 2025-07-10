@@ -1,0 +1,26 @@
+{
+  "guest_name": "Lisa Brooks",
+  "searched_at": "2025-07-10T15:45:46.127870",
+  "search_results": [
+    {
+      "title": "Lisa Brooks",
+      "snippet": "Lisa Brooks is a historian, writer, and professor of English and American studies at Amherst College in Massachusetts where she specializes in the history ...",
+      "link": "https://en.wikipedia.org/wiki/Lisa_Brooks"
+    },
+    {
+      "title": "Brooks, Lisa | Faculty & Staff",
+      "snippet": "Brooks, Lisa. Lisa Brooks. American Studies, English. Winthrop H. Smith 1916 Professor of American Studies and English (On Leave 7/1/2025 - 12/31/2025).",
+      "link": "https://www.amherst.edu/people/facstaff/lbrooks"
+    },
+    {
+      "title": "Our Beloved Kin by Professor Lisa Brooks",
+      "snippet": "Lisa Brooks is an Abenaki writer and scholar \u2013 her father's family is from the upper Missisquoi River (in northern Vermont) and the Pemigewasset River (in ...",
+      "link": "https://www.amherst.edu/alumni/learn/amherstreads/pastfeatures/2018-features/april-2018-our-beloved-kin-by-professor-lisa-brooks/about-the-author"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

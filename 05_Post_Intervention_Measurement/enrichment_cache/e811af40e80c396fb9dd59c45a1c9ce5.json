@@ -1,0 +1,26 @@
+{
+  "guest_name": "Hen",
+  "searched_at": "2025-07-10T16:45:15.552674",
+  "search_results": [
+    {
+      "title": "Yitzhak Hen",
+      "snippet": "Yitzhak Hen (Hebrew: \u05d9\u05e6\u05d7\u05e7 \u05d7\u05df; born 1963) is Anna and Sam Lopin Professor of History, formerly at Ben-Gurion University of the Negev (Israel).",
+      "link": "https://en.wikipedia.org/wiki/Yitzhak_Hen"
+    },
+    {
+      "title": "Ren\u00e9 Hen, Ph.D.",
+      "snippet": "Dr. Ren\u00e9 Hen was born in Strasbourg, France, and received his Ph.D. from University Louis Pasteur under the mentorship of Pierre Chambon.",
+      "link": "https://bbrfoundation.org/about/people/ren%C3%A9-hen-phd"
+    },
+    {
+      "title": "Ren\u00e9 Hen",
+      "snippet": "Ren\u00e9 Hen was born in Strasbourg, France, and received his Ph.D. from Universit\u00e9 Louis-Pasteur under the mentorship of Pierre Chambon.",
+      "link": "https://www.simonsfoundation.org/people/rene-hen/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Unknown 29-year-old French woman",
+  "searched_at": "2025-07-10T15:51:39.938722",
+  "search_results": [
+    {
+      "title": "Biography | Content Section | Literary Review | Page 19",
+      "snippet": "Lucie Aubrac was a young French woman who became an instant celebrity in 1944 when she was flown out of France by the RAF and identified by the BBC as the ...",
+      "link": "https://literaryreview.co.uk/content_section_tx/biography/page/19"
+    },
+    {
+      "title": "Life Story: Edith Wharton",
+      "snippet": "Edith Newbold Jones was born on January 24, 1862, in New York City. Her father, George, earned his income from real estate. Her mother, Lucretia, was born ...",
+      "link": "https://wams.nyhistory.org/industry-and-empire/labor-and-industry/edith-wharton/"
+    },
+    {
+      "title": "Biographies of Remarkable Women That You Need to Read",
+      "snippet": "From pioneers and political dissidents to inventors and astrophysicists, the biographies of these historical female figures deserve a spot on your must-read ...",
+      "link": "https://explorethearchive.com/biographies-of-famous-women"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

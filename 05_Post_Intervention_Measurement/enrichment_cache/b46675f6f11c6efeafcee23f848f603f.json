@@ -1,0 +1,26 @@
+{
+  "guest_name": "Dr. Prince",
+  "searched_at": "2025-07-10T17:14:44.835585",
+  "search_results": [
+    {
+      "title": "Dr. Alice Prince",
+      "snippet": "With over 15 years of experience in ministry, education, and public speaking, Dr. Prince brings the Gospel to life in a way that is both accessible and ...",
+      "link": "https://catholicspeakers.com/profiles/dr-alice-prince"
+    },
+    {
+      "title": "Dr. Lucretia Prince: Home",
+      "snippet": "Meet speaker, author, entrepreneur, and educator Dr. Lucretia Prince. Dr. Prince is a fearless transformation leader that reminds her audience that it's okay ...",
+      "link": "https://www.drlucretiaprince.com/"
+    },
+    {
+      "title": "Dr. Greg Prince - The Life of a Faithful Mormon Scientist ...",
+      "snippet": "Dr. Prince has not only made important contributions to science, but also to mormon history (even without any apparent formal historical training!). Bushman has ...",
+      "link": "https://www.mormonstories.org/greg-prince-faithful-mormon-scientist-and-historian/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

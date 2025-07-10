@@ -1,0 +1,26 @@
+{
+  "guest_name": "Heath",
+  "searched_at": "2025-07-10T15:45:51.242582",
+  "search_results": [
+    {
+      "title": "About The Authors",
+      "snippet": "Dan Heath is the co-author, along with his brother Chip, of four New York Times bestsellers: Decisive, Switch, Made to Stick, and The Power of Moments.",
+      "link": "https://heathbrothers.com/about/"
+    },
+    {
+      "title": "Dan Heath",
+      "snippet": "Dan Heath is an American bestselling author, speaker and fellow at Duke University's CASE center. He, along with his brother Chip Heath, has co-authored ...",
+      "link": "https://en.wikipedia.org/wiki/Dan_Heath"
+    },
+    {
+      "title": "Elaine A Heath | Author | Speaker | Retreat Leader ...",
+      "snippet": "Heath is a revered teacher and leader with an incredible capacity to reach out to people across diverse theological frameworks and various cultural backgrounds.",
+      "link": "https://www.elaineaheath.org/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

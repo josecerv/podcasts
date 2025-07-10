@@ -1,0 +1,26 @@
+{
+  "guest_name": "Good Good Golf",
+  "searched_at": "2025-07-10T17:22:57.225441",
+  "search_results": [
+    {
+      "title": "Good Good Golf is the Boy Band of the Links",
+      "snippet": "Good Good Golf, a group of twentysomething guys sparking a revolution at the intersection of golf and media.",
+      "link": "https://www.dmagazine.com/publications/d-magazine/2024/april/good-good-golf-is-the-boy-band-of-the-links/"
+    },
+    {
+      "title": "The Rise Of Good Good | A Short Golf Documentary",
+      "snippet": "Can We Beat Bryson & Garrett in a Golf Match? \u00b7 New 1.7M views ; The Full Story of Good Good Golf. Colin and Samir \u00b7 379K views ; What Happened To ...",
+      "link": "https://www.youtube.com/watch?v=VcLixrWfjTU&pp=ygUOI2dyYW50a2VuZHJpY2s%3D"
+    },
+    {
+      "title": "Golf Bio: Brad Dalke (Good Good Golf)",
+      "snippet": "... Good Good Golf. Born on August 19, 1997, in Yukon, Oklahoma, Dalke showcased his golfing prowess early on, securing victories such as the ...",
+      "link": "https://www.youtube.com/watch?v=kwvXPjHri_o"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

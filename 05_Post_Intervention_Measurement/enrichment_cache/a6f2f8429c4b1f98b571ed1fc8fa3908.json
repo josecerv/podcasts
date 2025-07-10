@@ -1,0 +1,26 @@
+{
+  "guest_name": "O'Leary",
+  "searched_at": "2025-07-10T16:03:04.007736",
+  "search_results": [
+    {
+      "title": "John's Story",
+      "snippet": "My name is John O'Leary. I'm married to my beautiful wife, Beth, and we're raising four wonderful kids together. I'm a college graduate. I own a business.",
+      "link": "https://johnolearyinspires.com/johns-story/"
+    },
+    {
+      "title": "John O'Leary Bio | Book for Speaking Engagements",
+      "snippet": "John O'Leary Speaker Biography. In 1987, John O'Leary was a curious nine-year-old boy. Playing with fire and gasoline, John created a massive explosion in ...",
+      "link": "https://www.executivespeakers.com/speaker/john-o-leary"
+    },
+    {
+      "title": "John O'Leary: Home",
+      "snippet": "Being out of bed doesn't mean you're awake, however there is hope. See how John O'Leary can you help become not only awake, but alive.",
+      "link": "https://johnolearyinspires.com/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

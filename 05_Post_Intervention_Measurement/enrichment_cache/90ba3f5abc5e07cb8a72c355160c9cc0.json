@@ -1,0 +1,26 @@
+{
+  "guest_name": "Attending ER Physician",
+  "searched_at": "2025-07-10T15:09:04.678788",
+  "search_results": [
+    {
+      "title": "BronxCare: Robert Favelukes, M.D.",
+      "snippet": "Biography. As ... Following graduation, he served as an attending ER physician at Maimonides Medical Center and Lutheran Medical Center in Brooklyn.",
+      "link": "https://www.bronxcare.org/physicians/find-a-physician/detail/robert-favelukes"
+    },
+    {
+      "title": "Becoming An Attending",
+      "snippet": "In this episode of Becoming an Attending, ER physician Dr. Fred Kency Jr. joins financial advisor Yohance Harrison to talk about burnout, financial ...",
+      "link": "https://podcast.becominganattending.com/"
+    },
+    {
+      "title": "Hillmann Batuo, M.D's Post",
+      "snippet": "(Age 27-30) - The ER Physician years: As an attending ER physician, I found immense joy and satisfaction in my work. I loved my job, my life ...",
+      "link": "https://www.linkedin.com/posts/hillmann-batuo-m-d-14764711b_findyourpath-lifelonglearning-makeadifference-activity-7278363994023727104-R7vE"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

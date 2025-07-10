@@ -1,0 +1,26 @@
+{
+  "guest_name": "Ohio Woman",
+  "searched_at": "2025-07-10T17:05:49.430216",
+  "search_results": [
+    {
+      "title": "Ohio Woman (Ohio Writer's Series #4) by Philip F. O'Connor",
+      "snippet": "Ohio Woman. Philip F. O'Connor ... About the author. Profile Image for Philip F. O'Connor. Philip F. O'Connor. 9 books. Follow. Follow. Philip F. O'Connor (1932 ...",
+      "link": "https://www.goodreads.com/book/show/3272210-ohio-woman"
+    },
+    {
+      "title": "Ohio Women's Hall of Fame - Ohio ...",
+      "snippet": "She is a prolific author and speaker on trade, education, workforce, business and social issues. ... Ohio Woman of the Year, Chamber of Commerce Person of the ...",
+      "link": "https://www.ohiohistory.org/research/archives-library/state-archives/ohio-womens-hall-of-fame/"
+    },
+    {
+      "title": "Author's book details NE Ohio woman's creation of Tiffany ...",
+      "snippet": "Author's book details NE Ohio woman's creation of Tiffany lamps ... What you might not know is without the foresight, vision and work from a young ...",
+      "link": "https://www.cleveland.com/entertainment/2025/06/authors-book-details-ne-ohio-womans-creation-of-tiffany-lamps.html"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

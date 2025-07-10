@@ -1,0 +1,26 @@
+{
+  "guest_name": "Jude",
+  "searched_at": "2025-07-10T14:54:31.140581",
+  "search_results": [
+    {
+      "title": "About Jude",
+      "snippet": "Raised on a farm in rural Illinois near the Quad Cities, Jude Atwood treasured the long drives into town for groceries and library books.",
+      "link": "https://judeatwood.tv/about-me/"
+    },
+    {
+      "title": "Jude Guaitamacchi \u2013 Keynote Speaker",
+      "snippet": "Award winning motivational speaker and campaigner Jude Guaitamacchi has worked with global audiences for over a decade, delivering talks on mental health,",
+      "link": "https://us.londonspeakerbureau.com/speaker-profile/jude-guaitamacchi/"
+    },
+    {
+      "title": "Jude Watson",
+      "snippet": "Judy Blundell, pseudonym Jude Watson, is an American author of books for middle grade, young adult, and adult readers. She won the annual National Book ...",
+      "link": "https://en.wikipedia.org/wiki/Jude_Watson"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

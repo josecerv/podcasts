@@ -1,0 +1,26 @@
+{
+  "guest_name": "Mariah May",
+  "searched_at": "2025-07-10T17:25:52.680143",
+  "search_results": [
+    {
+      "title": "Mariah May",
+      "snippet": "Mariah May Mead (born 4 August 1998) is an English professional wrestler. As of June 2025 [update] , she is signed to WWE, where she performs on the NXT brand.",
+      "link": "https://en.wikipedia.org/wiki/Mariah_May"
+    },
+    {
+      "title": "MARIAH MAY: The Rise of a Wrestling Superstar. A Powerful ...",
+      "snippet": "MARIAH MAY: An inspiring journey from humble beginnings to the global stage of professional wrestling. From her early days in London to headlining in some ...",
+      "link": "https://www.amazon.com/MARIAH-MAY-Superstar-Perseverance-Recognition/dp/B0FC2QN55G"
+    },
+    {
+      "title": "Mariah May - Biography",
+      "snippet": "Mariah May. Actress: AEW Collision. Mariah May is known for AEW Collision (2023), AEW Dynamite (2019) and AEW Rampage (2021).",
+      "link": "https://www.imdb.com/name/nm7049372/bio/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

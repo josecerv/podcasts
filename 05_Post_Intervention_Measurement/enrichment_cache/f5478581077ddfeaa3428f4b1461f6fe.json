@@ -1,0 +1,26 @@
+{
+  "guest_name": "Zenan",
+  "searched_at": "2025-07-10T15:24:40.162971",
+  "search_results": [
+    {
+      "title": "About",
+      "snippet": "Hi! My name is Zenan (\u6cfd\u5357) Chen (\u9648), I usually go by Alan. I am an assistant professor at University of Texas at Dallas, Jindal School of Management.",
+      "link": "https://zenan.ch/about"
+    },
+    {
+      "title": "Zenan (Alan) Chen - Carlson School of Management",
+      "snippet": "Zenan \"Alan\" Chen, final-year Ph.D. candidate at Carlson School of Management, researches societal impacts of digital tools like large language models and.",
+      "link": "https://carlsonschool.umn.edu/faculty/zenan-alan-chen"
+    },
+    {
+      "title": "Zenan Zhou - ASU Search - Arizona State University",
+      "snippet": "Zenan Zhou is an assistant professor in the Department of Supply Chain Management. His research examines the impact of information technology and innovation ...",
+      "link": "https://search.asu.edu/profile/3283287"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

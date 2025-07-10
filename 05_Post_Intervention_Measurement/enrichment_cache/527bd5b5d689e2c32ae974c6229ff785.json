@@ -1,0 +1,26 @@
+{
+  "guest_name": "John",
+  "searched_at": "2025-07-10T15:18:09.075608",
+  "search_results": [
+    {
+      "title": "Bio - John Astin",
+      "snippet": "Along with his teaching, writing and music, John holds a PhD in health psychology and is an internationally acclaimed scholar in the field of mind-body medicine ...",
+      "link": "https://www.johnastin.com/bio"
+    },
+    {
+      "title": "About Me - John Spencer",
+      "snippet": "Hi, I'm John Spencer. I'm a former middle school teacher and current college professor on a quest to transform schools into bastions of creativity and wonder. I ...",
+      "link": "https://spencereducation.com/about-me/"
+    },
+    {
+      "title": "John O'Leary Bio | Book for Speaking Engagements",
+      "snippet": "John inspires nearly 75,000 people at 100+ events each year. He speaks to companies and organizations across industries, such as sales, healthcare, business, ...",
+      "link": "https://www.executivespeakers.com/speaker/john-o-leary"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

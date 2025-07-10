@@ -1,0 +1,26 @@
+{
+  "guest_name": "Coach",
+  "searched_at": "2025-07-10T16:03:40.505637",
+  "search_results": [
+    {
+      "title": "coach-story",
+      "snippet": "Coach is a global fashion house founded in New York in 1941. Inspired by the vision of Creative Director Stuart Vevers and the inclusive and courageous spirit ...",
+      "link": "https://www.coach.com/coach-story.html"
+    },
+    {
+      "title": "Speaker.Coach",
+      "snippet": "Elizabeth Van Den Bergh is an independent international speaker coach. Discover her Online Program, Group Training and Private Coaching.",
+      "link": "https://speaker.coach/"
+    },
+    {
+      "title": "Brett Bartholomew: Performance Coach, Author and Keynote ...",
+      "snippet": "Brett Bartholomew is a Performance Coach, Author, Speaker and Founder of the leadership development company, Art of Coaching\u2122",
+      "link": "https://brettbartholomew.net/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

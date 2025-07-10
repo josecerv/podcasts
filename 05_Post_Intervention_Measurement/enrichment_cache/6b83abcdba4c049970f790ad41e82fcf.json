@@ -1,0 +1,26 @@
+{
+  "guest_name": "Mr. X",
+  "searched_at": "2025-07-10T15:45:38.599632",
+  "search_results": [
+    {
+      "title": "Explore Mr. X: Home",
+      "snippet": "CANNABIS INSPIRED BY THE COSMOS. Paying tribute to the late, great Carl Sagan and his essay on cannabis under the pen name \u201cMr. X.\u201d.",
+      "link": "https://exploremrx.com/"
+    },
+    {
+      "title": "Mr. X: books, biography, latest update",
+      "snippet": "Mr. X and his wife live in a sunny, exotic country. As a \"secret admirer\" he e-mails her sexual dares. She responds with often unexpected results, ...",
+      "link": "https://www.amazon.com/Mr.-X/e/B00699TKB6"
+    },
+    {
+      "title": "List of books by author Mr. X",
+      "snippet": "Looking for books by Mr. X? See all books authored by Mr. X, including More golf lessons with Mr. X, and Sex and the Sixty-Something Guy: Online Post to Bed ...",
+      "link": "https://www.thriftbooks.com/a/mr-x/522941/?srsltid=AfmBOorINoFTHjGCgj4Hf2HLYpmRO4T6Q05QlQlaeTSRjRldFHV_R_s_"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Dr. Ma",
+  "searched_at": "2025-07-10T17:38:08.646800",
+  "search_results": [
+    {
+      "title": "Ping Ma, PhD - Texas A&M School of Public Health",
+      "snippet": "Dr. Ma is an Associate Professor in the Department of Health Behavior at the Texas A&M School of Public Health. She has educational background in community ...",
+      "link": "https://public-health.tamu.edu/directory/ma.html"
+    },
+    {
+      "title": "Dr. Wonsuk Ma",
+      "snippet": "Dr. Ma is a Korean Pentecostal scholar who spent most of his career life in four countries. His first theological study was at Hansei University.",
+      "link": "https://oru.edu/faculty/cotm/dr-wonsuk-ma.php"
+    },
+    {
+      "title": "Dr. K.C. Ma | Faculty",
+      "snippet": "Dr. Ma is a Charted Financial Analyst, he is the Editor of International Journal of Business, the President of KCM Asset Management, KCM Capital, and KCM ...",
+      "link": "https://uwf.edu/lbjcob/departments/accounting-and-finance/faculty/dr-kc-ma.html"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

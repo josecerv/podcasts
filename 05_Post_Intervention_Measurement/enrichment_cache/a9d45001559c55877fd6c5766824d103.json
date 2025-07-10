@@ -1,0 +1,26 @@
+{
+  "guest_name": "Yanyi",
+  "searched_at": "2025-07-10T15:57:36.675954",
+  "search_results": [
+    {
+      "title": "Yanyi",
+      "snippet": "Yanyi is an American poet and critic. He won the Yale Series of Younger Poets Prize in 2018 for his first book, The Year of Blue Water.",
+      "link": "https://en.wikipedia.org/wiki/Yanyi"
+    },
+    {
+      "title": "About Yanyi",
+      "snippet": "Yanyi is the author of Dream of the Divided Field (One World 2022) and The Year of Blue Water (Yale 2019), winner of the 2018 Yale Series of Younger Poets ...",
+      "link": "https://yanyiii.com/bio/"
+    },
+    {
+      "title": "Yanyi",
+      "snippet": "Yanyi is the author of Dream of the Divided Field (One World, 2022) and The Year of Blue Water (Yale University Press, 2019), winner of the Yale Series of ...",
+      "link": "https://poets.org/poet/yanyi"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

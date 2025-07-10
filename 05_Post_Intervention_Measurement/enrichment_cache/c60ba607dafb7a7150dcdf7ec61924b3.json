@@ -1,0 +1,26 @@
+{
+  "guest_name": "Todd",
+  "searched_at": "2025-07-10T14:58:22.705474",
+  "search_results": [
+    {
+      "title": "About Todd Henry - Keynote speaker, author, advisor",
+      "snippet": "Todd Henry is the author of seven books, an international keynote speaker, and advisor. He helps creative leaders and teams to be brave, focused, ...",
+      "link": "https://www.toddhenry.com/about"
+    },
+    {
+      "title": "About Todd Dewett",
+      "snippet": "Todd has given over 1000 professional speeches, including four TEDx talks, and countless talks for corporate events and conferences, as well as many nonprofits.",
+      "link": "https://www.drdewett.com/meet-todd/about/"
+    },
+    {
+      "title": "Todd Buchholz | Economist, Keynote Speaker, & Best ...",
+      "snippet": "A renowned economist and thought leader whose works are read around the world, Todd Buchholz has guided presidents, prime ministers, and CEOs.",
+      "link": "https://www.toddbuchholz.com/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

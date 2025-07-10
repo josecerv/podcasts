@@ -1,0 +1,26 @@
+{
+  "guest_name": "Priscilla",
+  "searched_at": "2025-07-10T16:54:43.434507",
+  "search_results": [
+    {
+      "title": "Priscilla Shirer",
+      "snippet": "Priscilla Shirer (born December 31, 1974) is an American author, motivational speaker, actress, and Christian media personality, and evangelist.",
+      "link": "https://en.wikipedia.org/wiki/Priscilla_Shirer"
+    },
+    {
+      "title": "Get to Know Priscilla",
+      "snippet": "A graduate of Dallas Theological Seminary, Priscilla holds a Master's degree in Biblical Studies and considers it a privilege to serve believers from every ...",
+      "link": "https://www.goingbeyond.com/ministry/biography/"
+    },
+    {
+      "title": "About Priscilla Gilman",
+      "snippet": "Priscilla Gilman is a former professor of English literature at both Yale University and Vassar College and the author of The Anti-Romantic Child.",
+      "link": "https://www.priscillagilman.com/about"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

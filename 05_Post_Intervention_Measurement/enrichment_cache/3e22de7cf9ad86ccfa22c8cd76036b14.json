@@ -1,0 +1,26 @@
+{
+  "guest_name": "Eleanor",
+  "searched_at": "2025-07-10T16:50:30.570128",
+  "search_results": [
+    {
+      "title": "Eleanor: 9781439192016: Michaelis, David: Books",
+      "snippet": "David Michaelis chronicles Miss Eleanor's life with engaging insights. Our author allows we readers a glimpse into one of the more complicated marital ...",
+      "link": "https://www.amazon.com/Eleanor-David-Michaelis/dp/1439192014"
+    },
+    {
+      "title": "Eleanor Henderson",
+      "snippet": "Eleanor Henderson grew up in Florida and has taught in the Department of Writing since 2010. Her latest book is the memoir Everything I Have Is Yours: A ...",
+      "link": "https://www.ithaca.edu/faculty/ehenderson"
+    },
+    {
+      "title": "Biography: Eleanor Roosevelt",
+      "snippet": "Eleanor Roosevelt grew up to become one of the most important and beloved First Ladies, authors, reformers, and female leaders of the 20th century.",
+      "link": "https://www.womenshistory.org/education-resources/biographies/eleanor-roosevelt"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

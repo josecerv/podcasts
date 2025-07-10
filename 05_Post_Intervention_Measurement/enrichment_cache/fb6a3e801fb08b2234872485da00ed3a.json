@@ -1,0 +1,26 @@
+{
+  "guest_name": "Scottie",
+  "searched_at": "2025-07-10T15:37:30.773551",
+  "search_results": [
+    {
+      "title": "Scottie May, Ph.D.",
+      "snippet": "Scottie May, Ph.D. Associate Professor of Christian Formation and Ministry ... Biography. Nothing excites me more than to come alongside the church ...",
+      "link": "https://www.wheaton.edu/academics/departments/christian-formation-and-ministry/faculty-emeriti/scottie-may/"
+    },
+    {
+      "title": "Scottie Andrew (@scottieandrew) / X",
+      "snippet": "... woman // she/her. Atlanta, GA cnn.com/profiles/scott\u2026 Joined January 2016. 411 Following \u00b7 947 Followers \u00b7 Posts \u00b7 Replies \u00b7 Media. Scottie Andrew's posts.",
+      "link": "https://x.com/scottieandrew?lang=en"
+    },
+    {
+      "title": "Scottie Buehler, CPM, Ph.D.",
+      "snippet": "Biography: Scottie Buehler is a midwife turned historian of medicine. She situates her research at the nexus of the medicine, gender studies, material ...",
+      "link": "https://www.shsu.edu/academics/history/faculty/scottie-buehler-ph-d"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

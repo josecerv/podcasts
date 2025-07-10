@@ -1,0 +1,26 @@
+{
+  "guest_name": "Kevin",
+  "searched_at": "2025-07-10T15:31:10.120734",
+  "search_results": [
+    {
+      "title": "About Me",
+      "snippet": "Hi! My name is Kevin Watson. I am a pastor and seminary professor and I write books both for professors and ordinary people. (Guess which category I like ...",
+      "link": "https://kevinmwatson.com/about/"
+    },
+    {
+      "title": "Bio",
+      "snippet": "Kevin Wilson is the author of two collections, Tunneling to the Center of the Earth (Ecco/Harper Perennial, 2009), which received an Alex Award.",
+      "link": "https://www.wilsonkevin.com/bio/"
+    },
+    {
+      "title": "Kevin Boyle (historian)",
+      "snippet": "Kevin Boyle (born October 7, 1960) is an American author and the William Smith Mason Professor of American History at Northwestern University.",
+      "link": "https://en.wikipedia.org/wiki/Kevin_Boyle_(historian)"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Dr. Hira",
+  "searched_at": "2025-07-10T15:37:20.882720",
+  "search_results": [
+    {
+      "title": "Ronil Hira - Howard Profiles",
+      "snippet": "Dr. Hira has testified numerous times before the U.S. Congress about high-skilled immigration and offshoring. Previously, Ron worked as a control systems ...",
+      "link": "https://profiles.howard.edu/ronil-hira"
+    },
+    {
+      "title": "Dr. Ron Hira Associate Professor of Public Policy, ...",
+      "snippet": "Dr. Hira is a Licensed Professional Engineer, and the co-Author of Outsourcing America. (AMACOM Books 2005). He is a Post-Doctoral Fellow at the Center for ...",
+      "link": "https://www.uscc.gov/sites/default/files/Ron%20Hira_bio.pdf"
+    },
+    {
+      "title": "Hira Byrne Paulin PhD., CRC - HigherEd Military",
+      "snippet": "Dr. Hira is a Certified Rehabilitation Counselor. She specializes in working with those with late-in-life or military service-connected disabilities.",
+      "link": "https://www.higheredmilitary.com/news/authorBio.cfm?ID=959"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

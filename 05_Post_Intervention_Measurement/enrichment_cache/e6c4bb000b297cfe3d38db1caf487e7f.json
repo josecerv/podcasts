@@ -1,0 +1,26 @@
+{
+  "guest_name": "STJ",
+  "searched_at": "2025-07-10T15:07:57.873652",
+  "search_results": [
+    {
+      "title": "Faculty Spotlight: Dr. Catherine Winn - STJ on the Move",
+      "snippet": "Master's in Renaissance Studies and PhD in English from the University of Alabama. (Roll Tide.) STJ Extracurricular (do you oversee a club/ ...",
+      "link": "https://stjonthemove.org/blog/2019/9/4/faculty-spotlight-dr-catherine-winn"
+    },
+    {
+      "title": "St. Johnsbury Academy: Independent Boarding and Day ...",
+      "snippet": "St. Johnsbury Academy is a leading independent boarding and day school in Vermont, offering an excellent education for students in grades 9-11.",
+      "link": "https://stjacademy.org/"
+    },
+    {
+      "title": "STJ X-ray Spectrometers",
+      "snippet": "The Superconducting Tunnel Junction (STJ) X-ray spectrometer is a high-performance low-temperature detector produced by STAR Cryoelectronics for the synchrotron ...",
+      "link": "https://starcryo.com/stj-x-ray-spectrometers/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

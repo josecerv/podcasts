@@ -1,0 +1,26 @@
+{
+  "guest_name": "Fiatjaf",
+  "searched_at": "2025-07-10T14:51:38.375791",
+  "search_results": [
+    {
+      "title": "Meet @Fiatjaf, The Mysterious Nostr Creator Who Has ...",
+      "snippet": "He donated 14 bitcoin\u2013then worth about $200,000\u2013to @Fiatjaf, who is distributing the proceeds to developers working on additions to Nostr.",
+      "link": "https://www.forbes.com/sites/digital-assets/2023/05/30/bitcoin-social-network-nostr-creator-fiatjaf-/"
+    },
+    {
+      "title": "Who is @Fiatjaf? | Michael del Castillo, M.Sc.",
+      "snippet": "Who is @Fiatjaf? The reclusive bitcoin developer opens up about the early days of Nostr, the social network protocol he built to set himself ...",
+      "link": "https://www.linkedin.com/posts/delcastillo1_meet-fiatjaf-the-mysterious-nostr-creator-activity-7069282875946225664-gUhs"
+    },
+    {
+      "title": "S15 E21: Fiatjaf on Nostr, Drivechains & Why Lightning ...",
+      "snippet": "Fiatjaf is one of the most prolific developers in Bitcoin and Lightning. But despite contributing to lots of Lightning open source projects ...",
+      "link": "https://bitcoin-takeover.com/fiatjaf-nostr-drivechains-lightning-sucks/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

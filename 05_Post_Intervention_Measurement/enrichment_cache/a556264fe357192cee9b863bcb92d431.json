@@ -1,0 +1,26 @@
+{
+  "guest_name": "Asher",
+  "searched_at": "2025-07-10T16:05:10.743508",
+  "search_results": [
+    {
+      "title": "Asher Kaufman",
+      "snippet": "Asher Kaufman is professor of history and peace studies and a core faculty member. His region of expertise is the modern Middle East with a particular focus ...",
+      "link": "https://kroc.nd.edu/faculty-and-staff/asher-kaufman/"
+    },
+    {
+      "title": "Neal Asher",
+      "snippet": "Neal Asher ; Born, (1961-02-04) 4 February 1961 (age 64) Billericay, Essex, England ; Occupation, Novelist ; Nationality, British ; Period, 2000\u2013present.",
+      "link": "https://en.wikipedia.org/wiki/Neal_Asher"
+    },
+    {
+      "title": "Dr. James J. Asher | Northlands (Nordelta) K5 English Blog",
+      "snippet": "Dr. James J. Asher is a Professor of Psychology at San Jose State University in San Jose, California and the founder of TPR (Total Physical Response).",
+      "link": "https://northlandsk5.wordpress.com/fluency-first/james-asher/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "The Discs",
+  "searched_at": "2025-07-10T17:09:22.970867",
+  "search_results": [
+    {
+      "title": "Data-driven Intelligence and Security for Cyber-physical ...",
+      "snippet": "The DISCS Lab focuses on developing next-generation cybersecurity solutions by integrating advanced technologies such as 5G&B, IoT, SDN, edge-cloud, and ...",
+      "link": "https://sacsmeharry.org/sacs/research/labs/discs-lab/"
+    },
+    {
+      "title": "Just The Discs Podcast (@justthediscspod)",
+      "snippet": "Just The Discs Podcast. A weekly podcast about Blu-rays by @rupertpupkinspeaks. Also a YouTube Channel! https://justthediscs.libsyn.com.",
+      "link": "https://www.instagram.com/justthediscspod/?hl=en"
+    },
+    {
+      "title": "Mister Disc",
+      "snippet": "In addition, he wants to ensure that all of the discs he produces are high quality and bring value to anyone that uses their hard-earned money ...",
+      "link": "https://blog.infinitediscs.com/author/misterdisc/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

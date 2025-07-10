@@ -1,0 +1,26 @@
+{
+  "guest_name": "Anders",
+  "searched_at": "2025-07-10T15:08:57.096839",
+  "search_results": [
+    {
+      "title": "Hi, I'm Max Anders.",
+      "snippet": "Hi, I'm Max Anders. I am the author of over 25 books, including the bestselling 30 Days to Understanding the Bible (over 500,000 copies in print) and my ...",
+      "link": "https://www.maxanders.com/about/"
+    },
+    {
+      "title": "Anders Indset",
+      "snippet": "Anders Indset [\u02c8\u0251n\u02d0d\u0259\u0282 \u02c8\u026and\u02ccs\u025bt] (born 11 April 1978) is a Norwegian philosopher, author, tech-investor and public speaker \u2013 often referred to as \"the ...",
+      "link": "https://en.wikipedia.org/wiki/Anders_Indset"
+    },
+    {
+      "title": "K. Anders Ericsson",
+      "snippet": "Anders Ericsson (23 October 1947 \u2013 17 June 2020) was a Swedish psychologist and Conradi Eminent Scholar and Professor of Psychology at Florida State University ...",
+      "link": "https://en.wikipedia.org/wiki/K._Anders_Ericsson"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

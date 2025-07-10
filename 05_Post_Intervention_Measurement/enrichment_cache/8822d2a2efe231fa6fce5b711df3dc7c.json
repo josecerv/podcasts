@@ -1,0 +1,26 @@
+{
+  "guest_name": "Toby",
+  "searched_at": "2025-07-10T16:30:30.448465",
+  "search_results": [
+    {
+      "title": "Toby Thompson - Department of English",
+      "snippet": "Toby Thompson, now associate professor of English at Penn State, was a young writer fresh out of the University of Virginia looking for a story to publish.",
+      "link": "https://english.la.psu.edu/directory/cwt1/"
+    },
+    {
+      "title": "Toby Lester",
+      "snippet": "Toby Lester (born November 2, 1964) is an American journalist, scholar and author. He received attention after writing two nonfiction works.",
+      "link": "https://en.wikipedia.org/wiki/Toby_Lester"
+    },
+    {
+      "title": "Toby Miller",
+      "snippet": "Toby Miller (9 August 1958) is a British/Australian-American cultural studies and media studies scholar. He is the author of several books and articles.",
+      "link": "https://en.wikipedia.org/wiki/Toby_Miller"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

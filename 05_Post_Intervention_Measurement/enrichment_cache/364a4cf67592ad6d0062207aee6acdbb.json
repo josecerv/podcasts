@@ -1,0 +1,26 @@
+{
+  "guest_name": "Bobby Maximus",
+  "searched_at": "2025-07-10T15:29:26.343896",
+  "search_results": [
+    {
+      "title": "ABOUT1 - Bobby Maximus",
+      "snippet": "Bobby Maximus is a Men's Health Top Trainer, One of the 100 Fittest Men Of All Time, an actor, BJJ Masters World Champion, and former UFC Fighter.",
+      "link": "https://www.bobbymaximus.com/about"
+    },
+    {
+      "title": "Bobby Maximus - Biography",
+      "snippet": "Bobby Maximus is a former UFC fighter, world ranked kick boxer, World Masters BJJ Champion, and has been named one of the 100 Fittest Men Of All Time By Men's ...",
+      "link": "https://www.imdb.com/name/nm2214920/bio/"
+    },
+    {
+      "title": "Bobby Maximus",
+      "snippet": "Meet Bobby Maximus. Named one of the 100 Fittest Men Of All Time by Men's Health, Best Selling Author, regular contributor to Men's Health, Coach on The Ladder ...",
+      "link": "https://www.youtube.com/channel/UCSzAriYndMjGjJciDYyj47w"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

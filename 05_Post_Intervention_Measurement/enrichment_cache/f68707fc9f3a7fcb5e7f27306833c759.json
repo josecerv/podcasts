@@ -1,0 +1,26 @@
+{
+  "guest_name": "Justin from The Royal Geek Podcast",
+  "searched_at": "2025-07-10T16:45:20.815101",
+  "search_results": [
+    {
+      "title": "The Professional Failure Podcast",
+      "snippet": "Justin offers a unique perspective on failure. He shares stories of those who have failed and gone on to use the lessons learned from their mistakes to become ...",
+      "link": "https://podcasts.apple.com/us/podcast/the-professional-failure-podcast/id1613170517"
+    },
+    {
+      "title": "Everything Geek Podcast Guest Interview- Justin Kucsulain",
+      "snippet": "Join host Ruari in this guest interview with actor Justin Kucsulain, best known for playing Ethan in The Walking Dead, Henry Rourke in ...",
+      "link": "https://www.youtube.com/watch?v=3oRL60RCJck"
+    },
+    {
+      "title": "100 Best Geek Podcasts You Must Follow in 2025",
+      "snippet": "Geeks Out is JOY's home of pop culture, sci-fi, fantasy and horror, covering TV and film, books, comics and so much more through an LGBTQA lens.",
+      "link": "https://podcast.feedspot.com/geek_podcasts/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

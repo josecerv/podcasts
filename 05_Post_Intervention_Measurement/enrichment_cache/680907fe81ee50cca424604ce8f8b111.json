@@ -1,0 +1,26 @@
+{
+  "guest_name": "Naima",
+  "searched_at": "2025-07-10T17:03:49.804400",
+  "search_results": [
+    {
+      "title": "Naima Coster - Faculty Profile",
+      "snippet": "Naima Coster is a New York Times bestselling author of two novels and a recipient of the National Book Foundation's 5 Under 35 honor.",
+      "link": "https://www.baruch.cuny.edu/profiles/faculty/Naima-Coster"
+    },
+    {
+      "title": "Naima Coster",
+      "snippet": "Naima Coster is a Dominican-American writer known for her debut novel, Halsey Street, which was published in January 2018. Coster is the recipient of ...",
+      "link": "https://en.wikipedia.org/wiki/Naima_Coster"
+    },
+    {
+      "title": "About - NAIMA COSTER",
+      "snippet": "Naima Coster is a New York Times bestselling author of two novels and a recipient of the National Book Foundation's 5 Under 35 honor.",
+      "link": "https://www.naimacoster.com/about"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

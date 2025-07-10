@@ -1,0 +1,26 @@
+{
+  "guest_name": "Rita",
+  "searched_at": "2025-07-10T17:16:01.046427",
+  "search_results": [
+    {
+      "title": "Rita McGrath - Author. Speaker. Consultant.",
+      "snippet": "Rita McGrath is a globally recognized expert on innovation and growth strategies with an emphasis on corporate entrepreneurship.",
+      "link": "https://www.ritamcgrath.com/"
+    },
+    {
+      "title": "About Me \u2014 Rita Williams-Garcia",
+      "snippet": "Rita Williams-Garcia is the New York Times bestselling author of novels for young adults and middle grade readers. Her most recent book is a graphic novel ...",
+      "link": "https://www.ritawg.com/about-me"
+    },
+    {
+      "title": "Rita Banerjee",
+      "snippet": "... Rita Banerjee, Ph.D. Assistant Professor of Creative Writing | Director, MFA Program for Writers. My Story. I grew up in a multilingual household where my ...",
+      "link": "https://www.warren-wilson.edu/people/rita-banerjee/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

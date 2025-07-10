@@ -1,0 +1,26 @@
+{
+  "guest_name": "Jasper",
+  "searched_at": "2025-07-10T15:19:41.487362",
+  "search_results": [
+    {
+      "title": "David Jasper",
+      "snippet": "David Jasper (born 1 August 1951) is a professor emeritus of Literature and Theology at the University of Glasgow. Contents.",
+      "link": "https://en.wikipedia.org/wiki/David_Jasper"
+    },
+    {
+      "title": "James M. Jasper",
+      "snippet": "James Macdonald Jasper (born 1957) is a writer and sociologist who has taught Ph.D. students at the Graduate Center of the City University of New York",
+      "link": "https://en.wikipedia.org/wiki/James_M._Jasper"
+    },
+    {
+      "title": "Welcome to the Jasper Fforde Website - Overview page",
+      "snippet": "Welcome to the jasper Fforde website, and yes, Jasper Fforde is my real name. I am a British writer who lives in Wales and writes absurdist fiction.",
+      "link": "https://www.jasperfforde.com/index2.html"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

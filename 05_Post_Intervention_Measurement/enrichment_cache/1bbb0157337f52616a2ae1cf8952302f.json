@@ -1,0 +1,26 @@
+{
+  "guest_name": "Lily Gladstone",
+  "searched_at": "2025-07-10T16:31:33.956649",
+  "search_results": [
+    {
+      "title": "Lily Gladstone: Biography, Actor, 2024 Emmy ...",
+      "snippet": "Lily Gladstone is an Academy Award-nominated actor who is known for her roles in Killers of the Flower Moon and Certain Women.",
+      "link": "https://www.biography.com/actors/a44832888/lily-gladstone"
+    },
+    {
+      "title": "Lily Gladstone",
+      "snippet": "Lily Gladstone (born August 2, 1986) is an American actress. Raised on the Blackfeet Reservation, Gladstone is of Piegan Blackfeet, Nez Perce, and European ...",
+      "link": "https://en.wikipedia.org/wiki/Lily_Gladstone"
+    },
+    {
+      "title": "Lily Gladstone - The Talks",
+      "snippet": "Short Profile Name: Lily Gladstone DOB: 2 August 1986 Place of birth: Kalispell, Montana, United States Occupation: Actor",
+      "link": "https://the-talks.com/interview/lily-gladstone/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

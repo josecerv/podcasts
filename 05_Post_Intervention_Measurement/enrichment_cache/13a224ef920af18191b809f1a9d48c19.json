@@ -1,0 +1,26 @@
+{
+  "guest_name": "Hollywood",
+  "searched_at": "2025-07-10T14:58:00.645086",
+  "search_results": [
+    {
+      "title": "The top 25 most compelling Hollywood autobiographies",
+      "snippet": "Lauren Bacall describes her career on Broadway and in Hollywood, her marriages to Humphrey Bogart and Jason Robards, and her affair with Frank ...",
+      "link": "https://www.theguardian.com/film/2020/apr/02/the-top-25-most-compelling-hollywood-autobiographies-ranked"
+    },
+    {
+      "title": "Best of Old Hollywood (466 books)",
+      "snippet": "Best Of Old Hollywood \u00b7 1. Clara Bow: Runnin' Wild \u00b7 2. My Autobiography \u00b7 3. Me: Stories of My Life \u00b7 4. Falling Waters \u00b7 5. Lulu in Hollywood \u00b7 6.",
+      "link": "https://www.goodreads.com/list/show/21003.Best_of_Old_Hollywood"
+    },
+    {
+      "title": "Howard Hawks: The Grey Fox of Hollywood: McCarthy, Todd",
+      "snippet": "Howard Hawks is the first major biography of one of Hollywood's greatest directors, a filmmaker of incomparable versatility.",
+      "link": "https://www.amazon.com/Howard-Hawks-Grey-Fox-Hollywood/dp/0802137407"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

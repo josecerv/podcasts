@@ -1,0 +1,26 @@
+{
+  "guest_name": "Cinik",
+  "searched_at": "2025-07-10T16:45:16.483097",
+  "search_results": [
+    {
+      "title": "about - DR. CINIK",
+      "snippet": "Dr. Emrah Cinik, a distinguished hair transplant surgeon, has spearheaded a revolution in hair and wellness services in Turkey and beyond.",
+      "link": "https://drcinik.com/about/"
+    },
+    {
+      "title": "Dr Emrah Cinik: Leading Hair Transplant Surgeon",
+      "snippet": "Dr Emrah Cinik is renowned for his expertise in hair transplantation. His professional career began at Uludag University, where he completed his medical ...",
+      "link": "https://emrahcinik.com/emrah-cinik-md/"
+    },
+    {
+      "title": "Hair Transplant Turkey - Istanbul: World-Renowned | Dr Cinik",
+      "snippet": "A leading figure in hair transplantation, Dr Emrah Cinik has transformed the lives of more than 50,000 patients over 20 years. His unique expertise combines ...",
+      "link": "https://emrahcinik.com/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Maria Pinto",
+  "searched_at": "2025-07-10T16:49:27.120213",
+  "search_results": [
+    {
+      "title": "Fearless, Sleepless, Deathless | Maria Pinto",
+      "snippet": "Naturalist, forager, and educator Maria Pinto offers a stunning debut book that uncovers strange and beautiful fungal connections between the natural and human ...",
+      "link": "https://uncpress.org/book/9781469689791/fearless-sleepless-deathless/"
+    },
+    {
+      "title": "Maria Pinto",
+      "snippet": "Maria Pinto is a writer, mushroom hunter, and educator in the Boston area. She's the Community Programs Teaching Fellow at Boston's creative writing center.",
+      "link": "https://orionmagazine.org/contributor/maria-pinto/"
+    },
+    {
+      "title": "August - Maria Pinto",
+      "snippet": "Maria Pinto is a Boston-area writer, mushroom enthusiast, and educator. She teaches for the literary non-profit GrubStreet, reads fiction for The Drum and ...",
+      "link": "https://www.wisconsinmycologicalsociety.org/august---maria-pinto.html"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

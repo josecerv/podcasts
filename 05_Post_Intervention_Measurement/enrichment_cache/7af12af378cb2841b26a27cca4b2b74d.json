@@ -1,0 +1,26 @@
+{
+  "guest_name": "Unnamed Doula",
+  "searched_at": "2025-07-10T16:47:50.690375",
+  "search_results": [
+    {
+      "title": "About - eryndavidsondoula",
+      "snippet": "A passion for a revolution in modern obstetric care, a mission to empower birthing people of all backgrounds, races, and family structures.",
+      "link": "https://eryndavidsondoula.com/about"
+    },
+    {
+      "title": "About | Mysite - Dad to Dudla",
+      "snippet": "I am committed to helping all partners become the best version of themselves as they navigate the birthing and postpartum journey.",
+      "link": "https://www.dadtodudla.com/about"
+    },
+    {
+      "title": "About Me | Visitation Birth Doula",
+      "snippet": "I'm Maggie, owner and founder of Visitation Birth Doula. I'm a certified birth and postpartum doula as well as a birth assistant for a local midwife.",
+      "link": "https://www.visitationbirthdoula.com/meet-the-doula"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

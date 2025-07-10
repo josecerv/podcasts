@@ -1,0 +1,26 @@
+{
+  "guest_name": "Hans",
+  "searched_at": "2025-07-10T14:53:23.287228",
+  "search_results": [
+    {
+      "title": "Hans Rosling",
+      "snippet": "Hans Rosling was a Swedish physician, academic and public speaker. He was a professor of international health at Karolinska Institute and was the co-founder ...",
+      "link": "https://en.wikipedia.org/wiki/Hans_Rosling"
+    },
+    {
+      "title": "Hans Ostrom",
+      "snippet": "Hans Ansgar Ostrom (born January 29, 1954) is an American professor, writer, editor, and scholar. Ostrom is a professor of African American Studies and English",
+      "link": "https://en.wikipedia.org/wiki/Hans_Ostrom"
+    },
+    {
+      "title": "Hans Kung | Biography, Books, & Facts",
+      "snippet": "Hans K\u00fcng (born March 19, 1928, Sursee, Switzerland\u2014died April 6, 2021, T\u00fcbingen, Germany) was a Swiss Roman Catholic theologian whose controversial liberal ...",
+      "link": "https://www.britannica.com/biography/Hans-Kung"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": "Black",
+  "gender_confidence": 0.8,
+  "race_confidence": 0.7,
+  "additional_context": {}
+}

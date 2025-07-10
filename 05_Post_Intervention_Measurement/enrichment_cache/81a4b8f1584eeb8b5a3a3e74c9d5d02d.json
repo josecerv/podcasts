@@ -1,0 +1,26 @@
+{
+  "guest_name": "Monty",
+  "searched_at": "2025-07-10T14:53:15.915454",
+  "search_results": [
+    {
+      "title": "Monty: A Biography of Montgomery Clift: Laguardia, Robert",
+      "snippet": "would have been an apt subtitle for Robert LaGuardia's \"Monty\". LaGuardia's book is a very readable biography of Monty Clift, who made his big screen debut ...",
+      "link": "https://www.amazon.com/Monty-Biography-Montgomery-Robert-Laguardia/dp/0877951551"
+    },
+    {
+      "title": "Monty Lyman",
+      "snippet": "Monty Lyman (born October 1992) is a British doctor and author. Monty Lyman. Born, October 1992 (age 32). Scientific career. Institutions, Lincoln College ...",
+      "link": "https://en.wikipedia.org/wiki/Monty_Lyman"
+    },
+    {
+      "title": "Monty: A Biography of Field Marshal Montgomery",
+      "snippet": "Monty: A Biography of Field Marshal Montgomery. 4.3 4.3 out of 5 stars (9).",
+      "link": "https://www.amazon.com/Monty-Biography-Field-Marshal-Montgomery/dp/0831757612"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

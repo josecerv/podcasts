@@ -1,0 +1,26 @@
+{
+  "guest_name": "The Least Worst",
+  "searched_at": "2025-07-10T17:12:16.436411",
+  "search_results": [
+    {
+      "title": "The Least Worst Place",
+      "snippet": "The Least Worst Place: How Guantanamo Became the World's Most Notorious Prison is a 2009 book about the first several months of the operation of the Guantanamo ...",
+      "link": "https://en.wikipedia.org/wiki/The_Least_Worst_Place"
+    },
+    {
+      "title": "The Least Worst Place: Guantanamo's First 100 Days",
+      "snippet": "In The Least Worst Place, Greenberg presents a detailed history, in strikingly readable format, of the way in which one of the nation's most embarrassing ...",
+      "link": "https://www.amazon.com/Least-Worst-Place-Guantanamos-First/dp/019975411X"
+    },
+    {
+      "title": "The Least Worst Place",
+      "snippet": "The Least Worst Place is a gripping narrative account of the first one hundred days of Guantanamo. Karen Greenberg, one of America's leading experts on the ...",
+      "link": "http://newamerica.org/fellows/events/the-least-worst-place/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

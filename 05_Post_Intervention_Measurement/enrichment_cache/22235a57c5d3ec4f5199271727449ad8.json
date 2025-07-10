@@ -1,0 +1,26 @@
+{
+  "guest_name": "Billy Harper",
+  "searched_at": "2025-07-10T17:07:08.741150",
+  "search_results": [
+    {
+      "title": "Billy Harper",
+      "snippet": "Billy Harper's unique music creativity was first noted in Houston, Texas, where, at age 5, he was singing at sacred and secular functions.",
+      "link": "https://www.thecookersmusic.com/about/billy-harper/"
+    },
+    {
+      "title": "Billy Harper",
+      "snippet": "Billy Harper (born January 17, 1943) is an American jazz saxophonist, \"one of a generation of Coltrane-influenced tenor saxophonists\" with a distinctively ...",
+      "link": "https://en.wikipedia.org/wiki/Billy_Harper"
+    },
+    {
+      "title": "Billy Harper",
+      "snippet": "Born in Houston, Billy Harper moved to Manhattan in the '60s and studied with some of the best bandleaders of the era, including Gil Evans, Max Roach, and Art ...",
+      "link": "https://www.futuramarge.com/billy-harper"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

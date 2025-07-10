@@ -1,0 +1,26 @@
+{
+  "guest_name": "Lev",
+  "searched_at": "2025-07-10T17:00:42.578693",
+  "search_results": [
+    {
+      "title": "Lev Manovich",
+      "snippet": "Lev Manovich is an artist, an author and a theorist of digital culture. He is a Distinguished Professor at the Graduate Center of the City University of New ...",
+      "link": "https://en.wikipedia.org/wiki/Lev_Manovich"
+    },
+    {
+      "title": "Daniel Lev",
+      "snippet": "Daniel Saul Lev (October 23, 1933 \u2013 July 29, 2006) was an American political scientist and scholar on Indonesia. Lev was born and raised in Youngstown, ...",
+      "link": "https://en.wikipedia.org/wiki/Daniel_Lev"
+    },
+    {
+      "title": "Lev Weitz | Washington, D.C. | History and Anthropology",
+      "snippet": "Lev Weitz is an historian of the Islamic Middle East. His scholarly interests lie in the encounters among Muslims, Christians, and Jews that have shaped the ...",
+      "link": "https://history.catholic.edu/faculty-and-research/faculty-profiles/weitz-lev/index.html"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

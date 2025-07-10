@@ -1,0 +1,26 @@
+{
+  "guest_name": "Clem!",
+  "searched_at": "2025-07-10T15:56:50.462118",
+  "search_results": [
+    {
+      "title": "Clem Seecharan",
+      "snippet": "Professor Clem Seecharan, BA, MA, PhD is a writer and historian of the Indo-Caribbean experience, as well as a historian of West Indies cricket.",
+      "link": "https://www.peepaltreepress.com/authors/clem-seecharan"
+    },
+    {
+      "title": "Clem Seecharan",
+      "snippet": "Clement Toolsie Shiwcharan, commonly known as, Clem Seecharan (born 1950) is an anthropogist and a Caribbean historian. He was born in Guyana and has been ...",
+      "link": "https://en.wikipedia.org/wiki/Clem_Seecharan"
+    },
+    {
+      "title": "Clem Marshall \u2013 EGS \u2013 Division of Philosophy, Art, and ...",
+      "snippet": "Biography. Clem Marshall is a Canadian educator and writer whose work focuses on race, language, culture, and ancestry. Marshall is president of MangaCom Inc ...",
+      "link": "https://pact.egs.edu/biography/clem-marshall/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

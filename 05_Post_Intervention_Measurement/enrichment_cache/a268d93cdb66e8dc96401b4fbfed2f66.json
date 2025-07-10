@@ -1,0 +1,26 @@
+{
+  "guest_name": "Myrna",
+  "searched_at": "2025-07-10T16:49:35.539399",
+  "search_results": [
+    {
+      "title": "A memoir that redefines caregiving and creates hope in the ...",
+      "snippet": "Myrna. I am a mother, grandmother, former teacher, business owner, consultant, and author. But my favorite title is \u201cChampion of Women.\u201d As a serial ...",
+      "link": "https://www.myrnamarofsky.com/bio"
+    },
+    {
+      "title": "Myrna Marofsky: Empowering others to KEEP ON LIVING.",
+      "snippet": "Mentor and cheerleader for women of all ages. Through her work, writing, and speaking, Myrna's message encourages others to honor their strengths, listen to ...",
+      "link": "https://www.myrnamarofsky.com/"
+    },
+    {
+      "title": "Myrna Gopnik",
+      "snippet": "Myrna Lee Gopnik (born 1935 in Philadelphia, PA) is a Canadian linguist. She is a professor emerita of linguistics at McGill University.",
+      "link": "https://en.wikipedia.org/wiki/Myrna_Gopnik"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

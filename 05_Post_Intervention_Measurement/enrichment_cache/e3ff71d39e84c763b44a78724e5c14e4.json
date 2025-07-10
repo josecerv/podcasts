@@ -1,0 +1,26 @@
+{
+  "guest_name": "David Sexton",
+  "searched_at": "2025-07-10T15:52:44.776257",
+  "search_results": [
+    {
+      "title": "David Sexton",
+      "snippet": "David Sexton is a freelance journalist, writing mainly about books and films. He worked previously on the Sunday Telegraph, where he was the radio critic for ...",
+      "link": "https://www.thetimes.com/profile/david-sexton"
+    },
+    {
+      "title": "David Sexton",
+      "snippet": "David Sexton is the literary editor of the Evening Standard and radio reviewer for the Sunday Telegraph. Sexton is a published author of many books.",
+      "link": "https://thebookerprizes.com/the-booker-library/judges/david-sexton"
+    },
+    {
+      "title": "My Butler Story | David Sexton",
+      "snippet": "David Sexton College of Liberal Arts and Sciences Major: Political Science, Organizational Communication and Leadership",
+      "link": "https://stories.butler.edu/my-butler-story-david-sexton/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

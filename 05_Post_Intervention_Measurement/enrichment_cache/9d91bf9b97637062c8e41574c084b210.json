@@ -1,0 +1,26 @@
+{
+  "guest_name": "Ellie",
+  "searched_at": "2025-07-10T16:08:19.997859",
+  "search_results": [
+    {
+      "title": "Ellie Lofaro | Speaker \u2022 Author \u2022 Teacher",
+      "snippet": "Biography. Ellie Lofaro is a respected Bible teacher, inspirational speaker and humorist. She has authored five books and her articles have been published ...",
+      "link": "https://ellielofaro.com/content_about_ellie/about.htm"
+    },
+    {
+      "title": "about me \u2013 ellie krug",
+      "snippet": "Since 2019 I've been writing for Minnesota Women's Press. In January 2017, I began hosting a radio show; my current weekly radio and podcast show, \u201cEllie 2.0 ...",
+      "link": "https://elliekrug.com/about/"
+    },
+    {
+      "title": "Ellie Alexander \u2013 Author, Writing Coach, and ...",
+      "snippet": "I'm Ellie, a Pacific Northwest native who spends ample time writing and testing a multitude of pastry and other recipes in my home kitchen.",
+      "link": "https://elliealexander.co/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

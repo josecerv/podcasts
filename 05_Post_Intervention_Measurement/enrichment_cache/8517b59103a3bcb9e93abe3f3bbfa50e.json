@@ -1,0 +1,26 @@
+{
+  "guest_name": "Dr. Farkas",
+  "searched_at": "2025-07-10T14:46:47.741968",
+  "search_results": [
+    {
+      "title": "Dr. Evelyn Farkas, Foreign Policy & Global Trends Expert",
+      "snippet": "Dr. Farkas draws on her deep and wide-ranging policy experience to take a look at the entire gamut of foreign policy and national security challenges facing ...",
+      "link": "https://www.leadingauthorities.com/speakers/evelyn-farkas"
+    },
+    {
+      "title": "Dr. Evelyn N. Farkas",
+      "snippet": "Dr. Farkas obtained her MA and Ph.D. from The Fletcher School of Law and Diplomacy. She speaks fluent Hungarian and German, as well as rudimentary French ...",
+      "link": "https://www.defense.gov/About/Biographies/Biography/Article/602701/dr-evelyn-n-farkas/"
+    },
+    {
+      "title": "Marianne Farkas, Sc.D.",
+      "snippet": "For more than 35 years, Dr. Farkas has worked in various capacities in the field of psychiatric rehabilitation, and recovery. Among her many roles providing ...",
+      "link": "https://cpr.bu.edu/bio/marianne-farkas/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

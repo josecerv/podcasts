@@ -1,0 +1,26 @@
+{
+  "guest_name": "Mr Z",
+  "searched_at": "2025-07-10T16:54:42.067949",
+  "search_results": [
+    {
+      "title": "Mr. Z: books, biography, latest update",
+      "snippet": "Mr. Z was born in Tehran's Jewish quarter, where he lived in extreme poverty with his family until he was seventeen. After moving to Israel, he was drafted ...",
+      "link": "https://www.amazon.com/Mr-Z/e/B0CR8FVYBZ/ref=dp_byline_cont_ebooks_1"
+    },
+    {
+      "title": "Mr.Z, Who is he? - Rika Chandra - Medium",
+      "snippet": "Mr.Z , Who is he? \u00b7 A teacher, an author, film-maker, rapper\u2026.also an award winning copywriter! \u00b7 What inspired this story? ' But happiness ...",
+      "link": "https://rikachandra.medium.com/who-is-mr-z-ee8bcc0aa64b"
+    },
+    {
+      "title": "Mindful Children's Books - Mr. Z Storytime",
+      "snippet": "Mr. Z, Bob Zaslow, grew up in Rockaway Beach, Queens, New York, where he got his first job as an art teacher. Within his art classes, he loved teaching and ...",
+      "link": "https://www.mrzstorytime.com/meet-mr-z"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

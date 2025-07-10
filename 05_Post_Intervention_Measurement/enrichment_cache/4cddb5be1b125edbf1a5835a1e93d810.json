@@ -1,0 +1,26 @@
+{
+  "guest_name": "Noe",
+  "searched_at": "2025-07-10T15:19:47.587918",
+  "search_results": [
+    {
+      "title": "Kenneth W. Noe",
+      "snippet": "Kenneth W. Noe is an American historian whose primary interests are the American Civil War, Appalachia and the American South.",
+      "link": "https://en.wikipedia.org/wiki/Kenneth_W._Noe"
+    },
+    {
+      "title": "Kenneth W. Noe \u2013 Historian of the American Civil War",
+      "snippet": "Born and raised in Virginia, Ken Noe is a graduate of Emory & Henry College, earned master's degrees at Virginia Tech and the University of Kentucky, and ...",
+      "link": "https://kennethwnoe.com/"
+    },
+    {
+      "title": "Dr. David Noe",
+      "snippet": "Prof. Noe is interested in all things related to the ancient Mediterranean world, especially Roman philosophy, Greek ethics and religion.",
+      "link": "https://calvin.edu/people/david-noe"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

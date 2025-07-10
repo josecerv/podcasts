@@ -1,0 +1,26 @@
+{
+  "guest_name": "Stan",
+  "searched_at": "2025-07-10T15:51:28.891875",
+  "search_results": [
+    {
+      "title": "Stan and the Man | StanleyTucker",
+      "snippet": "Stanley Tucker, also known as Stan The Man, has a mission to spread kindness through literacy. At a young age, Stanley experienced heartbreak when his ...",
+      "link": "https://www.stanleytucker.com/"
+    },
+    {
+      "title": "Stan Gooch",
+      "snippet": "Stanley Albert Gooch was a British psychologist and author who is probably best known as the proponent of a \"hybrid-origin theory\" of human evolution. Stan ...",
+      "link": "https://en.wikipedia.org/wiki/Stan_Gooch"
+    },
+    {
+      "title": "Meet Stan",
+      "snippet": "Stan learned many hard lessons at a young age with the loss of his father but has been able to turn that tragedy into a passion for helping children. His father ...",
+      "link": "https://www.theveryairylibrary.com/meet-stan"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

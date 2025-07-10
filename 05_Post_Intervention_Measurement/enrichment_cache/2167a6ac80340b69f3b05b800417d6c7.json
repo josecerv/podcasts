@@ -1,0 +1,26 @@
+{
+  "guest_name": "Karim",
+  "searched_at": "2025-07-10T17:14:54.819293",
+  "search_results": [
+    {
+      "title": "Karim R. Lakhani's Bio",
+      "snippet": "Karim R. Lakhani is the Charles E. Wilson Professor of Business Administration and the Dorothy and Michael Hintze Fellow at the Harvard Business School.",
+      "link": "https://scholar.harvard.edu/klakhani/biocv"
+    },
+    {
+      "title": "Home Default | Dr. Karim R. Ellis",
+      "snippet": "Dr. Karim R. Ellis is the #1 Breakthrough Strategist and has been featured in NBC, CBS, ABC, Yahoo! Finance, Wall Street Select, and FOX network affiliates ...",
+      "link": "http://karimellis.com/"
+    },
+    {
+      "title": "Karim Mattar | English",
+      "snippet": "Karim Mattar is an Associate Professor of English at the University of Colorado at Boulder. A descendant of survivors of the Palestinian Nakba of 1948.",
+      "link": "https://www.colorado.edu/english/karim-mattar"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Huck",
+  "searched_at": "2025-07-10T14:47:39.354401",
+  "search_results": [
+    {
+      "title": "Charlotte Huck",
+      "snippet": "Dr. Charlotte S. Huck (1922\u20132005) was an American author, university professor, and children's literature expert. The Charlotte Huck Children's Literature ...",
+      "link": "https://en.wikipedia.org/wiki/Charlotte_Huck"
+    },
+    {
+      "title": "Geoffrey J. Huck | Faculty of Liberal Arts & Professional Studies",
+      "snippet": "Geoffrey Huck is author of What is Good Writing? (Oxford University Press, 2015), co-author of Ideology and Linguistic Theory (Routledge, 1995), and co ...",
+      "link": "https://profiles.laps.yorku.ca/profiles/ghuck/"
+    },
+    {
+      "title": "Huck Jennifer L PhD",
+      "snippet": "Dr. Huck is an alumna of Carroll graduating with a double major in criminal justice and sociology. Her master's degree from UW-Milwaukee is in criminal justice.",
+      "link": "https://www.carrollu.edu/faculty/huck-jennifer-l-phd"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

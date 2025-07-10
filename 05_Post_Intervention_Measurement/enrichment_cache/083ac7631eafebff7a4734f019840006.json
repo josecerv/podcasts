@@ -1,0 +1,26 @@
+{
+  "guest_name": "Bobcat Opossum",
+  "searched_at": "2025-07-10T15:57:12.821920",
+  "search_results": [
+    {
+      "title": "Bobcat Opossum and Watson School of music",
+      "snippet": "Bobcat Opossum and Watson School of music.",
+      "link": "https://www.facebook.com/story.php?story_fbid=487985010968917&id=100092722674385"
+    },
+    {
+      "title": "Bobcat Opossum added a new photo.",
+      "snippet": "Bobcat Opossum added a new photo.",
+      "link": "https://www.facebook.com/100092722674385/photos/586893477744736/"
+    },
+    {
+      "title": "Max Biography - Wildlife Education by Bernie",
+      "snippet": "I've had licenses for black bear, bobcat, opossum and woodchuck. I received the Endangered Species License for Max before I acquired him from Space Farms ...",
+      "link": "https://wildlifeeducationbybernie.com/ambassadors/max-biography/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

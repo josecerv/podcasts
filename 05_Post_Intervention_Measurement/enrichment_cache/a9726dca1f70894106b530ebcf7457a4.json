@@ -1,0 +1,26 @@
+{
+  "guest_name": "Jenna",
+  "searched_at": "2025-07-10T15:35:59.417053",
+  "search_results": [
+    {
+      "title": "Jenna Banks",
+      "snippet": "Jenna Banks is an entrepreneur, keynote speaker, best-selling author, event facilitator & moderator, and host of The Jenna Banks Show.",
+      "link": "https://jenna-banks.com/"
+    },
+    {
+      "title": "Hire Jenna Arnold to Speak | Get Pricing And ...",
+      "snippet": "Jenna Arnold is a renowned activist, best-selling author, and social entrepreneur known for her impactful work in social justice and education.",
+      "link": "https://gothamartists.com/jenna-arnold/"
+    },
+    {
+      "title": "Bio \u2014 Jenna Blum",
+      "snippet": "Jenna Blum is the New York Times and internationally bestselling author of novels Those Who Save Us, The Stormchasers, and The Lost Family.",
+      "link": "https://www.jennablum.com/bio-jenna-blum"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

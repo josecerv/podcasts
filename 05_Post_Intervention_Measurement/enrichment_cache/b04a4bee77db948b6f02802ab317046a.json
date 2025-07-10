@@ -1,0 +1,26 @@
+{
+  "guest_name": "Sesh",
+  "searched_at": "2025-07-10T17:27:25.459682",
+  "search_results": [
+    {
+      "title": "Seshadhri's webpage",
+      "snippet": "Brief Bio. C. Seshadhri (Sesh) is a professor of Computer Science at the University of California, Santa Cruz and an Amazon scholar. Prior to joining UCSC ...",
+      "link": "https://users.soe.ucsc.edu/~sesh/"
+    },
+    {
+      "title": "Sesh Commuri | Electrical & Biomedical Engineering",
+      "snippet": "Sesh Commuri is a professor in the Department of Electrical & Biomedical Engineering at the University of Nevada, Reno. Learn more about his work, ...",
+      "link": "https://www.unr.edu/ebme/people/sesh-commuri"
+    },
+    {
+      "title": "Sesh Venugopal (author) on AuthorsDen",
+      "snippet": "Discover Sesh Venugopal on AuthorsDen. Get the latest information on Sesh Venugopal, bio, books, news, events, short stories, etc.",
+      "link": "https://www.authorsden.com/visit/author.asp?authorid=169274"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

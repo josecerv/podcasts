@@ -1,0 +1,26 @@
+{
+  "guest_name": "Jake",
+  "searched_at": "2025-07-10T15:02:18.287001",
+  "search_results": [
+    {
+      "title": "Bio - Jake Halpern",
+      "snippet": "Jake Halpern is a journalist, bestselling author, and the winner of the 2018 Pulitzer Prize. His first book, Braving Home (2003), was a main selection for the ...",
+      "link": "https://www.jakehalpern.com/about"
+    },
+    {
+      "title": "About",
+      "snippet": "Hi, my name is Jake Meador. I'm a fourth-generation Nebraskan and lifelong Lincolnite. I studied at the University of Nebraska-Lincoln, ...",
+      "link": "https://jakemeador.com/about/"
+    },
+    {
+      "title": "Bio - Jake Johnson",
+      "snippet": "Jake Johnson ... I am a cultural historian and writer listening primarily for the sounds of belief in America. I earned my PhD in musicology in 2017 from the ...",
+      "link": "https://www.jakejohnsonphd.com/about-2"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

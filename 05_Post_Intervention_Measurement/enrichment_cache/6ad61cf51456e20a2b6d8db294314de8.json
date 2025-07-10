@@ -1,0 +1,26 @@
+{
+  "guest_name": "Petra",
+  "searched_at": "2025-07-10T14:48:06.285334",
+  "search_results": [
+    {
+      "title": "Petra Kuppers",
+      "snippet": "Petra Kuppers (born 1 April 1968) is a community performance artist and a disability culture activist. She is a professor of English, Women's and Gender ...",
+      "link": "https://en.wikipedia.org/wiki/Petra_Kuppers"
+    },
+    {
+      "title": "Petra Moser - Professor of Economics",
+      "snippet": "Petra Moser joined New York University School of Business as an Associate Professor of Economics in July 2015 and became a Professor of Economics in 2019.",
+      "link": "https://www.stern.nyu.edu/faculty/bio/petra-moser"
+    },
+    {
+      "title": "Petra Moser",
+      "snippet": "Petra Moser is an economist and economic historian serving as a Professor of Economics at the New York University Stern School of Business.",
+      "link": "https://en.wikipedia.org/wiki/Petra_Moser"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

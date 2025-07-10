@@ -1,0 +1,26 @@
+{
+  "guest_name": "Mayor of Newark",
+  "searched_at": "2025-07-10T17:12:30.256086",
+  "search_results": [
+    {
+      "title": "Ras Baraka",
+      "snippet": "Ras Jua Baraka is an American politician, author, and educator. A member of the Democratic Party, Baraka is the 40th and current mayor of Newark, ...",
+      "link": "https://en.wikipedia.org/wiki/Ras_Baraka"
+    },
+    {
+      "title": "The Honorable Mayor Ras J. Baraka",
+      "snippet": "While serving as the Mayor of Newark, he also presides as the President of NJ Urban Mayors Association; Executive Board Member for NJ League of ...",
+      "link": "https://www.newarknj.gov/city-mayor"
+    },
+    {
+      "title": "Ras J. Baraka Mayor, City of Newark, New Jersey",
+      "snippet": "Prior to his position at the National League of Cities, Anthony was Deputy Chief of. Staff for the mayor of Newark, NJ for several years. In municipal ...",
+      "link": "https://www.nlc.org/wp-content/uploads/2021/05/updated_May-12-Speaker-bios.pdf"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

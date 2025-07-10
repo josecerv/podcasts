@@ -1,0 +1,26 @@
+{
+  "guest_name": "Emilio",
+  "searched_at": "2025-07-10T15:39:59.345679",
+  "search_results": [
+    {
+      "title": "About",
+      "snippet": "About emilio iodice. Award winning Author, Presidential Historian, Executive, Decorated American Diplomat and Professor. Emilio\u2013Iodice_About.jpg. Sign up ...",
+      "link": "http://www.iodicebooks.com/about"
+    },
+    {
+      "title": "John D'Emilio, PhD",
+      "snippet": "John D'Emilio, who retired in 2014, continues to research and write about the US since World War II, social movements, and the history of sexuality.",
+      "link": "https://hist.uic.edu/profiles/demilio-john/"
+    },
+    {
+      "title": "Emilio Kour\u00ed | Department of History",
+      "snippet": "Emilio Kour\u00ed's main scholarly interest is in the history of rural Mexico since Independence, including society, economy, politics, culture, and the law. He is ...",
+      "link": "https://history.uchicago.edu/directory/emilio-kouri"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

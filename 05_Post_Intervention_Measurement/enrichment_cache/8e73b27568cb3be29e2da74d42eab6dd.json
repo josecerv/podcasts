@@ -1,0 +1,26 @@
+{
+  "guest_name": "Rachel",
+  "searched_at": "2025-07-10T14:52:07.021650",
+  "search_results": [
+    {
+      "title": "About",
+      "snippet": "Rachel Louise Martin, PhD, is a historian and writer whose work has appeared in outlets like The Atlantic and Oxford American.",
+      "link": "https://www.rachelmartinwrites.com/about-1"
+    },
+    {
+      "title": "About - Rachel Hollis",
+      "snippet": "Rachel Hollis Keynote Speaker ... I started my speaking career at small business meet-ups and the women's groups in my community. 15 years ago I read those ...",
+      "link": "https://msrachelhollis.com/about/"
+    },
+    {
+      "title": "Rachel Hollis",
+      "snippet": "Rachel Hollis is an American author, motivational speaker, and blogger. She is the author of three self-help books, including Girl, Wash Your Face and Girl, ...",
+      "link": "https://en.wikipedia.org/wiki/Rachel_Hollis"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

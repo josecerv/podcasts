@@ -1,0 +1,26 @@
+{
+  "guest_name": "Catrina Dennis",
+  "searched_at": "2025-07-10T14:53:05.143974",
+  "search_results": [
+    {
+      "title": "Catrina Dennis",
+      "snippet": "Catrina Dennis is a writer, host, actress, producer and game designer based in Los Angeles. She has hosted and featured on networks like Syfy and NBC.",
+      "link": "https://www.imdb.com/name/nm9433925/"
+    },
+    {
+      "title": "Catrina Dennis | Wookieepedia | Fandom",
+      "snippet": "Catrina Dennis is an author who has written multiple articles for StarWars.com.[2] Dennis consulted for Mike Chen's 2022 novel Brotherhood on Asajj ...",
+      "link": "https://starwars.fandom.com/wiki/Catrina_Dennis"
+    },
+    {
+      "title": "Catrina Dennis - Freelance Journalist",
+      "snippet": "Catrina Dennis is a journalist, graphic designer, marketing specialist and entertainer based in Los Angeles, California. She has spent most of her life ...",
+      "link": "https://muckrack.com/ohcatrina"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

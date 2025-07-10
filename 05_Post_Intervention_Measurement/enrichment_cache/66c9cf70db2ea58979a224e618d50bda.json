@@ -1,0 +1,26 @@
+{
+  "guest_name": "Kyla",
+  "searched_at": "2025-07-10T14:57:45.434814",
+  "search_results": [
+    {
+      "title": "About",
+      "snippet": "Kyla Zhao is an award-winning author whose novels spotlight women and girls of color as they navigate ambition, identity, and belonging.",
+      "link": "https://kylazhao.com/about/"
+    },
+    {
+      "title": "bio",
+      "snippet": "Kyla Schuller is Associate Professor of Women's, Gender, and Sexuality Studies and Faculty Director of the Women's Global Health Leadership Certificate Program ...",
+      "link": "https://www.kylaschuller.org/bio"
+    },
+    {
+      "title": "About - Kyla Wazana Tompkins",
+      "snippet": "Kyla Wazana Tompkins \u00b7 About Deviant Matter Research In Progress CV Talks ... I am currently on leave from my position as Professor at Pomona College ...",
+      "link": "http://www.kylawazanatompkins.com/about"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

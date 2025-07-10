@@ -1,0 +1,26 @@
+{
+  "guest_name": "Art",
+  "searched_at": "2025-07-10T15:21:45.599751",
+  "search_results": [
+    {
+      "title": "W&M art professor earns prestigious recognition for her ...",
+      "snippet": "Art Professor Nicole Santiago has taught life drawing at William & Mary for 19 years, but she has a passion for painting, a highly competitive ...",
+      "link": "https://news.wm.edu/2025/07/09/wm-art-professor-earns-prestigious-recognition-for-her-paintings/"
+    },
+    {
+      "title": "Alma Woodsey Thomas | Artist Profile",
+      "snippet": "Alma Woodsey Thomas developed her signature abstract painting style in her late 70s, after spending more than three decades teaching art in a Washington, DC, ...",
+      "link": "https://nmwa.org/art/artists/alma-woodsey-thomas/"
+    },
+    {
+      "title": "El Anatsui | Biography",
+      "snippet": "El Anatsui was born in 1944 in Anyako, Ghana, a citizen of the Ewe Nation and son of a master weaver of Kente cloth. He acquired art training at the College of ...",
+      "link": "https://elanatsui.art/biography"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

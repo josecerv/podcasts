@@ -1,0 +1,26 @@
+{
+  "guest_name": "Craig",
+  "searched_at": "2025-07-10T15:42:13.436760",
+  "search_results": [
+    {
+      "title": "William Lane Craig | People, Biola University",
+      "snippet": "William Lane Craig is a visiting scholar in philosophy at Talbot School of Theology in La Mirada, Calif. He lives in Atlanta, Ga., with his wife Jan and their ...",
+      "link": "https://www.biola.edu/directory/people/william-craig"
+    },
+    {
+      "title": "William Craig (author)",
+      "snippet": "William Craig (1929 \u2013 September 22, 1997) was an American historian and author of fiction and non-fiction. William Craig. Born, 1929 (1929).",
+      "link": "https://en.wikipedia.org/wiki/William_Craig_(author)"
+    },
+    {
+      "title": "About Craig",
+      "snippet": "About Craig ... I'm the author of Author in Chief: The Untold Story of Our Presidents and the Books They Wrote. I've also written for The New York Times, The ...",
+      "link": "https://craigfehrman.com/about/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

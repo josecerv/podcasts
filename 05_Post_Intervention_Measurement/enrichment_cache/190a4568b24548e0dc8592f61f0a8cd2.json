@@ -1,0 +1,26 @@
+{
+  "guest_name": "KC",
+  "searched_at": "2025-07-10T16:20:15.093839",
+  "search_results": [
+    {
+      "title": "About KC Davis",
+      "snippet": "KC Davis began her therapy journey at 16 when she entered treatment for drug addiction and mental health issues. After getting sober she became a speaker and ...",
+      "link": "https://www.strugglecare.com/about"
+    },
+    {
+      "title": "K. C. Cole",
+      "snippet": "KC Cole (born August 22, 1946) is an American science writer, author, radio commentator [1] [2] and professor emerita at the USC Annenberg School",
+      "link": "https://en.wikipedia.org/wiki/K._C._Cole"
+    },
+    {
+      "title": "kc councilor \u2013 author of Between You and Me: Transitional ...",
+      "snippet": "KC draws comics, teaches classes and workshops. He earned his PhD in Communication Arts from UW-Madison and is now an assistant professor at Southern ...",
+      "link": "https://kccouncilor.com/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

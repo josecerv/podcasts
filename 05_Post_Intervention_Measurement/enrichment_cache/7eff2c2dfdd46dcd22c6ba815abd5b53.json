@@ -1,0 +1,26 @@
+{
+  "guest_name": "Sam Miller",
+  "searched_at": "2025-07-10T17:30:49.811812",
+  "search_results": [
+    {
+      "title": "Sam Miller (journalist)",
+      "snippet": "Sam Miller was born in London in 1962. He studied history at Cambridge University and politics at the School of Oriental and African Studies, University of ...",
+      "link": "https://en.wikipedia.org/wiki/Sam_Miller_(journalist)"
+    },
+    {
+      "title": "About Sam Miller",
+      "snippet": "Sam Miller is an Amazon Best-Selling Author and has more than 15 years of experience as a health, fitness, and nutrition coach. His programs help coaches ...",
+      "link": "https://sammillerscience.com/about-sam-page/"
+    },
+    {
+      "title": "Sam Miller: books, biography, latest update",
+      "snippet": "Sam Miller. Sam Miller profile image. About the author. Sam is the Chief Administrator at Central Rivers Area Education Agency in Cedar Falls, Iowa. As a ...",
+      "link": "https://us.amazon.com/stores/author/B07C6F51Y8/about"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Joe B",
+  "searched_at": "2025-07-10T17:09:52.361207",
+  "search_results": [
+    {
+      "title": "Joe B the Professor",
+      "snippet": "Joe B The Professor \u201cJoseph L Bridges\u201d was born and raised in Chicago, IL, and currently lives in Memphis TN, he has lived in many places in the United ...",
+      "link": "https://app.chartmetric.com/artist/3425694"
+    },
+    {
+      "title": "Historian Joe B. Frantz born",
+      "snippet": "On this day in 1917, Texas historian Joe B. Frantz was born in Dallas. He was adopted by Ezra A. Frantz and grew up in Weatherford.",
+      "link": "https://www.tshaonline.org/texas-day-by-day/entry/457"
+    },
+    {
+      "title": "Joe B The Professor",
+      "snippet": "Joe B The Professor. 651 likes. Songwriter / Producer / Singer born in Chicago and I've lived in many different cities and states and I have adapted...",
+      "link": "https://www.facebook.com/JoeBTheProfessor/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

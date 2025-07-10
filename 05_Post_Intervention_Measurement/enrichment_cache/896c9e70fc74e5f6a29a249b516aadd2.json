@@ -1,0 +1,26 @@
+{
+  "guest_name": "Ciara",
+  "searched_at": "2025-07-10T15:25:19.604568",
+  "search_results": [
+    {
+      "title": "Ciara",
+      "snippet": "Ciara Princess Wilson is an American singer, songwriter, dancer and actress. She was discovered by record producer Jazze Pha in the early 2000s, and rose to ...",
+      "link": "https://en.wikipedia.org/wiki/Ciara"
+    },
+    {
+      "title": "Ciara Keynote Speaker",
+      "snippet": "Grammy-Award winning R&B artist Ciara is a multi-platinum musician, songwriter, philanthropist, entrepreneur, mom of 4 children, and force of fashion.",
+      "link": "https://www.harrywalker.com/speakers/ciara"
+    },
+    {
+      "title": "Ciara Geraghty: HOME",
+      "snippet": "Ciara Geraghty is an Author, Blogger & Podcaster. Writer of books, short stories, blog posts and tweets. Latest Novel: Make Yourself at Home.",
+      "link": "https://www.ciarageraghty.com/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

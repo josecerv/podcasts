@@ -1,0 +1,26 @@
+{
+  "guest_name": "Ida",
+  "searched_at": "2025-07-10T17:29:19.339318",
+  "search_results": [
+    {
+      "title": "Ida Altman",
+      "snippet": "Ida Louise Altman (born 1950) is an American historian of early modern Spain and Latin America. Her book Emigrants and Society: Extremadura and Spanish America ...",
+      "link": "https://en.wikipedia.org/wiki/Ida_Altman"
+    },
+    {
+      "title": "About - Ida Yalzadeh, PhD",
+      "snippet": "Ida Yalzadeh, PhD \u00b7 Home \u00b7 CV \u00b7 About \u00b7 Contact. About. View fullsize. portrait+shot+bw.jpg. I am currently an Assistant Professor in Lehigh University's ...",
+      "link": "https://www.idayalzadeh.com/about"
+    },
+    {
+      "title": "Ida E. Jones (historian)",
+      "snippet": "Ida E. Jones (born 1970) is an American historian and author who is the University Archivist at Morgan State University, the first archivist in the university' ...",
+      "link": "https://en.wikipedia.org/wiki/Ida_E._Jones_(historian)"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

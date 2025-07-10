@@ -1,0 +1,26 @@
+{
+  "guest_name": "Tijuana Men",
+  "searched_at": "2025-07-10T17:06:00.450517",
+  "search_results": [
+    {
+      "title": "Books about Tijuana",
+      "snippet": "ln Tijuana men and women are eagerly researching the past. The histories they write, often in textbook form, are lively ones. There is a giddy, unrestrained ...",
+      "link": "https://www.sandiegoreader.com/news/1988/feb/25/tijuana-book-tijuana-quartet/"
+    },
+    {
+      "title": "Tijuana's Cultural Center turns twenty",
+      "snippet": "She is, as the Tijuana men I spoke with often mentioned, a very attractive woman. She isn't of the big-haired, Chanel-suited sort often ...",
+      "link": "https://www.sandiegoreader.com/news/2002/oct/10/isnt-same-country-isnt-same-town/"
+    },
+    {
+      "title": "HIV among Young Latino Men in the San Diego-Tijuana ...",
+      "snippet": "... Tijuana men (20.1%). There were very high rates (43.6%) of never testing for HIV testing in the combined sample with. Tijuana men outnumbering San Diego men ...",
+      "link": "https://escholarship.org/uc/item/1xp9w50x"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

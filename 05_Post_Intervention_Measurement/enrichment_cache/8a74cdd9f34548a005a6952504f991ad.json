@@ -1,0 +1,26 @@
+{
+  "guest_name": "Emmy",
+  "searched_at": "2025-07-10T15:09:35.984961",
+  "search_results": [
+    {
+      "title": "BIO \u2014 Emmy K",
+      "snippet": "Emmy is an author and illustrator of children's books, including SO TORTOISE DUG (2025), WHILE YOU'RE ASLEEP, and A VERY BIG FALL. A former high school teacher, ...",
+      "link": "https://www.emmykmakes.com/bio"
+    },
+    {
+      "title": "About",
+      "snippet": "Emmy Laybourne is a Young Adult novelist best known for her Monument 14 series, an internationally best-selling trilogy that has been translated into 9 ...",
+      "link": "https://www.emmylaybourne.com/about/"
+    },
+    {
+      "title": "Emmy P\u00e9rez",
+      "snippet": "Emmy P\u00e9rez is a Chicanx poet and writer originally from Santa Ana, California, United States. She was a recipient of a National Endowment for the Arts Poetry ...",
+      "link": "https://en.wikipedia.org/wiki/Emmy_P%C3%A9rez"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

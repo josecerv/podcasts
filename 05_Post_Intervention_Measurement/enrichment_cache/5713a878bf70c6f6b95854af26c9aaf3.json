@@ -1,0 +1,26 @@
+{
+  "guest_name": "Tracy",
+  "searched_at": "2025-07-10T17:00:34.429862",
+  "search_results": [
+    {
+      "title": "Brian Tracy",
+      "snippet": "Brian Tracy is a Canadian-American motivational public speaker and self-development author. He is the author of over eighty books that have been translated ...",
+      "link": "https://en.wikipedia.org/wiki/Brian_Tracy"
+    },
+    {
+      "title": "Who is Brian Tracy | About Me",
+      "snippet": "Who is Brian Tracy? Some say he's been a best-selling author, business trainer and personal development coach for over thirty years. Click here to find out!",
+      "link": "https://www.briantracy.com/about/?srsltid=AfmBOop8hEt5aE0pZiCBuZ_uLTktmPyubJzUVoO27af5qQtIt6G_UFJW"
+    },
+    {
+      "title": "Tracy Spears: Leadership Keynote Speaker & Author",
+      "snippet": "Tracy is an internationally recognized keynote speaker, coach, and thought leader. She is the co-author of What Exceptional leaders Know, ...",
+      "link": "https://tracyspears.com/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

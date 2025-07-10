@@ -1,0 +1,26 @@
+{
+  "guest_name": "Liel",
+  "searched_at": "2025-07-10T16:23:21.472868",
+  "search_results": [
+    {
+      "title": "Liel Leibovitz",
+      "snippet": "Liel Leibovitz (Hebrew: \u05dc\u05d9\u05d0\u05dc \u05dc\u05d9\u05d1\u05d5\u05d1\u05d9\u05e5; born 1976) is an Israeli journalist, author, media critic, and video game scholar. Leibovitz was born in Tel Aviv, ...",
+      "link": "https://en.wikipedia.org/wiki/Liel_Leibovitz"
+    },
+    {
+      "title": "Liel Leibovitz",
+      "snippet": "Liel Leibovitz is a senior fellow at Hudson Institute. His work focuses on thinking about anti-Semitism as a national security threat.",
+      "link": "https://www.hudson.org/experts/liel-leibovitz"
+    },
+    {
+      "title": "Liel Leibovitz",
+      "snippet": "Liel Leibovitz is the editor-at-large of Tablet magazine and the co-host of its podcast Unorthodox. He's the author of several books.",
+      "link": "https://sapirjournal.org/authors/liel-leibovitz/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

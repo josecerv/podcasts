@@ -1,0 +1,26 @@
+{
+  "guest_name": "Ricky Flores",
+  "searched_at": "2025-07-10T17:13:58.016602",
+  "search_results": [
+    {
+      "title": "Ricky Flores",
+      "snippet": "Featuring the work of iconic South Bronx Puerto Rican photojournalist Ricky Flores. The work includes images from the South Bronx, social injustice, ...",
+      "link": "https://rickyflores.com/"
+    },
+    {
+      "title": "A South Bronx Family Album",
+      "snippet": "Ricky Flores was born in New York to Puerto Rican parents in 1961 and started documenting daily life in the South Bronx in 1979.",
+      "link": "https://www.blind-magazine.com/news/a-south-bronx-family-album/"
+    },
+    {
+      "title": "About - Ricky Flores",
+      "snippet": "Ricky Flores was born in New York to Puerto Rican parents in 1961. His father, Pastor Flores, was a merchant seaman, and his mother, Ana Luisa Flores, ...",
+      "link": "https://rickyflores.com/about"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": "Hispanic/Latino",
+  "gender_confidence": 0.8,
+  "race_confidence": 0.7,
+  "additional_context": {}
+}

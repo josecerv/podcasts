@@ -1,0 +1,26 @@
+{
+  "guest_name": "Nia",
+  "searched_at": "2025-07-10T16:01:28.522981",
+  "search_results": [
+    {
+      "title": "Nia J. Rivers: books, biography, latest update",
+      "snippet": "Nia J. Rivers is a retired professor of African American Studies and literature. She is also a life coach and focuses on inspirational and spiritual teachings.",
+      "link": "https://www.amazon.com/Nia-J-Rivers/e/B0CL7B7QZ6"
+    },
+    {
+      "title": "ABOUT | mysite - Nia Witherspoon",
+      "snippet": "Dr. Nia O. Witherspoon(Smith BA/Stanford PhD) is a Black queer multidisciplinary artist + healing justice practitioner investigating the metaphysics of Black ...",
+      "link": "https://www.niawitherspoon.com/bio"
+    },
+    {
+      "title": "Nia the Author",
+      "snippet": "Nia the Author. 959 likes \u00b7 4 talking about this. Nia Obotette is a Milwaukee, WI resident & HBCU graduate. Nia has organized cycling and running meet.",
+      "link": "https://www.facebook.com/NiatheAuthor/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": "Black",
+  "gender_confidence": 0.8,
+  "race_confidence": 0.7,
+  "additional_context": {}
+}

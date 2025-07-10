@@ -1,0 +1,26 @@
+{
+  "guest_name": "Beast",
+  "searched_at": "2025-07-10T17:14:00.332297",
+  "search_results": [
+    {
+      "title": "Mr. Beast biography: The Inspiring Life Story of YouTube ...",
+      "snippet": "Beast biography; The Inspiring Life Story of YouTube Star Jimmy Donaldson, a compelling biography that delves deep into the life of Jimmy Donaldson ...",
+      "link": "https://www.amazon.com/Mr-Beast-biography-Inspiring-Donaldson/dp/B0DY5ZTGM2"
+    },
+    {
+      "title": "MrBeast",
+      "snippet": "\"Mr. Beast\" redirects here. For other uses, see Mr. Beast (disambiguation). James Stephen \"Jimmy\" Donaldson (born May 7, 1998), commonly known by his ...",
+      "link": "https://en.wikipedia.org/wiki/MrBeast"
+    },
+    {
+      "title": "Beast: John Bonham and the Rise of Led Zeppelin",
+      "snippet": "Beast: John Bonham and the Rise of Led Zeppelin ; Language. English ; Publisher. Da Capo ; Publication date. September 7, 2021 ; Dimensions. 6.5 x 1.7 x 9.4 inches.",
+      "link": "https://www.amazon.com/Beast-John-Bonham-Rise-Zeppelin/dp/0306846683"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

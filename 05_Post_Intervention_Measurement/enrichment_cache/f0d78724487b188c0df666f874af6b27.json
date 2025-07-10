@@ -1,0 +1,26 @@
+{
+  "guest_name": "Beth",
+  "searched_at": "2025-07-10T15:41:24.002261",
+  "search_results": [
+    {
+      "title": "About Beth Peterson",
+      "snippet": "Beth is an award- winning author, motivational speaker, lover of nature, and a model of mind-over-matter enthusiasm. She lives in Iowa with her husband and two ...",
+      "link": "https://www.bethpetersonauthor.com/about/"
+    },
+    {
+      "title": "Bio \u2013 Beth Kissileff",
+      "snippet": "Writer, speaker, teacher. Beth Kissileff's writing on cultural, literary, and religious topics appears regularly in many publications including the New York ...",
+      "link": "https://bethkissileff.com/bio/"
+    },
+    {
+      "title": "Beth Godbee, Ph.D.",
+      "snippet": "Beth Godbee is an educator, writer, and former writing studies professor who now offers public education courses, coaching, and retreats.",
+      "link": "https://heart-head-hands.com/beth-godbee/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

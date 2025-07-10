@@ -1,0 +1,26 @@
+{
+  "guest_name": "Daniel",
+  "searched_at": "2025-07-10T14:49:18.635444",
+  "search_results": [
+    {
+      "title": "Daniel Mason",
+      "snippet": "Daniel Mason (born c. 1976) is an American novelist and physician. He is the author of The Piano Tuner, A Far Country and North Woods.",
+      "link": "https://en.wikipedia.org/wiki/Daniel_Mason"
+    },
+    {
+      "title": "Daniel Biography - Inspirational Christians",
+      "snippet": "Daniel was a Jewish young man, probably of royal descent. As a late teen he was among those deported from Jerusalem by the conquering Babylonians in about 605 ...",
+      "link": "https://www.inspirationalchristians.org/bible-characters/daniel-biography/"
+    },
+    {
+      "title": "Daniel Pink \u2013 Author, Speaker, YouTuber, Playwright",
+      "snippet": "For 25 years, Daniel Pink has been turning big questions into bold answers \u2013 in books, articles, speeches, videos, television, and, most recently, plays.",
+      "link": "https://www.danpink.com/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "King Jr.",
+  "searched_at": "2025-07-10T17:05:04.655810",
+  "search_results": [
+    {
+      "title": "Martin Luther King Jr.",
+      "snippet": "Martin Luther King Jr. (born Michael King Jr.; January 15, 1929 \u2013 April 4, 1968) was an American Baptist minister, civil rights activist and political ...",
+      "link": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr."
+    },
+    {
+      "title": "Martin Luther King, Jr. | Biography, Speeches, Facts, & ...",
+      "snippet": "Original name: Michael King, Jr. ; Born: January 15, 1929, Atlanta, Georgia, U.S. ; Died: April 4, 1968, Memphis, Tennessee (aged 39).",
+      "link": "https://www.britannica.com/biography/Martin-Luther-King-Jr"
+    },
+    {
+      "title": "About Dr. Martin Luther King, Jr.",
+      "snippet": "Dr. Martin Luther King, Jr.'s leadership achieved more genuine progress toward racial equality in America than the previous 350 years.",
+      "link": "https://thekingcenter.org/about-tkc/martin-luther-king-jr/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

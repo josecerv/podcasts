@@ -1,0 +1,26 @@
+{
+  "guest_name": "Napa",
+  "searched_at": "2025-07-10T15:09:24.793706",
+  "search_results": [
+    {
+      "title": "Napa: The Story of an American Eden: Conaway, James",
+      "snippet": "James Conaway's remarkable bestseller delves into the heart of California's lush and verdant Napa Valley, also known as America's Eden. Long the source of ...",
+      "link": "https://www.amazon.com/Napa-Story-American-James-Conaway/dp/0618257985"
+    },
+    {
+      "title": "Napa Valley Unified School District | TK-12 Schools in Napa ...",
+      "snippet": "Serving over 16000 students, Napa Valley Unified School District offers top-notch academic programs, career education, and extracurriculars for TK-12 ...",
+      "link": "https://www.nvusd.org/"
+    },
+    {
+      "title": "Police Department | Napa, CA",
+      "snippet": "The Napa Police Department was established in 1875 and provides law enforcement services for the City of Napa. We have approximately 76 sworn personnel.",
+      "link": "http://www.cityofnapa.org/323/Police-Department"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

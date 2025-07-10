@@ -1,0 +1,26 @@
+{
+  "guest_name": "Charles",
+  "searched_at": "2025-07-10T14:56:20.911860",
+  "search_results": [
+    {
+      "title": "Charles Clark | Biography, Books, & Facts",
+      "snippet": "Charles Clark is a top motivational speaker, author, ex-pro athlete, and expert in resilience and mental health. Check out his overcoming story.",
+      "link": "https://thecharlesclark.com/meet-charles"
+    },
+    {
+      "title": "Official Website of Author Charles King - Charles King",
+      "snippet": "Charles King is the author of the New York Times-bestselling Gods of the Upper Air, which received the Francis Parkman Prize and the Anisfield-Wolf Award.",
+      "link": "https://charleskingauthor.com/"
+    },
+    {
+      "title": "Charles Duhigg \u2013 Bestselling Author & Speaker",
+      "snippet": "Explore the works of Charles Duhigg, Pulitzer Prize-winning author of 'The Power of Habit' and 'Supercommunicators.' Subscribe for insights and updates.",
+      "link": "https://charlesduhigg.com/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

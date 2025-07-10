@@ -1,0 +1,26 @@
+{
+  "guest_name": "June Carter",
+  "searched_at": "2025-07-10T15:03:55.899643",
+  "search_results": [
+    {
+      "title": "June Carter Cash",
+      "snippet": "Valerie June Carter Cash was an American country singer and songwriter. A five-time Grammy Award\u2013winner, she was a member of the Carter Family and the ...",
+      "link": "https://en.wikipedia.org/wiki/June_Carter_Cash"
+    },
+    {
+      "title": "Biography - June Carter Cash Official Site",
+      "snippet": "The legendary life and storied career of June Carter Cash span the length and breadth of country music ... author, musician, evangelist, philanthropist, mother",
+      "link": "https://www.junecartercash.com/biography/"
+    },
+    {
+      "title": "Anchored In Love : An Intimate Portrait of June Carter Cash",
+      "snippet": "June Carter was born in the rugged mountains of Maces Springs, Virginia, to Ezra and Maybelle Carter, pioneers of country music. On stage from a very young ...",
+      "link": "https://www.amazon.com/Anchored-Love-Intimate-Portrait-Carter/dp/0849901871"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

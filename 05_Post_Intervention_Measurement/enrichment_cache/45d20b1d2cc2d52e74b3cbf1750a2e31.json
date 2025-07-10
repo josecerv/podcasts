@@ -1,0 +1,26 @@
+{
+  "guest_name": "Ocean",
+  "searched_at": "2025-07-10T16:06:05.962219",
+  "search_results": [
+    {
+      "title": "About",
+      "snippet": "Writer, professor, and photographer, Ocean Vuong is the author of On Earth We're Briefly Gorgeous, winner of the American Book Award, The Mark Twain Award, ...",
+      "link": "https://www.oceanvuong.com/about"
+    },
+    {
+      "title": "Author Ocean Vuong on 'the shared bond of survival' and ...",
+      "snippet": "Author Ocean Vuong talks about his new novel, The Emperor of Gladness. It centers on the unlikely friendship between a 19-year-old college dropout and an 82- ...",
+      "link": "https://www.npr.org/2025/05/13/nx-s1-4967478/author-ocean-vuong-on-the-shared-bond-of-survival-and-his-new-novel"
+    },
+    {
+      "title": "Ocean Vuong (Author of On Earth We're Briefly Gorgeous)",
+      "snippet": "Ocean Vuong is the author of the critically acclaimed poetry collections Night Sky with Exit Wounds and Time is a Mother, as well as the New York Times ...",
+      "link": "https://www.goodreads.com/author/show/4456871.Ocean_Vuong"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

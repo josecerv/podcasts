@@ -1,0 +1,26 @@
+{
+  "guest_name": "Linda",
+  "searched_at": "2025-07-10T16:41:20.519825",
+  "search_results": [
+    {
+      "title": "About Linda",
+      "snippet": "Linda Kay Klein (she/her) is a renowned writer, researcher, coach, and author of the award-winning book, Pure: Inside the Evangelical Movement that Shamed a ...",
+      "link": "https://lindakayklein.com/about-linda/"
+    },
+    {
+      "title": "Linda M. Heywood | History",
+      "snippet": "Linda Heywood is a professor of African History and the History of the African Diaspora and African American Studies at Boston University.",
+      "link": "https://www.bu.edu/history/profile/linda-m-heywood/"
+    },
+    {
+      "title": "A Bio by Linda - Linda Larsen, CSP, CPAE",
+      "snippet": "Motivational Speaker Linda Larsen with Husband John Scalzi at the Beach. The joy of living in Sarasota Florida! Linda Larsen with Husband John Scalzi and Family.",
+      "link": "https://www.lindalarsenmotivationalspeaker.com/bio-by-motivational-speaker-linda-larsen/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": "Black",
+  "gender_confidence": 0.0,
+  "race_confidence": 0.7,
+  "additional_context": {}
+}

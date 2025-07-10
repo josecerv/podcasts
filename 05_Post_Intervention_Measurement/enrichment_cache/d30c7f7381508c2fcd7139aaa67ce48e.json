@@ -1,0 +1,26 @@
+{
+  "guest_name": "Frankie",
+  "searched_at": "2025-07-10T14:47:13.557690",
+  "search_results": [
+    {
+      "title": "ABOUT | My Site - Frankie O. Felder",
+      "snippet": "Author and speaker Frankie Ottowiess Felder grew up as the second oldest daughter in a military family that made segregated Petersburg Virginia her primary ...",
+      "link": "https://www.frankieofelder.com/about"
+    },
+    {
+      "title": "Biography",
+      "snippet": "Frankie Y. Bailey is a \u201ccrime professor\u201d. She is a PhD and tenured full professor in the School of Criminal Justice, University at Albany (SUNY).",
+      "link": "https://www.frankieybailey.com/biography"
+    },
+    {
+      "title": "Frankie Porter",
+      "snippet": "Frankie Porter \u00b7 About Me \u00b7 Narration \u00b7 Testimonials \u00b7 Samples \u00b7 Creating your ... Reader, writer, storyteller, and passionate devotee of the Oxford comma. I've ...",
+      "link": "https://www.frankieporter.com/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

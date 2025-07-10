@@ -1,0 +1,26 @@
+{
+  "guest_name": "Don Johnson",
+  "searched_at": "2025-07-10T15:38:06.277253",
+  "search_results": [
+    {
+      "title": "Don Johnson: books, biography, latest update",
+      "snippet": "Don Johnson. About the author. Rev. Dr. Don W. Johnson, a member of the Makah Indian Tribe, has been the Executive Director of Lutheran Association of ...",
+      "link": "https://www.amazon.com/stores/author/B00BHKUXQ8"
+    },
+    {
+      "title": "Don Johnson",
+      "snippet": "Don Johnson ; Don Wayne Johnson. (1949-12-15) December 15, 1949 (age 75). Flat Creek, Missouri, U.S. \u00b7 Actor; producer; singer \u00b7 1969\u2013present \u00b7 Melanie Griffith. \u200b.",
+      "link": "https://en.wikipedia.org/wiki/Don_Johnson"
+    },
+    {
+      "title": "About",
+      "snippet": "Don Johnson is filmmaker, author, and speaker. He is the founder of Don Johnson Evangelistic Ministries and Runaway Planet Pictures.",
+      "link": "https://donjohnsonmedia.com/about/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

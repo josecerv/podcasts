@@ -1,0 +1,26 @@
+{
+  "guest_name": "Gregg",
+  "searched_at": "2025-07-10T14:51:53.740232",
+  "search_results": [
+    {
+      "title": "Good Life, Good Work - GREGG VANOUREK",
+      "snippet": "Gregg Vanourek is a high-impact leadership developer, executive, and award-winning author training, speaking, coaching, and consulting on leadership and ...",
+      "link": "https://greggvanourek.com/about/"
+    },
+    {
+      "title": "Gregg Hecimovich",
+      "snippet": "Gregg Hecimovich is the author of THE LIFE AND TIMES OF HANNAH CRAFTS (Ecco/HarperCollins), winner of the Los Angeles Times Book Award, the American Book Award.",
+      "link": "https://www.furman.edu/people/gregg-hecimovich/"
+    },
+    {
+      "title": "Gregg Mitman",
+      "snippet": "Gregg Mitman is the Vilas Research and William Coleman Professor of History, Medical History, and Environmental Studies at the University of Wisconsin\u2013Madison.",
+      "link": "https://gmitman.com/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

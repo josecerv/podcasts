@@ -1,0 +1,26 @@
+{
+  "guest_name": "Vignesh",
+  "searched_at": "2025-07-10T17:29:53.649882",
+  "search_results": [
+    {
+      "title": "Vignesh Gowrishankar - Adjunct Assistant Professor",
+      "snippet": "Vignesh completed his Ph.D. from Stanford University, researching next-generation solar cells. He also received his M.S. in Management Science and Engineering ...",
+      "link": "https://www.stern.nyu.edu/faculty/bio/vignesh-gowrishankar"
+    },
+    {
+      "title": "Vignesh Yoganathan - Aston Research Explorer",
+      "snippet": "Dr. Vignesh Yoganathan is Professor of Marketing at Aston University, Birmingham. His current research revolves around the implications of robots and Artificial ...",
+      "link": "https://research.aston.ac.uk/en/persons/vignesh-yoganathan"
+    },
+    {
+      "title": "Vignesh Ramachandran | Author",
+      "snippet": "Vignesh Ramachandran is a digital news editor for the PBS NewsHour. Ramachandran is also co-founder of Red, White and Brown Media, focused on building media ...",
+      "link": "https://www.pbs.org/newshour/author/vignesh-ramachandran"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

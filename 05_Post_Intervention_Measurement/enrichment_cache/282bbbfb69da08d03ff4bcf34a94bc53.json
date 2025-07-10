@@ -1,0 +1,26 @@
+{
+  "guest_name": "Vanessa",
+  "searched_at": "2025-07-10T16:44:37.797607",
+  "search_results": [
+    {
+      "title": "Vanessa Van Edwards",
+      "snippet": "Vanessa Van Edwards (born May 17, 1985) is a speaker with Science of People and author of several books. She specializes in science-based people skills.",
+      "link": "https://en.wikipedia.org/wiki/Vanessa_Van_Edwards"
+    },
+    {
+      "title": "Vanessa Van Edwards | Bestselling Author and Acclaimed ...",
+      "snippet": "Communication expert, bestselling author, acclaimed speaker, and founder of Science of People. About Vanessa. Vanessa is the bestselling author of Captivate: ...",
+      "link": "https://www.scienceofpeople.com/vanessa-van-edwards/"
+    },
+    {
+      "title": "Author Vanessa Miller",
+      "snippet": "Vanessa Miller Author of The American Queen - an historical fiction story of the People of the Happy Land in Appalachia.",
+      "link": "http://vanessamiller.com/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

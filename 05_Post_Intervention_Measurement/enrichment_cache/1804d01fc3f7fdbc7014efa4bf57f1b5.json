@@ -1,0 +1,26 @@
+{
+  "guest_name": "Red Sebastian",
+  "searched_at": "2025-07-10T15:09:18.494735",
+  "search_results": [
+    {
+      "title": "RED SEBASTIAN |",
+      "snippet": "The name RED SEBASTIAN was inspired by his childhood love for the movie The Little Mermaid. He immediately felt a connection with the little red crab, Sebastian ...",
+      "link": "https://redsebastian.be/"
+    },
+    {
+      "title": "Red Sebastian - Biography",
+      "snippet": "Red Sebastian is a Belgian singer, songwriter, and performer. At the age of 14, he was a finalist on Belgium's Got Talent in 2014.",
+      "link": "https://www.imdb.com/name/nm16978396/bio/"
+    },
+    {
+      "title": "Red Sebastian - Simple English Wikipedia, the free ...",
+      "snippet": "Seppe Guido Yvonne Herreman (born 13 May 1999), known professionally as Red Sebastian, is a Belgian singer and songwriter. He represented Belgium at the ...",
+      "link": "https://simple.wikipedia.org/wiki/Red_Sebastian"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

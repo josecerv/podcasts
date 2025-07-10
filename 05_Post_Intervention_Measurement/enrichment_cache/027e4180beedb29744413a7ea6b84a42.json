@@ -1,0 +1,26 @@
+{
+  "guest_name": "Henry",
+  "searched_at": "2025-07-10T14:53:29.157071",
+  "search_results": [
+    {
+      "title": "O. Henry | Biography, Books, Achievements, Short Stories ...",
+      "snippet": "O. Henry, American short-story writer whose tales romanticized the commonplace\u2014in particular the life of ordinary people in New York City.",
+      "link": "https://www.britannica.com/biography/O-Henry"
+    },
+    {
+      "title": "O. Henry",
+      "snippet": "William Sydney Porter (September 11, 1862 \u2013 June 5, 1910), better known by his pen name O. Henry, was an American writer known primarily for his short stories.",
+      "link": "https://en.wikipedia.org/wiki/O._Henry"
+    },
+    {
+      "title": "O. Henry Biography",
+      "snippet": "William Sydney Porter (O. Henry) was born on a plantation in Greensboro, North Carolina on September 11, 1862. In 1882, prompted by ill health, he moved to a ...",
+      "link": "http://library.austintexas.gov/ahc/o-henry-biography"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

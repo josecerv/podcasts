@@ -1,0 +1,26 @@
+{
+  "guest_name": "Kaz Windness",
+  "searched_at": "2025-07-10T15:05:50.767815",
+  "search_results": [
+    {
+      "title": "About & Contact",
+      "snippet": "BIO. Kaz Windness is the Geisel award-winning, genre-crossing illustrator and author of funny and heart-warming books for young readers. Proudly neurodivergent ...",
+      "link": "http://www.windnessbooks.com/about"
+    },
+    {
+      "title": "Kaz Windness",
+      "snippet": "Portfolio, book news, and speaking information for award-winning author-illustrator Kaz Windness, creator of books for children, teens, and young adults.",
+      "link": "http://www.windnessbooks.com/"
+    },
+    {
+      "title": "About - The Kaz Windness Blog",
+      "snippet": "Kaz Windness loves to make her readers laugh. Kaz is an award-winning, genre-crossing illustrator and author of heart-warming books for young readers. Proudly ...",
+      "link": "https://kazwindness.blog/about/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

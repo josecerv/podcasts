@@ -1,0 +1,26 @@
+{
+  "guest_name": "Jo Jackson",
+  "searched_at": "2025-07-10T14:55:57.480049",
+  "search_results": [
+    {
+      "title": "About | Jo King Jackson",
+      "snippet": "I'm an author and speaker pursuing ... Your free 5-Step Prayer Process guide is headed to your inbox! You are agreeing to receive messages from Jo Jackson.",
+      "link": "https://jojackson.org/about-jo-jackson/"
+    },
+    {
+      "title": "Jo Jackson: books, biography, latest update",
+      "snippet": "Jo Jackson is the author of three novels and a novella. She was born in Birmingham UK. She was a nurse and midwife before becoming a family psychotherapist.",
+      "link": "https://www.amazon.com/Jo-Jackson/e/B01N6GB7Z8%3Fref=dbs_a_mng_rwt_scns_share"
+    },
+    {
+      "title": "Meet the Author: Beyond the Margin by Jo Jackson",
+      "snippet": "My name is Jo Jackson. I am the author of two books, 'Too Loud a Silence' published in 2016 and 'Beyond the Margin' published in 2019.",
+      "link": "https://meetingtheauthors.com/2020/03/03/meet-the-author-beyond-the-margin-by-jo-jackson/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

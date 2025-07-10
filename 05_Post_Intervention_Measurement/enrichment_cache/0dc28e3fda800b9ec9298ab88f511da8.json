@@ -1,0 +1,26 @@
+{
+  "guest_name": "Vapi",
+  "searched_at": "2025-07-10T16:36:36.913846",
+  "search_results": [
+    {
+      "title": "Introducing Vapi Voices",
+      "snippet": "Real Conversations, Not Just Readings. We're thrilled to introduce Vapi Voices, our brand-new AI voices cloned from authentic, everyday speech.",
+      "link": "https://vapi.ai/blog/introducing-vapi-voices"
+    },
+    {
+      "title": "How to train your Voice AI Agent on Company knowledge ...",
+      "snippet": "In this video, I'll show you exactly how to train your Voice AI agent using company-specific knowledge inside of Vapi.",
+      "link": "https://www.youtube.com/watch?v=faK6uB10ROw"
+    },
+    {
+      "title": "Vapi - Tourist Places & Top Things to Do in 2025",
+      "snippet": "Located in Gujarat's Valsad District, Vapi is a stunning metropolis. It combines all of Gujarat's best features into a single spectacular metropolis.",
+      "link": "https://www.makemytrip.com/tripideas/places/vapi"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

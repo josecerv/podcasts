@@ -1,0 +1,26 @@
+{
+  "guest_name": "Aunt Tatiana",
+  "searched_at": "2025-07-10T16:00:06.523103",
+  "search_results": [
+    {
+      "title": "The Girl on the Tracks: A WW2 Historical Novel, Based ...",
+      "snippet": "\u201cThe Girl on the Tracks\u201d by David Keidar was originally published in Hebrew as \u201cMy Aunt Tatiana\u201d in 1994. Set against the backdrop of 1941, Odessa, it tells the ...",
+      "link": "https://www.amazon.com/Girl-Tracks-Historical-Novel-Based-ebook/dp/B09RQT8G88"
+    },
+    {
+      "title": "This is a photo of my great aunt Maria, who was born ...",
+      "snippet": "Most of her life was spent in Svobodniy gorod in the Amur Oblast with her sister Solomiya and her aunt Tatiana. Both areas reportedly were ...",
+      "link": "https://www.facebook.com/groups/canadaua/posts/2963859963785339/"
+    },
+    {
+      "title": "Deadly Summer Nights |",
+      "snippet": "I was raised mostly by my mother's sister, Tatiana, while Olivia was off pursing stardom, and Aunt Tatiana is here as the head of housekeeping.",
+      "link": "https://dianneascroft.com/2021/09/09/deadly-summer-nights/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

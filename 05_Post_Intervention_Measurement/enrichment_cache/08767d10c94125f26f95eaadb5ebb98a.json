@@ -1,0 +1,26 @@
+{
+  "guest_name": "Tomi",
+  "searched_at": "2025-07-10T17:23:51.443840",
+  "search_results": [
+    {
+      "title": "Tomi Adeyemi",
+      "snippet": "Tomi Adeyemi (born August 1, 1993) is an American writer and creative writing coach. She is best known for her novel Children of Blood and Bone, ...",
+      "link": "https://en.wikipedia.org/wiki/Tomi_Adeyemi"
+    },
+    {
+      "title": "About Tomi Llama \u2013 Author, Speaker, Purpose Guide",
+      "snippet": "Tomi Llama is a personal transformation expert and author committed to helping you find your life purpose and use it to live your best life.",
+      "link": "https://www.tomillama.com/about"
+    },
+    {
+      "title": "Tomi Adeyemi Biography - Keynote Speaker",
+      "snippet": "Tomi Adeyemi is the #1 Best-Selling and Hugo award-winning author of \"Children of Blood and Bone\" and its sequel, \"Children of Virtue and Vengeance.",
+      "link": "https://www.aaespeakers.com/keynote-speakers/tomi-adeyemi"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

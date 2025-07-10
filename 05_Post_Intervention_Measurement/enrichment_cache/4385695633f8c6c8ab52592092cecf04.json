@@ -1,0 +1,26 @@
+{
+  "guest_name": "Sammy",
+  "searched_at": "2025-07-10T15:51:09.572513",
+  "search_results": [
+    {
+      "title": "About",
+      "snippet": "Dr. Sammy founder and director of the Ramsey Research Foundation graduated with a Bachelor of Science in Entomology from Cornell University in 2011.",
+      "link": "https://www.drsammy.online/about-2"
+    },
+    {
+      "title": "Sammy Zahran, Professor - College of Liberal Arts",
+      "snippet": "Sammy Zahran is a Professor in the Department of Economics. Sammy is also a Professor in the Department of Epidemiology in the Colorado School of Public Health.",
+      "link": "https://www.libarts.colostate.edu/people/szahran/"
+    },
+    {
+      "title": "Sammy Smooha",
+      "snippet": "Sammy Smooha (Hebrew: \u05e1\u05de\u05d9 \u05e1\u05de\u05d5\u05d7\u05d4; born 1941) is a Professor of Sociology at the University of Haifa. Sammy Smooha. \u05e1\u05de\u05d9 \u05e1\u05de\u05d5\u05d7\u05d4. Born, 1941.",
+      "link": "https://en.wikipedia.org/wiki/Sammy_Smooha"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

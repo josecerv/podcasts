@@ -1,0 +1,26 @@
+{
+  "guest_name": "Jimi",
+  "searched_at": "2025-07-10T15:41:58.715393",
+  "search_results": [
+    {
+      "title": "Jimi Rodriguez: books, biography, latest update",
+      "snippet": "Jimi Rodriguez is an author from Houston, TX. After graduating from The Ohio State University, he became a teacher in his hometown.",
+      "link": "https://www.amazon.com/stores/author/B07KKM6572"
+    },
+    {
+      "title": "Jimi Huh, PhD - Keck School of Medicine of USC",
+      "snippet": "Dr. Jimi Huh has joined the University of Southern California in 2011. She has a background in psychology and behavioral health, with specific interests in the ...",
+      "link": "https://keck.usc.edu/faculty-search/jimi-huh/"
+    },
+    {
+      "title": "Jimi Jones and Marek Jancovic | The Future of Memory",
+      "snippet": "Jimi Jones is an adjunct lecturer of library and information sciences for the School of Information Sciences at the University of Illinois Urbana-Champaign.",
+      "link": "https://www.press.uillinois.edu/books/?id=p088759"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

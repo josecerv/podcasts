@@ -1,0 +1,26 @@
+{
+  "guest_name": "The League of Erics",
+  "searched_at": "2025-07-10T17:36:46.687783",
+  "search_results": [
+    {
+      "title": "The League of Erics added a new photo.",
+      "snippet": "The League of Erics added a new photo.",
+      "link": "https://m.facebook.com/leagueoferics/photos/d41d8cd9/1167896335343883/"
+    },
+    {
+      "title": "The League of Erics - \"Nosferatu Blues\" - Sessions from Studio A",
+      "snippet": "The League of Erics performing \"Nosferatu Blues\" live on WNIJ's Sessions from Studio A. Find the full episode in our show archive ...",
+      "link": "https://www.youtube.com/watch?v=EEstRsalE1g"
+    },
+    {
+      "title": "The Ex-Bombers",
+      "snippet": "Ethan Kister Kevin after a full Bull's Bruins is telling The League of Erics all about his connections in \"the business.\" 4 mos. 1.",
+      "link": "https://www.facebook.com/TheExBombers/posts/about-this-weekend-or-post-your-pictures-you-know-it-was-a-magical-night-when-th/1178473310949976/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

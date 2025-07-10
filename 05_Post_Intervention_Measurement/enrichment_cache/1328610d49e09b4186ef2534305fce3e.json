@@ -1,0 +1,26 @@
+{
+  "guest_name": "Grandpa Bill",
+  "searched_at": "2025-07-10T15:46:34.095845",
+  "search_results": [
+    {
+      "title": "Grandpa Bill: books, biography, latest update",
+      "snippet": "Follow Grandpa Bill and explore their bibliography from Amazon's Grandpa Bill Author Page.",
+      "link": "https://www.amazon.com/Grandpa-Bill/e/B00CYJTA7Y%3Fref=dbs_a_mng_rwt_scns_share"
+    },
+    {
+      "title": "Books by Grandpa Bill (Author of Baby Bear Stories)",
+      "snippet": "Grandpa Bill has 10 books on Goodreads with 1 rating. Grandpa Bill's most popular book is Baby Bear Stories.",
+      "link": "https://www.goodreads.com/author/list/4314805.Grandpa_Bill"
+    },
+    {
+      "title": "Two Days in Grandpa Bill's Brain",
+      "snippet": "Grandpa Bill cut a formidable figure, running daily up and down the steep driveway of his house in the Northeast Kingdom in Vermont in a ...",
+      "link": "https://goodgrandpa.com/2023/03/two-days-in-grandpa-bills-brain/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

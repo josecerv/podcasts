@@ -1,0 +1,26 @@
+{
+  "guest_name": "Cope",
+  "searched_at": "2025-07-10T17:34:33.689314",
+  "search_results": [
+    {
+      "title": "Stephen Cope",
+      "snippet": "Stephen Cope is a psychotherapist, Kripalu Yoga teacher, and author of several books on yoga and meditation. He is the founder of the Kripalu Institute for ...",
+      "link": "https://en.wikipedia.org/wiki/Stephen_Cope"
+    },
+    {
+      "title": "Suzanne Cope Biography",
+      "snippet": "Suzanne Cope, PhD is a narrative journalist and scholar, author of WOMEN OF WAR: The Italian Assassins, Spies and Couriers Who Fought the Nazis.",
+      "link": "https://www.suzannecope.com/about"
+    },
+    {
+      "title": "David Cope",
+      "snippet": "David Howell Cope (May 17, 1941 \u2013 May 4, 2025) was an American author, composer, scientist and Dickerson Professor of Music at UC Santa Cruz.",
+      "link": "https://en.wikipedia.org/wiki/David_Cope"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

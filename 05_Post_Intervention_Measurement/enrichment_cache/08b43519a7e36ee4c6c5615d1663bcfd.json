@@ -1,0 +1,26 @@
+{
+  "guest_name": "Skip",
+  "searched_at": "2025-07-10T16:37:13.591182",
+  "search_results": [
+    {
+      "title": "About Skip Prichard",
+      "snippet": "Skip Prichard is an accomplished CEO and growth-oriented business leader, best-selling author, and global keynote speaker.",
+      "link": "https://skipprichard.com/who-is-skip-prichard/"
+    },
+    {
+      "title": "Skip Horack",
+      "snippet": "Skip Horack ; Born, Bruce Maclachlan Horack, Jr. \u00b7 (1976-05-24) May 24, 1976 (age 49) New Orleans, Louisiana ; Occupation, Author, professor ; Nationality, American.",
+      "link": "https://en.wikipedia.org/wiki/Skip_Horack"
+    },
+    {
+      "title": "Skip Horack | Department of English",
+      "snippet": "SKIP HORACK, Associate Professor, MFA University of New Orleans, JD Florida State University, specializes in fiction and creative non-fiction. He is the author ...",
+      "link": "https://english.fsu.edu/faculty/skip-horack"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

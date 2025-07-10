@@ -1,0 +1,26 @@
+{
+  "guest_name": "Stevi",
+  "searched_at": "2025-07-10T16:01:32.852430",
+  "search_results": [
+    {
+      "title": "Stevi Jackson",
+      "snippet": "Stevi Jackson (born 23 June 1951), is an academic and writer working in the field of gender and sexuality. She has been Professor of Women's studies at the ...",
+      "link": "https://en.wikipedia.org/wiki/Stevi_Jackson"
+    },
+    {
+      "title": "Stevi Quate - Author Bio",
+      "snippet": "Stevi Quate sees every day why her Heinemann books The Just-Right Challenge and Clock Watchers (both coauthored with John McDermott) are so urgently needed.",
+      "link": "https://www.heinemann.com/authors/4829.aspx"
+    },
+    {
+      "title": "Stevi Quate: books, biography, latest update",
+      "snippet": "Stevi Quate is an education consultant who works with teachers to develop state-of-the-art literacy curriculum and instruction. An experienced teacher ...",
+      "link": "https://www.amazon.com/Stevi-Quate/e/B00E80BQGA"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

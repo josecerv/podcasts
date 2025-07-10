@@ -1,0 +1,26 @@
+{
+  "guest_name": "Mimi",
+  "searched_at": "2025-07-10T15:41:56.445119",
+  "search_results": [
+    {
+      "title": "Bio",
+      "snippet": "Mimi Schwartz is an award-winning, socially conscious American author, educator, and public speaker. Her most recent book, Good Neighbors, Bad Times ...",
+      "link": "https://mimischwartz.net/bio/"
+    },
+    {
+      "title": "Mimi's Story",
+      "snippet": "An instructional designer, speaker and trainer with over 25 years experience, Mimi Donaldson has designed and presented programs in subject matter areas.",
+      "link": "https://www.mimidonaldson.com/about-mimi/"
+    },
+    {
+      "title": "Mimi Abramovitz",
+      "snippet": "Mimi Abramovitz is an American author, educator and activist. Abramovitz's work focuses on civil and welfare rights of those living in the United States, ...",
+      "link": "https://en.wikipedia.org/wiki/Mimi_Abramovitz"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

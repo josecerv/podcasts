@@ -1,0 +1,26 @@
+{
+  "guest_name": "Sheila",
+  "searched_at": "2025-07-10T15:17:54.729184",
+  "search_results": [
+    {
+      "title": "My Story - Sheila Walsh",
+      "snippet": "Sheila Walsh is the Scottish girl who loves to teach God's Word to the over 6 million women she's met and spoken to around the world.",
+      "link": "https://sheilawalsh.com/my-story/"
+    },
+    {
+      "title": "Sheila Myers Bio",
+      "snippet": "Sheila Myers is a Professor at a small Upstate NY college where she teaches ecology. Myers began writing a trilogy on the family of the robber baron Dr. Thomas ...",
+      "link": "https://www.sheilamyers.com/author-bio.html"
+    },
+    {
+      "title": "Biography - Sheila Jasanoff",
+      "snippet": "Sheila Jasanoff is Pforzheimer Professor of Science and Technology Studies at the John F. Kennedy School of Government at Harvard University.",
+      "link": "https://sheilajasanoff.org/about/biography/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

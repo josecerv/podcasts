@@ -1,0 +1,26 @@
+{
+  "guest_name": "Darrin",
+  "searched_at": "2025-07-10T14:53:32.707921",
+  "search_results": [
+    {
+      "title": "Darrin McMahon",
+      "snippet": "Darrin M. McMahon (born 1965) is an American historian, author, public speaker, and currently a professor of history at Dartmouth College",
+      "link": "https://en.wikipedia.org/wiki/Darrin_McMahon"
+    },
+    {
+      "title": "About - Darrin M. McMahon",
+      "snippet": "Darrin M. McMahon is a historian, author, and public speaker, who lives in Westport, CT and Quechee, VT and is the David W. Little Class of 1944 Professor ...",
+      "link": "https://darrinmcmahon.com/about/"
+    },
+    {
+      "title": "Darrin M. McMahon - Department of History - Dartmouth",
+      "snippet": "Darrin M. McMahon is currently the David W. Little Class of 1944 Professor of History at Dartmouth, where he previously held the Mary Brinsmead Wheelock Chair.",
+      "link": "https://history.dartmouth.edu/people/darrin-m-mcmahon"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

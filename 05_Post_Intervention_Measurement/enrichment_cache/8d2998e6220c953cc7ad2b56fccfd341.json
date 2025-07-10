@@ -1,0 +1,26 @@
+{
+  "guest_name": "Dr. Sadler",
+  "searched_at": "2025-07-10T15:55:58.397230",
+  "search_results": [
+    {
+      "title": "About Dr. Sadler",
+      "snippet": "About Dr. Sadler. Hello! I'm Gregory B. Sadler. I'm a philosopher by training, trade, and inclination, and while I do engage in philosophy in a traditional ...",
+      "link": "https://gbsadler.blogspot.com/p/gregory-b-sadler.html"
+    },
+    {
+      "title": "William S. Sadler",
+      "snippet": "\"Dr. Sadler, 93, Dies; Services Are Scheduled\", Chicago Tribune, p. B18, April 28, 1969, archived from the original on December 9, 2012, retrieved February ...",
+      "link": "https://en.wikipedia.org/wiki/William_S._Sadler"
+    },
+    {
+      "title": "Dr. Sadler and The Urantia Book: A History of a Spiritual ...",
+      "snippet": "Dr. Sadler was the custodian of the Urantia revelation, entrusted with shepherding the precious information from its reception to the printed page. He was ...",
+      "link": "https://www.amazon.com/Dr-Sadler-Urantia-Book-Revelation/dp/0692306102"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

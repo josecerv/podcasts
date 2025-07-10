@@ -1,0 +1,26 @@
+{
+  "guest_name": "PC",
+  "searched_at": "2025-07-10T16:53:11.860264",
+  "search_results": [
+    {
+      "title": "PC speaker",
+      "snippet": "A PC speaker is a loudspeaker built into some IBM PC compatible computers. The first IBM Personal Computer, model 5150, employed a standard 2.25 inch magnetic ...",
+      "link": "https://en.wikipedia.org/wiki/PC_speaker"
+    },
+    {
+      "title": "Best PC Speakers 2025: From Budget to Audiophile Bliss",
+      "snippet": "We've tested several current PC speakers, from budget-priced 2.0 options to glorious gaming setups with subwoofers and surround sound, and ...",
+      "link": "https://www.tomshardware.com/best-picks/best-pc-speakers"
+    },
+    {
+      "title": "P. C. Wren",
+      "snippet": "P. C. Wren ; 22 November 1941(1941-11-22) (aged 66) \u00b7 Author, educator \u00b7 British \u00b7 St Catherine's Society (St Catherine's College, Oxford).",
+      "link": "https://en.wikipedia.org/wiki/P._C._Wren"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

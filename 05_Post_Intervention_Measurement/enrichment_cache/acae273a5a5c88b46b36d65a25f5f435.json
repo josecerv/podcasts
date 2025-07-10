@@ -1,0 +1,26 @@
+{
+  "guest_name": "Oliver",
+  "searched_at": "2025-07-10T16:33:54.137424",
+  "search_results": [
+    {
+      "title": "Oliver Sacks Author | Biography, Life and Books by ...",
+      "snippet": "Oliver Sacks, M.D,. FRCP, was a physician, a best-selling author, and a professor of neurology at the NYU School of Medicine.",
+      "link": "https://www.oliversacks.com/about-oliver-sacks/"
+    },
+    {
+      "title": "Oliver Sacks",
+      "snippet": "Oliver Wolf Sacks (9 July 1933 \u2013 30 August 2015) was a British neurologist, naturalist, historian of science, and writer.",
+      "link": "https://en.wikipedia.org/wiki/Oliver_Sacks"
+    },
+    {
+      "title": "Kelly Oliver",
+      "snippet": "Kelly Oliver is W. Alton Jones Professor of Philosophy at Vanderbilt University. She is the author of fifteen scholarly books.",
+      "link": "https://as.vanderbilt.edu/philosophy/bio/kelly-oliver/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

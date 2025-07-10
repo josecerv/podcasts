@@ -1,0 +1,26 @@
+{
+  "guest_name": "Sheikh",
+  "searched_at": "2025-07-10T15:21:41.410859",
+  "search_results": [
+    {
+      "title": "Samira Sheikh",
+      "snippet": "Samira Sheikh is a historian of South Asia. Her research interests include politics and religion in South Asia from 1200-1950, early modern trade, and early ...",
+      "link": "https://as.vanderbilt.edu/history/bio/samira-sheikh/"
+    },
+    {
+      "title": "Shaya Sheikh | Bio | New York Tech",
+      "snippet": "Shaya Sheikh obtained his Ph.D. from Case Western Reserve University in 2013. He worked as a scheduling and optimization scientist at Lancaster Laboratories.",
+      "link": "https://site.nyit.edu/bio/ssheik11"
+    },
+    {
+      "title": "Akbar, Sheikh | Materials Science and Engineering",
+      "snippet": "Biography. Dr. Sheikh A. Akbar is a Professor of Materials Science and Engineering and founder of the National Science Foundation (NSF) Center for Industrial ...",
+      "link": "https://mse.osu.edu/people/akbar.1"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

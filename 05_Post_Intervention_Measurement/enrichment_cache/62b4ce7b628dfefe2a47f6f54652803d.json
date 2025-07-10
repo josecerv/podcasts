@@ -1,0 +1,26 @@
+{
+  "guest_name": "Norman Fischer",
+  "searched_at": "2025-07-10T15:21:29.524240",
+  "search_results": [
+    {
+      "title": "Biography",
+      "snippet": "Norman Fischer has been publishing poetry since 1979. Founder and teacher of the Everyday Zen Foundation, he is also one of the most highly respected Zen ...",
+      "link": "https://www.normanfischer.org/biography"
+    },
+    {
+      "title": "Zoketsu Norman Fischer",
+      "snippet": "Zoketsu Norman Fischer is a poet and Zen Buddhist priest. For many years he has taught at the San Francisco Zen Center, the oldest and largest of the new ...",
+      "link": "https://everydayzen.org/about/norman-fischer/"
+    },
+    {
+      "title": "Zoketsu Norman Fischer",
+      "snippet": "Zoketsu Norman Fischer is an American poet, writer, and Soto Zen priest, teaching and practicing in the lineage of Shunryu Suzuki. He is a Dharma heir of ...",
+      "link": "https://en.wikipedia.org/wiki/Zoketsu_Norman_Fischer"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

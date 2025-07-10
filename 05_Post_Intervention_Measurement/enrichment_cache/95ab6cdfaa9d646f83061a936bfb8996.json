@@ -1,0 +1,26 @@
+{
+  "guest_name": "Manel",
+  "searched_at": "2025-07-10T16:24:26.349764",
+  "search_results": [
+    {
+      "title": "Manel Sanrom\u00e0 - keynote speaker",
+      "snippet": "Manel Sanrom\u00e0 (born 1956) is Ph.D. in Physics (University of Barcelona 1982). He has hold different grants of research in Spain and the United States.",
+      "link": "https://www.gspeakers.com/our-speakers/manel-sanroma/"
+    },
+    {
+      "title": "Manel Palos | School of Journalism and Mass ...",
+      "snippet": "Manel is an assistant professor of journalism and mass communications at San Jose State University, a former journalist, and a scholar interested in the ...",
+      "link": "https://www.sjsu.edu/jmc/about-us/team/faculty/manel-palos.php"
+    },
+    {
+      "title": "Manel Loureiro",
+      "snippet": "Manel Loureiro ; (1975-12-30) December 30, 1975 (age 49) Pontevedra, Spain \u00b7 Writer, journalist, former lawyer \u00b7 University of Santiago de Compostela \u00b7 Horror ...",
+      "link": "https://en.wikipedia.org/wiki/Manel_Loureiro"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

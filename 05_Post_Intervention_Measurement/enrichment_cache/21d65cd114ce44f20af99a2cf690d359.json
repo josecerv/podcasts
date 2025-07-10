@@ -1,0 +1,26 @@
+{
+  "guest_name": "Sam Led",
+  "searched_at": "2025-07-10T15:00:05.468354",
+  "search_results": [
+    {
+      "title": "Sam Led Consulting",
+      "snippet": "Hi, I'm Sam Led. I am an ADHD coach, speaker, powerful group facilitator, and author of Beyond ADHD. Some people say that I am just a \u201cwoo-woo\u201d soul. I was ...",
+      "link": "https://www.samledconsulting.com/"
+    },
+    {
+      "title": "About",
+      "snippet": "Sam Led Consulting \u00b7 Work With Me \u00b7 Private Coaching \u00b7 Beyond ADHD Book \u00b7 Podcast ... I am a no-nonsense transformation coach, speaker, powerful group facilitator ...",
+      "link": "https://www.samledconsulting.com/about"
+    },
+    {
+      "title": "Sam Led: books, biography, latest update",
+      "snippet": "Sam Led is a coach, author, public speaker, and host of the podcast The Fearless Now. He leads online and in-person programs about understanding your ADHD mind.",
+      "link": "https://www.amazon.com/stores/author/B0CJZNKXKJ"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

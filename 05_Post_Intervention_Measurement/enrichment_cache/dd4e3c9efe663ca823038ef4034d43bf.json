@@ -1,0 +1,26 @@
+{
+  "guest_name": "Merk",
+  "searched_at": "2025-07-10T15:55:51.612304",
+  "search_results": [
+    {
+      "title": "Frederick Merk",
+      "snippet": "Frederick Merk (August 15, 1887 \u2013 September 24, 1977) was an American historian. He taught at Harvard University from 1924 to 1956.",
+      "link": "https://en.wikipedia.org/wiki/Frederick_Merk"
+    },
+    {
+      "title": "Story - Michaela Merk Award-Winning Visionary Speaker",
+      "snippet": "Michaela Merk inspires audiences to empower teams with relational and emotional intelligence, leadership and luxury excellence.",
+      "link": "https://michaela-merk.com/story/"
+    },
+    {
+      "title": "FREDERICK MERK, 90; A HARVARD HISTORIAN",
+      "snippet": "Merk devoted himself primarily to teaching and research, but he also wrote a major work, \u201cAlbert Gallatin and the Oregon Problem,\u201d in 1950, ...",
+      "link": "https://www.nytimes.com/1977/09/27/archives/frederick-merk-90-a-harvard-historian-taught-wagon-wheels-course-on.html"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

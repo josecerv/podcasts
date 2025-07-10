@@ -1,0 +1,26 @@
+{
+  "guest_name": "Megadog",
+  "searched_at": "2025-07-10T15:04:12.674795",
+  "search_results": [
+    {
+      "title": "The Megadog Tales: Unleash The Power",
+      "snippet": "When the dogs devour heaping mounds of dog food that is laced with plutonium, their DNA evolves. Joe transforms into MegaDog, a superhero with a passion for ...",
+      "link": "https://www.amazon.com/Megadog-Tales-Unleash-Power/dp/0981836720"
+    },
+    {
+      "title": "Planet Dog Records",
+      "snippet": "It is part of the same organisation headed by Michael Dog (real name Michael Sassen) that ran Club Dog in London and the touring Megadog parties, and was ...",
+      "link": "https://en.wikipedia.org/wiki/Planet_Dog_Records"
+    },
+    {
+      "title": "The Megadog Tales: Unleash the Power",
+      "snippet": "When the dogs devour heaping mounds of dog food that is laced with plutonium, their DNA evolves. Joe transforms into MegaDog, a superhero with a passion for ...",
+      "link": "https://www.barnesandnoble.com/w/the-megadog-tales-dale-alderman/1112041289"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

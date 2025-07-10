@@ -1,0 +1,26 @@
+{
+  "guest_name": "Fitz",
+  "searched_at": "2025-07-10T15:45:28.328995",
+  "search_results": [
+    {
+      "title": "Fitz Hugh Ludlow",
+      "snippet": "Fitz Hugh Ludlow, sometimes seen as Fitzhugh Ludlow (September 11, 1836 \u2013 September 12, 1870), was an American author, journalist, and explorer; ...",
+      "link": "https://en.wikipedia.org/wiki/Fitz_Hugh_Ludlow"
+    },
+    {
+      "title": "Fitz-James O'Brien",
+      "snippet": "Fitz-James O'Brien (25 October 1826 \u2014 6 April 1862) was an Irish-American writer of works in fantasy and science fiction short stories.",
+      "link": "https://en.wikipedia.org/wiki/Fitz-James_O%27Brien"
+    },
+    {
+      "title": "Fitz Koehler (MSSPM '98)",
+      "snippet": "Fitz Koehler, MSSPM '98, is a fitness expert, speaker, author and professional race announcer. Her focus is on helping others live better and longer.",
+      "link": "http://hhp.ufl.edu/profiles/alumni/fitz-koehler.html"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

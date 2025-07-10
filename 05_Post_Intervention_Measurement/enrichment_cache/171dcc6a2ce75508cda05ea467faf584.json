@@ -1,0 +1,26 @@
+{
+  "guest_name": "Parker Ziegler",
+  "searched_at": "2025-07-10T16:07:23.346492",
+  "search_results": [
+    {
+      "title": "Parker Ziegler / Software Engineer and Cartographer",
+      "snippet": "Parker Ziegler is a software engineer and cartographer based in Berkeley, CA. He works on next generation web technologies, with a focus on animation, ...",
+      "link": "https://parkerziegler.com/"
+    },
+    {
+      "title": "Parker Ziegler - Graduate Student Researcher, Ph.D. ...",
+      "snippet": "Parker Ziegler. Ph.D. Student, Computer Science \u2022 University of California, Berkeley. University of California, Berkeley Middlebury College ...",
+      "link": "https://www.linkedin.com/in/parkerziegler"
+    },
+    {
+      "title": "Thoughts / Parker Ziegler / Software Engineer and ...",
+      "snippet": "Musings, learnings, and tutorials written by Parker Ziegler, a software engineer and cartographer based in Berkeley, CA.",
+      "link": "https://parkerziegler.com/thoughts"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

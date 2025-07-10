@@ -1,0 +1,26 @@
+{
+  "guest_name": "Justin",
+  "searched_at": "2025-07-10T14:48:12.753471",
+  "search_results": [
+    {
+      "title": "About",
+      "snippet": "Justin Taylor is the author of the novel Reboot, the memoir Riding with the Ghost, the novel The Gospel of Anarchy, and two collections of short fiction.",
+      "link": "https://justindtaylor.net/about/"
+    },
+    {
+      "title": "Justin Torres",
+      "snippet": "Justin Torres is the author of Blackouts, which won the 2023 National Book Award for Fiction, was a finalist for the LA Times Book Prize.",
+      "link": "https://justin-torres.com/"
+    },
+    {
+      "title": "Justin Wren",
+      "snippet": "A speaker to inspire your audience like never before, that's Justin Wren. While doing so, he teaches personal techniques to confront any adversity.",
+      "link": "https://www.justinwrenspeaks.com/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

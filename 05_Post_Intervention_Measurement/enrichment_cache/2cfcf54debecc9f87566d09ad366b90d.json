@@ -1,0 +1,26 @@
+{
+  "guest_name": "Audra",
+  "searched_at": "2025-07-10T14:44:14.742328",
+  "search_results": [
+    {
+      "title": "About \u22c6 Audra A. Dipt\u00e9e",
+      "snippet": "Audra A. Dipt\u00e9e, Ph.D. author, historian & educator. FollowFollow \u00b7 Follow ... I'm a history professor at Carleton University in Ottawa (Canada). Tap to ...",
+      "link": "https://www.audradiptee.com/about/"
+    },
+    {
+      "title": "Meet Audra",
+      "snippet": "Meet Audra ... I am a writer, editor, and historian based in Philadelphia. With a background in both science (B.S., chemistry, Purdue University) and history (Ph.",
+      "link": "https://audrajwolfe.com/about-me/"
+    },
+    {
+      "title": "Audra Simpson",
+      "snippet": "Audra Simpson is Professor of Anthropology at Columbia University. Her work engages with Indigenous politics in the United States and Canada.",
+      "link": "https://en.wikipedia.org/wiki/Audra_Simpson"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

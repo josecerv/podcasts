@@ -1,0 +1,26 @@
+{
+  "guest_name": "Taylor Tavern",
+  "searched_at": "2025-07-10T17:38:17.802320",
+  "search_results": [
+    {
+      "title": "The Taylor Tavern",
+      "snippet": "The Taylor Tavern, Driftwood, Texas. 310 likes \u00b7 1 talking about this. We host backyard concerts!",
+      "link": "https://www.facebook.com/p/The-Taylor-Tavern-100063532748642/"
+    },
+    {
+      "title": "Taylor's Tavern",
+      "snippet": "On the upper left is a photograph of Taylor's Tavern from 1862. The center-right of the marker is a drawing of \"Professor Lowe's balloon reconnaissance of the ...",
+      "link": "https://www.hmdb.org/m.asp?m=41495"
+    },
+    {
+      "title": "Bar Rescue Episode Featuring Taylor's Tavern",
+      "snippet": "May not be the best picture.. but it's definitely got me interested Taylor's Tavern. No photo description available. Richard Quinn and 454 ...",
+      "link": "https://www.facebook.com/groups/hollymichigan/posts/9026284447419443/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

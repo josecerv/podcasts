@@ -1,0 +1,26 @@
+{
+  "guest_name": "FROGG",
+  "searched_at": "2025-07-10T17:04:16.787138",
+  "search_results": [
+    {
+      "title": "Frogg Moody: books, biography, latest update",
+      "snippet": "Follow Frogg Moody and explore their bibliography from Amazon's Frogg Moody Author Page.",
+      "link": "https://www.amazon.com/stores/author/B0034NUG18"
+    },
+    {
+      "title": "Frogg Moody's New Bygone Salisbury book + The tale ...",
+      "snippet": "It was a real pleasure to interview well-known Salisbury resident, author and historian Frogg Moody this week. Frogg began to write his column ...",
+      "link": "https://insidesalisbury.substack.com/p/frogg-moody-book-launch-tale-shooting-party"
+    },
+    {
+      "title": "Betty Frogg Speaking Through Generations",
+      "snippet": "Culture keeper Betty Frogg is a Cherokee National Treasure, a basket weaver, a practicer of traditional arts and a first-language Cherokee speaker.",
+      "link": "https://osiyo.tv/betty-frogg-speaking-through-generations/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

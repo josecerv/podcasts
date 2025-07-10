@@ -1,0 +1,26 @@
+{
+  "guest_name": "Brook",
+  "searched_at": "2025-07-10T17:31:16.806580",
+  "search_results": [
+    {
+      "title": "Daniel Brook \u2013 Keynote Speaker",
+      "snippet": "Daniel Brook is the acclaimed author of books on urban history including A History of Future Cities, The Accident of Color, and The Einstein of Sex.",
+      "link": "https://us.londonspeakerbureau.com/speaker-profile/daniel-brook/"
+    },
+    {
+      "title": "Andrew Brook",
+      "snippet": "Andrew Brook (born 17 March 1943) is a Canadian philosopher, author and academic particularly known for his writings on Immanuel Kant",
+      "link": "https://en.wikipedia.org/wiki/Andrew_Brook"
+    },
+    {
+      "title": "Brook M Thompson: HOME",
+      "snippet": "Brook is a Yurok and Karuk Native American from Northern California. Brook's goal is to bring together water rights and Indigenous knowledge.",
+      "link": "https://www.brookmthompson.com/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

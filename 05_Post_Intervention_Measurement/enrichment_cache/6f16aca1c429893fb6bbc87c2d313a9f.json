@@ -1,0 +1,26 @@
+{
+  "guest_name": "Unnamed conference attendee",
+  "searched_at": "2025-07-10T17:00:19.631684",
+  "search_results": [
+    {
+      "title": "THE AUBURN CONFERENCE",
+      "snippet": "An overall lack of focus, however, is signaled by occasional appearances to no evident purpose of an unnamed conference attendee clearly identifiable as Emily ...",
+      "link": "https://www.kirkusreviews.com/book-reviews/tom-piazza/the-auburn-conference/"
+    },
+    {
+      "title": "Guest Post by Laura Eberly: A Capital B in My Bonnet",
+      "snippet": "A memorable example was a quote from an unnamed conference attendee who reportedly burst out: \u201cIf anyone invents a new system of printing for ...",
+      "link": "https://wheresyourdog.com/2020/07/20/guest-post-by-laura-eberly-a-capital-b-in-my-bonnet/"
+    },
+    {
+      "title": "The Auburn Conference by Tom Piazza, Paperback",
+      "snippet": "An overall lack of focus, however, is signaled by occasional appearances to no evident purpose of an unnamed conference attendee clearly identifiable as Emily ...",
+      "link": "https://www.barnesandnoble.com/w/the-auburn-conference-tom-piazza/1142802762"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

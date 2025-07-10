@@ -1,0 +1,26 @@
+{
+  "guest_name": "Sakari",
+  "searched_at": "2025-07-10T15:21:41.117404",
+  "search_results": [
+    {
+      "title": "About: Sakari Milan",
+      "snippet": "Sakari Milan is an alumna of The University of North Carolina at Chapel Hill who studied Global Studies and Public Policy. She graduated in May 2020.",
+      "link": "https://www.sakarimilan.com/about"
+    },
+    {
+      "title": "Charli Sakari - SF State Faculty Sites",
+      "snippet": "Charli Sakari is an Assistant Professor in the Physics & Astronomy Department at San Francisco State University. Originally from Springfield, OR, Dr. Sakari ...",
+      "link": "https://faculty.sfsu.edu/~sakaricm"
+    },
+    {
+      "title": "Sakari Oramo",
+      "snippet": "Sakari Markus Oramo, OBE (born 26 October 1965) is a Finnish conductor. He is chief conductor of the BBC Symphony Orchestra.",
+      "link": "https://en.wikipedia.org/wiki/Sakari_Oramo"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

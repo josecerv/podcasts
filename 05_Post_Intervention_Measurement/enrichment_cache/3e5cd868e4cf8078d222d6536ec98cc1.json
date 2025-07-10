@@ -1,0 +1,26 @@
+{
+  "guest_name": "Ihram",
+  "searched_at": "2025-07-10T17:10:33.923174",
+  "search_results": [
+    {
+      "title": "Silma Ihram",
+      "snippet": "Silma Ihram is an Australian promoter of Muslim education in Western Sydney, founder and former school Principal of the 'Noor Al Houda Islamic College' in ...",
+      "link": "https://en.wikipedia.org/wiki/Silma_Ihram"
+    },
+    {
+      "title": "Ihram Fazal - Berlin",
+      "snippet": "Ihram Fazal is a poet. She migrated from Nairobi to Berlin seeking an education in Fine Arts, English, and Pedagogy at the University of the Arts Berlin.",
+      "link": "https://www.hkw.de/en/programme/contributors/ihram-fazal"
+    },
+    {
+      "title": "IHRAM Writing laureate Mbizo Chirasha in candid ...",
+      "snippet": "IHRAM Writing laureate Mbizo Chirasha in candid conversation with esteemed Nigerian Writer, Prolific Editor and Professor Uche Akunebu.",
+      "link": "https://humanrightsartmovement.org/african-secretariat/ihram-writing-laureate-mbizo-chirasha-in-candid-conversation-with-esteemed-nigerian-writer-prolific-editor-and-professor-uche-akunebu"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

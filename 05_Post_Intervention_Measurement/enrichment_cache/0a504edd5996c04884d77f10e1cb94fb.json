@@ -1,0 +1,26 @@
+{
+  "guest_name": "Enfusion",
+  "searched_at": "2025-07-10T16:56:59.486701",
+  "search_results": [
+    {
+      "title": "Enfusion, a Clearwater Analytics company",
+      "snippet": "Enfusion simplifies investment management operations by uniting front, middle and back-office functions under a single cloud-native SaaS platform.",
+      "link": "https://www.enfusion.com/"
+    },
+    {
+      "title": "Enfusion",
+      "snippet": "Enfusion is a Dutch kickboxing promotion company based in Alkmaar, Netherlands. Labelled as one of the top kickboxing organizations in the world.",
+      "link": "https://en.wikipedia.org/wiki/Enfusion"
+    },
+    {
+      "title": "Getting real about investment operations",
+      "snippet": "Currently, Labib is Executive Director, Americas Head of Partners and Alliances at Enfusion. He holds a B.S. in Economics and Finance from Lehigh University.",
+      "link": "https://www.enfusion.com/beyond-alpha-media-kit/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

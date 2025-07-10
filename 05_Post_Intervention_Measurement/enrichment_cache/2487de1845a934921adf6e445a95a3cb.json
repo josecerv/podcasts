@@ -1,0 +1,26 @@
+{
+  "guest_name": "Fr. Damian",
+  "searched_at": "2025-07-10T16:30:06.526810",
+  "search_results": [
+    {
+      "title": "Fr. Damian Ference, Author at Word on Fire",
+      "snippet": "Fr. Damian Ference is a priest of the Diocese of Cleveland where he serves as Vicar for Evangelization. He is the author of the award-winning Understanding ...",
+      "link": "https://www.wordonfire.org/author/fr-damian-ference/"
+    },
+    {
+      "title": "Fr. Damian Ference",
+      "snippet": "Fr. Damian Ference is a priest of the Diocese of Cleveland, where he serves as Vicar for Evangelization, Secretary for Parish Life and Special Ministries.",
+      "link": "https://bookstore.wordonfire.org/pages/fr-damian-ference?srsltid=AfmBOoqBc9V96TyJ87GnO8HSzAgu9qJhN322h257GHU2SfKMscZQqvVj"
+    },
+    {
+      "title": "About Fr. Damian J. Ference - Homiletic & Pastoral Review",
+      "snippet": "Fr. Damian Ference is a priest of the Diocese of Cleveland, where he serves as Vicar for Evangelization and as Professor of Philosophy at Borromeo Seminary.",
+      "link": "https://www.hprweb.com/author/fr-damian-j-ference/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

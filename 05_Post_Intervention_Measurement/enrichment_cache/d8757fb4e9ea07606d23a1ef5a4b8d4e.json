@@ -1,0 +1,26 @@
+{
+  "guest_name": "JQ",
+  "searched_at": "2025-07-10T15:34:18.030725",
+  "search_results": [
+    {
+      "title": "Request a JQ Speaker",
+      "snippet": "Through the JQ Advocates program, JQ's highly trained speakers bring their personal experiences and life stories to organizations and institutions throughout ...",
+      "link": "https://jqinternational.org/requestaspeaker/"
+    },
+    {
+      "title": "About the Author",
+      "snippet": "J.Q. Gagliastro is the multi-bestselling author, storyteller, and illustrator of The Diary of a Sugarbaby and Mercury to the Moon. The Diary of a Sugarbaby ...",
+      "link": "https://www.jqgagliastro.com/author"
+    },
+    {
+      "title": "About JQ - Julia Quinn | Author of Historical Romance Novels",
+      "snippet": "During her senior year at Harvard College, Julia Quinn (often known in cyberspace as JQ) realized that she didn't know what she wanted to do with her life. This ...",
+      "link": "https://juliaquinn.com/about/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

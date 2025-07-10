@@ -1,0 +1,26 @@
+{
+  "guest_name": "Epoch",
+  "searched_at": "2025-07-10T14:56:23.694084",
+  "search_results": [
+    {
+      "title": "Dr. Nancy Dome",
+      "snippet": "Dr. Nancy A. Dome is a renowned speaker, author, and coach who co-founded Epoch Education in 2014 to provide accessible professional development.",
+      "link": "https://epocheducation.com/dr-nancy-dome"
+    },
+    {
+      "title": "EPOCH Magazine | Literatures in English",
+      "snippet": "EPOCH was launched in 1947 by Professor Baxter Hathaway, who would remain its editor until 1976. In a brief history composed in 1948, found in the Rare and ...",
+      "link": "https://english.cornell.edu/epoch"
+    },
+    {
+      "title": "About \u2014 EPOCH",
+      "snippet": "EPOCH has been a consistent source of funding for Cornell's first-year MFA graduate students for more than thirty years. The magazine pays students a living ...",
+      "link": "https://www.epochliterary.com/about"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

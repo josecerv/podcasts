@@ -1,0 +1,26 @@
+{
+  "guest_name": "Dyson",
+  "searched_at": "2025-07-10T15:45:59.588280",
+  "search_results": [
+    {
+      "title": "Michael Eric Dyson",
+      "snippet": "Michael Eric Dyson (born October 23, 1958) is an American academic, author, Baptist minister, and radio host. He is a professor in the College of Arts and ...",
+      "link": "https://en.wikipedia.org/wiki/Michael_Eric_Dyson"
+    },
+    {
+      "title": "Michael Eric Dyson",
+      "snippet": "Michael Eric Dyson is an academic, author, ordained minister, and radio host. He has authored or edited more than twenty books dealing with subjects such as ...",
+      "link": "https://as.vanderbilt.edu/african-american-diaspora-studies/bio/michael-dyson/"
+    },
+    {
+      "title": "Michael Eric Dyson. Ph. D. - Andrew Rankin Memorial Chapel",
+      "snippet": "Biography. Michael Eric Dyson, Ph.D., is one of the nation's most renowned professors, gifted writers, inspiring preachers, knowledgeable lecturers, ...",
+      "link": "https://chapel.howard.edu/node/871"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

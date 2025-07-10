@@ -1,0 +1,26 @@
+{
+  "guest_name": "Jonathan Shannon",
+  "searched_at": "2025-07-10T17:28:55.902446",
+  "search_results": [
+    {
+      "title": "Jonathan Shannon | Hunter College - CUNY",
+      "snippet": "Jonathan Shannon is a professor in the Department of Anthropology. He teaches courses in the anthropology of music and the arts, as well as Middle East studies, ...",
+      "link": "https://hunter.cuny.edu/people/jonathan-shannon/"
+    },
+    {
+      "title": "Jonathan Shannon",
+      "snippet": "Jonathan Shannon is Professor of Anthropology at Hunter College and has cross-appointments in the PhD Programs in Anthropology and Music at the Graduate Center.",
+      "link": "https://www.gc.cuny.edu/people/jonathan-shannon"
+    },
+    {
+      "title": "Jonathan Shannon - NYU Abu Dhabi",
+      "snippet": "Jonathan Shannon earned a BA in English Literature from Stanford University, with a year at Saint Catherine's College, Oxford.",
+      "link": "https://nyuad.nyu.edu/en/academics/divisions/arts-and-humanities/faculty/jonathan-shannon.html"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

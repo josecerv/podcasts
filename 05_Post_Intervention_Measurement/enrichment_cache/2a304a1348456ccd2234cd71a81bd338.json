@@ -1,0 +1,26 @@
+{
+  "guest_name": "Link",
+  "searched_at": "2025-07-10T16:20:09.957367",
+  "search_results": [
+    {
+      "title": "Kelly Link: Welcome",
+      "snippet": "In the long-awaited debut novel from bestselling author and Pulitzer Prize finalist Kelly Link, three teenagers become pawns in a supernatural power struggle.",
+      "link": "https://kellylink.net/"
+    },
+    {
+      "title": "Create a link in bio",
+      "snippet": "Lead followers to your site and convert traffic to sales with a beautiful link in bio. Create a free link in bio with Canva's website builder and templates.",
+      "link": "https://www.canva.com/features/link-in-bio/"
+    },
+    {
+      "title": "About Link",
+      "snippet": "Link is a Stripe product that provides a secure way to check out faster by autofilling your saved payment methods, contact information, and shipping.",
+      "link": "https://support.link.com/topics/about-link"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Mr. Lady",
+  "searched_at": "2025-07-10T17:01:21.822385",
+  "search_results": [
+    {
+      "title": "Mr. Lady Records",
+      "snippet": "Mr. Lady Records was a San Francisco-based lesbian-feminist independent record label and video art distributor. Artists on the label included Le Tigre and ...",
+      "link": "https://en.wikipedia.org/wiki/Mr._Lady_Records"
+    },
+    {
+      "title": "I have no words - Georgia Teacher Mr. Lady's Inspiring Story",
+      "snippet": "Discover the inspiring journey of Georgia teacher Mr. Lady and his impact on students. Learn more about his strategies and teaching philosophy.",
+      "link": "https://www.tiktok.com/@shulerking/video/7454221851292618014"
+    },
+    {
+      "title": "Mr. Lady Archive: NYU Special Collections Finding Aids",
+      "snippet": "Mr. Lady Records was an independent record label founded in 1996 by Tammy Rae Carland and Kaia Wilson with the intention of supporting lesbian and feminist ...",
+      "link": "https://findingaids.library.nyu.edu/fales/mss_362/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

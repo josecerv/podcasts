@@ -1,0 +1,26 @@
+{
+  "guest_name": "8-Bit",
+  "searched_at": "2025-07-10T14:57:54.000214",
+  "search_results": [
+    {
+      "title": "Brian Clevinger",
+      "snippet": "Brian Clevinger (born May 7, 1978) is an American writer best known as the author of the webcomic 8-Bit Theater and the Eisner-nominated print comic Atomic ...",
+      "link": "https://en.wikipedia.org/wiki/Brian_Clevinger"
+    },
+    {
+      "title": "My 8-Bit Atari Computers",
+      "snippet": "I have been collecting 8-bit Atari computers for several years. I had a 400 growing up and spent a lot of time as a teenager coding on it and, of course, ...",
+      "link": "https://scottambler.com/my-8-bit-atari-computers/"
+    },
+    {
+      "title": "Diary of an 8-Bit Warrior: Shadow Over Aetheria",
+      "snippet": "Book 7 of the international best-selling 8-Bit Warrior series that takes readers inside the journal of Runt, a young Minecraft villager who dares to dream ...",
+      "link": "https://www.simonandschuster.com/books/Diary-of-an-8-Bit-Warrior-Shadow-Over-Aetheria/Cube-Kid/9781524892494"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

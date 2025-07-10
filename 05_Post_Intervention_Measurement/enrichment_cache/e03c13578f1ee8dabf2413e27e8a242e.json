@@ -1,0 +1,26 @@
+{
+  "guest_name": "Hologram",
+  "searched_at": "2025-07-10T17:35:07.234765",
+  "search_results": [
+    {
+      "title": "My lecturer is a hologram",
+      "snippet": "Zac Woolfitt from Inholland University of Applied Sciences in The Netherlands had his first try at being a hologram recently and wrote about it on his blog.",
+      "link": "https://media-and-learning.eu/type/featured-articles/my-lecturer-is-a-hologram/"
+    },
+    {
+      "title": "My new Professor is a hologram | Monika Klein | TEDxBerlin SBI",
+      "snippet": "This hologram has knowledge, it communicates, teleports, interacts and it's with you in the classroom.",
+      "link": "https://www.youtube.com/watch?v=FTXkM8_jl1Q"
+    },
+    {
+      "title": "Hologram lecturers thrill students at trailblazing UK university",
+      "snippet": "Hologram lecturers thrill students at trailblazing UK university. AI-powered technology that projects lifelike avatars trialled at Loughborough University.",
+      "link": "https://www.theguardian.com/technology/2024/jan/21/hologram-lecturers-thrill-students-at-trailblazing-uk-university"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

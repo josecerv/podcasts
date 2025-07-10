@@ -1,0 +1,26 @@
+{
+  "guest_name": "Vawn Cassidy",
+  "searched_at": "2025-07-10T14:52:58.827060",
+  "search_results": [
+    {
+      "title": "About",
+      "snippet": "I'm Vawn Cassidy and I write contemporary & paranormal MM romance. I'm a British author and I live in Hampshire in the UK with my husband and three children.",
+      "link": "https://www.vawncassidy.com/about"
+    },
+    {
+      "title": "Vawn Cassidy: Home",
+      "snippet": "I'm Vawn Cassidy, welcome to my not so secret lair! I write MM Romance and I love all things spooky and supernatural. I've created fantastical realities ...",
+      "link": "https://www.vawncassidy.com/"
+    },
+    {
+      "title": "Vawn Cassidy: books, biography, latest update",
+      "snippet": "Vawn Cassidy is an Amazon bestselling author. She writes MM Romance and is known for her unforgettable characters and incredible world-building.",
+      "link": "https://www.amazon.com/stores/author/B098XMW7M1"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

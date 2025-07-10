@@ -1,0 +1,26 @@
+{
+  "guest_name": "Don",
+  "searched_at": "2025-07-10T16:13:07.998937",
+  "search_results": [
+    {
+      "title": "Don Yaeger",
+      "snippet": "Don Yaeger (born December 24, 1962) is an American author and public speaker. He is an NSA-Certified Speaking Professional and eSpeakers-Certified Virtual ...",
+      "link": "https://en.wikipedia.org/wiki/Don_Yaeger"
+    },
+    {
+      "title": "Don Sawyer",
+      "snippet": "An educator and writer, Don grew up in Michigan but came to Canada in the 60s, where he more or less flunked out of a PhD program in Modern Chinese History.",
+      "link": "https://writersunion.ca/member/don-sawyer"
+    },
+    {
+      "title": "Don Norman",
+      "snippet": "Donald Arthur Norman (born December 25, 1935) is an American researcher, professor, and author. ... Don Norman. Norman in 2011. Born. Donald Arthur Norman. (1935- ...",
+      "link": "https://en.wikipedia.org/wiki/Don_Norman"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

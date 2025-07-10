@@ -1,0 +1,26 @@
+{
+  "guest_name": "Mother Lucille",
+  "searched_at": "2025-07-10T16:01:44.027128",
+  "search_results": [
+    {
+      "title": "Lucille O'Neal | Speaking Fee | Booking Agent",
+      "snippet": "I'm with author, speaker & Shaquille's mother, Lucille O'Neal at the 107th Annual National Boys and Girls Clubs of America Conference in Orlando ...",
+      "link": "https://www.allamericanspeakers.com/speakers/402157/Lucille-O'Neal"
+    },
+    {
+      "title": "Walk Like You Have Somewhere to Go: My Journey from ...",
+      "snippet": "Walk Like You Have Somewhere To Go is an autobiography written by NBA superstar Shaquille O'Neal's mother, Lucille O'Neal. The book details Lucille's ...",
+      "link": "https://www.goodreads.com/book/show/7639263-walk-like-you-have-somewhere-to-go"
+    },
+    {
+      "title": "Waiting to Hear \"Momma\": A Mother's Memoir",
+      "snippet": "I was privileged to witness the bond between daughter and mother. Lucille could read every nuance in Jacklyn's body language and facial expressions. She was ...",
+      "link": "https://www.amazon.com/Waiting-Hear-Momma-Mothers-Memoir/dp/1733666206"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Veronica",
+  "searched_at": "2025-07-10T15:59:23.193951",
+  "search_results": [
+    {
+      "title": "Veronica Hinke: Home",
+      "snippet": "Veronica Hinke, Author, speaker, journalist, coach; expert on Titanic stories, food, history and style; author of The Last Night on the Titanic; journalism.",
+      "link": "https://veronicahinke.com/"
+    },
+    {
+      "title": "Veronica Chambers",
+      "snippet": "Veronica Chambers is an Afro-Latina author, teacher, and magazine executive. Chambers has been an editor and writer for New York Times Magazine, Newsweek, ...",
+      "link": "https://en.wikipedia.org/wiki/Veronica_Chambers"
+    },
+    {
+      "title": "Professor Veronica Strang",
+      "snippet": "Professor Veronica Strang is a cultural anthropologist who has conducted ethnographic research in Australia, the UK and New Zealand.",
+      "link": "https://www.anthro.ox.ac.uk/people/professor-veronica-strang"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": "Hispanic/Latino",
+  "gender_confidence": 0.0,
+  "race_confidence": 0.7,
+  "additional_context": {}
+}

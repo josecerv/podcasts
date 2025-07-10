@@ -1,0 +1,26 @@
+{
+  "guest_name": "Krystal",
+  "searched_at": "2025-07-10T16:41:17.278875",
+  "search_results": [
+    {
+      "title": "Matthew Krystal",
+      "snippet": "Born and raised in Chicagoland, Professor Krystal has been at North Central College since 2003. Selected Scholarship. Indigenous Dance and Dancing Indian: ...",
+      "link": "https://www.northcentralcollege.edu/profile/mbkrystal"
+    },
+    {
+      "title": "John Krystal | Department of Psychology",
+      "snippet": "Krystal is a leading expert in the areas of alcoholism, post-traumatic stress disorder, schizophrenia, and depression. His work links psychopharmacology, ...",
+      "link": "https://psychology.yale.edu/people/john-krystal"
+    },
+    {
+      "title": "Krystal V. L. Pierce - Religious Education",
+      "snippet": "Krystal VL Pierce was born in Logan, Utah, and raised in Taylorsville, Utah, but has also lived in California, Idaho, Egypt, and Israel.",
+      "link": "https://religion.byu.edu/directory/krystal-pierce"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

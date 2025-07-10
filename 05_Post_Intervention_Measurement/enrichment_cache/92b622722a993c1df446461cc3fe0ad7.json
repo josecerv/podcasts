@@ -1,0 +1,26 @@
+{
+  "guest_name": "Arin",
+  "searched_at": "2025-07-10T17:24:12.846963",
+  "search_results": [
+    {
+      "title": "About \u2014 Arin Murphy-Hiscock",
+      "snippet": "Arin works as a freelance writer and editor. She is the author of several popular books on witchcraft and nature-based spirituality.",
+      "link": "https://arinmurphyhiscock.com/about/"
+    },
+    {
+      "title": "Arin Murphy-Hiscock: books, biography, latest update",
+      "snippet": "Arin works as a freelance writer and editor. She is the author of several popular books on witchcraft and nature-based spirituality.",
+      "link": "https://www.amazon.com/stores/author/B001JPCCZQ"
+    },
+    {
+      "title": "Arin Reeves, JD, PhD",
+      "snippet": "Born in India and raised in India, Libya and Tanzania before arriving in the United States, Arin Reeves learned (and forgot and relearned) several languages ...",
+      "link": "https://thelupusinitiative.org/downloads/Reeves_bio.pdf"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

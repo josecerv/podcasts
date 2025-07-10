@@ -1,0 +1,26 @@
+{
+  "guest_name": "Fontaines DC",
+  "searched_at": "2025-07-10T14:49:20.110584",
+  "search_results": [
+    {
+      "title": "Fontaines D.C.",
+      "snippet": "Fontaines D.C. are an Irish post-punk band formed in Dublin in 2014. The band consists of Grian Chatten (vocals), Conor Curley (guitar), Conor Deegan III ...",
+      "link": "https://en.wikipedia.org/wiki/Fontaines_D.C."
+    },
+    {
+      "title": "Fontaines DC",
+      "snippet": "Being a young musician is all about development, experience and learning. And that's what Fontaines DC have done; incorporated all that newly acquired knowledge ...",
+      "link": "https://brightonsfinest.com/music/spotlight/fontaines-dc/2020/"
+    },
+    {
+      "title": "Fontaines DC: 'We can generate ideas that sound like they ...",
+      "snippet": "Fontaines DC: 'We can generate ideas that sound like they've been carved in stone for a thousand years' ... Carlos O'Connell isn't merely excited ...",
+      "link": "https://www.theguardian.com/music/2024/apr/18/fontaines-dc-grian-chatten-carlos-oconnell-romance-interview"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

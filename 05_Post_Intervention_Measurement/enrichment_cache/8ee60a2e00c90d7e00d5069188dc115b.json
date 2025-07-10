@@ -1,0 +1,26 @@
+{
+  "guest_name": "Robin",
+  "searched_at": "2025-07-10T16:49:54.689637",
+  "search_results": [
+    {
+      "title": "Robin Wall Kimmerer",
+      "snippet": "Robin Wall Kimmerer is a mother, scientist, decorated professor, and enrolled member of the Citizen Potawatomi Nation. She is the author of The Serviceberry ...",
+      "link": "https://www.robinwallkimmerer.com/"
+    },
+    {
+      "title": "Robin DiAngelo",
+      "snippet": "Robin Jeanne DiAngelo (n\u00e9e Taylor; born September 8, 1956) is an American author working in the fields of critical discourse analysis and whiteness studies.",
+      "link": "https://en.wikipedia.org/wiki/Robin_DiAngelo"
+    },
+    {
+      "title": "About Robin",
+      "snippet": "About Robin. It's me. I'm the author of the novels Mr. Penumbra's 24-Hour Bookstore, a New York Times Best Seller published in 2012; Sourdough, a non ...",
+      "link": "https://www.robinsloan.com/about/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Keegan",
+  "searched_at": "2025-07-10T16:48:44.193576",
+  "search_results": [
+    {
+      "title": "John Keegan",
+      "snippet": "Sir John Desmond Patrick Keegan OBE FRSL (15 May 1934 \u2013 2 August 2012) was an English military historian, lecturer, author and journalist.",
+      "link": "https://en.wikipedia.org/wiki/John_Keegan"
+    },
+    {
+      "title": "Keegan Lee \u2013 Author, Public Speaker, Tech Ethicist",
+      "snippet": "Keegan Lee is a sophomore honors student and the James R. Copland & Lillian G. Copland Scholar at The University of North Carolina at Chapel Hill.",
+      "link": "https://keeganwlee.com/"
+    },
+    {
+      "title": "Claire Keegan",
+      "snippet": "Claire Keegan (born 1968) is an Irish writer known for her short stories, which have been published in The New Yorker, Best American Short Stories, Granta, and ...",
+      "link": "https://en.wikipedia.org/wiki/Claire_Keegan"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

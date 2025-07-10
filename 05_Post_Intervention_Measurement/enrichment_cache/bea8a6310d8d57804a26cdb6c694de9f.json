@@ -1,0 +1,26 @@
+{
+  "guest_name": "Rum Ragged",
+  "searched_at": "2025-07-10T15:57:15.487525",
+  "search_results": [
+    {
+      "title": "Bio",
+      "snippet": "BIOGRAPHY. JUNO Award Nominees, Rum Ragged, take a bold approach to the distinct folk music of their home, the Eastern Canadian island of Newfoundland.",
+      "link": "https://www.rumragged.com/bio"
+    },
+    {
+      "title": "Rum Ragged",
+      "snippet": "Rum Ragged are a Canadian folk music group from Newfoundland and Labrador. [1] They are most noted for their 2020 album The Thing About Fish.",
+      "link": "https://en.wikipedia.org/wiki/Rum_Ragged"
+    },
+    {
+      "title": "Rum Ragged",
+      "snippet": "Formed by Aaron Collis and Mark Manning, Rum Ragged takes a bold approach to the distinct folk music of their home, the Eastern Canadian island of Newfoundland.",
+      "link": "https://laughingheartmusic.com/rumragged/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

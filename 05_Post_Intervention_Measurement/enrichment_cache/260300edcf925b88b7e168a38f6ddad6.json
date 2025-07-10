@@ -1,0 +1,26 @@
+{
+  "guest_name": "Rae Shawn",
+  "searched_at": "2025-07-10T14:54:08.758290",
+  "search_results": [
+    {
+      "title": "Rae Shawn: books, biography, latest update",
+      "snippet": "About the author. Rae Shawn writes captivating, inclusive Black romances that'll have you up in arms for the heroes and, sometimes, even the villains.",
+      "link": "https://www.amazon.com/Rae-Shawn/e/B085BCC2P9"
+    },
+    {
+      "title": "About Me",
+      "snippet": "Rae Shawn is a candle-buying night-owl who overthinks everything but manages to get things done. She writes contemporary Black romances that'll have you up ...",
+      "link": "https://www.loveraeshawn.com/about-me/"
+    },
+    {
+      "title": "Rae Shawn",
+      "snippet": "Rae Shawn. 194 likes \u00b7 9 talking about this. Inclusive Black romance that'll have you up-in-arms for the heroes &, sometimes, even the villains.",
+      "link": "https://www.facebook.com/raeshawnstories/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

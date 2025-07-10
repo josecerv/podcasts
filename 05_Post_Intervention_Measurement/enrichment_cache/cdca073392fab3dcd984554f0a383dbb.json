@@ -1,0 +1,26 @@
+{
+  "guest_name": "Sloan",
+  "searched_at": "2025-07-10T17:26:42.505775",
+  "search_results": [
+    {
+      "title": "About Robert B. Sloan",
+      "snippet": "Sloan is known as a visionary leader who is able to help universities think about what they want to become, and help them move toward those goals.",
+      "link": "https://robertbsloan.com/about/"
+    },
+    {
+      "title": "Robert B. Sloan | Author, Communicator, Educator, and Leader",
+      "snippet": "Dr. Robert B. Sloan is president of Houston Christian University in Houston, Texas. Dr. Sloan and his wife Sue have seven adult children and 24 grandchildren.",
+      "link": "https://robertbsloan.com/"
+    },
+    {
+      "title": "Dr Stephen Sloan: Author Home",
+      "snippet": "Dr. Sloan is a pioneer in research and teaching on terrorism since the 1970s. His course was one of the first to be given at a university.",
+      "link": "http://drstephensloan.com/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

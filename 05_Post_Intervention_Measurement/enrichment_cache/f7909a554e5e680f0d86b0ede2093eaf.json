@@ -1,0 +1,26 @@
+{
+  "guest_name": "Scott Baker",
+  "searched_at": "2025-07-10T15:10:09.635989",
+  "search_results": [
+    {
+      "title": "Scott Baker (writer)",
+      "snippet": "Scott Baker (born 1947 in Chicago) is an American science fiction, fantasy, and horror writer. His first novel, l'Idiot-roi (Symbiote's Crown), won the French ...",
+      "link": "https://en.wikipedia.org/wiki/Scott_Baker_(writer)"
+    },
+    {
+      "title": "Scott Baker",
+      "snippet": "Professor Scott Baker is a prolific and widely-respected law and economics scholar. His research interests lie at the intersection of law, economics, and game ...",
+      "link": "https://law.washu.edu/faculty-staff-directory/profile/scott-baker/"
+    },
+    {
+      "title": "Dr. Scott Baker | Department of Education",
+      "snippet": "Dr. Scott Baker is Associate Professor of Education at Wake Forest University where he teaches courses on education policy and social justice.",
+      "link": "https://education.wfu.edu/staff-member/dr-scott-baker/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

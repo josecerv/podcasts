@@ -1,0 +1,26 @@
+{
+  "guest_name": "Lee",
+  "searched_at": "2025-07-10T16:20:24.368432",
+  "search_results": [
+    {
+      "title": "Chang-Rae Lee",
+      "snippet": "Chang-rae Lee (born July 29, 1965) is a Korean-American novelist and a professor of creative writing at Stanford University. He was previously Professor of ...",
+      "link": "https://en.wikipedia.org/wiki/Chang-Rae_Lee"
+    },
+    {
+      "title": "Chang-rae Lee | Department of English",
+      "snippet": "Chang-rae Lee is the author of six novels: Native Speaker (1995), A Gesture Life (1999), Aloft (2004), The Surrendered (2010), which was a Finalist for the ...",
+      "link": "https://english.stanford.edu/people/chang-rae-lee"
+    },
+    {
+      "title": "About - Lee Strobel",
+      "snippet": "Lee Strobel, the former award-winning legal editor of The Chicago Tribune, is a New York Times best-selling author of more than 40 books and curricula.",
+      "link": "https://leestrobel.com/about"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

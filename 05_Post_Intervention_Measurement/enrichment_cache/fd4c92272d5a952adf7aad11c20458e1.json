@@ -1,0 +1,26 @@
+{
+  "guest_name": "GK",
+  "searched_at": "2025-07-10T15:40:44.515696",
+  "search_results": [
+    {
+      "title": "G. K. Chesterton",
+      "snippet": "G. K. Chesterton. KC*SG ; Born, Gilbert Keith Chesterton (1874-05-29)29 May 1874. Kensington, London, England ; Died, 14 June 1936(1936-06-14) (aged 62)",
+      "link": "https://en.wikipedia.org/wiki/G._K._Chesterton"
+    },
+    {
+      "title": "Who is G.K. Chesterton?",
+      "snippet": "GK Chesterton was the best writer of the 20th century. He said something about everything and he said it better than anybody else.",
+      "link": "https://www.chesterton.org/who-is-this-guy/"
+    },
+    {
+      "title": "G. K. Chesterton: A Biography: Ker, Ian",
+      "snippet": "G. K. Chesterton is remembered as a brilliant creator of nonsense and satirical verse, author of the Father Brown stories and the innovative novel, ...",
+      "link": "https://www.amazon.com/G-Chesterton-Biography-Ian-Ker/dp/0199655766"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

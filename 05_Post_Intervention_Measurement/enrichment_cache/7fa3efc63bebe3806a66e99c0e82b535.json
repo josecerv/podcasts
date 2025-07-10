@@ -1,0 +1,26 @@
+{
+  "guest_name": "Colby",
+  "searched_at": "2025-07-10T15:54:08.579444",
+  "search_results": [
+    {
+      "title": "About",
+      "snippet": "About. colby.jpg. I am a fifth grade teacher in Parma, Michigan. My wife and I ... Colby Sharp. Colby Sharp is a fifth grade teacher in Parma, Michigan. He is the ...",
+      "link": "https://www.mrcolbysharp.com/about"
+    },
+    {
+      "title": "Thomas Colby - GW Law - The George Washington University",
+      "snippet": "Thomas Colby joined the GW Law faculty in 2003. He teaches constitutional law and civil procedure, and was chosen by vote of the graduating classes of 2006 and ...",
+      "link": "https://www.law.gwu.edu/thomas-colby"
+    },
+    {
+      "title": "Colby Gordon",
+      "snippet": "Biography. Colby Gordon is an Associate Professor in the Department of Literatures in English at Bryn Mawr College. With Simone Chess and Will Fisher, he ...",
+      "link": "https://www.brynmawr.edu/inside/people/colby-gordon"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

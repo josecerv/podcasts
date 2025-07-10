@@ -1,0 +1,26 @@
+{
+  "guest_name": "Pat",
+  "searched_at": "2025-07-10T16:40:46.350603",
+  "search_results": [
+    {
+      "title": "About Pat - World-Renowned Author",
+      "snippet": "About Pat ... Dr. Patrick Morley has been the president or managing partner of 59 companies and partnerships, many around the commercial real estate industry.",
+      "link": "https://patrickmorley.com/about-pat/"
+    },
+    {
+      "title": "Pat Kirkham",
+      "snippet": "Pat Kirkham is an author, professor, and design historian. She holds a Ph.D. from the University of London and is considered a foremost expert on the history ...",
+      "link": "https://en.wikipedia.org/wiki/Pat_Kirkham"
+    },
+    {
+      "title": "Pat Conroy - Welcome to the official website of Pat Conroy",
+      "snippet": "Pat Conroy uses stories to explore the great themes of life. His honesty and remarkable command of the language of the heart have won him devoted readers of ...",
+      "link": "https://patconroy.com/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Harlan",
+  "searched_at": "2025-07-10T16:36:43.437443",
+  "search_results": [
+    {
+      "title": "About",
+      "snippet": "Bestselling Author | Journalist | Speaker. About \u00b7 Advice \u00b7 Speaking \u00b7 Books \u00b7 Podcast ... Harlan Cohen. Bestselling Author | Journalist | Speaker. Search for:.",
+      "link": "https://harlancohen.com/about/"
+    },
+    {
+      "title": "Harlan Coben",
+      "snippet": "Harlan Coben (born January 4, 1962) is an American writer of mystery novels and thrillers. The plots of his novels often involve the resurfacing of ...",
+      "link": "https://en.wikipedia.org/wiki/Harlan_Coben"
+    },
+    {
+      "title": "Harlan Cohen: Get Comfortable With The Uncomfortable",
+      "snippet": "Over the past 25 years, Harlan Cohen has helped students, parents, and professionals navigate change and get comfortable with the uncomfortable.",
+      "link": "https://harlancohen.com/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

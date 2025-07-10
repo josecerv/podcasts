@@ -1,0 +1,26 @@
+{
+  "guest_name": "Mark Johnson",
+  "searched_at": "2025-07-10T15:17:33.587559",
+  "search_results": [
+    {
+      "title": "Mark Johnson (philosopher)",
+      "snippet": "Mark Johnson. Born, 24 May 1949 (1949-05-24) (age 76). Kansas City, Missouri, U.S.. Occupation, Professor. Academic background. Alma mater, University of ...",
+      "link": "https://en.wikipedia.org/wiki/Mark_Johnson_(philosopher)"
+    },
+    {
+      "title": "Mark L. Johnson - Biography - UO Blogs",
+      "snippet": "Biography. Mark Johnson Mark L. Johnson was born in Kansas City, Missouri on May 24, 1949. He received his B.A. in Philosophy and English at the University ...",
+      "link": "https://blogs.uoregon.edu/markj/bio/"
+    },
+    {
+      "title": "Mark Johnson: books, biography, latest update",
+      "snippet": "Mark Johnson is the Knight Professor of Liberal Arts and Sciences at the University of Oregon. He is the author of The Body in the Mind and Moral ...",
+      "link": "https://www.amazon.com/stores/author/B000APJ51K"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Addy",
+  "searched_at": "2025-07-10T15:39:15.799941",
+  "search_results": [
+    {
+      "title": "Book Dr. Nii Addy for Speaking, Events and Appearances",
+      "snippet": "Dr. Addy is an Associate Professor of Psychiatry and of Cellular and Molecular Physiology at Yale University. At the Yale School of Medicine, he directs a ...",
+      "link": "https://www.apbspeakers.com/speaker/dr-nii-addy/"
+    },
+    {
+      "title": "Marian Ewurama Addy",
+      "snippet": "Marian Ewurama Addy FGA OV (n\u00e9e Cole; 7 February 1942 \u2013 14 January 2014) was a Ghanaian biochemist and the first Host of the National Science and Maths Quiz ...",
+      "link": "https://en.wikipedia.org/wiki/Marian_Ewurama_Addy"
+    },
+    {
+      "title": "Dr. Nii Addy | Addy Lab at Yale - The Addy Hour",
+      "snippet": "Dr. Nii Addy is a Yale professor, neuroscientist, and mental health advocate. As a sought-after speaker, Dr. Addy engages audiences through his expertise in ...",
+      "link": "https://www.addyhour.com/about-draddy"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

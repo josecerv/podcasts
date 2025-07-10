@@ -1,0 +1,26 @@
+{
+  "guest_name": "Husband",
+  "searched_at": "2025-07-10T15:40:14.346643",
+  "search_results": [
+    {
+      "title": "Professor Matthew Husband | Faculty of Linguistics, Philology ...",
+      "snippet": "Professor Matthew Husband ... I am an Associate Professor in the Faculty of Linguistics, Philology, and Phonetics at the University of Oxford and a Tutorial ...",
+      "link": "https://www.ling-phil.ox.ac.uk/people/matthew-husband"
+    },
+    {
+      "title": "Herman Husband",
+      "snippet": "Herman Husband (December 3, 1724 \u2013 June 19, 1795) was an American farmer, pamphleteer, author, and preacher best known as a leader of the Regulator Movement",
+      "link": "https://en.wikipedia.org/wiki/Herman_Husband"
+    },
+    {
+      "title": "Scott A Husband",
+      "snippet": "Scott Husband is a behavioral neuroscientist who studies comparative brain anatomy and cognition. In particular, he employs animal models (e.g., birds) to gain ...",
+      "link": "https://www.ut.edu/directory/husband-scott-a"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

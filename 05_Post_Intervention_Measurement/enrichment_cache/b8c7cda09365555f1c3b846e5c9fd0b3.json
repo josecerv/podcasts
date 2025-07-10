@@ -1,0 +1,26 @@
+{
+  "guest_name": "Otsuka",
+  "searched_at": "2025-07-10T14:48:45.130498",
+  "search_results": [
+    {
+      "title": "Julie Otsuka",
+      "snippet": "Julie Otsuka (born May 15, 1962) is a Japanese-American author. She is known for drawing from her personal life to write autoethnographical historical novels.",
+      "link": "https://en.wikipedia.org/wiki/Julie_Otsuka"
+    },
+    {
+      "title": "About",
+      "snippet": "Julie Otsuka was born and raised in California. After studying art as an undergraduate at Yale University she pursued a career as a painter for several years.",
+      "link": "https://www.julieotsuka.com/about"
+    },
+    {
+      "title": "Michael Otsuka - Rutgers Philosophy",
+      "snippet": "Michael Otsuka; Professor; Specialties: Normative Ethics, Applied Ethics ... Biography. I received my doctorate from Oxford, where I was a student of ...",
+      "link": "https://philosophy.rutgers.edu/people/regular-faculty/regular-faculty-profile/182-regular-faculty-full-time/1309-otsuka-michael"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

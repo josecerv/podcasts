@@ -1,0 +1,26 @@
+{
+  "guest_name": "Bee Honey",
+  "searched_at": "2025-07-10T15:52:55.959203",
+  "search_results": [
+    {
+      "title": "About Randy",
+      "snippet": "I'm a honey bee researcher (writer and international invited speaker). You'd ... Busy Bee Honey, Vermont. Rick Anderson. Steve Sweet, Idaho. Ulster County ...",
+      "link": "https://scientificbeekeeping.com/about-randy/"
+    },
+    {
+      "title": "The Art of the Bee & Honey Bee Genetics with Dr. Rob ...",
+      "snippet": "Rob Page is a geneticist and has studied the workings of honey bee genetics his whole career. He has perfected instrumental insemination of queen honey bees, ...",
+      "link": "https://www.beekeepingtodaypodcast.com/videos/the-art-of-the-bee-honey-bee-genetics-with-dr-rob-page-s3-e53/"
+    },
+    {
+      "title": "Heart of the Hive: Inside the Mind of the Honey Bee and ...",
+      "snippet": "In this book, readers will learn remarkable facts about the lives and minds of honey bees, including... Bee honey comb hive. How the ...",
+      "link": "https://www.amazon.com/Heart-Hive-Inside-Incredible-Colony/dp/1635864836"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

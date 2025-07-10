@@ -1,0 +1,26 @@
+{
+  "guest_name": "Clara",
+  "searched_at": "2025-07-10T17:12:55.187216",
+  "search_results": [
+    {
+      "title": "Clara Villarosa",
+      "snippet": "Clara Villarosa is an American entrepreneur, author, publisher and motivational speaker. She is the co-founder of Villarosa Media and was the founder of Hue- ...",
+      "link": "https://en.wikipedia.org/wiki/Clara_Villarosa"
+    },
+    {
+      "title": "About | Author Clara Benson",
+      "snippet": "Read the bio about Clara Benson, author of English mysteries, including the Angela Marchmont Mystery Series and the Freddy Pilkington-Soames Adventures.",
+      "link": "https://clarabenson.com/about/"
+    },
+    {
+      "title": "About Clara Bingham",
+      "snippet": "Clara Bingham is an award-winning journalist and author whose work focuses on social justice and women's issues. Her latest book, The Movement: How Women's ...",
+      "link": "https://www.clarabingham.com/about/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

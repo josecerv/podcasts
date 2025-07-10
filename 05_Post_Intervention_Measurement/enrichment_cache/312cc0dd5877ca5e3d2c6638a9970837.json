@@ -1,0 +1,26 @@
+{
+  "guest_name": "John Edwards",
+  "searched_at": "2025-07-10T15:55:20.009656",
+  "search_results": [
+    {
+      "title": "About - The Edwards Groups, LLC",
+      "snippet": "John Edwards is the best professional speaker for leaders focusing on using neuroscience for driving impactful change. With decades of experience and ...",
+      "link": "https://www.theedwardsgroups.com/about/"
+    },
+    {
+      "title": "The Edwards Group",
+      "snippet": "John Edwards is a captivating speaker whose commanding stage presence and inspiring vision makes him a standout in the leadership development field.",
+      "link": "https://www.theedwardsgroups.com/"
+    },
+    {
+      "title": "John Edwards",
+      "snippet": "John Edwards ; Johnny Reid Edwards. (1953-06-10) June 10, 1953 (age 72) Seneca, South Carolina, U.S. \u00b7 Democratic \u00b7 Elizabeth Anania. \u200b. \u200b. ( m. \u00b7 1977; died 2010)\u200b.",
+      "link": "https://en.wikipedia.org/wiki/John_Edwards"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

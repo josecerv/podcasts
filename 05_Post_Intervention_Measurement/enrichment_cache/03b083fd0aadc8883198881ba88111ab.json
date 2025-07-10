@@ -1,0 +1,26 @@
+{
+  "guest_name": "Gary",
+  "searched_at": "2025-07-10T14:42:48.693758",
+  "search_results": [
+    {
+      "title": "Gary Thomas: Home",
+      "snippet": "Gary Thomas is a bestselling author and international speaker whose ministry brings people closer to Christ and closer to others. He unites the study of ...",
+      "link": "https://garythomas.com/"
+    },
+    {
+      "title": "Gary Goshgarian",
+      "snippet": "Under his pen name Gary Braver, he is the bestselling author of nine critically acclaimed mysteries and thrillers, including ELIXIR, GRAY MATTER, and FLASHBACK, ...",
+      "link": "https://cssh.northeastern.edu/faculty/gary-goshgarian/"
+    },
+    {
+      "title": "Gary D. Schmidt",
+      "snippet": "Gary David Schmidt (born April 14, 1957) is an American author of children's and young adults' fiction books. He currently resides in Alto, Michigan, ...",
+      "link": "https://en.wikipedia.org/wiki/Gary_D._Schmidt"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

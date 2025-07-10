@@ -1,0 +1,26 @@
+{
+  "guest_name": "Chantal",
+  "searched_at": "2025-07-10T15:40:09.207193",
+  "search_results": [
+    {
+      "title": "Chantal Francois",
+      "snippet": "Biography. Chantal Francois is an Associate Professor who teaches in the Department of Instructional Leadership and Professional Development at Towson ...",
+      "link": "https://www.towson.edu/coe/departments/leadership/facultystaff/chantal-francois.html"
+    },
+    {
+      "title": "Chantal Thomas",
+      "snippet": "Chantal Thomas is a French writer and historian. Her 2002 book, Farewell, My Queen, won the Prix Femina and was adapted into a 2012 film starring Diane ...",
+      "link": "https://en.wikipedia.org/wiki/Chantal_Thomas"
+    },
+    {
+      "title": "Chantal van Esch",
+      "snippet": "Dr. Chantal van Esch is an award-winning professor of management and our Faculty in Residence here at Cal Poly Pomona. She takes a multi-disciplinary approach ...",
+      "link": "https://www.cpp.edu/faculty/cvanesch/index.shtml"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

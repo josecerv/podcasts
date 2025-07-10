@@ -1,0 +1,26 @@
+{
+  "guest_name": "John Kleinchester",
+  "searched_at": "2025-07-10T17:33:52.710501",
+  "search_results": [
+    {
+      "title": "John Kleinchester, Author at POST Wrestling",
+      "snippet": "John Kleinchester is a wrestling reporter from New Jersey, covering the sport since 2022. He is a graduate of Ithaca College and can be reached at ...",
+      "link": "https://www.postwrestling.com/author/john-kleinchester/"
+    },
+    {
+      "title": "John Kleinchester - Biography",
+      "snippet": "John Kleinchester was born on December 1, 1981 in Parsippany, New Jersey, USA. John is known for The Click List: Best in Short Film (2006) and Alien Boot ...",
+      "link": "https://m.imdb.com/name/nm2943152/bio/?ref_=nm_ov_bio_sm"
+    },
+    {
+      "title": "Episode 18 - John Kleinchester, Two Roads & Beertography",
+      "snippet": "Today we're talking to John Kleinchester of Two Roads Brewing and the man craft beer photography website, Beertography.",
+      "link": "http://www.stealthisbeer.com/episodes/episode18-kleinchester-tworoads"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

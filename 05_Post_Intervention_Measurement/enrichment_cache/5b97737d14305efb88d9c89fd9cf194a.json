@@ -1,0 +1,26 @@
+{
+  "guest_name": "Wojo",
+  "searched_at": "2025-07-10T15:16:35.595389",
+  "search_results": [
+    {
+      "title": "About Rachel",
+      "snippet": "Professionally, I'm an author, speaker, creator, podcaster, and entrepreneur. ... Wojo. Helping you cultivate a personal faith that will outlast the storms of ...",
+      "link": "https://rachelwojo.com/about-rachel-wojnarowski/"
+    },
+    {
+      "title": "Rachel Wojo",
+      "snippet": "Rachel Wojo is an entrepreneur from Columbus, Ohio, who self-started and developed a blog to business platform over the last decade.",
+      "link": "https://speakupconference.com/faculty/rachel-wojo/"
+    },
+    {
+      "title": "Rachel Wojo Christian Women Speaker - Rachel Wojo",
+      "snippet": "Rachel Wojo Christian women's speaker and author, provides transformative books, prayer resources, and faith-based guidance for life's challenges.",
+      "link": "https://rachelwojo.com/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

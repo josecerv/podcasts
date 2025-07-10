@@ -1,0 +1,26 @@
+{
+  "guest_name": "Taylor Barkley",
+  "searched_at": "2025-07-10T17:12:52.906389",
+  "search_results": [
+    {
+      "title": "About Me - Taylor D. Barkley",
+      "snippet": "Taylor Barkley is currently Director of Public Policy at the Abundance Institute. There he directs research and represents the portfolio on federal and state ...",
+      "link": "https://www.taylordbarkley.com/home/about-me/"
+    },
+    {
+      "title": "Taylor Barkley",
+      "snippet": "Taylor Barkley is the Director of Public Policy at the Abundance Institute. His primary research and expertise are at the intersection of culture, technology, ...",
+      "link": "https://www.beacontn.org/people/taylor-barkley"
+    },
+    {
+      "title": "Taylor Barkley",
+      "snippet": "Taylor Barkley is the Government Affairs Manager at the Competitive Enterprise Institute where he works to develop relationships with U.S. lawmakers and ...",
+      "link": "https://erlc.com/profile/taylor-barkley/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

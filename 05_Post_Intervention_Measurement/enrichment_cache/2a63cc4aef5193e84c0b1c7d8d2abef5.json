@@ -1,0 +1,26 @@
+{
+  "guest_name": "Becky",
+  "searched_at": "2025-07-10T16:42:18.452242",
+  "search_results": [
+    {
+      "title": "About | Becky Keife : Author, Speaker, Copywriter",
+      "snippet": "Becky holds a bachelor's degree in Creative Writing from California State University, Long Beach, and a master's in English from Azusa Pacific University. With ...",
+      "link": "https://www.beckykeife.com/meet-becky"
+    },
+    {
+      "title": "Becky Carpenter -- Speaker, Writer, Teacher, Missionary",
+      "snippet": "Becky served 25 years in the mission field called 'education.' In 2011, a family tragedy flipped her comfortable world upside down, leading to an entire ...",
+      "link": "https://beckycarpenter.net/"
+    },
+    {
+      "title": "Meet Dr. Becky Bailey \u2013 Creator of Conscious Discipline",
+      "snippet": "Becky A. Bailey, Ph.D., is an award-winning author, renowned teacher and internationally recognized expert in childhood education and developmental psychology.",
+      "link": "https://consciousdiscipline.com/about/becky-bailey/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Liz",
+  "searched_at": "2025-07-10T17:03:57.693696",
+  "search_results": [
+    {
+      "title": "About Liz",
+      "snippet": "Liz is the author of 37 books, with 4.6 million copies in print. Her latest release, 31 Proverbs to Light Your Path, shows how thirty-one nuggets of truth ...",
+      "link": "https://www.lizcurtishiggs.com/about-liz/"
+    },
+    {
+      "title": "Liz Kleinrock - Author Bio",
+      "snippet": "Liz Kleinrock (she/her) is an antibias antiracist educator and consultant based in Washington, DC. A transracial adoptee, Liz was born in South Korea.",
+      "link": "https://www.heinemann.com/authors/101089.aspx"
+    },
+    {
+      "title": "About Liz \u2014 Liz Huntley",
+      "snippet": "About Liz ... I am a committed child advocate and passionate litigation attorney and practice law at Lightfoot, Franklin & White, LLC in Birmingham, Alabama. On ...",
+      "link": "https://www.lizhuntley.com/the-story"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

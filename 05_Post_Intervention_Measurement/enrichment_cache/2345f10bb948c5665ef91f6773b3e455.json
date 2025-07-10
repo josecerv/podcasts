@@ -1,0 +1,26 @@
+{
+  "guest_name": "Michelle",
+  "searched_at": "2025-07-10T14:51:51.882944",
+  "search_results": [
+    {
+      "title": "Who is Michelle Ule?",
+      "snippet": "A New York Times and ECPA bestselling author, Michelle Ule lives in northern California. Michelle is a native of Southern California and holds a degree in ...",
+      "link": "https://www.michelleule.com/michelle/"
+    },
+    {
+      "title": "About \u2014 MICHELLE HUNEVEN",
+      "snippet": "About. Michelle ... I am the author of five novels. I was born in Altadena, California just a mile from where I live now. I college-hopped (Scripps, Grinnell, EWU) ...",
+      "link": "https://www.michellehuneven.com/about-michelle"
+    },
+    {
+      "title": "Michelle Silverthorn | Speaker, Author & Consultant",
+      "snippet": "Michelle worked with us to develop a tailored talk and interactive workshop. From the first time we spoke with her until minutes before she took the stage, she ...",
+      "link": "https://www.michellesilverthorn.com/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "The group",
+  "searched_at": "2025-07-10T15:54:35.637741",
+  "search_results": [
+    {
+      "title": "The Band | Members, Albums, Songs, & Facts",
+      "snippet": "Robertson was the group's principal writer and guitarist. Drummer Helm was a \u201cgood old boy\u201d from Arkansas, the sole American in a lineup of displaced ...",
+      "link": "https://www.britannica.com/topic/the-Band-Canadian-American-rock-group"
+    },
+    {
+      "title": "The Band",
+      "snippet": "The Band was a Canadian-American rock ; Between 1958 and 1963, the group were known as the Hawks and were the backing band for rockabilly ; The Band performed ...",
+      "link": "https://en.wikipedia.org/wiki/The_Band"
+    },
+    {
+      "title": "Ph.D. (band)",
+      "snippet": "The band was a duo, but it took its name from the initial letters of the surnames of the three performers on the group's original recordings: Phillips, Hymas ...",
+      "link": "https://en.wikipedia.org/wiki/Ph.D._(band)"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

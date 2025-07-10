@@ -1,0 +1,26 @@
+{
+  "guest_name": "Jan",
+  "searched_at": "2025-07-10T15:41:13.027811",
+  "search_results": [
+    {
+      "title": "Biography",
+      "snippet": "Biography. Jan Johnson. I am a writer, speaker and spiritual director who has degrees ...",
+      "link": "https://janjohnson.org/biography/"
+    },
+    {
+      "title": "About Jan Frazier",
+      "snippet": "Until the summer of her fiftieth year, Jan Frazier lived a life typical for a well-educated, middle-class American woman. A divorced mother of two teenagers, she was making a modest living writing and teaching writing. Following a Catholic childhood in Miami in the 1960s, she had studied English in college and ...",
+      "link": "https://janfrazierteachings.com/about/"
+    },
+    {
+      "title": "Jan Swafford",
+      "snippet": "Jan Swafford (born September 10, 1946) is an American author and composer. He earned his Bachelor of Arts magna cum laude from Harvard College and his M.M.A. and D.M.A. from the Yale School of Music. His teachers included Earl Kim at Harvard, Jacob Druckman at Yale, and Betsy Jolas at Tanglewood.",
+      "link": "https://en.wikipedia.org/wiki/Jan_Swafford"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

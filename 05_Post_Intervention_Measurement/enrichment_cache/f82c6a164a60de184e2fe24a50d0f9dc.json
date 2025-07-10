@@ -1,0 +1,26 @@
+{
+  "guest_name": "The Professor",
+  "searched_at": "2025-07-10T16:24:06.016868",
+  "search_results": [
+    {
+      "title": "Grayson Boucher",
+      "snippet": "Grayson Scott \"The Professor\" Boucher (born June 10, 1984) is an American professional streetball player. He is most known for playing on the highly stylized, ...",
+      "link": "https://en.wikipedia.org/wiki/Grayson_Boucher"
+    },
+    {
+      "title": "The Professor | Shirley's Temple",
+      "snippet": "A true multihyphenate, The Professor is not only a basketball player and entertainer, but he's also an actor and entrepreneur with his own clothing line called ...",
+      "link": "https://www.flaunt.com/blog/the-professor-shirleys-temple"
+    },
+    {
+      "title": "The Professor Nick Harrison",
+      "snippet": "The Professor Nick Harrison, Hammond. 783172 likes \u00b7 102002 talking about this. Retired teacher turned content creator, but I'll never stop educating!...",
+      "link": "https://www.facebook.com/mrprofessor318/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Joan",
+  "searched_at": "2025-07-10T16:01:42.620783",
+  "search_results": [
+    {
+      "title": "Joan Borysenko - Best-selling Author and Speaker",
+      "snippet": "Joan Borysenko, Ph.D., is one of the leading experts on stress, spirituality, and the mind/body connection. She has a doctorate in medical sciences from ...",
+      "link": "https://joanborysenko.com/"
+    },
+    {
+      "title": "Joan Slonczewski",
+      "snippet": "Joan Lyn Slonczewski (born August 14, 1956) is an American microbiologist at Kenyon College and a science fiction writer who explores biology and space ...",
+      "link": "https://en.wikipedia.org/wiki/Joan_Slonczewski"
+    },
+    {
+      "title": "Joan Frank - Biography",
+      "snippet": "Joan was born to New Yorkers in Phoenix, Arizona. She studied with author Thaisa Frank (no relation) at the University of California in Berkeley, CA.",
+      "link": "https://www.joanfrank.org/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

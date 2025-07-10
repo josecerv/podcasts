@@ -1,0 +1,26 @@
+{
+  "guest_name": "Dude Points",
+  "searched_at": "2025-07-10T16:23:22.289303",
+  "search_results": [
+    {
+      "title": "Dude Points",
+      "snippet": "Dude Points is an American who moved to the UK in 2011 and happened to catch Loreen's Winner's Reprise of Euphoria on the BBC the following year.",
+      "link": "https://escinsight.com/author/dudepoints/"
+    },
+    {
+      "title": "Author: Dude Points",
+      "snippet": "Author: Dude Points. Dude! It's pronounced dood pwah. Dudepoints Guide to the Final: WE DID A ZINE. I am currently running on 4.5 hours of sleep per night.",
+      "link": "https://dudepoints.fun/author/malaiseybonbons/"
+    },
+    {
+      "title": "Author: Dude Points",
+      "snippet": "Author: Dude Points. Dude! It's pronounced dood pwah. Op-Ed. Tailoring a solution to the Barbara Dex Award.",
+      "link": "https://escincontext.com/author/malaiseybonbons/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Unknown Host",
+  "searched_at": "2025-07-10T16:12:50.057140",
+  "search_results": [
+    {
+      "title": "How to fix Domain Unknown Host Exception error ...",
+      "snippet": "I can't access backup TV, Blu TV or the App Store. Keep getting a message at the bottom of the screen that says 0-14 Domain Unknown Host ...",
+      "link": "https://www.facebook.com/groups/1563895444490848/posts/1683840365829688/"
+    },
+    {
+      "title": "Unknown Host - Networking",
+      "snippet": "When asked for my IP or host name spice repeatedly says unknown host - how can I find possible names for Host or items on my network?",
+      "link": "https://community.spiceworks.com/t/unknown-host/477542"
+    },
+    {
+      "title": "What is Unknown Host?",
+      "snippet": "An error message that may be obtained during file transfers. As the user attempts to connect to a remote host, you may see an \u201cUnknown host\u201d ...",
+      "link": "https://www.webopedia.com/definitions/unknown-host/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

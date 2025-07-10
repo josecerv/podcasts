@@ -1,0 +1,26 @@
+{
+  "guest_name": "Rosie",
+  "searched_at": "2025-07-10T15:40:16.245830",
+  "search_results": [
+    {
+      "title": "Rosie King",
+      "snippet": "Rosie King (born c. 1998) is a British writer, public speaker and autism advocate. She has featured in a BBC documentary on the subject, and is a prominent ...",
+      "link": "https://en.wikipedia.org/wiki/Rosie_King"
+    },
+    {
+      "title": "About",
+      "snippet": "Rosie Danan is an award-winning, bestselling author of contemporary and paranormal rom-coms. Her work has been optioned for film as well as translated into ten ...",
+      "link": "https://www.rosiedanan.com/about"
+    },
+    {
+      "title": "Rosie Schaap: Writer",
+      "snippet": "This is the website of Rosie Schaap, author, editor, journalist, creative writing teacher.",
+      "link": "https://www.rosieschaap.net/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

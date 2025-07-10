@@ -1,0 +1,26 @@
+{
+  "guest_name": "Sarah",
+  "searched_at": "2025-07-10T14:43:53.696010",
+  "search_results": [
+    {
+      "title": "Sarah Henstra - English - Toronto Metropolitan University",
+      "snippet": "Biography: Sarah Henstra is a writer and scholar specializing in 20th century British fiction. She is the author of three novels, including The Red Word ...",
+      "link": "https://www.torontomu.ca/english/about-us/faculty-and-staff/faculty/henstra-sarah/"
+    },
+    {
+      "title": "About Sarah",
+      "snippet": "About Sarah \u00b7 I was born and raised in northeast Kansas, growing up in a small log cabin nestled deep in the woods. \u00b7 \u200b \u00b7 I began writing seriously in 2015, after ...",
+      "link": "https://www.sarahpenner.com/about"
+    },
+    {
+      "title": "About - Sarah Kaufman",
+      "snippet": "Sarah L. Kaufman is a Pulitzer Prize-winning critic, author, journalist and educator. For more than 30 years, she has focused on the union of art and everyday ...",
+      "link": "https://sarahlkaufman.com/about-sarah-kaufman-author/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

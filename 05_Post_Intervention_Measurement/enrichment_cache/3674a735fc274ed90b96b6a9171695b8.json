@@ -1,0 +1,26 @@
+{
+  "guest_name": "Veena",
+  "searched_at": "2025-07-10T16:41:10.674395",
+  "search_results": [
+    {
+      "title": "Veena Das - JHU Anthropology - Johns Hopkins University",
+      "snippet": "Veena Das is a research professor at the Johns Hopkins University. Before her retirement, she was the Krieger-Eisenhower Professor of Anthropology.",
+      "link": "https://anthropology.jhu.edu/directory/veena-das/"
+    },
+    {
+      "title": "Veena Das",
+      "snippet": "Veena Das, FBA (born 1945) in India is the Krieger-Eisenhower Professor of Anthropology at the Johns Hopkins University. Her areas of theoretical ...",
+      "link": "https://en.wikipedia.org/wiki/Veena_Das"
+    },
+    {
+      "title": "The First Book: Veena Dinavahi",
+      "snippet": "Veena Dinavahi is an Indian American writer who divides her time between Connecticut and New York. Her personal essays have appeared in The ...",
+      "link": "https://therumpus.net/2025/05/14/the-first-book-veena-dinavahi/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

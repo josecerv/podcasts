@@ -1,0 +1,26 @@
+{
+  "guest_name": "Schatz",
+  "searched_at": "2025-07-10T17:08:56.401364",
+  "search_results": [
+    {
+      "title": "Biography of Albert Schatz",
+      "snippet": "Albert Schatz was a 23 year-old graduate student working on his Ph.D. at Rutgers University when he discovered streptomycin, the first antibiotic effective ...",
+      "link": "https://www.albertschatzphd.com/?cat=about&subcat=bio"
+    },
+    {
+      "title": "Dennis Schatz",
+      "snippet": "Dennis Schatz started his career as a science educator at the Lawrence Hall of Science at the University of California, Berkeley, working in astronomy education ...",
+      "link": "https://www.angelo.edu/live/profiles/13425-dennis-schatz"
+    },
+    {
+      "title": "Dr. Sae Schatz Biography",
+      "snippet": "Dr. Sae Schatz serves as the Executive Director of the Partnership for Peace Consortium of Defense Academies and. Security Studies Institutes, a multinational ...",
+      "link": "https://www.marshallcenter.org/sites/default/files/files/2024-04/Dr.%20Sae%20Schatz%20Biography.pdf"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

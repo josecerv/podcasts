@@ -1,0 +1,26 @@
+{
+  "guest_name": "Citizen",
+  "searched_at": "2025-07-10T17:36:44.526669",
+  "search_results": [
+    {
+      "title": "Eric Liu",
+      "snippet": "Eric Liu is the CEO of Citizen University. He's the son of immigrants and an author, creator, and civic evangelist.",
+      "link": "https://citizenuniversity.us/eric-liu/"
+    },
+    {
+      "title": "A Citizen Future with Jon Alexander",
+      "snippet": "Join Jon Alexander to build a Citizen Future. A future rooted in the deep truth that all of us are smarter than any of us, is still possible.",
+      "link": "https://jonalexander.net/"
+    },
+    {
+      "title": "Bio for Eric Liu",
+      "snippet": "Eric Liu is the co-founder and CEO of Citizen University, which works to build a culture of powerful and responsible citizenship in the United States.",
+      "link": "https://citizenuniversity.us/eric-liu/bio/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

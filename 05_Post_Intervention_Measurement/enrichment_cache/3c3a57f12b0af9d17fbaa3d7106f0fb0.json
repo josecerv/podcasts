@@ -1,0 +1,26 @@
+{
+  "guest_name": "mOat",
+  "searched_at": "2025-07-10T16:54:19.162550",
+  "search_results": [
+    {
+      "title": "Suzy Moat - Professor of Behavioural Science | People",
+      "snippet": "Suzy Moat is Professor of Behavioural Science at Warwick Business School, where she co-directs the Data Science Lab. She is also a Fellow of The Alan Turing ...",
+      "link": "https://www.wbs.ac.uk/about/person/suzy-moat/"
+    },
+    {
+      "title": "Collin Moat - Department of Classics",
+      "snippet": "Collin Moat received his BA in Classics and History from St. Olaf College (2013) and his MA in Classics, emphasis in Classical Philology, from the University ...",
+      "link": "https://classics.ucla.edu/person/collin-moat/"
+    },
+    {
+      "title": "John Moat",
+      "snippet": "Roger John Moat (11 September 1936 \u2013 16 September 2014) was a British poet, and co-founder, with John Fairfax, of the Arvon Foundation in 1968.",
+      "link": "https://en.wikipedia.org/wiki/John_Moat"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

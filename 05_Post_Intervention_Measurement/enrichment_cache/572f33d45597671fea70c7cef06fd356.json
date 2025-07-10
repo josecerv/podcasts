@@ -1,0 +1,26 @@
+{
+  "guest_name": "Rylan",
+  "searched_at": "2025-07-10T16:14:24.995290",
+  "search_results": [
+    {
+      "title": "Life of Rylan: Clark, Rylan: 9781780895741",
+      "snippet": "In his autobiography, Rylan openly talks about his humble upbringing and his constant desire to be famous. He explores the world around him and what he has ...",
+      "link": "https://www.amazon.com/Life-Rylan-Clark/dp/1780895747"
+    },
+    {
+      "title": "Rylan Clark",
+      "snippet": "Ross Richard Clark (born 25 October 1988), commonly known as Rylan Clark, is an English broadcaster and television personality. He came to prominence as a ...",
+      "link": "https://en.wikipedia.org/wiki/Rylan_Clark"
+    },
+    {
+      "title": "Rylan Sekiguchi | FSI",
+      "snippet": "Biography. Rylan Sekiguchi is Manager of Curriculum and Instructional Design at the Stanford Program on International and Cross-Cultural Education (SPICE).",
+      "link": "http://spice.fsi.stanford.edu/people/rylan_sekiguchi"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

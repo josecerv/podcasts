@@ -1,0 +1,26 @@
+{
+  "guest_name": "Matt",
+  "searched_at": "2025-07-10T14:44:12.676861",
+  "search_results": [
+    {
+      "title": "Matt Abrahams \u2013 Professor, Podcast Host, Author ...",
+      "snippet": "Matt is a master teacher who offers tailored, actionable coaching and training for anyone seeking to hone and improve their communication.",
+      "link": "https://mattabrahams.com/"
+    },
+    {
+      "title": "Matt de la Pe\u00f1a",
+      "snippet": "Matt de la Pe\u00f1a is the New York Times bestselling, Newbery Medal winning author of seven young adult novels (including Mexican WhiteBoy, We Were Here and ...",
+      "link": "https://mattdelapena.com/"
+    },
+    {
+      "title": "Matt Eicheldinger",
+      "snippet": "One of the most well known teachers on social media, Matt Eicheldinger has captured the attention of over 100 million views on Instagram and TikTok.",
+      "link": "https://matteicheldinger.com/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Izzy",
+  "searched_at": "2025-07-10T15:17:50.746903",
+  "search_results": [
+    {
+      "title": "Interview With an Author: Izzy Wasserstein",
+      "snippet": "Izzy Wasserstein is a queer, trans woman who teaches writing and literature. She was born and raised in Kansas and received her MFA in Creative Writing from ...",
+      "link": "https://www.lapl.org/collections-resources/blogs/lapl/interview-author-izzy-wasserstein"
+    },
+    {
+      "title": "Izzy B, The Silly Story Specialist",
+      "snippet": "Izzy B, The Silly Story Specialist. 5288 likes \u00b7 313 talking about this. Izzy B is an author and illustrator who specializes in everything funny.",
+      "link": "https://www.facebook.com/izzybbooks/"
+    },
+    {
+      "title": "Izzy Wasserstein",
+      "snippet": "Izzy Wasserstein is a queer and trans woman who was born and raised in Kansas and currently lives in California. She teaches writing and literature.",
+      "link": "https://izzywasserstein.com/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

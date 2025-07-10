@@ -1,0 +1,26 @@
+{
+  "guest_name": "Kim Dracula",
+  "searched_at": "2025-07-10T17:37:02.253855",
+  "search_results": [
+    {
+      "title": "Kim Dracula",
+      "snippet": "Samuel Wellings, known professionally as Kim Dracula, is an Australian singer, songwriter, musician, and rapper from Hobart, Tasmania whose songs have achieved ...",
+      "link": "https://en.wikipedia.org/wiki/Kim_Dracula"
+    },
+    {
+      "title": "KIM DRACULA: Unmaking a murderer",
+      "snippet": "\u201cI used to have a terrible fixation on killing,\u201d says the Australian-born musician known as Kim Dracula, staring down shyly, purple hair ...",
+      "link": "https://www.revolvermag.com/music/kim-dracula-unmaking-murderer/"
+    },
+    {
+      "title": "Kim Dracula",
+      "snippet": "Kim Dracula is an Australian singer, songwriter, musician, and rapper from Hobart, Tasmania whose songs have achieved popularity on TikTok.",
+      "link": "https://www.youtube.com/@kimdracula/about"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

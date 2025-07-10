@@ -1,0 +1,26 @@
+{
+  "guest_name": "Tychicus",
+  "searched_at": "2025-07-10T15:27:02.606730",
+  "search_results": [
+    {
+      "title": "Tychicus",
+      "snippet": "Tychicus was an Asiatic Christian who, with Trophimus, accompanied the Apostle Paul on a part of his journey from Macedonia to Jerusalem.",
+      "link": "https://en.wikipedia.org/wiki/Tychicus"
+    },
+    {
+      "title": "Who was the New Testament's Tychicus?",
+      "snippet": "Tychicus may have been one of Paul's students during the more than two years the apostle spent preaching and teaching in Ephesus.",
+      "link": "https://www.michelleule.com/2022/03/01/who-was-the-new-testaments-tychicus/"
+    },
+    {
+      "title": "Hello My Name Is Tychicus - Paula Wiseman",
+      "snippet": "Tychicus stands as an example of a beloved, faithful servant who served not only his Lord but devoted his life to serving the body of Christ.",
+      "link": "https://www.paulawiseman.com/tychicus/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

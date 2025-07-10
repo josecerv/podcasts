@@ -1,0 +1,26 @@
+{
+  "guest_name": "Little Brother",
+  "searched_at": "2025-07-10T17:16:06.088851",
+  "search_results": [
+    {
+      "title": "Little Brother \u2014 Journalist and Fentanyl Crisis Speaker",
+      "snippet": "Little Brother tells the story of journalist Ben Westhoff's relationship with Jorell Cleveland through the Big Brothers Big Sisters program.",
+      "link": "https://www.benwesthoff.com/little-brother"
+    },
+    {
+      "title": "Little Brother (Doctorow novel)",
+      "snippet": "Little Brother is a novel by Cory Doctorow, published by Tor Books. It was released on April 29, 2008. The novel is about four teenagers in San Francisco ...",
+      "link": "https://en.wikipedia.org/wiki/Little_Brother_(Doctorow_novel)"
+    },
+    {
+      "title": "About Little Brother | Cory Doctorow's craphound.com",
+      "snippet": "About Little Brother ... Marcus, a.k.a \u201cw1n5t0n\u201d, is only seventeen years old, but he figures he already knows how the system works\u2013and how to work the system.",
+      "link": "https://craphound.com/littlebrother/about/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

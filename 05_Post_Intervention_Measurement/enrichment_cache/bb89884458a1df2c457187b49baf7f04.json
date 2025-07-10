@@ -1,0 +1,26 @@
+{
+  "guest_name": "FOX News",
+  "searched_at": "2025-07-10T14:45:39.278415",
+  "search_results": [
+    {
+      "title": "Jonathan Turley",
+      "snippet": "Jonathan Turley is a Fox News Media contributor and the Shapiro Professor of Public Interest Law at George Washington University.",
+      "link": "https://www.foxnews.com/person/t/jonathan-turley"
+    },
+    {
+      "title": "Happiness expert reveals his lessons for enjoying life in 'The ...",
+      "snippet": "Harvard University professor and author Arthur Brooks joins ... FOX News Network, LLC. All rights reserved. This material may not be ...",
+      "link": "https://www.foxnews.com/video/6375333173112"
+    },
+    {
+      "title": "Fox News",
+      "snippet": "It launched on October 7, 1996, to 17-million cable subscribers. Fox News grew during the late 1990s and 2000s to become the dominant United States cable news ...",
+      "link": "https://en.wikipedia.org/wiki/Fox_News"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

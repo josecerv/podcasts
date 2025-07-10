@@ -1,0 +1,26 @@
+{
+  "guest_name": "Vice-President Vance",
+  "searched_at": "2025-07-10T15:15:24.741105",
+  "search_results": [
+    {
+      "title": "JD Vance",
+      "snippet": "James David Vance (born James Donald Bowman, August 2, 1984) is an American politician, author ... During his tenure as vice president, Vance has also served as ...",
+      "link": "https://en.wikipedia.org/wiki/JD_Vance"
+    },
+    {
+      "title": "JD Vance: Biography, U.S. Vice President\u2013Elect, 'Hillbilly ...",
+      "snippet": "Prior to becoming vice president, Vance served in the U.S. Senate for just over one year, beginning in January 2023. He resigned from the ...",
+      "link": "https://www.biography.com/political-figures/a61928046/jd-vance"
+    },
+    {
+      "title": "Hillbilly Elegy: A Memoir of a Family and Culture in Crisis",
+      "snippet": "In 2024, he became the Republican nominee for Vice President. Vance lives in Columbus, Ohio, with his family. Read more about this author ...",
+      "link": "https://www.amazon.com/Hillbilly-Elegy-Memoir-Family-Culture/dp/0062300547"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

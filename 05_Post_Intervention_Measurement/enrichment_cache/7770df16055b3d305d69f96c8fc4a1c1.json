@@ -1,0 +1,26 @@
+{
+  "guest_name": "Sergei Isupov",
+  "searched_at": "2025-07-10T15:32:32.469123",
+  "search_results": [
+    {
+      "title": "CV",
+      "snippet": "Sergei Isupov is represented by Ferrin Contemporary. Visit Ferrin Contemporary to learn more, and inquire about available works.",
+      "link": "https://sergeiisupov.com/about/"
+    },
+    {
+      "title": "Sergei Isupov",
+      "snippet": "Sergei Isupov is an Estonian-American sculptor internationally known for his highly detailed, narrative works. Isupov explores painterly figure-ground ...",
+      "link": "https://ferrincontemporary.com/portfolio/sergei-isupov/"
+    },
+    {
+      "title": "About \u2013 Sergei Isupov",
+      "snippet": "Biography. (b. 1963, Stavropol, USSR, lives in USA, Estonia) ... Sergei Isupov is represented by Ferrin Contemporary. Visit Ferrin ...",
+      "link": "https://sergeiisupov.com/about-sergei-isupov/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

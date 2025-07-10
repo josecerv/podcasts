@@ -1,0 +1,26 @@
+{
+  "guest_name": "Josh Smith",
+  "searched_at": "2025-07-10T15:10:04.019293",
+  "search_results": [
+    {
+      "title": "J. Josh Smith: books, biography, latest update",
+      "snippet": "Josh Smith is the pastor of Prince Avenue Baptist Church in Athens, Georgia. He and his wife Andrea have four daughters and one son. Read full bio. Most popular.",
+      "link": "https://www.amazon.com/stores/author/B0BGKCND7K"
+    },
+    {
+      "title": "J. Josh Smith",
+      "snippet": "J. Josh Smith is the pastor of Prince Avenue Baptist Church in Athens, Georgia. He is the author of Preaching for a Verdict, The Titus Ten, and co-author of ...",
+      "link": "https://www.lifeway.com/en/contributors/j-josh-smith"
+    },
+    {
+      "title": "J. Josh Smith",
+      "snippet": "J. Josh Smith is the lead pastor of MacArthur Boulevard Baptist Church in Irving, Texas. Resources By J. Josh Smith",
+      "link": "https://erlc.com/profile/j-josh-smith/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

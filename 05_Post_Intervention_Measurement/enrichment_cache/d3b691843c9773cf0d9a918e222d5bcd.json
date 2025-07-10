@@ -1,0 +1,26 @@
+{
+  "guest_name": "Andrew Thompson",
+  "searched_at": "2025-07-10T17:33:23.731091",
+  "search_results": [
+    {
+      "title": "Professor Andrew Thompson | Faculty of History",
+      "snippet": "Professor Andrew Thompson ... I am Professor of Global and Imperial History and a Professional fellow at Nuffield College. I am also the co-chair of the Global ...",
+      "link": "https://www.history.ox.ac.uk/people/professor-andrew-thompson"
+    },
+    {
+      "title": "Andrew Thompson (historian)",
+      "snippet": "Andrew Thompson (historian) ; Born. Andrew Stuart Thompson. (1968-06-03) 3 June 1968 (age 57). Mansfield ; Title, Professor of Global and Imperial History.",
+      "link": "https://en.wikipedia.org/wiki/Andrew_Thompson_(historian)"
+    },
+    {
+      "title": "Andrew Thompson | Department of Political Science",
+      "snippet": "Andrew Thompson is an Assistant Professor of Political Science at the University of Pennsylvania. His research is in American politics, political behavior, and ...",
+      "link": "https://live-sas-www-polisci.pantheon.sas.upenn.edu/people/andrew-thompson"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "JR",
+  "searched_at": "2025-07-10T16:26:12.332087",
+  "search_results": [
+    {
+      "title": "Henry Louis Gates Jr.",
+      "snippet": "Henry Louis Gates Jr. (born September 16, 1950), popularly known by his childhood nickname \"Skip\", is an American literary critic, professor, historian, ...",
+      "link": "https://en.wikipedia.org/wiki/Henry_Louis_Gates_Jr."
+    },
+    {
+      "title": "About The Author - James Forman Jr.",
+      "snippet": "James Forman Jr. is a Professor of Law at Yale Law School. He attended public schools in Detroit and New York City before graduating from the Atlanta Public ...",
+      "link": "https://www.jamesformanjr.com/about/"
+    },
+    {
+      "title": "Actor, Author, Speaker - J.R. Martinez",
+      "snippet": "I'm J.R. Martinez, and my life is different than most. Would you believe me if I told you a burn survivor Army veteran could win Dancing with the Stars, ...",
+      "link": "https://jrmartinez.com/about"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

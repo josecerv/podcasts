@@ -1,0 +1,26 @@
+{
+  "guest_name": "Student",
+  "searched_at": "2025-07-10T17:16:10.561587",
+  "search_results": [
+    {
+      "title": "STUDENT RESEARCH CONFERENCE SPEAKER ...",
+      "snippet": "STUDENT RESEARCH CONFERENCE SPEAKER BIOGRAPHIES. Xiangkun (Elvis) Cao. Oral Presentation by a Graduate Researcher. November 11, 3:40\u20134:00 p.m..",
+      "link": "https://www.sigmaxi.org/docs/default-source/Annual-Meeting-Documents/2017-symposium-and-student-research-conference/src_speakerbiosall.pdf?sfvrsn=7ea0b858_0"
+    },
+    {
+      "title": "Student Biographies and Testimonies | College of Business",
+      "snippet": "I am a graduating accounting student at Chicago State University and I am also employed as a staff auditor at a public accounting firm.",
+      "link": "https://www.csu.edu/collegeofbusiness/highlights.htm"
+    },
+    {
+      "title": "Examples of Biographical Statement and Abstract",
+      "snippet": "\"Kathryn Saclarides is a second-year social administration student at the University of Chicago Crown Family School of Social Work, Policy, and Practice. She ...",
+      "link": "https://crownschool.uchicago.edu/student-life/advocates-forum/examples-biographical-statement-and-abstract"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

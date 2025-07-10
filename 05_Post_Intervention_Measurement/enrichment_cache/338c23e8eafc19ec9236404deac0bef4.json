@@ -1,0 +1,26 @@
+{
+  "guest_name": "Julian",
+  "searched_at": "2025-07-10T17:03:33.220011",
+  "search_results": [
+    {
+      "title": "About Julian Treasure",
+      "snippet": "Julian is a sound and communication expert, author and international keynote speaker whose mission is to help people and organisations to listen better.",
+      "link": "https://www.juliantreasure.com/about"
+    },
+    {
+      "title": "Julian E. Zelizer | Department of History",
+      "snippet": "New York Times best-selling author Julian E. Zelizer is the Malcolm Stevenson Forbes, Class of 1941 Professor of History and Public Affairs at Princeton ...",
+      "link": "https://history.princeton.edu/people/julian-e-zelizer"
+    },
+    {
+      "title": "Biography - Percy L. Julian '20",
+      "snippet": "Percy Lavon Julian, a 1920 graduate of DePauw University, was a pioneer whose discovery of low-cost soy-based cortisone made the treatment available to ...",
+      "link": "https://www.depauw.edu/julian/biography/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

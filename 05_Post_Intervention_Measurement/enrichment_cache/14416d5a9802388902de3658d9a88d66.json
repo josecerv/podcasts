@@ -1,0 +1,26 @@
+{
+  "guest_name": "Phil's friends",
+  "searched_at": "2025-07-10T15:54:10.814615",
+  "search_results": [
+    {
+      "title": "About Phil's Friends",
+      "snippet": "Phil's Friends provides Christ-centered practical, emotional, and spiritual support and hope through the distribution of our hand-assembled care packages.",
+      "link": "https://philsfriends.org/about-phils-friends/"
+    },
+    {
+      "title": "Phil Zielke",
+      "snippet": "Phil is the founder, visionary, and executive director for Phil's Friends. As such, he is often on-the-go meeting with new people and speaking to share the ...",
+      "link": "https://philsfriends.org/staff-members/phil-zielke/"
+    },
+    {
+      "title": "Author, cancer survivor Phil Zielke discusses his new book ...",
+      "snippet": "He's running a nonprofit organization called Phil's friends the mission is to send thousands of care packages to cancer patients Nationwide.",
+      "link": "https://www.youtube.com/watch?v=0GE28sRNXX4"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

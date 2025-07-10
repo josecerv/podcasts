@@ -1,0 +1,26 @@
+{
+  "guest_name": "Dr. Moss",
+  "searched_at": "2025-07-10T15:56:20.916487",
+  "search_results": [
+    {
+      "title": "Rev. Dr. Otis Moss, III - McAfee School of Theology",
+      "snippet": "As Senior Pastor of Trinity United Church of Christ in Chicago, Ill., Dr. Moss spent the last two decades practicing and preaching a Black theology.",
+      "link": "https://theology.mercer.edu/faculty-and-staff/moss/"
+    },
+    {
+      "title": "ABOUT DR. MOSS | Mary Moss, Preaching, Leading, ...",
+      "snippet": "Dr. Moss holds a Doctor of Ministry in Biblical Preaching from Beeson Divinity of Birmingham, Alabama. She received her Master of Divinity from New Orleans ...",
+      "link": "https://www.marymoss.org/about"
+    },
+    {
+      "title": "Isaac L. Moss, MD, CM, MASc, FRCSC - Faculty Directory",
+      "snippet": "Dr. Moss is a fellowship trained spine surgeon and assistant professor in the Department of Orthopedic Surgery and the Comprehensive Spine Center at the ...",
+      "link": "https://facultydirectory.uchc.edu/profile?profileId=7348"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

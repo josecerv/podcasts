@@ -1,0 +1,26 @@
+{
+  "guest_name": "Dodger",
+  "searched_at": "2025-07-10T16:00:35.675474",
+  "search_results": [
+    {
+      "title": "Jim Gilliam: The Forgotten Dodger",
+      "snippet": "His career as a player and a coach with the Dodger franchise spanned three decades. He often entered spring training without a permanent position in the lineup ...",
+      "link": "https://www.augustpublications.com/products/jim-gilliam-the-forgotten-dodger"
+    },
+    {
+      "title": "Jim Gilliam: The Forgotten Dodger",
+      "snippet": "In the meticulously researched and elegantly written Jim Gilliam: The Forgotten Dodger, Gilliam's life story and its important place in both MLB and Dodgers ...",
+      "link": "https://www.amazon.com/Jim-Gilliam-Forgotten-Stephen-Dittmore/dp/1938532821"
+    },
+    {
+      "title": "Once a Bum, Always a Dodger by Don Drysdale | Goodreads",
+      "snippet": "A great autobiography of one of the Dodger's greatest pitchers. Full of great baseball stories. While he had a writer help him with this one, his voice rings ...",
+      "link": "https://www.goodreads.com/book/show/2005877.Once_a_Bum_Always_a_Dodger"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

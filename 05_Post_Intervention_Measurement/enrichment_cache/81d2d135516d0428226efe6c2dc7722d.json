@@ -1,0 +1,26 @@
+{
+  "guest_name": "The A Word",
+  "searched_at": "2025-07-10T16:00:08.767674",
+  "search_results": [
+    {
+      "title": "The A Word",
+      "snippet": "The A Word is a British television drama series, based on the Israeli series Yellow Peppers. The series follows a young boy and how his family cope",
+      "link": "https://en.wikipedia.org/wiki/The_A_Word"
+    },
+    {
+      "title": "The A-Word: 9798306039510: Murray, Alyssa: Books",
+      "snippet": "Amazon.com: The A-Word: 9798306039510: Murray, Alyssa: Books. ... author created & those who haven't experienced it, will get a new view of life & how ...",
+      "link": "https://www.amazon.com/Word-Alyssa-Murray/dp/B0DTPCG8NH"
+    },
+    {
+      "title": "The \"A\" Word",
+      "snippet": "The \"A\" Word; The Blood Bound Series; Short Stories \u00b7 Blog \u00b7 Events \u00b7 Blood Coven \u00b7 Ashen Heart \u00b7 Song of the Sea \u00b7 Blood Queen \u00b7 Trigger Warnings. The \"A\" Word",
+      "link": "https://www.sabrinavoermanauthor.ca/the-a-word.html"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

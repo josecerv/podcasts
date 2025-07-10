@@ -1,0 +1,26 @@
+{
+  "guest_name": "Taylor",
+  "searched_at": "2025-07-10T15:08:20.237465",
+  "search_results": [
+    {
+      "title": "Alan Taylor (historian)",
+      "snippet": "Alan Shaw Taylor (born June 17, 1955) is an American historian and scholar who, most recently, was the Thomas Jefferson Memorial Foundation Professor of History",
+      "link": "https://en.wikipedia.org/wiki/Alan_Taylor_(historian)"
+    },
+    {
+      "title": "Daniel Taylor",
+      "snippet": "Daniel Taylor calls himself a Christian humanist with a fondness for the life of the mind, spiritual pilgrimage, and salty snacks.",
+      "link": "https://www.wordtaylor.com/"
+    },
+    {
+      "title": "About",
+      "snippet": "Dr. Taylor Byas, Ph.D. is a Black poet and essayist. Originally from Chicago, she moved to Alabama for six years, where she received both her Bachelor's degree ...",
+      "link": "https://www.taylorbyas.com/about"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

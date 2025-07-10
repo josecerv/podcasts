@@ -1,0 +1,26 @@
+{
+  "guest_name": "Farmer Greg",
+  "searched_at": "2025-07-10T15:53:32.657682",
+  "search_results": [
+    {
+      "title": "Scheduling Farmer Greg as a Keynote Speaker",
+      "snippet": "Farmer Greg is ready and willing to help you in your events to empower and educate your audience. He is ready to speak on topics such as > The Importance of ...",
+      "link": "https://www.urbanfarm.org/keynote/"
+    },
+    {
+      "title": "Farmer Greg - Coopersville - Blackbird Farms",
+      "snippet": "Read all of the posts by Farmer Greg on Blackbird Farms. ... Author: Farmer Greg \u00b7 March 13, 2025 by Farmer Greg \u00b7 Roll with the ...",
+      "link": "https://blackbirdfarms.net/author/blackbirdfarmer/"
+    },
+    {
+      "title": "The Urban Farm",
+      "snippet": "with Bill McDorman and Farmer Greg Peterson FREE CLASSES TO GET YOUR SEED SAVING QUESTIONS ANSWERED. Usually the Third Tuesday each month, starting at 5pm ...",
+      "link": "https://www.urbanfarm.org/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

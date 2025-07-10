@@ -1,0 +1,26 @@
+{
+  "guest_name": "Luigi Mangione",
+  "searched_at": "2025-07-10T16:09:01.299835",
+  "search_results": [
+    {
+      "title": "Luigi Mangione",
+      "snippet": "Luigi Nicholas Mangione is an American man accused of killing Brian Thompson, the CEO of UnitedHealthcare. Luigi Mangione. Headshot of Luigi Mangione in a ...",
+      "link": "https://en.wikipedia.org/wiki/Luigi_Mangione"
+    },
+    {
+      "title": "Who is Luigi Mangione, CEO shooting suspect?",
+      "snippet": "Who is Luigi Mangione, CEO shooting suspect? ; Instagram ; PA Department of Corrections. Police released this mugshot of Mr Mangione after he was ...",
+      "link": "https://www.bbc.com/news/articles/cp9nxee2r0do"
+    },
+    {
+      "title": "What we know about Luigi Mangione, suspect charged in ...",
+      "snippet": "Luigi Mangione, who is accused of murder in the deadly shooting of UnitedHealthcare CEO Brian Thompson. Mangione is in federal custody in New York City.",
+      "link": "https://www.cbsnews.com/news/luigi-mangione-healthcare-ceo-shooting-what-we-know/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Eri",
+  "searched_at": "2025-07-10T15:40:00.742629",
+  "search_results": [
+    {
+      "title": "Eri Hotta",
+      "snippet": "Eri Hotta is an author and academic. A native of Japan, Hotta taught at Oxford University from 2001 to 2005. She is the author of Pan-Asianism and Japan's War.",
+      "link": "https://carnegiecouncil.org/people/eri-hotta"
+    },
+    {
+      "title": "Eri Saikawa",
+      "snippet": "Eri Saikawa is a professor in the Department of Environmental Sciences at, Emory University. Her work is primarily based on interdisciplinary environmental ...",
+      "link": "https://en.wikipedia.org/wiki/Eri_Saikawa"
+    },
+    {
+      "title": "Speaking",
+      "snippet": "Eri Bertsou is a voice in the world of political science and democracy. As an Assistant Professor at the University of St. Gallen, Switzerland, Eri's expertise ...",
+      "link": "https://eribertsou.com/speaking/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Dr. Aliabadi",
+  "searched_at": "2025-07-10T15:30:48.756781",
+  "search_results": [
+    {
+      "title": "Dr. Aliabadi shares her personal journey in recent article",
+      "snippet": "Born and raised in an extremely educated and loving family in Tehran, Iran things took a frightening turn when Dr. Aliabadi turned 7 and she was thrust into the ...",
+      "link": "https://www.draliabadi.com/womens-health-blog/dr-aliabadi-shares-her-personal-journey/"
+    },
+    {
+      "title": "Roozbeh Aliabadi | Stanford Medicine",
+      "snippet": "Dr. Aliabadi earned a Ph.D. from Robert Morris University, focusing on AI interventions in education, a Master's degree in International Political Economy, and ...",
+      "link": "https://med.stanford.edu/profiles/roozbeh-aliabadi"
+    },
+    {
+      "title": "Top Los Angeles Gynecologist & Surgeon Dr. Thais Aliabadi",
+      "snippet": "Dr. Aliabadi has been a practicing OB-GYN in Los Angeles since 2002. She is the official gynecologist for many royal families and \u201ccelebrities.\u201d",
+      "link": "https://www.draliabadi.com/about-dr-aliabadi-los-angeles-obgyn-gynecologist-surgeon/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

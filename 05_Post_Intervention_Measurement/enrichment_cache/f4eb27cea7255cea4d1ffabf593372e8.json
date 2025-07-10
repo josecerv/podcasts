@@ -1,0 +1,26 @@
+{
+  "guest_name": "Johnny",
+  "searched_at": "2025-07-10T15:32:07.483870",
+  "search_results": [
+    {
+      "title": "Johnny Wimbrey | Motivational Speaker",
+      "snippet": "Dr. Johnny Wimbrey is a multiple #1 best selling author, speaker, trainer, and motivator. Dr. Wimbrey has empowered hundreds-of-thousands from stage.",
+      "link": "https://www.executivespeakers.com/speaker/johnny-wimbrey"
+    },
+    {
+      "title": "Johnny Crowder - Keynote Speaker - Mental Health ...",
+      "snippet": "Johnny has a way of taking complex psychological principles and breaking them down into bite-sized pieces that anyone can understand.",
+      "link": "https://johnnycrowder.com/"
+    },
+    {
+      "title": "Johnny Quinn | Official Website :: Keynote Speaker & ...",
+      "snippet": "Johnny Quinn is a keynote speaker and U.S. Olympian. He is also a former pro athlete in the NFL and CFL. Johnny helps you and your team think bigger.",
+      "link": "https://www.johnnyquinnusa.com/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

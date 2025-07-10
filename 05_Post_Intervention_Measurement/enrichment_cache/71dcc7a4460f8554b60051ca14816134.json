@@ -1,0 +1,26 @@
+{
+  "guest_name": "Michael Hicks",
+  "searched_at": "2025-07-10T16:37:05.703570",
+  "search_results": [
+    {
+      "title": "Michael J. Hicks",
+      "snippet": "... Professor of Economics at Ball State University. Michael J. Hicks ... Mark Burton and Michael Hicks developed models of flood damages from data ...",
+      "link": "https://en.wikipedia.org/wiki/Michael_J._Hicks"
+    },
+    {
+      "title": "Michael Hicks",
+      "snippet": "Dr. Michael Hicks, professor of music theory at Brigham Young University, earned his Doctor of Musical Arts degree from the University of Illinois at Urbana- ...",
+      "link": "https://byumusicgroup.byu.edu/michael-hicks/"
+    },
+    {
+      "title": "Michael J. Hicks, Mike Hicks",
+      "snippet": "Michael Hicks. George and Frances Ball Distinguished Professor of Economics and Director of the Center for Business and Economic Research.",
+      "link": "https://www.bsu.edu/academics/centersandinstitutes/cber/about-us/staff/hicksmichael"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

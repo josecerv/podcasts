@@ -1,0 +1,26 @@
+{
+  "guest_name": "Shaila",
+  "searched_at": "2025-07-10T17:12:50.926277",
+  "search_results": [
+    {
+      "title": "Shaila Catherine",
+      "snippet": "Shaila Catherine is an American Buddhist meditation teacher and author in the Therav\u0101din tradition, known for her expertise in insight meditation.",
+      "link": "https://en.wikipedia.org/wiki/Shaila_Catherine"
+    },
+    {
+      "title": "Shaila Catherine\u2014Founder and Principal Teacher",
+      "snippet": "Shaila studied with several Asian masters in India, Thailand, and Nepal, including H. W. L. Poonja, Nyoshul Khen Rinpoche, and Tulku Urgyen ...",
+      "link": "https://www.imsb.org/about-us/founder-and-principal-teacher-shaila-catherine/"
+    },
+    {
+      "title": "About - Buddhist Author, Shaila Catherine",
+      "snippet": "Buddhist author of three books on meditation, Shaila Catherine is a renowned dhamma and meditation teacher and retreat leader.",
+      "link": "https://shailacatherine.com/about-buddhist-author-shaila-catherine/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

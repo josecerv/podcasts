@@ -1,0 +1,26 @@
+{
+  "guest_name": "Boone",
+  "searched_at": "2025-07-10T17:20:40.539702",
+  "search_results": [
+    {
+      "title": "Boone: A Biography (Shannon Ravenel Books (Paperback))",
+      "snippet": "The story of Daniel Boone is the story of America\u2014its ideals, its promise, its romance, and its destiny. Bestselling, critically acclaimed author Robert ...",
+      "link": "https://www.amazon.com/Boone-Biography-Shannon-Ravenel-Paperback/dp/1565126157"
+    },
+    {
+      "title": "Dan Boone",
+      "snippet": "Dan Boone is president of Trevecca Nazarene University. He earned MDiv and DMin degrees from Nazarene Theological Seminary and McCormick Theological Seminary.",
+      "link": "https://www.thefoundrypublishing.com/authors/dan-boone.html"
+    },
+    {
+      "title": "Boone: A Biography - Robert Morgan",
+      "snippet": "A beautifully written biography of American scout Daniel Boone as a frontier Moses, leading his people over the western mountains to the rich promised lands of ...",
+      "link": "https://www.robert-morgan.com/works/non-fiction/boone/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

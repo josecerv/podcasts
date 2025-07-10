@@ -1,0 +1,26 @@
+{
+  "guest_name": "Scowl",
+  "searched_at": "2025-07-10T17:36:51.488432",
+  "search_results": [
+    {
+      "title": "Scowl (band)",
+      "snippet": "Scowl is an American rock band from Santa Cruz, California, formed in 2019. The band consists of singer Kat Moss, guitarists Malachi Greene and Mikey ...",
+      "link": "https://en.wikipedia.org/wiki/Scowl_(band)"
+    },
+    {
+      "title": "Scowl | Interview | \"Sometimes it's not easy to write about ...",
+      "snippet": "Santa Cruz, CA-based band Scowl have been a non-stop force to be reckoned with. The ten songs on the album are a masterclass in how to write heartfelt punk and ...",
+      "link": "https://www.psychedelicbabymag.com/2022/12/scowl-interview.html"
+    },
+    {
+      "title": "Scowl: The Bonaparte Interviews: Lages, Mark - Books",
+      "snippet": "Scowl is a rock and roll superstar guitarist. We learn his life story through interviews he does with one particular reporter Ralph Bonaparte. I found this ...",
+      "link": "https://www.amazon.com/Scowl-Bonaparte-Interviews-Mark-Lages/dp/1728308828"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

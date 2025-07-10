@@ -1,0 +1,26 @@
+{
+  "guest_name": "R. Marx",
+  "searched_at": "2025-07-10T17:07:06.422517",
+  "search_results": [
+    {
+      "title": "Claude R. Marx",
+      "snippet": "Claude R. Marx is an award-winning journalist who writes extensively about politics, policy, and history. He is currently writing a biography of William Howard ...",
+      "link": "https://commonreader.wustl.edu/authors/claude-r-marx/"
+    },
+    {
+      "title": "Rosca Marx: books, biography, latest update",
+      "snippet": "R. Marx is an author that tends to write unconventional works of fiction that aim for challenging those who read them.",
+      "link": "https://www.amazon.com/Rosca-Marx/e/B0074JJLT6%3Fref=dbs_a_mng_rwt_scns_share"
+    },
+    {
+      "title": "Claude R. Marx - St. Louis - Gephardt Institute",
+      "snippet": "Claude R. Marx, an award-winning journalist, is a reporter for MLex and FTC Watch, both online publications of LexisNexis, where he writes about regulatory ...",
+      "link": "https://gephardtinstitute.wustl.edu/people/mr-claude-r-marx/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

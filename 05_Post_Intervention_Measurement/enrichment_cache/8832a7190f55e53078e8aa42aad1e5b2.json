@@ -1,0 +1,26 @@
+{
+  "guest_name": "politician",
+  "searched_at": "2025-07-10T16:41:00.773674",
+  "search_results": [
+    {
+      "title": "Dick Simpson (politician)",
+      "snippet": "Dick Weldon Simpson (born 1940) is an American professor, author, politician, activist, political consultant, and filmmaker who formerly served as a Chicago ...",
+      "link": "https://en.wikipedia.org/wiki/Dick_Simpson_(politician)"
+    },
+    {
+      "title": "Newt Gingrich",
+      "snippet": "Newton Leroy Gingrich is an American politician and author who served as the 50th speaker of the United States House of Representatives from 1995 to 1999.",
+      "link": "https://en.wikipedia.org/wiki/Newt_Gingrich"
+    },
+    {
+      "title": "Professor-Politician",
+      "snippet": "The Biography of Alabama Congressman Glen Browder ... Professor-Politician challenges common depictions of politics as a constant struggle of good-versus-evil and ...",
+      "link": "https://ugapress.org/9781603062527/professor-politician/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

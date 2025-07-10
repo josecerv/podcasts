@@ -1,0 +1,26 @@
+{
+  "guest_name": "Joshua",
+  "searched_at": "2025-07-10T15:12:55.601303",
+  "search_results": [
+    {
+      "title": "Dr. Joshua Bennett \u2014 Author. Professor. Artist.",
+      "snippet": "Dr. Joshua Bennett is the author of The Sobbing School (Penguin, 2016)\u2014which was a National Poetry Series selection and a finalist for an NAACP Image Award.",
+      "link": "https://www.drjoshuabennett.com/"
+    },
+    {
+      "title": "Dr. Joshua Bennett \u2014 About",
+      "snippet": "Joshua is a Professor of Literature and Distinguished Chair of the Humanities at MIT. He lives in Massachusetts with his family. Download CV.",
+      "link": "https://www.drjoshuabennett.com/about"
+    },
+    {
+      "title": "Joshua Bennett | LIT@MIT",
+      "snippet": "Joshua Bennett is the author of five books of poetry, criticism, and narrative nonfiction: The Sobbing School (Penguin, 2016)\u2014winner of the National Poetry ...",
+      "link": "https://lit.mit.edu/joshua-bennett/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

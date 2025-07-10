@@ -1,0 +1,26 @@
+{
+  "guest_name": "Monkey Man",
+  "searched_at": "2025-07-10T15:52:32.613462",
+  "search_results": [
+    {
+      "title": "Monkey Man (film)",
+      "snippet": "Monkey Man is a 2024 action thriller film directed and produced by Dev Patel in his directorial debut, who also co-wrote the screenplay with Paul Angunawela ...",
+      "link": "https://en.wikipedia.org/wiki/Monkey_Man_(film)"
+    },
+    {
+      "title": "Monkey Man: Brewer, Steve",
+      "snippet": "\"Monkey Man\" is Steve Brewer's seventh book featuring the lovable galoot of a PI, and it's another winner. This time out, Bubba finds himself up to his ankles ...",
+      "link": "https://www.amazon.com/Monkey-Man-Steve-Brewer/dp/1890768731"
+    },
+    {
+      "title": "Monkey Man - Red Circle",
+      "snippet": "In Monkey Man, Takuji Ichikawa, one of Japan's most imaginative, bestselling and unusual authors, pointedly challenges readers to consider how we can change the ...",
+      "link": "https://www.redcircleauthors.com/our-books/monkey-man/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Fatima",
+  "searched_at": "2025-07-10T15:16:12.140775",
+  "search_results": [
+    {
+      "title": "Fatima Shaik",
+      "snippet": "Fatima Shaik is an Indian-American and African-American author and former journalist. Her work explores contemporary social issues, especially those related ...",
+      "link": "https://en.wikipedia.org/wiki/Fatima_Shaik"
+    },
+    {
+      "title": "Fatima Shaik, MA",
+      "snippet": "A member of the Saint Peter's faculty since 1991, Fatima Shaik designed the curriculum and directed the Communication program and major for its first decade.",
+      "link": "https://www.saintpeters.edu/academics/faculty/members/fatima-shaik/"
+    },
+    {
+      "title": "Fatima Farheen Mirza",
+      "snippet": "Fatima Farheen Mirza Ahmed (n\u00e9e Mirza; born April 10, 1991) is an American novelist best known for her novel A Place for Us (2018), which was a New York Times ...",
+      "link": "https://en.wikipedia.org/wiki/Fatima_Farheen_Mirza"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

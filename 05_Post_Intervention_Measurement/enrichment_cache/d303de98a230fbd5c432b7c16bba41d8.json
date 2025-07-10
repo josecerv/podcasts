@@ -1,0 +1,26 @@
+{
+  "guest_name": "Alex Suscha",
+  "searched_at": "2025-07-10T16:30:02.458679",
+  "search_results": [
+    {
+      "title": "UWSP student finds support to start AI business",
+      "snippet": "Alex Suscha, a business administration major, is making his entrepreneurial dreams come true with help from the Sentry School of Business and Economics.",
+      "link": "https://www.uwsp.edu/news/alex-suscha-sourcer-ai/"
+    },
+    {
+      "title": "UW-Stevens Point student creates fact-checking AI business",
+      "snippet": "\u2014 Alex Suscha is the CEO and founder of Sourcer AI, a subscription-based, fact-checking tool. It's something he created as a sophomore at ...",
+      "link": "https://spectrumnews1.com/wi/milwaukee/news/2025/01/07/student-ai-business"
+    },
+    {
+      "title": "UW-Stevens - Student entrepreneur Alex Suscha was a featured ...",
+      "snippet": "Student entrepreneur Alex Suscha was a featured speaker at Thursday's AI Innovations at Work Conference, hosted by the University of Wisconsin- Stevens Point ...",
+      "link": "https://www.facebook.com/uwspsentryschool/photos/student-entrepreneur-alex-suscha-was-a-featured-speaker-at-thursdays-ai-innovati/1181764717290095/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Denis",
+  "searched_at": "2025-07-10T17:22:56.785050",
+  "search_results": [
+    {
+      "title": "Denis Waitley",
+      "snippet": "Denis E. Waitley (born 1933), was an American motivational speaker, writer and consultant. He has been recognized as the best-selling author of the audio ...",
+      "link": "https://en.wikipedia.org/wiki/Denis_Waitley"
+    },
+    {
+      "title": "Denis Dutton",
+      "snippet": "Denis Laurence Dutton (9 February 1944 \u2013 28 December 2010) was an American philosopher of art, web entrepreneur, and media activist. He was a professor of ...",
+      "link": "https://en.wikipedia.org/wiki/Denis_Dutton"
+    },
+    {
+      "title": "Denis Wood, Biography",
+      "snippet": "Denis Wood was born in Cleveland, Ohio, to Nancy and Jasper Wood. In his elementary school years he lived with his brothers, Chris and Pete, in a federal ...",
+      "link": "https://www.deniswood.net/bio.htm"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Lindy",
+  "searched_at": "2025-07-10T15:15:15.396109",
+  "search_results": [
+    {
+      "title": "Lindy West",
+      "snippet": "Lindy is a former contributing opinion writer for the New York Times and her work has appeared in This American Life, The Guardian, Cosmopolitan, GQ, Vulture, ...",
+      "link": "https://www.lindywest.net/"
+    },
+    {
+      "title": "Book Lindy Elkins-Tanton for Speaking, Events and ...",
+      "snippet": "Biography. Lindy Elkins-Tanton is a world-renowned planetary scientist, educator and member of the National Academy of Sciences. She is the Principal ...",
+      "link": "https://www.apbspeakers.com/speaker/lindy-elkins-tanton/"
+    },
+    {
+      "title": "Lindy West",
+      "snippet": "Lindy West (born March 9, 1982) is an American writer, comedian, and activist. She is the author of the essay collections Shrill: Notes from a Loud Woman ...",
+      "link": "https://en.wikipedia.org/wiki/Lindy_West"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Last Tourist",
+  "searched_at": "2025-07-10T16:06:47.763724",
+  "search_results": [
+    {
+      "title": "Synopsis",
+      "snippet": "THE LAST TOURIST reveals the real conditions and consequences of one of the largest industries worldwide through the forgotten voices of those working in its ...",
+      "link": "https://thelasttouristfilm.com/about/"
+    },
+    {
+      "title": "The Last Tourist (2021)",
+      "snippet": "As \"The Last Tourist\" (2021 release; 100 min) opens, we are introduced to the dark side of mass tourism: overcrowded beached; trash everywhere, and oh, masses ...",
+      "link": "https://www.imdb.com/title/tt13654780/"
+    },
+    {
+      "title": "'The Last Tourist': The Documentary That Every Traveler ...",
+      "snippet": "Shining a spotlight on the impact of mass tourism on local communities, wildlife and the environment, The Last Tourist works to challenge ...",
+      "link": "https://www.forbes.com/sites/angelinavillaclarke/2023/05/26/the-last-tourist-the-documentary-that-every-traveller-should-watch/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

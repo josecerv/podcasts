@@ -1,0 +1,26 @@
+{
+  "guest_name": "Boston Marathon finishers",
+  "searched_at": "2025-07-10T17:23:47.616030",
+  "search_results": [
+    {
+      "title": "Becoming Boston Strong: One Woman's Race to Run and ...",
+      "snippet": "\u201d \u2014 Gail Kislevitz, author of Running Past Fifty \u201cFrom the nervous energy before hard workouts to the diehard spirit in earning a Boston Marathon finishers ...",
+      "link": "https://www.amazon.com/Becoming-Boston-Strong-Greatest-Marathon/dp/1510742050"
+    },
+    {
+      "title": "Alumni, Faculty Become Boston Marathon Finishers",
+      "snippet": "This year's Boston Marathon marked Bob Cargill's 16 finish. For the last 10 years, he has received a bib through his running club and has chosen ...",
+      "link": "https://www.mcphs.edu/news/successful-showing-for-mcphs-runners-at-the-boston-marathon"
+    },
+    {
+      "title": "Honoring 2025 Boston Marathon Finishers at Greater ...",
+      "snippet": "Congrats to all the Trailblazers Boston Marathon finishers. They are now officially part of the unicorn club. I tell you, there's nothing ...",
+      "link": "https://www.facebook.com/groups/GLRR1/posts/10162073959862740/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

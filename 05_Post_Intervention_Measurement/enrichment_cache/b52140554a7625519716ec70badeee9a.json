@@ -1,0 +1,26 @@
+{
+  "guest_name": "Unknown Male Mental Health Professional 3",
+  "searched_at": "2025-07-10T15:23:48.369372",
+  "search_results": [
+    {
+      "title": "Mental health professional",
+      "snippet": "A mental health professional is a health care practitioner or social and human services provider who offers services for the purpose of improving an individual ...",
+      "link": "https://en.wikipedia.org/wiki/Mental_health_professional"
+    },
+    {
+      "title": "Why more men are joining the ranks of therapists: 'We're ...",
+      "snippet": "Several factors including stigma around mental health and years of low-paid work kept men away. But men's attitude toward the profession seems to be changing.",
+      "link": "https://www.theguardian.com/wellness/2023/dec/15/finding-male-therapists-mens-mental-health"
+    },
+    {
+      "title": "Therapist Statistics And Facts: How Many Are There?",
+      "snippet": "About 70.4% of therapists are women, while about 24.7% of therapists are men. (The remaining 4.9% are practitioners of an unknown gender.) Chapter 2: Therapist ...",
+      "link": "https://www.crossrivertherapy.com/therapist-statistics"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

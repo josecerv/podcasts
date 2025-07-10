@@ -1,0 +1,26 @@
+{
+  "guest_name": "AP",
+  "searched_at": "2025-07-10T16:08:49.611994",
+  "search_results": [
+    {
+      "title": "A.P. Bio (TV Series 2018\u20132021)",
+      "snippet": "A.P. Bio: Created by Michael Patrick O'Brien. With Glenn Howerton, Lyric Lewis, Mary Sohn, Jean Villepique. A former philosophy professor who takes a job ...",
+      "link": "https://www.imdb.com/title/tt6461726/"
+    },
+    {
+      "title": "Ap Dijksterhuis",
+      "snippet": "Albert Jan \"Ap\" Dijksterhuis (born 12 November 1968, Zutphen) is a Dutch social psychologist at Radboud University Nijmegen. \u00b7 He received his Ph.D. in social ...",
+      "link": "https://en.wikipedia.org/wiki/Ap_Dijksterhuis"
+    },
+    {
+      "title": "Watch A.P. Bio",
+      "snippet": "A.P. Bio ... When a Harvard professor doesn't land his dream job, he's forced to return to his hometown and teach high school biology in this irreverent sitcom.",
+      "link": "https://www.netflix.com/title/80177453"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

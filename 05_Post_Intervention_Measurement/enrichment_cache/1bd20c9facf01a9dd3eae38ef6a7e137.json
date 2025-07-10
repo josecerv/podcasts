@@ -1,0 +1,26 @@
+{
+  "guest_name": "Schott",
+  "searched_at": "2025-07-10T17:27:50.098630",
+  "search_results": [
+    {
+      "title": "Max Schott",
+      "snippet": "Max Schott (born 12 February 1935) is a writer of stories, novels, and essays. He was raised in Southern California. He received his Bachelor's in Animal ...",
+      "link": "https://en.wikipedia.org/wiki/Max_Schott"
+    },
+    {
+      "title": "Ben Schott",
+      "snippet": "Ben Schott (born 26 May 1974) is a British writer, photographer, and author of the Schott's Miscellanies and Schott's Almanac series.",
+      "link": "https://en.wikipedia.org/wiki/Ben_Schott"
+    },
+    {
+      "title": "Margaret Schott - ACA History",
+      "snippet": "Margaret (Peggy) E. Schott has worked at Northwestern University since 2008 as the personal assistant to Professor Sir Fraser Stoddart, a Nobel Laureate in ...",
+      "link": "https://history.amercrystalassn.org/margaret-schott"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

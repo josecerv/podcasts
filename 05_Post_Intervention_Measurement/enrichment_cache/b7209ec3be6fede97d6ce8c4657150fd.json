@@ -1,0 +1,26 @@
+{
+  "guest_name": "Tyson Yunkaporta",
+  "searched_at": "2025-07-10T14:55:30.864093",
+  "search_results": [
+    {
+      "title": "Tyson Yunkaporta",
+      "snippet": "Tyson Yunkaporta is an academic, arts critic, researcher, and member of the Apalech Clan in far north Queensland. He is the author of Sand Talk.",
+      "link": "https://www.harpercollins.com/blogs/authors/tyson-yunkaporta-20202192322476"
+    },
+    {
+      "title": "Tyson Yunkaporta",
+      "snippet": "Tyson Yunkaporta is an Australian academic, author, and indigenous thinker. He is a member of the Apalech Clan from Far North Queensland.",
+      "link": "https://en.wikipedia.org/wiki/Tyson_Yunkaporta"
+    },
+    {
+      "title": "Dr. Tyson Yunkaporta - Cornell CALS",
+      "snippet": "Tyson Yunkaporta is an Aboriginal scholar, founder of the Indigenous Knowledge Systems Lab at Deakin University in Melbourne, and author of Sand Talk.",
+      "link": "https://cals.cornell.edu/american-indian-indigenous-studies/dr-tyson-yunkaporta"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

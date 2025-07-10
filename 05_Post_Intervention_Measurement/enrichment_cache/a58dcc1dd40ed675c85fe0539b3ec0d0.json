@@ -1,0 +1,26 @@
+{
+  "guest_name": "Philadelphia Eagles",
+  "searched_at": "2025-07-10T15:55:38.178956",
+  "search_results": [
+    {
+      "title": "Philadelphia Eagles",
+      "snippet": "The Philadelphia Eagles are a professional American football team based in Philadelphia. The Eagles compete in the National Football League (NFL)",
+      "link": "https://en.wikipedia.org/wiki/Philadelphia_Eagles"
+    },
+    {
+      "title": "The Philadelphia Eagles, Pennsylvania: Brian Michael",
+      "snippet": "The history of the Philadelphia Eagles spans multiple championships, many more near misses, and a cast of characters both on and off the field.",
+      "link": "https://www.arcadiapublishing.com/products/9781467107112?srsltid=AfmBOoqqSBXcc8ilORdWjZOrT0ieMzb1i6-cqFP9cffmuUvw8vm2lzKq"
+    },
+    {
+      "title": "Birds of Pray: The Story of the Philadelphia Eagles' Faith ...",
+      "snippet": "Great look into the magical year with the Philadelphia Eagles Super Bowl Champions and their Faith. I believe Rob Maaddi is one of the best faith based authors ...",
+      "link": "https://www.amazon.com/Birds-Pray-Philadelphia-Brotherhood-Victory/dp/0310355850"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

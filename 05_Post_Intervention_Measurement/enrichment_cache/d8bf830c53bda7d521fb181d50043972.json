@@ -1,0 +1,26 @@
+{
+  "guest_name": "Afo",
+  "searched_at": "2025-07-10T16:00:04.477404",
+  "search_results": [
+    {
+      "title": "Jos\u00e9 A.F.O. Correia",
+      "snippet": "Jos\u00e9 A.F.O. Correia (born 18 July 1984), also known as Jos\u00e9 Ant\u00f3nio Correia, is a Portuguese researcher, professor and engineer.",
+      "link": "https://en.wikipedia.org/wiki/Jos%C3%A9_A.F.O._Correia"
+    },
+    {
+      "title": "Ama Afo Blay",
+      "snippet": "Ama Afo Blay (born 1943 or 1944) is a Ghanaian educationist. She is a former Director General of the Ghana Education Service. She was appointed into office ...",
+      "link": "https://en.wikipedia.org/wiki/Ama_Afo_Blay"
+    },
+    {
+      "title": "AFO Records",
+      "snippet": "AFO founder Harold Battiste, Jr., who initially aspired to be a jazz musician, but who instead became the single most influential force in the development of ...",
+      "link": "https://www.afofoundation.org/history/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

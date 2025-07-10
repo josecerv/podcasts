@@ -1,0 +1,26 @@
+{
+  "guest_name": "Rocky",
+  "searched_at": "2025-07-10T16:01:05.852852",
+  "search_results": [
+    {
+      "title": "Rocky Callen",
+      "snippet": "Rocky Callen is a critically acclaimed author, speaker, and writing consultant. She has hosted writing workshops and retreats from Washington, DC to Bali.",
+      "link": "https://rockycallen.com/"
+    },
+    {
+      "title": "Rocky Garza",
+      "snippet": "Rocky Garza is a leadership coach, keynote speaker, and author helping high-achieving leaders gain clarity, confidence, and purpose.",
+      "link": "https://www.rockygarza.com/"
+    },
+    {
+      "title": "Rocky Garza Bio | Book for Speaking Engagements",
+      "snippet": "Rocky's work extends beyond motivational speeches. His commitment is to challenge the lies, encourage self-belief, and create spaces for genuine understanding.",
+      "link": "https://www.executivespeakers.com/speaker/rocky-garza"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

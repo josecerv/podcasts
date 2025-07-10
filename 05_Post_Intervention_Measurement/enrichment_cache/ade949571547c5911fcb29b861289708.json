@@ -1,0 +1,26 @@
+{
+  "guest_name": "Shania",
+  "searched_at": "2025-07-10T17:06:38.317182",
+  "search_results": [
+    {
+      "title": "Shania Twain",
+      "snippet": "Eilleen Regina \"Shania\" Twain OC is a Canadian singer-songwriter. She has sold over 100 million records, making her one of the best-selling music artists of ...",
+      "link": "https://en.wikipedia.org/wiki/Shania_Twain"
+    },
+    {
+      "title": "Shania Twain - Songs, Age & Albums",
+      "snippet": "Singer-songwriter Shania Twain found success by combining country and pop music. She became an international star following the release of her 1997 album 'Come ...",
+      "link": "https://www.biography.com/musicians/shania-twain"
+    },
+    {
+      "title": "Shania Twain: The Biography: Eggar, Robin",
+      "snippet": "Shania Twain has risen from humble beginnings in a dirt-poor mining town in Northern Canada to amazing heights of superstardom. At the age of eight her mother ...",
+      "link": "https://www.amazon.com/Shania-Twain-Biography-Robin-Eggar/dp/074349735X"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

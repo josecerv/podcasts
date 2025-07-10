@@ -1,0 +1,26 @@
+{
+  "guest_name": "Monty Bartlett",
+  "searched_at": "2025-07-10T15:15:12.513452",
+  "search_results": [
+    {
+      "title": "Leaders Gather for SOAR Conference",
+      "snippet": "Why We Need a National Universal Pharmacare Program! My story, by Monty Bartlett, SOAR Chapter 3-14. I would like to share with you my ...",
+      "link": "https://usw.org/wp-content/uploads/2024/10/SOAR-Fall22web_2.pdf"
+    },
+    {
+      "title": "The Stinking Pause Podcast",
+      "snippet": "He is joined by the resourceful Monty Bartlett, the tenacious Jock McGrath, the initially reserved George Stevens, and the steadfastly resilient West Indian ...",
+      "link": "https://podcasts.apple.com/mu/podcast/the-stinking-pause-podcast/id679304970"
+    },
+    {
+      "title": "The Hill (1965)",
+      "snippet": "Into his fiefdom come five new prisoners including coward Joe Roberts (Sean Connery), spiv Monty Bartlett (Roy Kinnear), African American ...",
+      "link": "https://themagnificent60s.com/2021/02/12/the-hill-1965/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": "Black",
+  "gender_confidence": 0.8,
+  "race_confidence": 0.7,
+  "additional_context": {}
+}

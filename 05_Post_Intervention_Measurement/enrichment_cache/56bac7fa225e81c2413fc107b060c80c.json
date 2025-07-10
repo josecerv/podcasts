@@ -1,0 +1,26 @@
+{
+  "guest_name": "Shekinah",
+  "searched_at": "2025-07-10T16:01:35.596071",
+  "search_results": [
+    {
+      "title": "Speaker: Shekinah Elmore",
+      "snippet": "About Shekinah. Dedicated to pursuing equity and empathy in oncology care, Shekinah Elmore is a graduating resident in the Harvard Radiation Oncology Program.",
+      "link": "https://www.tedmed.com/speakers/show?id=772421"
+    },
+    {
+      "title": "Shekinah A. Fashaw-Walters, PhD",
+      "snippet": "Shekinah A. Fashaw-Walters, PhD, is an Assistant Professor in Medical Ethics & Health Policy at the Perelman School of Medicine at the University of ...",
+      "link": "https://medicalethicshealthpolicy.med.upenn.edu/faculty-all/shekinah-a-fashaw-walters"
+    },
+    {
+      "title": "Shekinah Elmore | Speaker",
+      "snippet": "Shekinah Elmore is a graduating resident in the Harvard Radiation Oncology Program. She has written about her personal experience treading the line between ...",
+      "link": "https://www.ted.com/speakers/shekinah_elmore"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

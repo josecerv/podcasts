@@ -1,0 +1,26 @@
+{
+  "guest_name": "Sip",
+  "searched_at": "2025-07-10T16:44:45.115495",
+  "search_results": [
+    {
+      "title": "Jonathan Rosenberg (SIP author)",
+      "snippet": "a technologist noted for his work in IP communications. Network World has referred to him as a pioneer in the development of the SIP protocol.",
+      "link": "https://en.wikipedia.org/wiki/Jonathan_Rosenberg_(SIP_author)"
+    },
+    {
+      "title": "Biography of an SIP",
+      "snippet": "We generally start SIP for our long-term goals. The goal can be child education, child marriage, or retirement. But the road to this journey may have many ...",
+      "link": "https://mf.whiteoakamc.com/learning-edge/insight/biography-of-an-SIP"
+    },
+    {
+      "title": "Network Speaker | SIP Speaker",
+      "snippet": "ZYCOO SC10, SC15 & SW15 are compact high-performance SIP enabled speakers which can be used for SIP paging, notification/tone broadcasting and streamed high ...",
+      "link": "https://www.zycoo.com/sip-speaker/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

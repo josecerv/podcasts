@@ -1,0 +1,26 @@
+{
+  "guest_name": "Lomax",
+  "searched_at": "2025-07-10T14:50:20.009134",
+  "search_results": [
+    {
+      "title": "About Alan",
+      "snippet": "Musicologist, writer, and producer Alan Lomax (b. Austin, Texas, 1915) spent over six decades working to promote knowledge and appreciation of the world's folk ...",
+      "link": "https://www.culturalequity.org/alan-lomax/about-alan"
+    },
+    {
+      "title": "Alan Lomax",
+      "snippet": "He was a musician, folklorist, archivist, writer, scholar, political activist, oral historian, and filmmaker. Lomax produced recordings, concerts, and radio ...",
+      "link": "https://en.wikipedia.org/wiki/Alan_Lomax"
+    },
+    {
+      "title": "The Life and Times of Louis Lomax",
+      "snippet": "Louis Lomax's life was a study in contradiction. In this biography, Thomas Aiello traces the complicated and fascinating arc of Lomax's life and career.",
+      "link": "https://www.dukeupress.edu/the-life-and-times-of-louis-lomax"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Unnamed Client",
+  "searched_at": "2025-07-10T17:13:54.247578",
+  "search_results": [
+    {
+      "title": "By Blood \u2013 Ellen Ullman | The Writes of Womxn",
+      "snippet": "We follow our unnamed narrator as he shows us parts of his identity and particularly as he plays auditory voyeur with the unnamed client.",
+      "link": "https://thewritesofwoman.wordpress.com/2014/02/24/by-blood-ellen-ullman/"
+    },
+    {
+      "title": "Lewis Explores the Mind of Evil in The Screwtape Letters",
+      "snippet": "The unnamed \"client\" at the heart of the letters wrestles with faith amidst personal challenges, embodying the complexities of human experience. Lewis's ...",
+      "link": "https://www.ebsco.com/research-starters/literature-and-writing/lewis-explores-mind-evil-screwtape-letters"
+    },
+    {
+      "title": "Excess Identities",
+      "snippet": "Henry's job, on behalf of an unnamed client, is to infiltrate the organization of John Kwang, a city councilman from Queens whose ...",
+      "link": "https://www.nytimes.com/1995/04/09/books/excess-identities.html"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

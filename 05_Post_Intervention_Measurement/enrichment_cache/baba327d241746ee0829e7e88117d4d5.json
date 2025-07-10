@@ -1,0 +1,26 @@
+{
+  "guest_name": "Jay",
+  "searched_at": "2025-07-10T14:55:38.782443",
+  "search_results": [
+    {
+      "title": "About Jay",
+      "snippet": "Jay Payleitner spent a decade in major market advertising. Learning how people think and doing some fun work. But God called him into Christian media.",
+      "link": "https://jaypayleitner.com/about/"
+    },
+    {
+      "title": "Professor Jay",
+      "snippet": "Joseph Haule (born December 29, 1975), popularly known by his stage name Professor Jay, is a Tanzanian hip hop recording artist, politician and former ...",
+      "link": "https://en.wikipedia.org/wiki/Professor_Jay"
+    },
+    {
+      "title": "Jay Baer \u2014 About",
+      "snippet": "Jay Baer grows businesses by discovering how you can out-perform your competitors. Author of 7 business books, founder of 5 multi-million dollar companies.",
+      "link": "https://www.jaybaer.com/about"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

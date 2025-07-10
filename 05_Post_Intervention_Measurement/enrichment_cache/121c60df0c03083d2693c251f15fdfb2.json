@@ -1,0 +1,26 @@
+{
+  "guest_name": "Cassandra",
+  "searched_at": "2025-07-10T17:01:04.439736",
+  "search_results": [
+    {
+      "title": "Cassandra Worthy | Speaker, Author & Consultant",
+      "snippet": "Dynamic corporate speaker and consultant, Cassandra Worthy, introduces a growth mindset practice that helps readers to view change and the emotions surrounding ...",
+      "link": "https://cassandraworthy.com/"
+    },
+    {
+      "title": "Cassandra Good | Historian of American politics, gender ...",
+      "snippet": "Cassandra Good is a historian and writer who serves as Associate Professor of History at Marymount University. She received her PhD in history from the ...",
+      "link": "https://cassandragoodhistorian.com/"
+    },
+    {
+      "title": "Cassandra Newby-Alexander | Speaking Fee",
+      "snippet": "Award-winning historian and author, Cassandra Newby-Alexander was born on December 30, 1957 in Great Lakes, Illinois. She attended Maury High School in ...",
+      "link": "https://www.allamericanspeakers.com/speakers/423108/Cassandra-Newby-Alexander"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

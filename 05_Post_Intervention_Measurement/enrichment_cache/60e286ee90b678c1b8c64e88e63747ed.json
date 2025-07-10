@@ -1,0 +1,26 @@
+{
+  "guest_name": "Say Anything",
+  "searched_at": "2025-07-10T15:20:48.147050",
+  "search_results": [
+    {
+      "title": "Say Anything...",
+      "snippet": "Say Anything is a 1989 American teen romantic comedy drama film written and directed by Cameron Crowe (in his feature directorial debut).",
+      "link": "https://en.wikipedia.org/wiki/Say_Anything..."
+    },
+    {
+      "title": "Say Anything (1989)",
+      "snippet": "Say Anything: Directed by Cameron Crowe. With John Cusack, Ione Skye, John Mahoney, Lili Taylor. A noble underachiever and a beautiful valedictorian fall in ...",
+      "link": "https://www.imdb.com/title/tt0098258/"
+    },
+    {
+      "title": "Say Anything (band)",
+      "snippet": "Say Anything is an American rock band from Los Angeles, California. The band was formed in 2000 by Max Bemis and his friends, and within two years, they had ...",
+      "link": "https://en.wikipedia.org/wiki/Say_Anything_(band)"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

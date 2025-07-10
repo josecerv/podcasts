@@ -1,0 +1,26 @@
+{
+  "guest_name": "Ella",
+  "searched_at": "2025-07-10T17:21:02.422707",
+  "search_results": [
+    {
+      "title": "Ella E. Clark",
+      "snippet": "Ella Elizabeth Clark (January 8, 1896 \u2013 July 9, 1984) was an American educator, writer, and Professor Emerita of English. Although Clark was not a trained ...",
+      "link": "https://en.wikipedia.org/wiki/Ella_E._Clark"
+    },
+    {
+      "title": "About Ella | Ellas Books",
+      "snippet": "Ella Schwartz writes fiction and nonfiction books for young readers. She is always asking questions and trying to learn new things.",
+      "link": "https://www.ellasbooks.com/about-ella/"
+    },
+    {
+      "title": "About George Ella Lyon, writer and teacher",
+      "snippet": "George Ella Lyon, Writer and Teacher. Side Navigation Sign up for E-news. My Story. George Ella Lyon photo. Growing up in the mountains of Kentucky, I loved",
+      "link": "http://www.georgeellalyon.com/about.html"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

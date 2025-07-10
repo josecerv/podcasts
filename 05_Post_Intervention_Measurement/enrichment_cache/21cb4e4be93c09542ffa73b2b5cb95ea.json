@@ -1,0 +1,26 @@
+{
+  "guest_name": "Dana",
+  "searched_at": "2025-07-10T17:15:11.349087",
+  "search_results": [
+    {
+      "title": "Dana Johnson",
+      "snippet": "Dana Johnson (born 1967) is an American writer and Associate Professor at the University of Southern California. Honors include the Flannery O'Connor Award ...",
+      "link": "https://en.wikipedia.org/wiki/Dana_Johnson"
+    },
+    {
+      "title": "About \u2014 Dana Mashoian Walrath",
+      "snippet": "Dana Mashoian Walrath practices a border crossing blend of creative writing, comics, art, and anthropology. Her award-winning works include Aliceheimer's, a ...",
+      "link": "https://www.danawalrath.com/about"
+    },
+    {
+      "title": "Dana Frank - Historian, Professor, Writer | UC Santa Cruz",
+      "snippet": "Discover Dana Frank, a Historian, Research Professor, and Professor Emerita at the University of California Santa Cruz.",
+      "link": "https://danafrank.sites.ucsc.edu/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

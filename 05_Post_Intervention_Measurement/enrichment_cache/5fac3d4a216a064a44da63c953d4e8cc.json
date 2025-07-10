@@ -1,0 +1,26 @@
+{
+  "guest_name": "Jody",
+  "searched_at": "2025-07-10T17:00:07.963675",
+  "search_results": [
+    {
+      "title": "Dr. Jody Carrington bestselling author, speaker and ...",
+      "snippet": "Dr. Jody is a clinical psychologist, author and sought-after global speaker renowned for her ability to help humans reconnect to their good.",
+      "link": "https://www.drjodycarrington.com/"
+    },
+    {
+      "title": "Jody Feldman - Award-winning Author & Speaker",
+      "snippet": "Award-Winning Author & Speaker. Middle Grade. Young Adult. A Little About Me. I write books, get lost in mysteries, escape escape rooms ... \u00a9 2025 Jody Feldman.",
+      "link": "https://jodyfeldman.com/"
+    },
+    {
+      "title": "About",
+      "snippet": "Jody Jensen Shaffer is an award-winning poet and the author of more than 70 books of fiction and nonfiction for children, including PRUDENCE THE PART-TIME ...",
+      "link": "https://jodyjensenshaffer.com/about/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

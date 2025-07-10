@@ -1,0 +1,26 @@
+{
+  "guest_name": "Grandmother",
+  "searched_at": "2025-07-10T15:14:51.367308",
+  "search_results": [
+    {
+      "title": "My Grandmother",
+      "snippet": "My grandmother was the eldest of sixteen children. Life was hard growing up. As the eldest sibling it was her responsibility to help take care of her younger ...",
+      "link": "http://www.our-story.ca/winners/writing/84:my-grandmother"
+    },
+    {
+      "title": "Writing My Grandmother's Biography - Sleight Editing",
+      "snippet": "I just finished writing a biography of my grandmother, a little over a year after she passed away. A link to the book, in PDF form, is here.",
+      "link": "http://sleightediting.com/2020/12/writing-my-grandmothers-biography/"
+    },
+    {
+      "title": "Biography Of My Grandmother - 1189 Words",
+      "snippet": "My grandmother, Kathy A Gerdes was born March 10, 1947 and has done many great things in her life. She excelled in everything because she is very strong and ...",
+      "link": "https://www.bartleby.com/essay/Biography-Of-My-Grandmother-FCQ8XQKZTR"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Bear",
+  "searched_at": "2025-07-10T17:17:52.330863",
+  "search_results": [
+    {
+      "title": "Greg Bear",
+      "snippet": "Gregory Dale Bear (August 20, 1951 \u2013 November 19, 2022) was an American science fiction writer. His work covered themes of galactic conflict (Forge of God ...",
+      "link": "https://en.wikipedia.org/wiki/Greg_Bear"
+    },
+    {
+      "title": "Bear: The Life and Times of Augustus Owsley Stanley III",
+      "snippet": "The creator of the dancing bear logo and designer of the Wall of Sound for the Grateful Dead, Augustus Owsley Stanley III, better known by his nickname, ...",
+      "link": "https://www.amazon.com/Bear-Times-Augustus-Owsley-Stanley/dp/1250081211"
+    },
+    {
+      "title": "Greg Bear",
+      "snippet": "Greg Bear published more than thirty novels and five story collections, earning him five Nebulas, two Hugos, two Endeavours, and the Galaxy Award (China). He ...",
+      "link": "https://www.gregbear.com/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Camille",
+  "searched_at": "2025-07-10T16:45:46.510808",
+  "search_results": [
+    {
+      "title": "Camille Paglia",
+      "snippet": "Camille Anna Paglia is an American academic, social critic and feminist. Paglia was a professor at the University of the Arts in Philadelphia, ...",
+      "link": "https://en.wikipedia.org/wiki/Camille_Paglia"
+    },
+    {
+      "title": "Bio \u2013 Camille T. Dungy",
+      "snippet": "Camille T. Dungy was born and raised in the western United States (Colorado and California), though she has lived briefly in most other regions of the US.",
+      "link": "https://camilledungy.com/bio/"
+    },
+    {
+      "title": "Camille Dungy",
+      "snippet": "Camille T. Dungy 1972 (age 52\u201353) Denver, Colorado, US \u00b7 Poet and academic \u00b7 Stanford University; University of North Carolina, Greensboro \u00b7 Poetry.",
+      "link": "https://en.wikipedia.org/wiki/Camille_Dungy"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

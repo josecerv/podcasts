@@ -1,0 +1,26 @@
+{
+  "guest_name": "Henry Washington",
+  "searched_at": "2025-07-10T15:35:30.468184",
+  "search_results": [
+    {
+      "title": "Henry Washington Jr. - UC Berkeley African American Studies",
+      "snippet": "Bio/CV: Henry Washington, Jr. is an Assistant Professor of African American Studies at the University of California, Berkeley. His research broadly explores how ...",
+      "link": "https://africam.berkeley.edu/people/henry-washington-jr"
+    },
+    {
+      "title": "Henry Washington, Jr., Ph.D. - Assistant Professor of ...",
+      "snippet": "Henry Washington, Jr. is an interdisciplinary scholar of race, gender, and aesthetics and an Assistant Professor in the Department of African American Studies.",
+      "link": "https://www.linkedin.com/in/henry-washington-jr-ph-d-113953123"
+    },
+    {
+      "title": "Henry Washington Jr. | Research UC Berkeley",
+      "snippet": "Research Bio. Henry Washington, Jr. is an assistant professor in the Department of African American Studies & African Diaspora Studies.",
+      "link": "https://vcresearch.berkeley.edu/faculty/henry-washington-jr"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": "Black",
+  "gender_confidence": 0.8,
+  "race_confidence": 0.7,
+  "additional_context": {}
+}

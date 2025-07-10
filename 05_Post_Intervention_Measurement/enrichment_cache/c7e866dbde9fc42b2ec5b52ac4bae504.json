@@ -1,0 +1,26 @@
+{
+  "guest_name": "Psychologist",
+  "searched_at": "2025-07-10T15:50:18.796934",
+  "search_results": [
+    {
+      "title": "Psychologist, Professor, Speaker, and Author",
+      "snippet": "Dr. Rheeda Walker is a licensed clinical psychologist and keynote speaker on African American culture and mental health. She is an associate professor at ...",
+      "link": "https://www.rheedawalkerphd.com/about-dr-walker"
+    },
+    {
+      "title": "Susan David, Ph.D. - Keynote Speaker, Psychologist, & Author ...",
+      "snippet": "An award-winning Harvard Medical School psychologist, Susan has been named one of the world's most influential management thinkers.",
+      "link": "https://www.susandavid.com/"
+    },
+    {
+      "title": "Daniel Gilbert (psychologist)",
+      "snippet": "Daniel Todd Gilbert (born November 5, 1957) is an American social psychologist and writer. He is the Edgar Pierce Professor of Psychology at Harvard University.",
+      "link": "https://en.wikipedia.org/wiki/Daniel_Gilbert_(psychologist)"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": "Black",
+  "gender_confidence": 0.8,
+  "race_confidence": 0.7,
+  "additional_context": {}
+}

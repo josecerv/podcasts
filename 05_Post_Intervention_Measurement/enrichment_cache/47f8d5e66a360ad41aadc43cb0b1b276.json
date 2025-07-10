@@ -1,0 +1,26 @@
+{
+  "guest_name": "Abrar",
+  "searched_at": "2025-07-10T15:34:35.400916",
+  "search_results": [
+    {
+      "title": "Chowdhury Rafiqul Abrar",
+      "snippet": "Chowdhury Rafiqul Abrar, also known as CR Abrar, is a retired professor of International relations of the University of Dhaka, human rights activist",
+      "link": "https://en.wikipedia.org/wiki/Chowdhury_Rafiqul_Abrar"
+    },
+    {
+      "title": "Abrar Khan: books, biography, latest update",
+      "snippet": "Author | Speaker | Researcher | Humanitarian. \u25ab\ufe0fAbrar Khan is a writer and a researcher with profound interest in Islamic literature and textual exegesis.",
+      "link": "https://www.amazon.com/stores/author/B076BNCHRH/about"
+    },
+    {
+      "title": "Abrar Hammoud's Professional Profile at Purdue University",
+      "snippet": "Abrar Hammoud is a clinical assistant professor in the Department of Technology Leadership & Innovation. She teaches courses at the intersection of technology, ...",
+      "link": "https://polytechnic.purdue.edu/profile/hammoud"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Brian David",
+  "searched_at": "2025-07-10T14:58:12.400013",
+  "search_results": [
+    {
+      "title": "Brian David Johnson Books & Biography",
+      "snippet": "The future is Brian David Johnson's business. He is a professor of practice at Arizona State University's School for the Future of Innovation in Society, a.",
+      "link": "https://www.harpercollins.ca/author/cr-195326/brian-david-johnson"
+    },
+    {
+      "title": "BRIAN DAVID JOHNSON - Author of The Future You",
+      "snippet": "Brian David Johnson is Futurist in Residence at Arizona State University's Center for Science and the Imagination, a professor in the School for the Future of ...",
+      "link": "https://www.creativeprocess.info/books-writers/brian-david-johnson-mia-funk-trfda"
+    },
+    {
+      "title": "Brian David Johnson - Center for Science and the Imagination",
+      "snippet": "Brian David Johnson is a Professor of Practice at Arizona State University's School for the Future of Innovation in Society, and a Futurist and Fellow at Frost ...",
+      "link": "https://csi.asu.edu/people/brian-david-johnson/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

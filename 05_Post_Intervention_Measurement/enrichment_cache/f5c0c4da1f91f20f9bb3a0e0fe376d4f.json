@@ -1,0 +1,26 @@
+{
+  "guest_name": "Bridget",
+  "searched_at": "2025-07-10T16:45:00.269083",
+  "search_results": [
+    {
+      "title": "Bio",
+      "snippet": "Bridget Farr is an author, actor, and educator. Previously a middle school English teacher, she now serves as principal of a public Montessori school.",
+      "link": "https://www.bridgetfarr.com/bio.html"
+    },
+    {
+      "title": "Bridget Cook-Burch \u201cThe Book Whisperer\u201d",
+      "snippet": "As a transformational speaker, Bridget finds joy in reaching audiences and readers around the world while speaking on a variety of topics. Bridget loves to ...",
+      "link": "https://www.linkedin.com/in/mbridgetcookburch"
+    },
+    {
+      "title": "Bridget Brereton",
+      "snippet": "Bridget Brereton (born 1946) is a Trinidad and Tobago-based historian, who is Emerita Professor of History at the University of the West Indies, St. Augustine.",
+      "link": "https://en.wikipedia.org/wiki/Bridget_Brereton"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

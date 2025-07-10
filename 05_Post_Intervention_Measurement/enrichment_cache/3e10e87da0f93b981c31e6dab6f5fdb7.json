@@ -1,0 +1,26 @@
+{
+  "guest_name": "Avery",
+  "searched_at": "2025-07-10T15:24:22.113554",
+  "search_results": [
+    {
+      "title": "Avery Foley",
+      "snippet": "Avery Foley is a writer, speaker, and cohost of Answers News for Answers in Genesis. She hails from Ontario, Canada, and holds an MA in theological studies ...",
+      "link": "https://answersingenesis.org/bios/avery-foley/?srsltid=AfmBOor0YvBaBcr4jsDnMOPKpwX4zhTZ4y9F-Rp6zVUcExcG9g0z72nq"
+    },
+    {
+      "title": "Bible teacher John Avery, author of Bible devotions.",
+      "snippet": "Author and Bible teacher John Avery writes these Bible devotions in the hope that they will foster spiritual growth.",
+      "link": "https://biblematurity.com/about-the-author/"
+    },
+    {
+      "title": "George Avery (professor)",
+      "snippet": "George Avery (July 27, 1926 \u2013 March 5, 2004) was an American professor of German Studies at Swarthmore College. George Avery. Born. Philadelphia ...",
+      "link": "https://en.wikipedia.org/wiki/George_Avery_(professor)"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

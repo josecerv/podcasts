@@ -1,0 +1,26 @@
+{
+  "guest_name": "Evelyn",
+  "searched_at": "2025-07-10T17:16:23.272411",
+  "search_results": [
+    {
+      "title": "About \u2013 Evelyn Alsultany",
+      "snippet": "Evelyn Alsultany is a leading expert on the history of representations of Arabs and Muslims in U.S. media. Her research, teaching, and lecturing are driven ...",
+      "link": "https://evelynalsultany.com/about/"
+    },
+    {
+      "title": "Evelyn Hu-DeHart",
+      "snippet": "Evelyn Hu-DeHart ; (1947-02-12) February 12, 1947 (age 78). Chongqing, Sichuan, China \u00b7 Stanford University \u00b7 University of Texas at Austin \u00b7 Historian, Author, ...",
+      "link": "https://en.wikipedia.org/wiki/Evelyn_Hu-DeHart"
+    },
+    {
+      "title": "Evelyn Brooks Higginbotham's Biography",
+      "snippet": "Professor Evelyn Brooks Higginbotham was born on June 4, 1945 in Washington, D.C. to Albert Neal Dow Brooks, the secretary-treasurer for the Association for the ...",
+      "link": "https://www.thehistorymakers.org/biography/evelyn-brooks-higginbotham"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

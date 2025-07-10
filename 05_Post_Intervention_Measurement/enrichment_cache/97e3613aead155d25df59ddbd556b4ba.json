@@ -1,0 +1,26 @@
+{
+  "guest_name": "Meghan",
+  "searched_at": "2025-07-10T15:01:57.129870",
+  "search_results": [
+    {
+      "title": "Author Meghan Wilson Duff - Official Website",
+      "snippet": "Meghan Wilson Duff wanted to be a marine biologist when they grew up, but got distracted trying to figure out people. They currently teach in the Psychology & ...",
+      "link": "https://www.meghanwilsonduff.com/"
+    },
+    {
+      "title": "Meghan Daum",
+      "snippet": "Meghan Elizabeth Daum (born February 13, 1970) is an American author, essayist, podcaster, and journalist.",
+      "link": "https://en.wikipedia.org/wiki/Meghan_Daum"
+    },
+    {
+      "title": "Meghan M. Grace",
+      "snippet": "Meghan M. Grace is a speaker, author, and consultant focusing on Generation Z, higher education, assessment, and organizational effectiveness.",
+      "link": "https://www.meghanmgrace.com/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

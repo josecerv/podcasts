@@ -1,0 +1,26 @@
+{
+  "guest_name": "Nah",
+  "searched_at": "2025-07-10T16:06:39.768383",
+  "search_results": [
+    {
+      "title": "Nah Dove",
+      "snippet": "Nah Dove (born 1940s) is an author, lecturer and scholar in African-American studies. She has lived in Ghana, Nigeria, Sierra Leone, Canada, the UK, ...",
+      "link": "https://en.wikipedia.org/wiki/Nah_Dove"
+    },
+    {
+      "title": "Nah Dove, Ph.D.",
+      "snippet": "Dr. Dove is an assistant professor in the Department of Africology and African American Studies at Temple University. She spent ... Nah Dove, Ph.D. Assistant ...",
+      "link": "https://uwpbooks.com/authors/nah-dove-ph-d/"
+    },
+    {
+      "title": "Seungahn Nah, Ph.D.",
+      "snippet": "Nah received his Ph.D. from the University of Wisconsin-Madison and his Master's and Bachelor's degrees from Yonsei University, Seoul, South Korea. He has ...",
+      "link": "https://www.jou.ufl.edu/staff/seungahn-nah/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": "Black",
+  "gender_confidence": 0.8,
+  "race_confidence": 0.7,
+  "additional_context": {}
+}

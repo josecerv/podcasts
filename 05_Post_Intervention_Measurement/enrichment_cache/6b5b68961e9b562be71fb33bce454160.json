@@ -1,0 +1,26 @@
+{
+  "guest_name": "Laura Lindenfeld",
+  "searched_at": "2025-07-10T16:08:02.448362",
+  "search_results": [
+    {
+      "title": "Laura Lindenfeld Bio | Office of the President",
+      "snippet": "Laura Lindenfeld was named Dean of the School of Communication and Journalism effective March 1, 2020, after previously serving as interim Dean.",
+      "link": "https://www.stonybrook.edu/commcms/pres/governance/lindenfeld-bio.php"
+    },
+    {
+      "title": "Laura Lindenfeld | School of Communication and Journalism",
+      "snippet": "Laura Lindenfeld, PhD, is the Executive Director of the Alda Center, Dean of the School of Communication and Journalism and a professor of communication. She ...",
+      "link": "https://www.stonybrook.edu/commcms/journalism/about/lindenfeld.php"
+    },
+    {
+      "title": "Commencement Speaker Laura Lindenfeld's Words of ...",
+      "snippet": "UC Davis Graduate Studies alumna Laura Lindenfeld, Ph.D. '03 has dedicated her career to helping the public through science communication.",
+      "link": "https://grad.ucdavis.edu/news/commencement-speaker-laura-lindenfelds-words-wisdom"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

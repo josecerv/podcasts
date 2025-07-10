@@ -1,0 +1,26 @@
+{
+  "guest_name": "Gary Vee",
+  "searched_at": "2025-07-10T15:30:37.969671",
+  "search_results": [
+    {
+      "title": "Gary Vaynerchuk",
+      "snippet": "Gary Vaynerchuk (born Gennady Alexandrovich Vaynerchuk, November 14, 1975; commonly known by his alias Gary Vee) is an American businessman, author, speaker, ...",
+      "link": "https://en.wikipedia.org/wiki/Gary_Vaynerchuk"
+    },
+    {
+      "title": "About - Gary Vaynerchuk",
+      "snippet": "That speech becomes the backbone of Gary's $1MM 10-book deal with HarperCollins and puts him on the map as a headlining keynote speaker. ... Gary Vee IP, LLC 2024",
+      "link": "https://garyvaynerchuk.com/biography/"
+    },
+    {
+      "title": "Gary Vaynerchuk - Gary Vaynerchuk",
+      "snippet": "Serial Entrepreneur, Chairman of VaynerX, CEO of VaynerMedia, CEO of VeeFriends, & 6X NYT Bestselling Author ... Gary Vee IP, LLC 2024. Privacy Policy | Terms of ...",
+      "link": "https://garyvaynerchuk.com/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

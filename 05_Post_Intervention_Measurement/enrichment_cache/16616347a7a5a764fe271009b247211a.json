@@ -1,0 +1,26 @@
+{
+  "guest_name": "Kayla",
+  "searched_at": "2025-07-10T15:45:59.147001",
+  "search_results": [
+    {
+      "title": "Kayla Craig \u2013 Author | Writer | Modern Liturgist | Parent ...",
+      "snippet": "Kayla Craig is a former journalist who brings deep curiosity and care to her writing. With a poetic, prophetic voice, she created the popular Liturgies for ...",
+      "link": "https://kaylacraig.com/"
+    },
+    {
+      "title": "About",
+      "snippet": "Kayla Craig is a parent to four wild, wonderful kids and the author of Every Season Sacred: Reflections, Prayers, and Invitations to Nourish Your Soul.",
+      "link": "https://kaylacraig.com/about/"
+    },
+    {
+      "title": "Kayla Ancrum Author Spotlight",
+      "snippet": "She's a Chicago native passionate about diversity and representation in young adult fiction. Kayla currently writes most of her work in the lush gardens of the ...",
+      "link": "https://novelpad.co/blog/kayla-ancrum"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

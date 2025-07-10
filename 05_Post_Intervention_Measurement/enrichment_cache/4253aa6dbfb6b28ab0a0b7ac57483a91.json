@@ -1,0 +1,26 @@
+{
+  "guest_name": "Sathya",
+  "searched_at": "2025-07-10T17:29:49.397487",
+  "search_results": [
+    {
+      "title": "Sathya Narayanan | California State University Monterey ...",
+      "snippet": "Sathya received his Master's in Computer Applications from the College of Engineering, Guindy, India, in 1994, his M.S. in Computer Science from Temple ...",
+      "link": "https://csumb.edu/scd/sathya-narayanan/"
+    },
+    {
+      "title": "About",
+      "snippet": "Sathya Achia is an author of South Indian Kodava descent who creates stories of adventure and discovery for picture book, middle grade, and young adult readers, ...",
+      "link": "https://sathyaachia.com/about/"
+    },
+    {
+      "title": "Sathya Bala \u2013 Keynote Speaker",
+      "snippet": "Sathya is a consultant, entrepreneur, thought leader, Board advisor and speaker focused on using data and stories to make organisations more equitable.",
+      "link": "https://us.londonspeakerbureau.com/speaker-profile/sathya-bala/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

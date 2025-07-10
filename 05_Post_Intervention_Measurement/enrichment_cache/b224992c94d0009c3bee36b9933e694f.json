@@ -1,0 +1,26 @@
+{
+  "guest_name": "TV Anchor",
+  "searched_at": "2025-07-10T16:44:32.514582",
+  "search_results": [
+    {
+      "title": "Leland Vittert",
+      "snippet": "Vittert won Westword's Best Hair on a TV Anchor Award in 2007. His sister, Liberty Vittert, is a television chef and professor of data science at ...",
+      "link": "https://en.wikipedia.org/wiki/Leland_Vittert"
+    },
+    {
+      "title": "Laura Simon | TV Anchor \u2022 Reporter \u2022 Speaker",
+      "snippet": "An Emmy Award-winning anchor, reporter, mentor and motivational speaker. While I thrive in the fast pace of tight deadlines, being live on camera and breaking ...",
+      "link": "https://laura-simon.com/"
+    },
+    {
+      "title": "Tom Brokaw",
+      "snippet": "Thomas John Brokaw (/\u02c8bro\u028ak\u0254\u02d0/; born February 6, 1940) is an American author and retired network television journalist. ... \"Former NBC-TV anchor Tom Brokaw gets ...",
+      "link": "https://en.wikipedia.org/wiki/Tom_Brokaw"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

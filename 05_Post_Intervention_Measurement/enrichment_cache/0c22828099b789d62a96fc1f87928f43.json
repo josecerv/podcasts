@@ -1,0 +1,26 @@
+{
+  "guest_name": "Zac",
+  "searched_at": "2025-07-10T15:22:09.304985",
+  "search_results": [
+    {
+      "title": "Zac Poonen: books, biography, latest update",
+      "snippet": "Zac Poonen was formerly an Indian Naval Officer who has been serving the Lord in India for over 50 years as a Bible-teacher. He has responsibility for a ...",
+      "link": "https://www.amazon.com/stores/author/B00MCZCBIK"
+    },
+    {
+      "title": "About Zac Poonen",
+      "snippet": "Zac Poonen was formerly an Indian Naval Officer who has been serving the Lord in India for over 50 years as a Bible-teacher. He has responsibility for a number ...",
+      "link": "https://www.cfcindia.com/about-zac-poonen"
+    },
+    {
+      "title": "Meet Zac Barnett",
+      "snippet": "We're excited to introduce you to the always interesting and insightful Zac Barnett. We hope you'll enjoy our conversation with Zac below.",
+      "link": "https://canvasrebel.com/meet-zac-barnett/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

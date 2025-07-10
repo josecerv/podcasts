@@ -1,0 +1,26 @@
+{
+  "guest_name": "Jennie",
+  "searched_at": "2025-07-10T16:44:16.084315",
+  "search_results": [
+    {
+      "title": "Jennie Allen | Best-Selling Christian Author & Speaker",
+      "snippet": "Meet Jennie Allen, best-selling Christian author and speaker, on a journey of faith and growth. Explore her books, listen to her podcasts, and find ...",
+      "link": "https://www.jennieallen.com/"
+    },
+    {
+      "title": "Jennie (singer)",
+      "snippet": "Jennie Kim known mononymously as Jennie, is a South Korean singer, rapper, songwriter, and actress. Born and raised in South Korea until 2004, Jennie later ...",
+      "link": "https://en.wikipedia.org/wiki/Jennie_(singer)"
+    },
+    {
+      "title": "About Jennie Allen | Author, Speaker, and Bible Teacher",
+      "snippet": "Jennie has a masters in Biblical Studies from Dallas Theological Seminary and lives in Dallas, Texas, with her husband, Zac, and their four children.",
+      "link": "https://www.jennieallen.com/about"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

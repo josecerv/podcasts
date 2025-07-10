@@ -1,0 +1,26 @@
+{
+  "guest_name": "Colt",
+  "searched_at": "2025-07-10T16:01:09.533670",
+  "search_results": [
+    {
+      "title": "Henri G. Colt: books, biography, latest update",
+      "snippet": "Henri Colt is a physician-writer and adventure traveler who authors medical textbooks and works of fiction and nonfiction. He is an Emeritus Professor of ...",
+      "link": "https://www.amazon.com/Henri-G.-Colt/e/B001HPSE32"
+    },
+    {
+      "title": "George Howe Colt",
+      "snippet": "George Howe Colt is an American journalist and author. He is the author of November of the Soul: The Enigma of Suicide (1991), The Big House (2003), ...",
+      "link": "https://en.wikipedia.org/wiki/George_Howe_Colt"
+    },
+    {
+      "title": "Peter Colt \u2013 Author",
+      "snippet": "Colt is a Army Veteran who served in Kosovo and Operation Iraqi Freedom, a Police Officer in Providence, RI, a husband and father. He enjoys, cooking, camping ...",
+      "link": "https://petercoltauthor.com/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

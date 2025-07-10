@@ -1,0 +1,26 @@
+{
+  "guest_name": "Savannah",
+  "searched_at": "2025-07-10T15:19:27.713029",
+  "search_results": [
+    {
+      "title": "Savannah Carlisle - Beachy Romance Author",
+      "snippet": "Author Savannah Carlisle \u00b7 Home \u00b7 About \u00b7 My Books \u00b7 The Library of Second Chances \u00b7 Finding Me, Finding You \u00b7 The Summer of Starting Over \u00b7 If ...",
+      "link": "https://savannahcarlisle.com/"
+    },
+    {
+      "title": "Savannah Hauk - TEDx Talk Speaker - TEDxNCState",
+      "snippet": "Detroit-born Savannah Hauk is an author, podcaster and advocate, living a confident, visible and successful male-to-female crossdressing life. Her eLit award- ...",
+      "link": "https://www.linkedin.com/in/savannah-hauk-619422191"
+    },
+    {
+      "title": "Savannah Pearlman - Howard Profiles",
+      "snippet": "Savannah Pearlman (She/Her/Hers). Lecturer. Download CV. Department/Office. Philosophy. School/College. College of Arts & Sciences. Biography. Dr. Pearlman ...",
+      "link": "https://profiles.howard.edu/savannah-pearlman"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

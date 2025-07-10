@@ -1,0 +1,26 @@
+{
+  "guest_name": "Kieran",
+  "searched_at": "2025-07-10T15:12:58.921376",
+  "search_results": [
+    {
+      "title": "About Me - David Kieran",
+      "snippet": "David Kieran. Making Sense of How Americans Make Sense of War. Home \u00b7 About \u00b7 Books \u00b7 Articles & Chapters \u00b7 Popular Writing \u00b7 Teaching \u00b7 In the News \u00b7 Contact.",
+      "link": "https://davekieran.com/aboutdk"
+    },
+    {
+      "title": "Kieran Donaghy: Home",
+      "snippet": "Award-winning writer, international conference speaker and teacher trainer. I'm the author ... Kieran Donaghy. |. Writer. Speaker. Trainer. |. Made by Mark Bain ...",
+      "link": "https://kierandonaghy.com/"
+    },
+    {
+      "title": "Kieran Mulvaney -",
+      "snippet": "The home page of Kieran Mulvaney, author of \"The Whaling Season\", \"At the Ends of the Earth,\" and \"The Great White Bear.\"",
+      "link": "https://www.kieranmulvaney.com/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

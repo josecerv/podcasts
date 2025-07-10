@@ -1,0 +1,26 @@
+{
+  "guest_name": "Nancy Nash",
+  "searched_at": "2025-07-10T15:38:46.878550",
+  "search_results": [
+    {
+      "title": "Nancy Nash, Author at VoegelinView",
+      "snippet": "Nancy Nash ... Nancy J. Nash is a graduate of Mount Holyoke College with a B.A. in English composition. Upon graduation, she became fascinated by ...",
+      "link": "https://voegelinview.com/author/nancynash/"
+    },
+    {
+      "title": "Nancy Nash: books, biography, latest update",
+      "snippet": "Nancy Nash. About the author. This book has been brewing for a long time. I have spend many years in Nashville. Some fifteen of those years were behind the ...",
+      "link": "https://www.amazon.com/Nancy-Nash/e/B001K93JZI"
+    },
+    {
+      "title": "Nancy Nash",
+      "snippet": "Nancy Nash is a Canadian blues and pop singer, who has recorded and performed both under her birth name and as Sazacha Red Sky.",
+      "link": "https://en.wikipedia.org/wiki/Nancy_Nash"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

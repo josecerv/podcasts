@@ -1,0 +1,26 @@
+{
+  "guest_name": "OpenAI Co-Founder",
+  "searched_at": "2025-07-10T15:59:04.994730",
+  "search_results": [
+    {
+      "title": "Ilya Sutskever",
+      "snippet": "In 2018, he was the keynote speaker at Nvidia Ntech 2018 and AI Frontiers Conference 2018. ... \"OpenAI co-founder creates a new AI startup with a research lab in ...",
+      "link": "https://en.wikipedia.org/wiki/Ilya_Sutskever"
+    },
+    {
+      "title": "Sam Altman",
+      "snippet": "... OpenAI co-founder and chief scientist Ilya Sutskever, announced that they had made the decision to remove Altman as CEO and Greg Brockman from the board ...",
+      "link": "https://en.wikipedia.org/wiki/Sam_Altman"
+    },
+    {
+      "title": "120 Minutes with OpenAI CEO Sam Altman at Harvard",
+      "snippet": "Sam Altman, OpenAI's co-founder and CEO and a leading voice in artificial intelligence, on May 1 spent a day at Harvard University speaking to students, ...",
+      "link": "https://www.hbs.edu/bigs/120-minutes-with-openai-ceo-sam-altman"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

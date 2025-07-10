@@ -1,0 +1,26 @@
+{
+  "guest_name": "Lynn",
+  "searched_at": "2025-07-10T16:41:20.191829",
+  "search_results": [
+    {
+      "title": "About",
+      "snippet": "Lynn Cowell is a national conference speaker who is passionate about helping women of all ages understand the importance of Christ confidence. She is the ...",
+      "link": "https://lynncowell.com/about/"
+    },
+    {
+      "title": "About - Lynn Cullen, bestselling author of historical fiction ...",
+      "snippet": "Lynn grew up in Fort Wayne, Indiana, the fifth girl in a family of seven children. She learned to love history combined with traveling while visiting historic ...",
+      "link": "https://lynncullen.com/about/"
+    },
+    {
+      "title": "About Lynn Austin",
+      "snippet": "About Lynn Austin ... Ken and I live in Western Michigan where the woods and beaches of Lake Michigan inspire me every day. vs_author_image. Lynn Austin | Author.",
+      "link": "https://lynnaustin.org/about/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

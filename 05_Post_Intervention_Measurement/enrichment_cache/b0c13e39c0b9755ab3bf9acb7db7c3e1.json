@@ -1,0 +1,26 @@
+{
+  "guest_name": "his guest",
+  "searched_at": "2025-07-10T14:51:16.972656",
+  "search_results": [
+    {
+      "title": "Guest Writer - Mathew Nelson; \"John\" - Joe Campolo Jr.",
+      "snippet": "***. *Note: Mat is Joe's 2nd cousin. You are welcome to share this story in its entirety, crediting Joe and his guest author for the work.",
+      "link": "https://namwarstory.com/2024/10/guest-writer-mathew-nelson-john/"
+    },
+    {
+      "title": "My November Guest | The Closet Professor",
+      "snippet": "There is an air of familiarity created by the poet, and he and his guest have walked and talked along the \u201csodden pasture lane.\u201d Sorrow is ...",
+      "link": "https://closetprofessor.com/2022/11/08/27089/"
+    },
+    {
+      "title": "The Epidemic of Loneliness with Guest Author Tim DeTellis",
+      "snippet": "His guest is the president of New Missions and author Tim DeTellis. Jeff and Time explore the possible causes of loneliness, such as a ...",
+      "link": "https://www.foundationacademy.net/captivate-podcast/the-epidemic-of-loneliness-with-guest-author-tim-detellis/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

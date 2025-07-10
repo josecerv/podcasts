@@ -1,0 +1,26 @@
+{
+  "guest_name": "Beach Bunny",
+  "searched_at": "2025-07-10T15:48:09.797450",
+  "search_results": [
+    {
+      "title": "Beach Bunny (band)",
+      "snippet": "Beach Bunny is an American rock band formed in 2015 in Chicago, Illinois. Initially a solo project by guitarist and vocalist Lili Trifilio.",
+      "link": "https://en.wikipedia.org/wiki/Beach_Bunny_(band)"
+    },
+    {
+      "title": "Beach Bunny's Feminist Theology",
+      "snippet": "The album isn't a sermon, but for all its truth-telling, it sure sounds like one. Beach Bunny is an indie pop-punk band from Chicago. They've ...",
+      "link": "https://thinkchristian.net/beach-bunnys-feminist-theology"
+    },
+    {
+      "title": "Beach Bunny - Books",
+      "snippet": "Beach bunny is great book about Harold the bunny at the beach who is very prepared with everything he will need. Great book for expanding vocabulary with beach ...",
+      "link": "https://www.amazon.com/Beach-Bunny-Jennifer-Selby/dp/0152008403"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

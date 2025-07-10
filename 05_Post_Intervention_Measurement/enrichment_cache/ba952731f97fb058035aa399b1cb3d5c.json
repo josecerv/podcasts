@@ -1,0 +1,26 @@
+{
+  "guest_name": "Karen",
+  "searched_at": "2025-07-10T15:35:47.279941",
+  "search_results": [
+    {
+      "title": "Dr Karen's Uncensored Bio",
+      "snippet": "I am Karen Kelsky, aka, The Professor. I've been a tenured professor at two universities (Oregon and Illinois) and a Department Head.",
+      "link": "https://theprofessorisin.com/dr-karens-uncensored-bio/"
+    },
+    {
+      "title": "Karen J. Warren",
+      "snippet": "Karen J. Warren (September 10, 1947 \u2013 August 21, 2020) was an author, scholar, and former professor and chair of philosophy at Macalester College.",
+      "link": "https://en.wikipedia.org/wiki/Karen_J._Warren"
+    },
+    {
+      "title": "About Karen",
+      "snippet": "Karen Ehman is a speaker, a Proverbs 31 Ministries writer and New York Times bestselling author. Described as profoundly practical, engagingly funny, and ...",
+      "link": "https://karenehman.com/about-karen/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

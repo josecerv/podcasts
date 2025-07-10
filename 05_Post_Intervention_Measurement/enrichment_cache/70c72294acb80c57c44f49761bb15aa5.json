@@ -1,0 +1,26 @@
+{
+  "guest_name": "The guest",
+  "searched_at": "2025-07-10T15:57:21.158861",
+  "search_results": [
+    {
+      "title": "The Guest (novel)",
+      "snippet": "The Guest is the second novel written by Emma Cline. The story takes place over five summer days. A 22-year-old woman named Alex, working as a professional ...",
+      "link": "https://en.wikipedia.org/wiki/The_Guest_(novel)"
+    },
+    {
+      "title": "THE GUEST - Emma Cline",
+      "snippet": "Taut, propulsive, and impossible to look away from, Emma Cline's The Guest is a spellbinding literary achievement.",
+      "link": "https://www.emmacline.com/the-guest"
+    },
+    {
+      "title": "The Guest by Emma Cline",
+      "snippet": "Taut, propulsive, and impossible to look away from, Emma Cline's The Guest is a spellbinding literary achievement. Show more.",
+      "link": "https://www.goodreads.com/book/show/61986136-the-guest"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

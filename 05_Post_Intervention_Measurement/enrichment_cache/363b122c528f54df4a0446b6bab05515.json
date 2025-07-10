@@ -1,0 +1,26 @@
+{
+  "guest_name": "J",
+  "searched_at": "2025-07-10T17:35:54.835900",
+  "search_results": [
+    {
+      "title": "David J Garrow | Professor, Author",
+      "snippet": "See https://thespectator.com/author/david-j-garrow/#!. and https://freebeacon.com/author/david-j-garrow/. Please browse and enjoy, and don't hesitate to tell ...",
+      "link": "https://www.davidgarrow.com/"
+    },
+    {
+      "title": "Joseph J. Ellis: Historical Author, Speaker",
+      "snippet": "Joseph J. Ellis is a renowned historian and leading scholar of American history. He is the author of the Pulitzer Prize\u2013winning Founding Brothers: The ...",
+      "link": "https://www.prhspeakers.com/speaker/joseph-j-ellis"
+    },
+    {
+      "title": "J. Saunders Redding",
+      "snippet": "J. Saunders Redding (October 13, 1906 \u2013 March 2, 1988) was an American professor and author. He was the first African American faculty member in the Ivy ...",
+      "link": "https://en.wikipedia.org/wiki/J._Saunders_Redding"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": "Black",
+  "gender_confidence": 0.8,
+  "race_confidence": 0.7,
+  "additional_context": {}
+}

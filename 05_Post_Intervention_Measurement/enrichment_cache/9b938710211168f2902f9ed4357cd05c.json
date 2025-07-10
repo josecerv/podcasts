@@ -1,0 +1,26 @@
+{
+  "guest_name": "Sean",
+  "searched_at": "2025-07-10T16:23:37.787853",
+  "search_results": [
+    {
+      "title": "Biography | Author & Novelist | Sean ...",
+      "snippet": "Dr. Sean McFate is a foreign policy expert, author and novelist. He is a Senior Fellow at the Atlantic Council, a Washington DC think tank, and a professor ...",
+      "link": "https://www.seanmcfate.com/biography"
+    },
+    {
+      "title": "About Sean Dietrich",
+      "snippet": "Sean Dietrich is a columnist, humorist, multi-instrumentalist, and stand-up storyteller known for his commentary on life in the American South.",
+      "link": "https://seandietrich.com/page_id13/"
+    },
+    {
+      "title": "Sean Covey - Leader In Me - LeaderInMe.org",
+      "snippet": "Sean Covey is a business executive, author, speaker, and innovator. He is President of FranklinCovey Education and is devoted to transforming education.",
+      "link": "https://www.leaderinme.org/sean-covey/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

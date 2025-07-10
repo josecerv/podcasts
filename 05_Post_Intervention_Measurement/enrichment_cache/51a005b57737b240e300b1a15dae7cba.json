@@ -1,0 +1,26 @@
+{
+  "guest_name": "YouTube Team",
+  "searched_at": "2025-07-10T16:07:32.497678",
+  "search_results": [
+    {
+      "title": "Shao Chun C.'s Post",
+      "snippet": "Tra Nguyen from the YouTube team as a guest lecturer at National University of Singapore! The coolest thing about Tra's session was that she ...",
+      "link": "https://www.linkedin.com/posts/shaochunchen_tra-nguyen-from-the-youtube-team-as-a-guest-activity-7255751719354081281-G7f2"
+    },
+    {
+      "title": "Meet Ahmed - Video series: Meet our team!",
+      "snippet": "The YouTube Team contacted me, and it's not good..... Hill Country ... Liberal Calculus Professor Tries to Humiliate Elon Musk \u2014 Has No Idea He's ...",
+      "link": "https://www.youtube.com/watch?v=bZtPgrqUG3E"
+    },
+    {
+      "title": "Celebrating great teachers on YouTube",
+      "snippet": "Celebrating great teachers on YouTube. By The YouTube Team. Oct ... Rafael is a Brazilian mathematics professor who uses his YouTube ...",
+      "link": "https://blog.youtube/creator-and-artist-stories/celebrating-great-teachers-on-youtube/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

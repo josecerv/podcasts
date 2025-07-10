@@ -1,0 +1,26 @@
+{
+  "guest_name": "Nicholas",
+  "searched_at": "2025-07-10T14:54:17.800795",
+  "search_results": [
+    {
+      "title": "Nicholas Jenkins | Department of English",
+      "snippet": "Nicholas Jenkins writes about and teaches 20th-century culture and literature, especially poetry. After receiving his B.A. from Oxford, Jenkins came to the ...",
+      "link": "https://english.stanford.edu/people/nicholas-jenkins"
+    },
+    {
+      "title": "Nicholas Dames",
+      "snippet": "Biography. B.A. Washington University (1992); Ph.D. Harvard (1998). Nicholas Dames writes and teaches on the history and theory of the novel, with particular ...",
+      "link": "https://english.columbia.edu/content/nicholas-dames"
+    },
+    {
+      "title": "Nicholas Epley",
+      "snippet": "Biography. Nicholas Epley is the John Templeton Keller Professor of Behavior Science and Director of the Roman Family Center for Decision Research.",
+      "link": "https://www.chicagobooth.edu/faculty/directory/e/nicholas-epley"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

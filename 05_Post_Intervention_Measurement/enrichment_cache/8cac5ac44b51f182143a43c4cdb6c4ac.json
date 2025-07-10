@@ -1,0 +1,26 @@
+{
+  "guest_name": "Massimo",
+  "searched_at": "2025-07-10T16:37:57.504010",
+  "search_results": [
+    {
+      "title": "Massimo Pigliucci",
+      "snippet": "Massimo Pigliucci (Italian: [\u02c8massimo pi\u028e\u02c8\u028eutt\u0283i]; born January 16, 1964) is an American philosopher and biologist who is professor ... Biography. edit.",
+      "link": "https://en.wikipedia.org/wiki/Massimo_Pigliucci"
+    },
+    {
+      "title": "Massimo Pigliucci \u2013 Author, Professor of Philosophy",
+      "snippet": "Massimo Pigliucci is an author, blogger, podcaster, as well as the K.D. Irani Professor of Philosophy at the City College of New York. His academic work is in ...",
+      "link": "https://massimopigliucci.org/"
+    },
+    {
+      "title": "Massimo Pigliucci | The City College of New York",
+      "snippet": "Irani Professor of Philosophy. Main Affiliation. Philosophy. Areas of ... Email. mpigliucci@ccny.cuny.edu. Massimo Pigliucci. Profile.",
+      "link": "https://www.ccny.cuny.edu/profiles/massimo-pigliucci?srsltid=AfmBOooYLxqBLDtvykI3QswxugzVJxcYAlLX4uOupbiMxg8hKAAOrToG"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

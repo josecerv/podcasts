@@ -1,0 +1,26 @@
+{
+  "guest_name": "Agape",
+  "searched_at": "2025-07-10T17:15:09.232410",
+  "search_results": [
+    {
+      "title": "About Agape",
+      "snippet": "Agape is a global community dedicated to recognizing, honoring, and nurturing the dignity and uniqueness of all people.",
+      "link": "https://agapelive.com/about-us/about-agape/"
+    },
+    {
+      "title": "Agape Leadership: Robert L. Peterson, Alexander Strauch",
+      "snippet": "He is the author of ROBERT CHAPMAN: A BIOGRAPHY, and is the co-author (with Alexander Strauch) of AGAPE LEADERSHIP. Bob and his wife, Jane, have five ...",
+      "link": "https://www.amazon.com/Agape-Leadership-Robert-L-Peterson/dp/0936083050"
+    },
+    {
+      "title": "About \u2014 AGAPE* (David Scherer)",
+      "snippet": "AGAPE* (Dave Scherer) has inspired youth from Brooklyn to Bosnia with his relational ministry\u2014Hip Hop Outreach. ... Combining rapping, dancing, storytelling and ...",
+      "link": "http://www.hiphopoutreach.com/about-1"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

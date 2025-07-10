@@ -1,0 +1,26 @@
+{
+  "guest_name": "Remember Monday",
+  "searched_at": "2025-07-10T15:09:26.305395",
+  "search_results": [
+    {
+      "title": "Remember Monday",
+      "snippet": "Remember Monday are a British country pop girl group consisting of members Lauren Byrne, Holly-Anne Hull and Charlotte Steele. The group gained prominence ...",
+      "link": "https://en.wikipedia.org/wiki/Remember_Monday"
+    },
+    {
+      "title": "Remember Monday facts: Members, songs and music ...",
+      "snippet": "Singers Charlotte Steele, Lauren Byrne and Holly-Anne Hull make up the band Remember Monday. The girls all met at sixth form and share a close bond outside of ...",
+      "link": "https://www.heart.co.uk/showbiz/remember-monday-members-songs/"
+    },
+    {
+      "title": "Remember Monday",
+      "snippet": "Remember Monday are the UK's viral sensation pop-country trio. Having met in college at 17, they've spent years honing their signature harmonies.",
+      "link": "https://www.splendourfestival.com/artist/remember-monday/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

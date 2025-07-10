@@ -1,0 +1,26 @@
+{
+  "guest_name": "The 1975",
+  "searched_at": "2025-07-10T16:44:17.881307",
+  "search_results": [
+    {
+      "title": "The 1975",
+      "snippet": "The 1975 are an English pop rock band formed in Wilmslow, Cheshire, in 2002. The band consists of Matty Healy Adam Hann (lead guitar), Ross MacDonald (bass) ...",
+      "link": "https://en.wikipedia.org/wiki/The_1975"
+    },
+    {
+      "title": "about the 1975",
+      "snippet": "The 1975 are a British band consisting of four members, (from left to right) Ross MacDonald, Adam Hann, Matty Healy, and George Daniel, from Manchester, ...",
+      "link": "https://home.adelphi.edu/~ga22066/About.html"
+    },
+    {
+      "title": "A Few Minutes with George Daniel of The 1975",
+      "snippet": "When George Daniel first joined The 1975, he immediately relieved songwriter Matthew Healy from the burden of simultaneously performing drums and vocals.",
+      "link": "https://articles.roland.com/a-few-minutes-with-george-daniel-of-the-1975/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

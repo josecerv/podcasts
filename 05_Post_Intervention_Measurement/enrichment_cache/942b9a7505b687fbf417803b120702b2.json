@@ -1,0 +1,26 @@
+{
+  "guest_name": "Spencer",
+  "searched_at": "2025-07-10T16:26:56.012878",
+  "search_results": [
+    {
+      "title": "Herbert Spencer",
+      "snippet": "Herbert Spencer (27 April 1820 \u2013 8 December 1903) was an English polymath active as a philosopher, psychologist, biologist, sociologist, and anthropologist.",
+      "link": "https://en.wikipedia.org/wiki/Herbert_Spencer"
+    },
+    {
+      "title": "About Me - John Spencer",
+      "snippet": "Hi, I'm John Spencer. I'm a former middle school teacher and current college professor on a quest to transform schools into bastions of creativity and wonder. I ...",
+      "link": "https://spencereducation.com/about-me/"
+    },
+    {
+      "title": "Herbert Spencer | Biography, Social Darwinism, Survival of ...",
+      "snippet": "Herbert Spencer, English sociologist, philosopher, and early advocate of the theory of evolution. He advocated the preeminence of the ...",
+      "link": "https://www.britannica.com/biography/Herbert-Spencer"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

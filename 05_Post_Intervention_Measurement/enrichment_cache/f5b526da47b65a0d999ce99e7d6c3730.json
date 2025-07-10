@@ -1,0 +1,26 @@
+{
+  "guest_name": "Agent Goonie Guy",
+  "searched_at": "2025-07-10T17:21:18.844951",
+  "search_results": [
+    {
+      "title": "FBI Man - The Goonies Wiki - Fandom",
+      "snippet": "The FBI Man was an agent of the FBI who attempted to confront the Fratellis. Involvement He is first spotted going into the Lighthouse Lounge ahead of the ...",
+      "link": "https://goonies.fandom.com/wiki/FBI_Man"
+    },
+    {
+      "title": "Michael Paul Chan",
+      "snippet": "Michael Paul Chan (born June 26, 1950) is an American actor. He is known for his role as Lieutenant Michael Tao on the TNT series The Closer and Major ...",
+      "link": "https://en.wikipedia.org/wiki/Michael_Paul_Chan"
+    },
+    {
+      "title": "The Tragic Real-Life Story Of The Man Who Played Sloth",
+      "snippet": "Let's take a look at the tragic real-life story of John Matuszak, the man who played Sloth in The Goonies.",
+      "link": "https://m.youtube.com/watch?v=4Qto049GEkA&t=51s"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

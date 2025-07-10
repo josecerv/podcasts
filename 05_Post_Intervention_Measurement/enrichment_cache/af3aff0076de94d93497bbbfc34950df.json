@@ -1,0 +1,26 @@
+{
+  "guest_name": "Special Agent",
+  "searched_at": "2025-07-10T15:50:28.076283",
+  "search_results": [
+    {
+      "title": "About Eric Caron \u2013 Author of SWITCHED ON",
+      "snippet": "Eric Caron is a retired U.S. Diplomat, U.S. Special Agent, HSBC Middle East Bank Executive and author of SWITCHED ON \u2013 The Heart and Mind of a Special Agent.",
+      "link": "https://switchedonlife.com/about-eric-caron-author-of-switched-on/"
+    },
+    {
+      "title": "John E. Douglas",
+      "snippet": "John Edward Douglas (born June 18, 1945) is an American retired special agent and unit chief in the United States Federal Bureau of Investigation (FBI).",
+      "link": "https://en.wikipedia.org/wiki/John_E._Douglas"
+    },
+    {
+      "title": "Special Agent: My Life on the Front Lines as a Woman in ...",
+      "snippet": "A remarkable portrait of courage and grace under fire, Special Agent offers a missing chapter to the annals of law enforcement and a dramatic and often funny ...",
+      "link": "https://www.amazon.com/Special-Agent-Front-Lines-Woman/dp/0786867078"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

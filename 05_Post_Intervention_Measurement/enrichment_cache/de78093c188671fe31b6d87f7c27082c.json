@@ -1,0 +1,26 @@
+{
+  "guest_name": "Ruger",
+  "searched_at": "2025-07-10T14:47:03.823818",
+  "search_results": [
+    {
+      "title": "William P. Ruger",
+      "snippet": "Ruger (born 1971) is currently the United States Deputy Director of National Intelligence for Mission Integration in the administration of Donald Trump. ... Ruger ...",
+      "link": "https://en.wikipedia.org/wiki/William_P._Ruger"
+    },
+    {
+      "title": "William Ruger",
+      "snippet": "Ruger is a veteran of the War in Afghanistan and an officer in the U.S. Navy (Reserve component). He earned his PhD in politics from Brandeis University and an ...",
+      "link": "https://www.cato.org/people/william-ruger"
+    },
+    {
+      "title": "William Ruger",
+      "snippet": "William Ruger serves as the President of the American Institute for Economic Research. Ruger was previously the Vice President for Research and Policy at the ...",
+      "link": "https://aier.org/people/william-ruger/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Jory",
+  "searched_at": "2025-07-10T16:56:47.954783",
+  "search_results": [
+    {
+      "title": "About Jory",
+      "snippet": "Jory Mickelson is an award-winning writer and educator living in Xwot\u02bcqom / Whatcom / Bellingham on the homelands of the Lummi and Nooksack peoples.",
+      "link": "https://jorymickelson.com/about-jory"
+    },
+    {
+      "title": "Jory Fleming",
+      "snippet": "Jory Fleming is a climate scientist and educator. He is a Rhodes Scholar and Truman Scholar, holding an MPhil in environmental change and management.",
+      "link": "https://joryfleming.com/"
+    },
+    {
+      "title": "About \u2014 Jory John",
+      "snippet": "Jory John is a #1 New York Times bestselling author and two-time E.B. White Read-Aloud Honor recipient. Jory's work includes the #1 New York Times bestselling ...",
+      "link": "http://www.joryjohn.com/about"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

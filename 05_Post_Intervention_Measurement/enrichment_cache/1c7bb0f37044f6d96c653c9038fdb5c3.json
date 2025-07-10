@@ -1,0 +1,26 @@
+{
+  "guest_name": "Kid Cudi",
+  "searched_at": "2025-07-10T15:50:14.259898",
+  "search_results": [
+    {
+      "title": "Kid Cudi",
+      "snippet": "Scott Ramon Seguro Mescudi (born January 30, 1984), also known by his stage name Kid Cudi is an American rapper, singer, songwriter, record producer, actor, ...",
+      "link": "https://en.wikipedia.org/wiki/Kid_Cudi"
+    },
+    {
+      "title": "Book by Scott \"Kid Cudi\" Mescudi | Official Publisher Page",
+      "snippet": "Scott Mescudi (a.k.a. Kid Cudi) is a Grammy Award\u2013winning artist, actor, designer, and cultural trailblazer who transformed the sound\u2014and soul\u2014of modern music.",
+      "link": "https://www.simonandschuster.com/books/Cudi/Scott-Kid-Cudi-Mescudi/9781668201336"
+    },
+    {
+      "title": "Kid Cudi: Rapper and Record Executive ...",
+      "snippet": "This biography highlights the life and accomplishments of Kid Cudi, covering his early life, inspiration to pursue music, and successes.",
+      "link": "https://www.amazon.com/Kid-Cudi-Executive-Hip-Hop-Artists/dp/1532196164"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

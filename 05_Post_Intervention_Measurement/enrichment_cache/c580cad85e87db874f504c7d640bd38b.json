@@ -1,0 +1,26 @@
+{
+  "guest_name": "The Fab Five",
+  "searched_at": "2025-07-10T15:07:50.480938",
+  "search_results": [
+    {
+      "title": "The Fab Five: Basketball Trash Talk the American Dream",
+      "snippet": "The Fab Five: Basketball Trash Talk the American Dream [Albom, Mitch] on Amazon ... He lives with his wife, Janine, in Michigan. Read more about this authorRead ...",
+      "link": "https://www.amazon.com/Fab-Five-Basketball-Trash-American/dp/0446517348"
+    },
+    {
+      "title": "Fab Five: Basketball, Trash Talk, The American Dream",
+      "snippet": "The inside story of a controversial college basketball team and its coach describes how its five players reached the NCAA as freshmen.",
+      "link": "https://www.goodreads.com/book/show/33684.Fab_Five"
+    },
+    {
+      "title": "Fabulous: My Journey with The Fab 5: Ralston PhD, David",
+      "snippet": "Fabulous: My Journey with The Fab Five takes the reader on an exclusive behind-the-scenes journey through the author's fondest memories.",
+      "link": "https://www.amazon.com/Fabulous-My-Journey-Fab-5/dp/B0BYMQC722"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

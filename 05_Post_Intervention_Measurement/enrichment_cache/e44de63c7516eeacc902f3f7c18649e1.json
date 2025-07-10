@@ -1,0 +1,26 @@
+{
+  "guest_name": "The Elders",
+  "searched_at": "2025-07-10T15:57:19.850621",
+  "search_results": [
+    {
+      "title": "The Story of The Elders",
+      "snippet": "On his 89th birthday, 18 July 2007, Nelson Mandela brought together the Elders to be independent moral voices for peace and ethical leadership.",
+      "link": "https://theelders.org/story-elders"
+    },
+    {
+      "title": "Who we are",
+      "snippet": "The Elders was founded by Nelson Mandela in 2007. We are an independent group of global leaders working for peace, justice, human rights and a sustainable ...",
+      "link": "https://theelders.org/who-we-are"
+    },
+    {
+      "title": "The Elders: Ordinary Lives, Uncommon Times # 1",
+      "snippet": "The Elders: Ordinary Lives, Uncommon Times # 1 [Photographs (Illustrator) Richard & Jo Durden-Smith Hess (Author)] on Amazon.com.",
+      "link": "https://www.amazon.com/Elders-Ordinary-Lives-Uncommon-Times/dp/B00IU0TFC6"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

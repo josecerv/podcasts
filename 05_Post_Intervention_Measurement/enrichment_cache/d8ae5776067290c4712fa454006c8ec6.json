@@ -1,0 +1,26 @@
+{
+  "guest_name": "Samuel",
+  "searched_at": "2025-07-10T16:33:50.649672",
+  "search_results": [
+    {
+      "title": "Samuel Freedman | Columbia Journalism School",
+      "snippet": "Samuel G. Freedman is an award-winning author, columnist, and professor. A former columnist for The New York Times and a professor at Columbia University.",
+      "link": "https://journalism.columbia.edu/directory/samuel-freedman"
+    },
+    {
+      "title": "Samuel Shellabarger",
+      "snippet": "Samuel Shellabarger (18 May 1888 \u2013 21 March 1954) was an American educator and author of both scholarly works and best-selling historical novels.",
+      "link": "https://en.wikipedia.org/wiki/Samuel_Shellabarger"
+    },
+    {
+      "title": "Samuel Moyn | Department of History",
+      "snippet": "Bio: Samuel Moyn is the Kent Professor of Law and History at Yale University, where he also serves as head of Grace Hopper College.",
+      "link": "https://history.yale.edu/people/samuel-moyn"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

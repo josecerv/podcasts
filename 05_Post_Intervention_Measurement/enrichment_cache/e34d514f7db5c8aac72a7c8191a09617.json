@@ -1,0 +1,26 @@
+{
+  "guest_name": "Dat",
+  "searched_at": "2025-07-10T15:06:31.678044",
+  "search_results": [
+    {
+      "title": "Chris Caplice, Author at DAT Freight & Analytics - Blog",
+      "snippet": "Chris Caplice is the Chief Scientist at DAT iQ and FMIC, as well as the founder and co-director of the MIT Freight Lab. Chris also hosts the Freightvine podcast ...",
+      "link": "https://www.dat.com/blog/author/chris-caplice"
+    },
+    {
+      "title": "Dat",
+      "snippet": "Dat is a lively, engaging story of growing up in a refugee family, of big-time football, and of human struggle and success. About the Author. DAT NGUYEN, the ...",
+      "link": "https://www.tamupress.com/book/9781623490638/dat/"
+    },
+    {
+      "title": "Dr. Dat M. Nguyen",
+      "snippet": "Biography. Dr. Dat M. Nguyen is a researcher at the NIOD Institute for War, Holocaust and Genocide Studies. He holds a PhD in Sociocultural Anthropology ...",
+      "link": "https://www.niod.nl/en/staff/dat-nguyen"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

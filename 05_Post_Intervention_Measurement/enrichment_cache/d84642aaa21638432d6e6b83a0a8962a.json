@@ -1,0 +1,26 @@
+{
+  "guest_name": "Rash",
+  "searched_at": "2025-07-10T17:09:21.324561",
+  "search_results": [
+    {
+      "title": "Ron Rash",
+      "snippet": "Ron Rash (born September 25, 1953) is an American poet, short story writer and novelist and the Parris Distinguished Professor in Appalachian Cultural ...",
+      "link": "https://en.wikipedia.org/wiki/Ron_Rash"
+    },
+    {
+      "title": "Ronald Rash",
+      "snippet": "Biography. Ron Rash is the Parris Distinguished Professor in Appalachian Cultural Studies. His newest book, The Caretaker, was published in September 2023 ...",
+      "link": "https://www.wcu.edu/faculty/ronrash.aspx"
+    },
+    {
+      "title": "Ron Rash",
+      "snippet": "Born September 25, 1953, in Chester, SC, to parents who came to the from the North Carolina mountains to work at a cotton mill, Rash is a descendent of ...",
+      "link": "https://nclhof.org/inductees/2024-2/ron-rash/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

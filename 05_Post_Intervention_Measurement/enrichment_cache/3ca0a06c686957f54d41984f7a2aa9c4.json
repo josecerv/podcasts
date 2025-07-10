@@ -1,0 +1,26 @@
+{
+  "guest_name": "Wake Me",
+  "searched_at": "2025-07-10T14:59:08.132332",
+  "search_results": [
+    {
+      "title": "Video Book Club Interview: Felicia Grossman, Author of WAKE ...",
+      "snippet": "Today's guest is Felicia Grossman who is here promoting her latest book wake me most wickedly.",
+      "link": "https://www.youtube.com/watch?v=E6dNpcX29oc"
+    },
+    {
+      "title": "Wake Me When You Leave: Love and Encouragement via ...",
+      "snippet": "Wake Me When You Leave tells the awe-inspiring story of the visitations, dreams, and inexplicable synchronicities that make her realize that even after someone ...",
+      "link": "https://www.amazon.com/Wake-When-You-Leave-Encouragement/dp/0738768200"
+    },
+    {
+      "title": "WAKE ME AFTER THE APOCALYPSE",
+      "snippet": "That's going to be tricky if she's the only person left in the world. Wake Me After the Apocalypse is a tale of resilience and optimism at the end of the world.",
+      "link": "https://jordanrivet.com/wake-me-after-the-apocalypse/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

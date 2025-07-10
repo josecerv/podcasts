@@ -1,0 +1,26 @@
+{
+  "guest_name": "Mad Kate",
+  "searched_at": "2025-07-10T15:27:21.070358",
+  "search_results": [
+    {
+      "title": "MAD KATE is a DADA",
+      "snippet": "Mad Kate (www.alfabus.us) is a performance artist, musician, writer and sex worker based in Berlin. Her explorations of borders between bodies ...",
+      "link": "https://www.muthamagazine.com/2018/07/mad-kate-dada/"
+    },
+    {
+      "title": "Author Archives: Mad Kate",
+      "snippet": "Mad Kate (www.alfabus.us) is a performance artist, musician, writer and sex worker based in Berlin. Her explorations of borders between bodies and performance.",
+      "link": "https://www.muthamagazine.com/author/kathryn-fischer/"
+    },
+    {
+      "title": "BIOGRAPHY \u2013 MAD KATE | THE TIDE",
+      "snippet": "Mad Kate (they/them) is a performance artist, musician, writer and sex worker based in Berlin. Their explorations of borders between/within bodies and touch as ...",
+      "link": "https://madkatethetide.wordpress.com/about/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

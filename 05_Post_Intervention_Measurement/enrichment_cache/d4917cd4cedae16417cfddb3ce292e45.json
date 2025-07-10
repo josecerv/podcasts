@@ -1,0 +1,26 @@
+{
+  "guest_name": "Larissa",
+  "searched_at": "2025-07-10T15:48:29.045721",
+  "search_results": [
+    {
+      "title": "Larissa Lai",
+      "snippet": "Larissa Lai (born 1967) is an American-born Canadian novelist and literary critic. She is a recipient of the 2018 Lambda Literary Award for Lesbian Fiction.",
+      "link": "https://en.wikipedia.org/wiki/Larissa_Lai"
+    },
+    {
+      "title": "About",
+      "snippet": "Larissa Theule is the author of fiction and nonfiction books for children, including the magical realism chapter book Tove Under the Tree.",
+      "link": "https://www.larissatheule.com/contact"
+    },
+    {
+      "title": "Larissa Buchholz Biography",
+      "snippet": "Larissa Buchholz is a sociologist who works at the intersections of the sociology of art and culture, global and transnational sociology, and theory.",
+      "link": "https://larissabuchholz.soc.northwestern.edu/bio/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

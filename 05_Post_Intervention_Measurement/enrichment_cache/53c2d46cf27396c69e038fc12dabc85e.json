@@ -1,0 +1,26 @@
+{
+  "guest_name": "Unnamed Nurse",
+  "searched_at": "2025-07-10T15:50:17.201112",
+  "search_results": [
+    {
+      "title": "The Unnamed Nurse who Saved My Life During Breast ...",
+      "snippet": "God bless her noble work ethic. She was divine, and I am so grateful for her \u2014 the unnamed nurse, who is in a way anonymous, yet so personal.",
+      "link": "https://www.curetoday.com/view/the-unnamed-nurse-who-saved-my-life-during-breast-cancer"
+    },
+    {
+      "title": "The Biography of an Unknown Soldier by Andi Smith",
+      "snippet": "The unnamed nurse does what she believes is her part in the war\u2014working on the frontlines. In the moribund ward, she must care for soldiers during their ...",
+      "link": "https://www.goodreads.com/book/show/56303930-the-biography-of-an-unknown-soldier"
+    },
+    {
+      "title": "Life Lessons From My Phone",
+      "snippet": "I'll never forget the unnamed nurse who stayed calm and gentle while treating me during a dangerous post-surgery infection that could have ended ...",
+      "link": "https://www.curetoday.com/view/life-lessons-from-my-phone"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

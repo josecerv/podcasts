@@ -1,0 +1,26 @@
+{
+  "guest_name": "Dr. Cindy",
+  "searched_at": "2025-07-10T17:15:43.956132",
+  "search_results": [
+    {
+      "title": "Sales Keynote Speaker | Dr. Cindy",
+      "snippet": "Dr. Cindy is an international speaker, Wallstreet Journal Best Selling author and consultant, helping people and companies get what they want in work and in ...",
+      "link": "https://drcindy.com/"
+    },
+    {
+      "title": "About the First Lady of Sales - Dr. Cindy McGovern",
+      "snippet": "Dr. Cindy is a vetted sales professional with years of experience and a highly sought-after speaker. She has presented on the topics of Sales, Management, ...",
+      "link": "https://drcindy.com/about-dr-cindy-sales-keynote-speaker/"
+    },
+    {
+      "title": "Dr. Cindy",
+      "snippet": "Dr. Cindy. 557 likes \u00b7 37 talking about this. Speaker, Author, Practice Owner, and VP of Operations Inguardia Health.",
+      "link": "https://www.facebook.com/drcindyspeaks/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "StackOne",
+  "searched_at": "2025-07-10T15:24:16.142046",
+  "search_results": [
+    {
+      "title": "Company - We Fuel Innovation by Connecting Software",
+      "snippet": "We created StackOne to empower SaaS companies to build groundbreaking products that seamlessly connect with their customers' stacks.",
+      "link": "https://www.stackone.com/company"
+    },
+    {
+      "title": "Sales Jobs at StackOne | View Roles & Apply on Meritt",
+      "snippet": "At StackOne, we're redefining how businesses connect their software. Our embedded integration platform empowers B2B SaaS companies to build seamless, secure, ...",
+      "link": "https://app.meritt.io/company/1776c40c-d12e-4415-acb8-7e18655b39d0"
+    },
+    {
+      "title": "Ever wondered how StackOne started?",
+      "snippet": "Ever wondered how StackOne started? Here's the story, straight from our co-founder Romain Sestier! If you've ever struggled with the ...",
+      "link": "https://www.linkedin.com/posts/stackonehq_ever-wondered-how-stackone-started-heres-activity-7247893226014085120-cVXq"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

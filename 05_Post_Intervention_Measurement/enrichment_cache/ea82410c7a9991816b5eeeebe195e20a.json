@@ -1,0 +1,26 @@
+{
+  "guest_name": "Mark",
+  "searched_at": "2025-07-10T15:15:38.489809",
+  "search_results": [
+    {
+      "title": "Mark the Evangelist",
+      "snippet": "Mark the Evangelist also known as John Mark or Saint Mark, was the person who is traditionally ascribed to be the author of the Gospel of Mark.",
+      "link": "https://en.wikipedia.org/wiki/Mark_the_Evangelist"
+    },
+    {
+      "title": "Mark Edmundson",
+      "snippet": "Mark Edmundson is an American author and professor at the University of Virginia. He received a B.A from Bennington College in 1974 and a Ph.D from Yale ...",
+      "link": "https://en.wikipedia.org/wiki/Mark_Edmundson"
+    },
+    {
+      "title": "Author | Mark Buchanan",
+      "snippet": "Mark Buchanan\u200b is a pastor, author, and Associate Professor of Pastoral Theology at Ambrose University. His books include \"God Walk: Moving at the Speed of ...",
+      "link": "https://www.markbuchanan.net/home"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

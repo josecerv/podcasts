@@ -1,0 +1,26 @@
+{
+  "guest_name": "Tommy",
+  "searched_at": "2025-07-10T15:42:17.684099",
+  "search_results": [
+    {
+      "title": "Official Website of Tommy Spaulding | Author | Speaker | Leader",
+      "snippet": "Discover how Tommy Spaulding has transformed organizations worldwide through his expertise in building genuine and lasting relationships.",
+      "link": "https://tommyspaulding.com/"
+    },
+    {
+      "title": "Tommy Spaulding",
+      "snippet": "Thomas J. Spaulding Jr. (August 31, 1969) is an American author and president of Tommy Spaulding Companies LLC. His book It's Not Just Who You Know was ...",
+      "link": "https://en.wikipedia.org/wiki/Tommy_Spaulding"
+    },
+    {
+      "title": "About Tommy",
+      "snippet": "Tommy Spaulding is the founder and president of Tommy Spaulding Companies, a leadership development, speaking, training, and teambuilding organization based ...",
+      "link": "https://tommyspaulding.com/about/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

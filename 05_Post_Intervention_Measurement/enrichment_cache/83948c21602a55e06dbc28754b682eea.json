@@ -1,0 +1,26 @@
+{
+  "guest_name": "Arson Investigator",
+  "searched_at": "2025-07-10T17:05:52.228329",
+  "search_results": [
+    {
+      "title": "Greg Gorbett",
+      "snippet": "Greg Gorbett is a Professor in the Fire, Arson and Explosion ... He has served as the vice chair for the Fire and Arson Investigator Journal ...",
+      "link": "https://forensicfireinstitute.com/team/greg-gorbett/"
+    },
+    {
+      "title": "About",
+      "snippet": "Arson Investigator-Master Certified Fire Investigator. Bomb Technician. Instructor/Author/Lecturer. Author: \u201cArson Investigations in the Wildlands\u201d. Author ...",
+      "link": "https://www.arsonprofiler.com/about"
+    },
+    {
+      "title": "The Arsonist Profiles: Analyzing Arson Motives and Behavior",
+      "snippet": "Nordskog approaches this subject from a very unique perspective. He is the senior arson investigator for the Los Angeles Sheriff's Department (largest and ...",
+      "link": "https://www.amazon.com/Arsonist-Profiles-Analyzing-Motives-Behavior/dp/153098307X"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

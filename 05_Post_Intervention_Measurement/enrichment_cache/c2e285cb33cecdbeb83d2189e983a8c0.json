@@ -1,0 +1,26 @@
+{
+  "guest_name": "Julia",
+  "searched_at": "2025-07-10T17:07:12.741089",
+  "search_results": [
+    {
+      "title": "Julia Cameron",
+      "snippet": "Julia B. Cameron (born March 4, 1948) is an American teacher, author, artist, poet, playwright, novelist, filmmaker, composer, and journalist.",
+      "link": "https://en.wikipedia.org/wiki/Julia_Cameron"
+    },
+    {
+      "title": "Julia Dahl - Novelist, Journalist, Professor",
+      "snippet": "My name is Julia Dahl. I am a novelist, journalist, and professor. I offer coaching and editorial services for anyone with a story to tell.",
+      "link": "https://juliadahl.com/"
+    },
+    {
+      "title": "Dr. Julia Garcia: Mental Health Speaker for Students & Staff",
+      "snippet": "As a Doctor of Psychology, TEDx speaker, and author of The Five Habits of Hope (HarperCollins, 2025), Dr. Julia blends science and story to help students and ...",
+      "link": "https://topyouthspeakers.com/speakers-topics/julia-garcia"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

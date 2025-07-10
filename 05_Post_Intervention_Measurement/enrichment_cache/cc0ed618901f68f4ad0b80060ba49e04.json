@@ -1,0 +1,26 @@
+{
+  "guest_name": "Sheppard",
+  "searched_at": "2025-07-10T16:03:07.728133",
+  "search_results": [
+    {
+      "title": "Louis Sheppard: books, biography, latest update",
+      "snippet": "Louis Sheppard is a renowned motivational speaker, author, world traveler, and devout man of God. With a profound dedication to inspiring others.",
+      "link": "https://www.amazon.com/Louis-Sheppard/e/B0BVPXS9PY/ref=zg_bsnr_g_16638_d_sccl_16_bl/000-0000000-0000000"
+    },
+    {
+      "title": "Stephen M. Sheppard",
+      "snippet": "Sheppard (born 1963) is an American professor of law, legal historian, and editor. He is Dean Emeritus, and Charles E. Cant\u00fa Distinguished Professor of ...",
+      "link": "https://en.wikipedia.org/wiki/Stephen_M._Sheppard"
+    },
+    {
+      "title": "Kathleen Sheppard",
+      "snippet": "Kathleen Sheppard is a historian of science. She has written several books and articles, had a podcast (maybe she'll do that again), and loves to run.",
+      "link": "https://www.kathleensheppard.org/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "IVY",
+  "searched_at": "2025-07-10T15:43:25.589796",
+  "search_results": [
+    {
+      "title": "Bio",
+      "snippet": "Ivy Pochoda is the author of the critically acclaimed novels Wonder Valley, Visitation Street, These Women, and Sing Her Down which won the LA Times Book Prize.",
+      "link": "https://www.ivypochoda.com/bio"
+    },
+    {
+      "title": "Ivy Ruckman",
+      "snippet": "Ivy Ruckman (May 25, 1931 \u2013 June 8, 2021), formally Iva Mae Myers Ruckman, was an American author of books for children and young adults.",
+      "link": "https://en.wikipedia.org/wiki/Ivy_Ruckman"
+    },
+    {
+      "title": "Ivy Wilson: Department of English - Northwestern University",
+      "snippet": "Biography. Ivy Wilson (Ph.D. Yale University) teaches courses on the comparative literatures of the black diaspora and U.S. literary studies with a ...",
+      "link": "https://english.northwestern.edu/people/faculty/wilson-ivy.html"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

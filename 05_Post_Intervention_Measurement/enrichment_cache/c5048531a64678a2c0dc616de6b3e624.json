@@ -1,0 +1,26 @@
+{
+  "guest_name": "Teenager",
+  "searched_at": "2025-07-10T15:36:25.668552",
+  "search_results": [
+    {
+      "title": "Non-verbal teenager who wrote a book with his eyes says ...",
+      "snippet": "A teenager with severe cerebral palsy who wrote a book using his eyes has urged teachers not to underestimate their pupils.",
+      "link": "https://news.sky.com/story/non-verbal-teenager-who-wrote-a-book-with-his-eyes-says-hes-voice-of-the-voiceless-13327396"
+    },
+    {
+      "title": "American Teenager",
+      "snippet": "Drawing on hundreds of hours of on-the-ground interviews with them and the people in their communities, American Teenager paints a vivid portrait of what it's ...",
+      "link": "https://store.abramsbooks.com/products/american-teenager"
+    },
+    {
+      "title": "Our Adolescent Nation in \"Teenager\"",
+      "snippet": "Kody and Teal, the teenage lovebird runaways of Teenager, escape from New Jersey and make their way west after an unfortunate, but necessary, double homicide.",
+      "link": "https://chireviewofbooks.com/2022/05/16/teenager-bud-smith/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Austin",
+  "searched_at": "2025-07-10T15:24:53.212540",
+  "search_results": [
+    {
+      "title": "About - Michael W. Austin",
+      "snippet": "I'm a philosophy professor, author, and speaker. Most of my teaching, writing ... Austin. All rights reserved. Contact Me : Related Links: ABOUT \u00b7 BOOKS ...",
+      "link": "https://michaelwaustin.com/about/"
+    },
+    {
+      "title": "Austin Warren (scholar)",
+      "snippet": "Austin Warren (July 4, 1899 \u2013 August 20, 1986) was an American literary critic, author, and professor of English. Austin Warren. Born, (1899-07-04)July 4 ...",
+      "link": "https://en.wikipedia.org/wiki/Austin_Warren_(scholar)"
+    },
+    {
+      "title": "Home | Austin J. Franklin - Keynote Speaker, Author, and ...",
+      "snippet": "Austin J. Franklin is a renowned keynote speaker, author, and leadership expert. He is also the CEO and Co-founder of Good-Natured Life. The company was ...",
+      "link": "https://www.austinjordanfranklin.com/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

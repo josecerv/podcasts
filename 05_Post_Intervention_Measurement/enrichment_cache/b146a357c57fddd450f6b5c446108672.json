@@ -1,0 +1,26 @@
+{
+  "guest_name": "Kat",
+  "searched_at": "2025-07-10T14:55:09.843465",
+  "search_results": [
+    {
+      "title": "About Kat Armstrong",
+      "snippet": "Kat Armstrong was born in Houston, Texas, where the humidity ruins her Mexi-German curls. She is a powerful voice in today's generation\u2014a dynamic Bible teacher, ...",
+      "link": "https://www.katarmstrong.com/about"
+    },
+    {
+      "title": "About",
+      "snippet": "Kat Armas is a Cuban American writer and podcaster from Miami, FL. She holds a dual MDiv and MAT from Fuller Theological Seminary.",
+      "link": "https://katarmas.com/about"
+    },
+    {
+      "title": "Kat Richardson, Award-winning Author, and Freelance Editor",
+      "snippet": "Award-winning author Kat Richardson, editor, writing instructor, and coach. Bestselling author of the Greywalker paranormal detective novels.",
+      "link": "https://www.katrichardson.com/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

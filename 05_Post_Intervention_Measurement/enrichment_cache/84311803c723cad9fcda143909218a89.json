@@ -1,0 +1,26 @@
+{
+  "guest_name": "Isaac",
+  "searched_at": "2025-07-10T15:05:40.870124",
+  "search_results": [
+    {
+      "title": "Professor Isaac Prilleltensky",
+      "snippet": "Isaac conducts research on various aspects of well-being and has published 12 books and about 150 academic papers. He is also the recipient of multiple awards ...",
+      "link": "https://www.professorisaac.com/"
+    },
+    {
+      "title": "Isaac Arthur",
+      "snippet": "Isaac Albert Arthur (born September 20, 1980) is a science educator, YouTuber, futurist and president of the American National Space Society (NSS).",
+      "link": "https://en.wikipedia.org/wiki/Isaac_Arthur"
+    },
+    {
+      "title": "Isaac Kramnick | Department of Government - Cornell University",
+      "snippet": "Isaac Kramnick is the Richard J. Schwartz Professor of Government Emeritus at Cornell where he has taught since 1972. Prior to coming to Cornell he had taught ...",
+      "link": "https://government.cornell.edu/isaac-kramnick"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

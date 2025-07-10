@@ -1,0 +1,26 @@
+{
+  "guest_name": "Goose",
+  "searched_at": "2025-07-10T15:08:34.195394",
+  "search_results": [
+    {
+      "title": "Professor Goose Debunks Fairy Tales",
+      "snippet": "A STEM-themed picture book series narrated by the incomparable Professor Goose that aims to differentiate between the facts and fiction within fairy tales.",
+      "link": "https://www.penguinrandomhouse.ca/series/PDH/professor-goose-debunks-fairy-tales"
+    },
+    {
+      "title": "Professor Goose Debunks the Three Little Pigs by Paulette ...",
+      "snippet": "Mother Goose's fairy tales are NOT based in science, and her great niece Professor Goose thinks it's time to share the truth.",
+      "link": "https://www.cbc.ca/books/professor-goose-debunks-the-three-little-pigs-by-paulette-bourgeois-and-alex-g-griffiths-1.7168091"
+    },
+    {
+      "title": "Professor Goose Debunks Goldilocks and the Three Bears",
+      "snippet": "Professor Goose Debunks Goldilocks and the Three Bears. 1.0 1.0 out of 5 stars (1). 3.6 on Goodreads. (137). Book 1 of 2: Professor Goose Debunks Fairy Tales.",
+      "link": "https://www.amazon.ca/Professor-Goose-Debunks-Goldilocks-Three/dp/191539502X"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

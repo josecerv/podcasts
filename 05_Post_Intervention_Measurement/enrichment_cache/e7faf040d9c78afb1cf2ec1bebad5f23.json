@@ -1,0 +1,26 @@
+{
+  "guest_name": "Unnamed College Coach",
+  "searched_at": "2025-07-10T15:48:02.437170",
+  "search_results": [
+    {
+      "title": "Happiness Is a Warm Football Coach",
+      "snippet": "An unnamed college coach, quoted in The Los Angeles Times, explained the lack of interest by saying, \u201cIt's a mediocre job.\u201d Advertisement.",
+      "link": "https://www.nytimes.com/2008/11/02/sports/playmagazine/112carroll.html"
+    },
+    {
+      "title": "St. John's tabs Self assistant",
+      "snippet": "During the school's search, one unnamed college coach told the New York Post that St. John's needed to hire someone on good terms with everyone in the AAU ...",
+      "link": "https://www.chicagotribune.com/2004/04/14/st-johns-tabs-self-assistant/"
+    },
+    {
+      "title": "Portland Timbers part ways with head coach Giovanni Savarese",
+      "snippet": "And for the people out there who think 1) Marsch; 2) Klinsmann (????); or 3) an unnamed college coach waiting in the wings who is about to ...",
+      "link": "https://stumptownfooty.substack.com/p/portland-timbers-part-ways-with-head/comments"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

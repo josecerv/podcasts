@@ -1,0 +1,26 @@
+{
+  "guest_name": "some familiar voices",
+  "searched_at": "2025-07-10T15:15:03.099633",
+  "search_results": [
+    {
+      "title": "UOttawa English Department",
+      "snippet": "Dropping our first podcast for \"Writers-in-Residence\" featuring a full interview with Kate Heartfield and some familiar voices from the English Department. Give ...",
+      "link": "https://www.facebook.com/story.php?story_fbid=880727257372847&id=100063067430189"
+    },
+    {
+      "title": "Listen Up: Behind the Mic of the Podcast River Town",
+      "snippet": "It's like a love letter to the Missouri River, and if you love the river, chances are you'll hear some familiar voices. River Town is a ...",
+      "link": "https://bigmuddyspeakers.org/2025/02/behind-the-mic-river-town-podcast/"
+    },
+    {
+      "title": "Soo what's your take on AI generated voices in audiobooks ...",
+      "snippet": "So yes, you'll hear some familiar voices. Quantum never quite goes full Quasar, though it's more noticeable when he's excited. Aiden (aka ...",
+      "link": "https://www.facebook.com/groups/LitRPG.books/posts/8967792096577380/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

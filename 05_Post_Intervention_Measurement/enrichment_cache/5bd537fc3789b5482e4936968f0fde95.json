@@ -1,0 +1,26 @@
+{
+  "guest_name": "Sara",
+  "searched_at": "2025-07-10T16:24:24.713917",
+  "search_results": [
+    {
+      "title": "Sara Abou Rashed",
+      "snippet": "She is a poet, speaker, and storyteller. Originally from Haifa, Palestine, but was born and raised in Syria, Sara moved with her family to Columbus, Ohio in ...",
+      "link": "https://saraabourashed.com/"
+    },
+    {
+      "title": "Sara Franklin > Faculty > Community ...",
+      "snippet": "Sara Franklin is an oral historian and bestselling author whose work focuses on food and agriculture and its ties to popular culture, media, performance of ...",
+      "link": "https://gallatin.nyu.edu/people/faculty/sf1563.html"
+    },
+    {
+      "title": "Sara Wigal",
+      "snippet": "Sara Wigal is an Associate Professor and Director of Publishing at Belmont University. Through the Publishing program, she equips students with necessary skills ...",
+      "link": "https://www.belmont.edu/profiles/sara-wigal/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

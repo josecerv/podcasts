@@ -1,0 +1,26 @@
+{
+  "guest_name": "Crystal Lake",
+  "searched_at": "2025-07-10T17:36:52.031360",
+  "search_results": [
+    {
+      "title": "Crystal Lake, Ph.D.",
+      "snippet": "Crystal Lake, Ph.D. ... Crystal B. Lake completed her PhD in 2008 at the University of Missouri, specializing in eighteenth- and early nineteenth-century British ...",
+      "link": "https://people.wright.edu/crystal.lake"
+    },
+    {
+      "title": "Crystal B. Lake",
+      "snippet": "I'm the author of Artifacts: How We Think and Write About Found Objects and Professor of English Language and Literatures at Wright State University.",
+      "link": "https://crystallakephd.com/"
+    },
+    {
+      "title": "cv",
+      "snippet": "Employment History: 2019 \u2013 present: Professor English Language and ... \u201cArtifacts\u2014Q & A with author Crystal Lake.\u201d Johns Hopkins University Press ...",
+      "link": "https://crystallakephd.com/about-2/cv/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

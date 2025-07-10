@@ -1,0 +1,26 @@
+{
+  "guest_name": "Linsly",
+  "searched_at": "2025-07-10T14:54:33.149983",
+  "search_results": [
+    {
+      "title": "Noah Linsly | History of Our Private School in Wheeling",
+      "snippet": "The son of Josiah and Rachel Linsly, Noah Linsly was born at Branford, Conn., on Jan. 26, 1772. He was a graduate of Litchfield Law School and received his ...",
+      "link": "https://www.linsly.org/about/our-history/noah-linsly"
+    },
+    {
+      "title": "Noah Linsly - Wheeling WV History",
+      "snippet": "Noah Linsly, a native of Connecticut. The founder of the Lancasterian Academy. The friend of Youth and the benefactor of Mankind.",
+      "link": "https://www.ohiocountylibrary.org/wheeling-history/5218"
+    },
+    {
+      "title": "Our Wheeling History",
+      "snippet": "Founded in 1814, The Linsly School is the oldest preparatory school west of the Alleghenies. Its founder, Noah Linsly, coming from Connecticut to Wheeling to ...",
+      "link": "https://www.linsly.org/about/our-history"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

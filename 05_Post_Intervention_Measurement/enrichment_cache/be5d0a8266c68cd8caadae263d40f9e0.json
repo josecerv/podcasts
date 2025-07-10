@@ -1,0 +1,26 @@
+{
+  "guest_name": "Akiva",
+  "searched_at": "2025-07-10T16:05:24.295228",
+  "search_results": [
+    {
+      "title": "Rabbi Akiva",
+      "snippet": "Akiva ben Joseph also known as Rabbi Akiva (\u05e8\u05b7\u05d1\u05b4\u05bc\u05d9 \u05e2\u05b2\u05e7\u05b4\u05d9\u05d1\u05b8\u05d0), was a leading Jewish scholar and sage, a tanna of the latter part of the first century and the ...",
+      "link": "https://en.wikipedia.org/wiki/Rabbi_Akiva"
+    },
+    {
+      "title": "Rabbi Akiva Tatz",
+      "snippet": "Rabbi Dr. Akiva Tatz is an international lecturer and author of note. He has written five highly acclaimed works on the deeper aspects of Judaism.",
+      "link": "https://www.torahanytime.com/speakers/113"
+    },
+    {
+      "title": "Rabbi Akiva Tatz",
+      "snippet": "Rabbi Dr. Akiva Tatz is a South African born physician, author, and lecturer. He studied medicine in Johannesburg with elective work at Washington ...",
+      "link": "https://menuchapublishers.com/collections/rabbi-akiva-tatz?srsltid=AfmBOopVJc6Ojw_4RxM-1wtTRNYlRPdzBnTdx7_zJ-7eIDuSYkd5LhQM"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

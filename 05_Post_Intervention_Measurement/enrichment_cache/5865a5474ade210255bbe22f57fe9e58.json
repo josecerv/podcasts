@@ -1,0 +1,26 @@
+{
+  "guest_name": "Manjeet",
+  "searched_at": "2025-07-10T17:27:27.128025",
+  "search_results": [
+    {
+      "title": "Manjeet Birk - Feminist Institute of Social Transformation",
+      "snippet": "Manjeet Birk (she/her) is an interdisciplinary scholar whose work centers the lived experience of racialized and Indigenous girls and women in Canada.",
+      "link": "https://carleton.ca/fist/people/manjeet-birk/"
+    },
+    {
+      "title": "Manjeet Rege Gives Keynote Speech on Artificial Intelligence",
+      "snippet": "Manjeet Rege, a professor and chair of the Department of Software Engineering and Data Science at the University of St. Thomas, ...",
+      "link": "https://news.stthomas.edu/manjeet-rege-gives-keynote-speech-on-artificial-intelligence/"
+    },
+    {
+      "title": "Manjeet Ramgotra",
+      "snippet": "Manjeet Ramgotra is Senior Lecturer in Political Theory in the Department of Politics and International Studies at SOAS University of London (UK)",
+      "link": "https://isrf.org/people/manjeet-ramgotra"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

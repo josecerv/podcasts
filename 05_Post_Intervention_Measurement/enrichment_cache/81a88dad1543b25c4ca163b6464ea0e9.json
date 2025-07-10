@@ -1,0 +1,26 @@
+{
+  "guest_name": "Homeland Security Agent",
+  "searched_at": "2025-07-10T17:05:52.796664",
+  "search_results": [
+    {
+      "title": "Michael Poe",
+      "snippet": "When an Egyptian female archaeologist is kidnapped, Homeland Security agent Michael Poe is asked to look into the abduction. He will learn there is ...",
+      "link": "https://spyguysandgals.com/sgShowChar.aspx?id=1872"
+    },
+    {
+      "title": "MSU Criminal Justice Club hosts Homeland Security Agent",
+      "snippet": "MSU Criminal Justice Club hosts Homeland Security Agent. Minot State University's Criminal Justice Club invites the public to an exclusive speaker event with ...",
+      "link": "https://visitminot.org/event-calendar/msu-criminal-justice-club-hosts-homeland-security-agent/"
+    },
+    {
+      "title": "Minot State hosts talk by Homeland Security agent John ...",
+      "snippet": "Minot State hosts talk by Homeland Security agent John Armstrong ... Minot State University's Criminal Justice Club is hosting a speaker event ...",
+      "link": "https://nenorthdakotanews.com/stories/670622478-minot-state-hosts-talk-by-homeland-security-agent-john-armstrong"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

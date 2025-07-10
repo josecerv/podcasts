@@ -1,0 +1,26 @@
+{
+  "guest_name": "Arkham",
+  "searched_at": "2025-07-10T15:27:39.162477",
+  "search_results": [
+    {
+      "title": "Arkham",
+      "snippet": "Arkham is a fictional city situated in Massachusetts, United States. An integral part of the Lovecraft Country setting created by H. P. Lovecraft, Arkham is ...",
+      "link": "https://en.wikipedia.org/wiki/Arkham"
+    },
+    {
+      "title": "Hugo Strange | Arkham Wiki - Fandom",
+      "snippet": "Before Arkham Origins Incident. Hugo Strange studied to become a psychiatrist who specialized in analyzing the criminal mind, and it was possible that Batman ...",
+      "link": "https://arkhamcity.fandom.com/wiki/Hugo_Strange"
+    },
+    {
+      "title": "Professor Milo | Arkham Wiki - Fandom",
+      "snippet": "Professor Milo is a brilliant scientist appearing in Batman: Arkham Underworld who offers his assistance to the central gang and has a particular interest ...",
+      "link": "https://arkhamcity.fandom.com/wiki/Professor_Milo"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

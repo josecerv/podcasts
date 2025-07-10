@@ -1,0 +1,26 @@
+{
+  "guest_name": "April",
+  "searched_at": "2025-07-10T16:47:08.452579",
+  "search_results": [
+    {
+      "title": "Bio - APRIL HENRY, WRITER",
+      "snippet": "Short version: April Henry is the New York Times-bestselling author of 29 mysteries and thrillers for teens and adults. She lives in Portland, Oregon, ...",
+      "link": "https://www.aprilhenry.com/bio.html"
+    },
+    {
+      "title": "About April",
+      "snippet": "About April ... As a transracially adopted person (I am Black/bi-racial, adopted into a white family), raised in a predominately white environment, I live a life ...",
+      "link": "https://aprildinwoodie.com/about"
+    },
+    {
+      "title": "April Ayers Lawson | Clemson University College of Arts ...",
+      "snippet": "April Ayers Lawson is the author of Virgin And Other Stories, which was named a Best Book Of The Year by The Irish Times, Vice, New York Magazine ...",
+      "link": "https://www.clemson.edu/cah/about/facultybio.html?id=2500"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Demi",
+  "searched_at": "2025-07-10T15:08:16.113369",
+  "search_results": [
+    {
+      "title": "Demi (author)",
+      "snippet": "Demi (born Charlotte Dumaresq Hunt; September 2, 1942) is a children's book author and illustrator. During her career she has published over 300 titles.",
+      "link": "https://en.wikipedia.org/wiki/Demi_(author)"
+    },
+    {
+      "title": "Demi: books, biography, latest update",
+      "snippet": "Demi was born in Cambridge, Mass. She studied at the Instituto Allende in Guanajuato, Mexico, at Immaculate Heart College with Sisters Magdalen Mary and Sister ...",
+      "link": "https://www.amazon.com/stores/author/B000WQ0BMO"
+    },
+    {
+      "title": "Demi | Official Publisher Page",
+      "snippet": "Demi is the award-winning creator of numerous books for children, including The Empty Pot; Buddha; The Dalai Lama; The Legend of Saint Nicholas; Gandhi.",
+      "link": "https://www.simonandschuster.com/authors/Demi/707558"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

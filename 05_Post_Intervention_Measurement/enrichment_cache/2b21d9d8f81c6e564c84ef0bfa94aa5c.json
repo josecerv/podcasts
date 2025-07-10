@@ -1,0 +1,26 @@
+{
+  "guest_name": "Jazz",
+  "searched_at": "2025-07-10T14:49:19.599892",
+  "search_results": [
+    {
+      "title": "Please recommend jazz biographies/ autobiographies",
+      "snippet": "But the quintessential jazz bio that everyone should start with is 'Straight Life' by Art and Laurie Pepper - it's a white-knuckle ride!",
+      "link": "https://www.reddit.com/r/Jazz/comments/s46tzq/please_recommend_jazz_biographies_autobiographies/"
+    },
+    {
+      "title": "Ashley Kahn: Meet the Professor",
+      "snippet": "The university courses I first created for music majors and general college students alike\u2014players and non-players, jazz-focused or not\u2014were ...",
+      "link": "https://jazztimes.com/features/profiles/ashley-kahn-meet-the-professor/"
+    },
+    {
+      "title": "The Life and Music of Eric Dolphy \u2013 Jerry Jazz Musician",
+      "snippet": "\u2026..Eric Dolphy was one of jazz music's first true multi-instrumentalists, and a pioneer of avant-garde technique. His life cut short in 1964 at ...",
+      "link": "https://www.jerryjazzmusician.com/interview-with-jonathon-grasse-author-of-jazz-revolutionary-the-life-and-music-of-eric-dolphy/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

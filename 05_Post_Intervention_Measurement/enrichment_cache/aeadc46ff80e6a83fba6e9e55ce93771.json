@@ -1,0 +1,26 @@
+{
+  "guest_name": "Dr. Alice Prince",
+  "searched_at": "2025-07-10T17:14:45.254405",
+  "search_results": [
+    {
+      "title": "Dr. Alice Prince",
+      "snippet": "Dr. Alice Prince is a nationally recognized Catholic speaker, educator, and evangelist with over 15 years of experience in public ministry, retreat leadership, ...",
+      "link": "https://catholicspeakers.com/profiles/dr-alice-prince"
+    },
+    {
+      "title": "Dr. Alice Prince at Catholic Women Preach",
+      "snippet": "Dr. Alice Prince is a proud mother, wife, and dedicated family woman with three adult children and two precious dogs. She is an active member of the newly ...",
+      "link": "https://www.catholicwomenpreach.org/preacher/alice-prince"
+    },
+    {
+      "title": "Dr. Alice Prince",
+      "snippet": "Visionary / Author / Educator / Innovator. Dr. alice prince \u200b. what's new ... Prince is a notable Children's Author and loves to play the harp. She released ...",
+      "link": "http://www.dr-alice-prince.com/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

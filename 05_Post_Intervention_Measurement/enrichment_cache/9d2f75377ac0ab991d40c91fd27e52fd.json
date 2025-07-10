@@ -1,0 +1,26 @@
+{
+  "guest_name": "Shannon",
+  "searched_at": "2025-07-10T14:53:29.706827",
+  "search_results": [
+    {
+      "title": "About Shannon",
+      "snippet": "Shannon Popkin is a wife and mom, author and speaker, blogger and Bible teacher. Shannon loves to blend her gifts for humor and storytelling with her ...",
+      "link": "https://www.shannonpopkin.com/about-shannon/"
+    },
+    {
+      "title": "About Me",
+      "snippet": "Shannon Reed is a writer and professor living in a small town just outside Pittsburgh. Shannon grew up in Johnstown, Pennsylvania, and lived in Brooklyn for 14 ...",
+      "link": "https://www.shannonreed.org/about-me"
+    },
+    {
+      "title": "Shannon Anderson",
+      "snippet": "Shannon Anderson is an award-winning children's book author, professor, TEDX speaker, frequent keynote presenter, and certified brain coach.",
+      "link": "https://www.shannonisteaching.com/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

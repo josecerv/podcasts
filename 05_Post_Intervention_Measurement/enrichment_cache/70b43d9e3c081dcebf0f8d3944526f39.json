@@ -1,0 +1,26 @@
+{
+  "guest_name": "Shamoon",
+  "searched_at": "2025-07-10T16:40:10.441347",
+  "search_results": [
+    {
+      "title": "Shamoon Zamir - NYU Abu Dhabi",
+      "snippet": "Shamoon Zamir works in the areas of literature, photography and intellectual history. His study of the African American writer WEB Du Bois explored literature' ...",
+      "link": "https://nyuad.nyu.edu/en/academics/divisions/arts-and-humanities/faculty/shamoon-zamir.html"
+    },
+    {
+      "title": "Deborah Michelle Shamoon | About - NUS Discovery",
+      "snippet": "Deborah Shamoon is an Associate Professor in the Department of Japanese Studies. She was born and raised in the United States, and completed her MA at the ...",
+      "link": "https://discovery.nus.edu.sg/3275-deborah-michelle-shamoon"
+    },
+    {
+      "title": "Zain Shamoon",
+      "snippet": "Zain Shamoon completed his PhD in Human Development and Family Studies in Fall 2017 at Michigan State University. He also completed a Masters' degree in Couple ...",
+      "link": "https://www.antioch.edu/faculty/zain-shamoon/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": "Black",
+  "gender_confidence": 0.8,
+  "race_confidence": 0.7,
+  "additional_context": {}
+}

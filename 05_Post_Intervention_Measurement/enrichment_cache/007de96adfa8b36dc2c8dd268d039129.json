@@ -1,0 +1,26 @@
+{
+  "guest_name": "MJ",
+  "searched_at": "2025-07-10T15:40:48.544443",
+  "search_results": [
+    {
+      "title": "Professor MJ - Sports Investor: Smart sports betting",
+      "snippet": "Hello fellow sports fan, I'm Professor MJ! University professor. PhD in statistics. Proud dad of 2 young boys. I call myself a Sports Investor.",
+      "link": "https://www.professormj.com/"
+    },
+    {
+      "title": "Professor MJ",
+      "snippet": "National Hockey League picks by Professor MJ (statistics university professor, PhD in statistics, sports betting expert).",
+      "link": "https://www.youtube.com/channel/UCszNw7lw10C53SurBFmwBVQ"
+    },
+    {
+      "title": "M.J. Fievre",
+      "snippet": "My name is M.J. Fievre. I'm a writer, an educator, an editor, a poet, and a reader. My love for the written word started in Haiti. At sixteen years old, ...",
+      "link": "https://mjfievre.com/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

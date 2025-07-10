@@ -1,0 +1,26 @@
+{
+  "guest_name": "Robert",
+  "searched_at": "2025-07-10T15:00:11.133369",
+  "search_results": [
+    {
+      "title": "Robert Reich",
+      "snippet": "Robert Bernard Reich is an American professor, author, lawyer, and political commentator. He worked in the administrations of presidents Gerald Ford and ...",
+      "link": "https://en.wikipedia.org/wiki/Robert_Reich"
+    },
+    {
+      "title": "About Robert | Robert Holden, Ph.D ...",
+      "snippet": "Robert is a New York Times bestselling author of 14 books, and has presented two TEDx talks on The Tea Meditation and Destination Addiction.",
+      "link": "https://www.robertholden.com/about-robert/"
+    },
+    {
+      "title": "Robert Greene (American author)",
+      "snippet": "Robert Greene (born May 14, 1959) is an American author of books on strategy, power, and seduction. He has written seven international bestsellers, ...",
+      "link": "https://en.wikipedia.org/wiki/Robert_Greene_(American_author)"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

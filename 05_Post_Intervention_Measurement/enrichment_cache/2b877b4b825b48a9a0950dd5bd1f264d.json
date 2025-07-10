@@ -1,0 +1,26 @@
+{
+  "guest_name": "Jason",
+  "searched_at": "2025-07-10T14:53:18.247989",
+  "search_results": [
+    {
+      "title": "Jason Dorsey Biography: Researcher, Author and Keynote ...",
+      "snippet": "A pioneering researcher, Jason has led more than 150 research studies to solve the generational divide for the biggest brands, trade associations, and global ...",
+      "link": "https://jasondorsey.com/bio/"
+    },
+    {
+      "title": "Jason Stanley",
+      "snippet": "Jason Stanley (born 1969) is an American philosopher who was the Jacob Urowsky Professor of Philosophy at Yale University. He has accepted an appointment at ...",
+      "link": "https://en.wikipedia.org/wiki/Jason_Stanley"
+    },
+    {
+      "title": "Jason Lefebvre Author",
+      "snippet": "\u201cJason achieved the near impossible which was communicating to such a wide range of students in a fun, engaging and teachable way. We very much appreciated his ...",
+      "link": "http://www.jasonlefebvreauthor.com/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

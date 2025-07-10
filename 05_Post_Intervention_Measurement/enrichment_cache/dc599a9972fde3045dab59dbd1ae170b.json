@@ -1,0 +1,26 @@
+{
+  "guest_name": "Carlos",
+  "searched_at": "2025-07-10T15:03:28.980129",
+  "search_results": [
+    {
+      "title": "Learn About Carlos Whittaker - Advocate For Change",
+      "snippet": "Carlos Whittaker is bringing hope to humans all over the world. And he's pretty good at it: he's an author, podcaster, and global speaker backed by the ...",
+      "link": "https://www.carloswhittaker.com/about"
+    },
+    {
+      "title": "Carlos Castaneda | Biography, Books, & Facts",
+      "snippet": "Carlos Castaneda was a Peruvian-born anthropologist and writer who was considered a father of the New Age movement for his series of books based on the ...",
+      "link": "https://www.britannica.com/biography/Carlos-Castaneda"
+    },
+    {
+      "title": "Carlos Moore (writer)",
+      "snippet": "Carlos Moore (born 4 November 1942) is a writer, social researcher, professor and activist, dedicated to the study of African and Afro-American history and ...",
+      "link": "https://en.wikipedia.org/wiki/Carlos_Moore_(writer)"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Dr. Doug",
+  "searched_at": "2025-07-10T15:15:30.208248",
+  "search_results": [
+    {
+      "title": "Dr. Doug",
+      "snippet": "Doug Phillips is best known by friends and fans as \u201cDr. Doug,\u201d creator and host of the Alabama Public Television series, Discovering Alabama.",
+      "link": "https://www.discoveringalabama.org/dr-doug.html"
+    },
+    {
+      "title": "An Interview with Dr. Doug Lepley: From Dairy Farm ...",
+      "snippet": "Dr. Doug Lepley, English Literature Professor at Thomas College, shares his inspiring journey and passion that drives his work. Learn more.",
+      "link": "https://www.thomas.edu/an-interview-with-dr-doug-lepley-from-dairy-farm-to-professor-of-english/"
+    },
+    {
+      "title": "About - Dr. Doug Kaufman",
+      "snippet": "Dr. Doug Kaufman \u00b7 Coaching \u00b7 Speaking \u00b7 Interviews & Talks \u00b7 Books \u00b7 Quotes ... Psychologist with expertise in group dynamics and leadership, 6-time CEO, 5-time ...",
+      "link": "https://www.drdougkaufman.com/about"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

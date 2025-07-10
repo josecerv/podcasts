@@ -1,0 +1,26 @@
+{
+  "guest_name": "Shane",
+  "searched_at": "2025-07-10T15:48:33.739899",
+  "search_results": [
+    {
+      "title": "About Shane Snow: Author, Speaker, and Innovator",
+      "snippet": "Shane is a storyteller, teamwork keynote speaker, human behavior researcher, award-winning author and explorer who writes about how to think differently.",
+      "link": "https://shanesnow.com/about"
+    },
+    {
+      "title": "Bio \u2014 shane claiborne",
+      "snippet": "Shane Claiborne is a prominent speaker, activist, and best-selling author. Shane worked with Mother Teresa in Calcutta, and founded The Simple Way in ...",
+      "link": "http://www.shaneclaiborne.com/bio"
+    },
+    {
+      "title": "Biography",
+      "snippet": "Shane Dunphy (born 18 January 1973) is a child protection expert, author, journalist, musician, broadcaster and teacher. He worked as a child and social care ...",
+      "link": "https://shanedunphyauthor.org/biography/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

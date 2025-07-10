@@ -1,0 +1,26 @@
+{
+  "guest_name": "Samuels",
+  "searched_at": "2025-07-10T16:03:07.746619",
+  "search_results": [
+    {
+      "title": "Maurice Samuels - Department of French - Yale University",
+      "snippet": "Maurice Samuels specializes in the literature and culture of nineteenth-century France. He is broadly interested in investigating the origins of our cultural ...",
+      "link": "https://french.yale.edu/people/maurice-samuels"
+    },
+    {
+      "title": "L. K. Samuels",
+      "snippet": "LK Samuels (born December 7, 1951), also known as Lawrence Samuels, is an American author, classical liberal, and libertarian activist.",
+      "link": "https://en.wikipedia.org/wiki/L._K._Samuels"
+    },
+    {
+      "title": "Samuels, Andrew",
+      "snippet": "Andrew Samuels is a Jungian analyst, university professor, author, activist and political consultant. He is well known for his work at the interface of ...",
+      "link": "https://jungchicago.org/blog/speaker/samuels-andrew/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

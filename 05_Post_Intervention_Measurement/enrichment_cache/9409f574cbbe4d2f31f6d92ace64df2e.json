@@ -1,0 +1,26 @@
+{
+  "guest_name": "Blaque Dynamite",
+  "searched_at": "2025-07-10T16:24:05.936192",
+  "search_results": [
+    {
+      "title": "Blaque Dynamite",
+      "snippet": "Blaque Dynamite, a.k.a. Mike Mitchell, has given validity to the cliche that age is nothing more than a number. He began drumming at age 2, played in his ...",
+      "link": "https://ragman.org/blaque-dynamite"
+    },
+    {
+      "title": "Blaque Dynamite",
+      "snippet": "Home page of Blaque Dynamite, a jazz artist from FORT WORTH TEXAS. Blaque Dynamite is one of the most gifted drummers to ever walk the earth.",
+      "link": "https://blaquedynamite.com/home"
+    },
+    {
+      "title": "Mike Mitchell (drummer)",
+      "snippet": "Mike Mitchell (born 1994) also known as Blaque Dynamite, is an American drummer from Dallas, Texas, who plays across jazz, hip-hop, and jazz fusion.",
+      "link": "https://en.wikipedia.org/wiki/Mike_Mitchell_(drummer)"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

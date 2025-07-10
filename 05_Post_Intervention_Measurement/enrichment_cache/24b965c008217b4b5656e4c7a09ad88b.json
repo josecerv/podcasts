@@ -1,0 +1,26 @@
+{
+  "guest_name": "America Young",
+  "searched_at": "2025-07-10T16:16:37.695811",
+  "search_results": [
+    {
+      "title": "America Young",
+      "snippet": "America Young is an American actress, television director and stunt performer. She has been the current voice of Barbie in the Barbie Vlogger web series ...",
+      "link": "https://en.wikipedia.org/wiki/America_Young"
+    },
+    {
+      "title": "BIO - America Young",
+      "snippet": "America Young is currently working in Film, TV, Animation and Video Games, as a Director, stunt coordinator and stunt woman.",
+      "link": "https://americayoung.com/bio"
+    },
+    {
+      "title": "America Young",
+      "snippet": "America Young was born on 6 December 1984 in Santa Fe, New Mexico, USA. She is an actress and director, known for Girls! Girls! Girls! (2011), The ...",
+      "link": "https://www.imdb.com/name/nm0949440/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

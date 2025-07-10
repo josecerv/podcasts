@@ -1,0 +1,26 @@
+{
+  "guest_name": "Momo",
+  "searched_at": "2025-07-10T15:39:17.242802",
+  "search_results": [
+    {
+      "title": "Momo (novel)",
+      "snippet": "Momo, also known as The Grey Gentlemen or The Men in Grey, is a fantasy novel by Michael Ende, published in 1973. It is about the concept of time.",
+      "link": "https://en.wikipedia.org/wiki/Momo_(novel)"
+    },
+    {
+      "title": "Meet Momo! Children's Books Author Site for Arline Gray",
+      "snippet": "Momo's adventures are written by his human mom, Arline Gray. Arline taught second grade for thirty-five years in Avon Lake, Ohio and loved every minute of it!",
+      "link": "https://www.ohnomomo.com/"
+    },
+    {
+      "title": "Momo, Rome and A New Sense of Time - Michael Ende",
+      "snippet": "Momo took six years to write, although Ende often stopped work and turned to other projects, sometimes working on several texts at any one time. Michael Ende's ...",
+      "link": "https://michaelende.de/en/author/biography/momo-rome-and-new-sense-time"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

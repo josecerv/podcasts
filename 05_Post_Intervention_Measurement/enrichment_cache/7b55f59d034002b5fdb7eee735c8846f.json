@@ -1,0 +1,26 @@
+{
+  "guest_name": "Erick",
+  "searched_at": "2025-07-10T16:13:54.164884",
+  "search_results": [
+    {
+      "title": "About - Erick Rheam",
+      "snippet": "Hello, my name is Erick Rheam. I am a professional speaker and author. My vision is to help busy professional men and women rediscover their passion, so that ...",
+      "link": "https://erickrheam.com/about/"
+    },
+    {
+      "title": "Erick Gordon",
+      "snippet": "Erick Gordon is the Founding Director of the Student Press Initiative (SPI) at Teachers College, Columbia University, a professional development program for ...",
+      "link": "https://en.wikipedia.org/wiki/Erick_Gordon"
+    },
+    {
+      "title": "Erick D Langer",
+      "snippet": "Erick D. Langer is Professor of History at the Edmund A. Walsh School of Foreign Service. He teaches courses on Latin American History. He is the author, ...",
+      "link": "https://gufaculty360.georgetown.edu/s/contact/00336000014RYHNAA4/erick-langer"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

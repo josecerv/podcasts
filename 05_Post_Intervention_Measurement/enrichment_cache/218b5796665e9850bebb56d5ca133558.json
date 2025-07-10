@@ -1,0 +1,26 @@
+{
+  "guest_name": "Dr. Debbie",
+  "searched_at": "2025-07-10T14:59:34.154432",
+  "search_results": [
+    {
+      "title": "About | Crime Time with Dr. Debbie",
+      "snippet": "Dr. Debbie Goodman is a criminologist, published author, professor, radio show host and former TV show host. Prior to teaching in the Criminal Justice ...",
+      "link": "https://www.crimetimewithdrdebbie.com/about"
+    },
+    {
+      "title": "Book Debbie Silver for Speaking, Events and Appearances",
+      "snippet": "Biography. With 30 years spent as a teacher, staff development instructor ... Dr. Debbie Silver offers surprising new findings about fundamental ways we ...",
+      "link": "https://www.apbspeakers.com/speaker/debbie-silver/"
+    },
+    {
+      "title": "Dr. Debbie Silver | Speaker, Author, Humorist",
+      "snippet": "Dr. Debbie Silver is a funny, insightful, and boldly authentic speaker, author, and educator. Her dedicated study of learning theory and growth mindset",
+      "link": "https://debbiesilver.com/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

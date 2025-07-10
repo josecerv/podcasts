@@ -1,0 +1,26 @@
+{
+  "guest_name": "Amelia",
+  "searched_at": "2025-07-10T14:58:26.125839",
+  "search_results": [
+    {
+      "title": "Amelia Rhodes | Ministry Leader, Author, Speaker",
+      "snippet": "Amelia Rhodes. Ministry Leader, Author, Speaker. Menu. Home \u00b7 Contact \u00b7 Welcome. Welcome! I'm so glad you're here. I'm a ministry leader, Bible teacher and ...",
+      "link": "https://www.ameliarhodes.com/"
+    },
+    {
+      "title": "Amelia Kelley, PhD",
+      "snippet": "Amelia Kelley is a trauma-informed therapist, author, podcaster, researcher, and certified meditation and yoga instructor. Her specialties include art therapy, ...",
+      "link": "https://www.penguinrandomhouse.com/authors/2292770/amelia-kelley-phd/"
+    },
+    {
+      "title": "Amelia Atwater-Rhodes",
+      "snippet": "Amelia Holt Atwater-Rhodes (born April 16, 1984), known professionally as Amelia Atwater-Rhodes, is an American author of fantasy and young adult literature ...",
+      "link": "https://en.wikipedia.org/wiki/Amelia_Atwater-Rhodes"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

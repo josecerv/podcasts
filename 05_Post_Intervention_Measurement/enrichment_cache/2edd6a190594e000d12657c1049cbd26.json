@@ -1,0 +1,26 @@
+{
+  "guest_name": "Peter Tiehuis",
+  "searched_at": "2025-07-10T15:00:25.655978",
+  "search_results": [
+    {
+      "title": "BIOGRAPHY",
+      "snippet": "Peter Tiehuis, born in Almelo on June 15, 1956. At the age of nine he started to play classical guitar, which got succeeded some years later by the electric.",
+      "link": "https://petertiehuis.nl/bio/"
+    },
+    {
+      "title": "Peter Tiehuis",
+      "snippet": "One of Holland's leading guitarplayers of the last decades is Peter Tiehuis, born in Almelo on June 15, 1956. At the age of nine he started to play classical ...",
+      "link": "https://petertiehuis.nl/"
+    },
+    {
+      "title": "Peter Tiehuis - Biography",
+      "snippet": "Peter Tiehuis is known for De Ep Oorklep Show (1987), Wishful thinking (2017) and Kroamschudd'n in Mariaparochie (1988).",
+      "link": "https://m.imdb.com/name/nm3611069/bio/?ref_=nm_ov_bio_sm"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

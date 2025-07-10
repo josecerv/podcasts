@@ -1,0 +1,26 @@
+{
+  "guest_name": "Jim Simons",
+  "searched_at": "2025-07-10T17:37:19.921475",
+  "search_results": [
+    {
+      "title": "Jim Simons",
+      "snippet": "Jim Simons ; Massachusetts Institute of Technology (BS) University of California, Berkeley (MS, PhD) \u00b7 Hedge fund manager, investor, mathematician, philanthropist.",
+      "link": "https://en.wikipedia.org/wiki/Jim_Simons"
+    },
+    {
+      "title": "Remembering the Life and Careers of Jim Simons",
+      "snippet": "Jim Simons led a life driven by curiosity. Born in Newton, Massachusetts, on April 25, 1938, he showed an early affinity for mathematics.",
+      "link": "https://www.simonsfoundation.org/2024/05/10/remembering-the-life-and-careers-of-jim-simons/"
+    },
+    {
+      "title": "Who Is Jim Simons? What Is Quantitative Analysis?",
+      "snippet": "Jim Simons is a renowned mathematician and investor. Known as the \"Quant King,\" he is the founder of Renaissance Technologies and the Medallion Fund.",
+      "link": "https://www.investopedia.com/articles/investing/030516/jim-simons-success-story-net-worth-education-top-quotes.asp"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

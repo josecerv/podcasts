@@ -1,0 +1,26 @@
+{
+  "guest_name": "Coach B",
+  "searched_at": "2025-07-10T15:15:32.300694",
+  "search_results": [
+    {
+      "title": "Coach B. Sports Academy: books, biography, latest update",
+      "snippet": "Coach B. is an award-winning Football Quarterback, Lacrosse Midfielder, and Basketball Guard who now coaches and instructs teams, players, and other coaches at ...",
+      "link": "https://www.amazon.com/stores/author/B0BFYF9P35/about"
+    },
+    {
+      "title": "FunTimes Magazine - Coach B. Wright is a certified life ...",
+      "snippet": "Coach B. Wright is a certified life coach, published author, transformational speaker, and podcast host dedicated to helping women break free from ...",
+      "link": "https://m.facebook.com/FuntimesMagazine/photos/coach-b-wright-is-a-certified-life-coach-published-author-transformational-speak/1219478683515969/"
+    },
+    {
+      "title": "About - Coach B Patel",
+      "snippet": "Coach B is a sought after speaker and consultant, as well as proving to be a mentor for coaches across all sports. He currently serves as the Associate ...",
+      "link": "https://www.coachbpatel.com/about"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

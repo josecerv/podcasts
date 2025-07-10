@@ -1,0 +1,26 @@
+{
+  "guest_name": "HAFT",
+  "searched_at": "2025-07-10T14:58:05.625713",
+  "search_results": [
+    {
+      "title": "Jeremy R. Haft",
+      "snippet": "Haft (born July 19, 1970) is an American author, teacher, and businessman. ... Haft was an adjunct professor at Georgetown University from 2011-2018.",
+      "link": "https://en.wikipedia.org/wiki/Jeremy_R._Haft"
+    },
+    {
+      "title": "Tim Haft: books, biography, latest update",
+      "snippet": "Tim Haft was born in 1960 in Adrian, Michigan, but got bored rather quickly so moved his family to New York City in 1961.",
+      "link": "https://www.amazon.com/stores/author/B000API1SS"
+    },
+    {
+      "title": "Chris Haft (@goodforball) / X",
+      "snippet": "I'm father to Samantha Allen & Stephanie Haft, veteran of covering MLB for nearly 30 years & author of 3 well-reviewed but rarely bought books on the SF Giants.",
+      "link": "https://x.com/goodforball?lang=en"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

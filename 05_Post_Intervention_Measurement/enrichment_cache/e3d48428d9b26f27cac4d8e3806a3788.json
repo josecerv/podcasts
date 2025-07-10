@@ -1,0 +1,26 @@
+{
+  "guest_name": "Shavit",
+  "searched_at": "2025-07-10T15:49:49.222696",
+  "search_results": [
+    {
+      "title": "Yaacov Shavit",
+      "snippet": "His main fields of study are the history of modern Israel and modern Jewish intellectual and cultural history. Shavit has also written about the Afrocentrism ...",
+      "link": "https://en.wikipedia.org/wiki/Yaacov_Shavit"
+    },
+    {
+      "title": "Uriya Shavit",
+      "snippet": "Uriya Shavit (Hebrew: \u05d0\u05d5\u05e8\u05d9\u05d4 \u05e9\u05d1\u05d9\u05d8; born June 1975) is an Israeli author and Full Professor at Tel Aviv University (TAU). ... Shavit wrote this book together with ...",
+      "link": "https://en.wikipedia.org/wiki/Uriya_Shavit"
+    },
+    {
+      "title": "Nir Shavit",
+      "snippet": "Nir Shavit received B.Sc. and M.Sc. degrees in Computer Science from the Technion - Israel Institute of Technology in 1984 and 1986, and a Ph.D. in Computer ...",
+      "link": "https://www.csail.mit.edu/person/nir-shavit"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

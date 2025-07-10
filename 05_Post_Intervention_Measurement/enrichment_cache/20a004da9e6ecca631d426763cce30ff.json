@@ -1,0 +1,26 @@
+{
+  "guest_name": "Arkells",
+  "searched_at": "2025-07-10T17:26:44.878620",
+  "search_results": [
+    {
+      "title": "Arkells",
+      "snippet": "Arkells is a Canadian rock band, formed in Hamilton, Ontario. In 2006, they signed with Dine Alone Records, and have since signed with Universal Music ...",
+      "link": "https://en.wikipedia.org/wiki/Arkells"
+    },
+    {
+      "title": "Max Kerman of Arkells on his new memoir, Try Hard",
+      "snippet": "The indie rock frontman talks growing up downtown, the changing nature of the music business and the inspiration behind his first book ... Arkells ...",
+      "link": "https://torontolife.com/culture/max-kerman-of-arkells-on-his-new-memoir-try-hard/"
+    },
+    {
+      "title": "Arkells frontman shifts from music to writing his 1st book",
+      "snippet": "Max Kerman, frontman of the Canadian rock band Arkells, talks about his debut book, Try Hard: Creative Work in Progress.",
+      "link": "https://www.youtube.com/watch?v=XNljzjvicPA"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

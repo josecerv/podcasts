@@ -1,0 +1,26 @@
+{
+  "guest_name": "Garbage",
+  "searched_at": "2025-07-10T16:44:07.227240",
+  "search_results": [
+    {
+      "title": "The Garbage Poems \u2013 Anna Swanson",
+      "snippet": "I wrote poems about my experience at the swimming hole using text transcribed from this garbage, allowing my writing to be shaped by the limited vocabulary of ...",
+      "link": "https://www.garbagepoems.com/about.php"
+    },
+    {
+      "title": "Author wins defamation case against Regina professor ...",
+      "snippet": "A university professor who called a book \u201cracist garbage\u201d on social media and was part of a campaign to cancel the author's bookstore events ...",
+      "link": "https://www.theglobeandmail.com/canada/education/article-defamation-case-regina-professor-racist-comment/"
+    },
+    {
+      "title": "Author wins lawsuit against U of Regina professor who ...",
+      "snippet": "Author wins lawsuit against U of Regina professor who called book 'racist garbage'. Author Candis McLean asked for $165,642 in damages. A ...",
+      "link": "https://www.cbc.ca/news/canada/saskatchewan/candis-mclean-defamation-lawsuit-1.7564833"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

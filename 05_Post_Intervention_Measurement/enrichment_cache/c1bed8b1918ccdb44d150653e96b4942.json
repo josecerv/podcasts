@@ -1,0 +1,26 @@
+{
+  "guest_name": "Brett",
+  "searched_at": "2025-07-10T15:19:25.864014",
+  "search_results": [
+    {
+      "title": "Brett Bartholomew: Performance Coach, Author and Keynote ...",
+      "snippet": "Brett Bartholomew is a Performance Coach, Author, Speaker and Founder of the leadership development company, Art of Coaching\u2122",
+      "link": "https://brettbartholomew.net/"
+    },
+    {
+      "title": "About \u2014 Brett McCracken",
+      "snippet": "A graduate of Wheaton College and UCLA (M.A. in Cinema & Media Studies), Brett lives in Santa Ana, California with his wife Kira and three children. He attends ...",
+      "link": "https://www.brettmccracken.com/about"
+    },
+    {
+      "title": "About Brett - Author Brett King",
+      "snippet": "The official site for Brett King, author of The RADIX and The FALSE DOOR.",
+      "link": "http://www.authorbrettking.com/brett.php"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

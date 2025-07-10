@@ -1,0 +1,26 @@
+{
+  "guest_name": "Unnamed Doctor of Music Theory",
+  "searched_at": "2025-07-10T16:33:45.777239",
+  "search_results": [
+    {
+      "title": "Heinrich Schenker",
+      "snippet": "Heinrich Schenker (19 June 1868 \u2013 14 January 1935) was an Austrian music theorist whose writings have had a profound influence on subsequent musical analysis.",
+      "link": "https://en.wikipedia.org/wiki/Heinrich_Schenker"
+    },
+    {
+      "title": "Hermeto Pascoal's Universal Music Flows Like Water in ...",
+      "snippet": "Hermeto Pascoal, the Brazilian-born multi-instrumentalist/composer/orchestrator, is one of the world's most prolific creative forces.",
+      "link": "https://downbeat.com/news/detail/hermeto-pascoals-universal-music-flows-like-water-in-windy-city"
+    },
+    {
+      "title": "Kevin Swinden",
+      "snippet": "I received my Bachelor of Music degree from the University of Western Ontario and PhD from the State University of New York in Buffalo.",
+      "link": "https://www.wlu.ca/academics/faculties/faculty-of-music/faculty-profiles/kevin-swinden/index.html"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

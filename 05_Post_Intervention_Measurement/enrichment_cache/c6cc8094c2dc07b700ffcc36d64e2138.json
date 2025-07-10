@@ -1,0 +1,26 @@
+{
+  "guest_name": "Pedro",
+  "searched_at": "2025-07-10T15:21:43.284988",
+  "search_results": [
+    {
+      "title": "About \u2014 Pedro LaTorre",
+      "snippet": "Pedro LaTorre, now in his mid-30s has been speaking professionally for nearly two decades. Mentored by renowned speaker Reggie Dabbs.",
+      "link": "https://www.pedrolatorre.com/about"
+    },
+    {
+      "title": "Pedro Martin",
+      "snippet": "The son of an immigrant sharecropper and one of nine kids, Pedro spent his childhood in the strawberry fields of the Monterey Bay Area. He grew up with a talent ...",
+      "link": "https://theauthorvillage.com/presenters/pedro-martin/"
+    },
+    {
+      "title": "Pedro A. Regalado | Department of History",
+      "snippet": "Pedro A. Regalado is Assistant Professor of History at Stanford University where he researches and teaches the history of race, immigration, planning, and ...",
+      "link": "https://history.stanford.edu/people/pedro-regalado"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

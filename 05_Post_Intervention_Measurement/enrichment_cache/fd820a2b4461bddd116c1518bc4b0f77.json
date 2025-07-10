@@ -1,0 +1,26 @@
+{
+  "guest_name": "William",
+  "searched_at": "2025-07-10T16:45:08.374850",
+  "search_results": [
+    {
+      "title": "William Arthur Ward",
+      "snippet": "William Arthur Ward (December 17, 1921 \u2013 March 30, 1994) was an American motivational writer. He wrote over 4,000 epigrams, or positive sayings, ...",
+      "link": "https://en.wikipedia.org/wiki/William_Arthur_Ward"
+    },
+    {
+      "title": "Dr. William Forstchen",
+      "snippet": "William Forstchen serves as a professor of history and writing at Montreat College. He earned his B.A. from Rider College; he completed his M.A. and Ph.D ...",
+      "link": "https://www.montreat.edu/biography/william-forstchen/"
+    },
+    {
+      "title": "Meet William Hartwick | Author and Motivational Speaker",
+      "snippet": "Meet William Hartwick | Author and Motivational Speaker \u00b7 Hi William, we'd love to hear about how you approach risk and risk-taking \u00b7 Alright, so ...",
+      "link": "https://shoutoutmiami.com/meet-william-hartwick-author-and-motivational-speaker/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

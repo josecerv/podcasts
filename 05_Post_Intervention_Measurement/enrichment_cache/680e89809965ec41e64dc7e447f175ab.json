@@ -1,0 +1,26 @@
+{
+  "guest_name": "Laura",
+  "searched_at": "2025-07-10T15:41:29.001092",
+  "search_results": [
+    {
+      "title": "Bio - New York Times Best Selling Author ... - Laura Munson",
+      "snippet": "Best selling author Laura Munson, Teacher, Public Speaker, Founder of Haven Writing Programs, Writing Workshop & Writing Retreat.",
+      "link": "https://lauramunson.com/bio/"
+    },
+    {
+      "title": "Who Is Laura Vanderkam? Writer, Author & Speaker",
+      "snippet": "Laura Vanderkam helps people spend more time on what matters, and less on what doesn't. Laura is the author of several time management and productivity books.",
+      "link": "https://lauravanderkam.com/about/"
+    },
+    {
+      "title": "About Laura Davis - Author, Writer & Teacher",
+      "snippet": "\"Laura is a gifted writing teacher. Working with her has changed my relationship to writing, making my words more natural and spontaneous. I have begun to ...",
+      "link": "https://lauradavis.net/about/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

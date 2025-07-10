@@ -1,0 +1,26 @@
+{
+  "guest_name": "Sandy",
+  "searched_at": "2025-07-10T16:41:23.697652",
+  "search_results": [
+    {
+      "title": "Sandy Tolan | USC Annenberg",
+      "snippet": "Sandy Tolan is the author of three books, including the international bestseller The Lemon Tree, and has reported from 40 countries.",
+      "link": "https://annenberg.usc.edu/faculty/sandy-tolan"
+    },
+    {
+      "title": "SANDY TOLAN",
+      "snippet": "Sandy is an award-winning radio and print journalist, and a recognized media expert and speaker on issues that affect the people of Palestine and Israel. Since ...",
+      "link": "https://sandytolan.com/"
+    },
+    {
+      "title": "Sandy Grande | Department of Political Science",
+      "snippet": "Sandy Grande is a Professor of Political Science and Native American and Indigenous Studies at the University of Connecticut",
+      "link": "https://polisci.uconn.edu/person/sandy-grande/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

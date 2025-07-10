@@ -1,0 +1,26 @@
+{
+  "guest_name": "Mike",
+  "searched_at": "2025-07-10T14:53:29.637528",
+  "search_results": [
+    {
+      "title": "Meet Mike Robbins",
+      "snippet": "As an expert in teamwork, leadership, and emotional intelligence, Mike delivers keynotes and seminars (both in-person and virtually) that empower people, ...",
+      "link": "https://mike-robbins.com/about/"
+    },
+    {
+      "title": "Mike Dooley",
+      "snippet": "Mike Dooley (born 7 February 1961, Orange, California) is a New York Times bestselling author, speaker, and entrepreneur in the philosophical New Thought ...",
+      "link": "https://en.wikipedia.org/wiki/Mike_Dooley"
+    },
+    {
+      "title": "Mike Dooley - TUT",
+      "snippet": "Mike Dooley is a New York Times best-selling author, metaphysical teacher, and creator of the wildly popular \u201cNotes from the Universe\u201d",
+      "link": "https://www.tut.com/team/mike-dooley/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

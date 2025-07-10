@@ -1,0 +1,26 @@
+{
+  "guest_name": "Alex Myers",
+  "searched_at": "2025-07-10T17:02:43.508845",
+  "search_results": [
+    {
+      "title": "Alex Myers",
+      "snippet": "Alex Myers (born c.1979) is an American author, educator and transgender rights activist. Alex Myers. Born, c.1979. Paris, Maine, U.S.. Education.",
+      "link": "https://en.wikipedia.org/wiki/Alex_Myers"
+    },
+    {
+      "title": "ABOUT - ALEX MYERS",
+      "snippet": "Alex Myers is a writer, teacher, and speaker. Born and raised in Paris, Maine, Alex was raised as a girl (Alice) and left Maine to attend boarding school.",
+      "link": "https://alexmyerswriting.com/about/"
+    },
+    {
+      "title": "Alex Myers",
+      "snippet": "Alex Myers fights for inclusivity, equality and plain old human goodness. Myers was Exeter's first openly transgender student, attending as a girl for three ...",
+      "link": "http://exeter.edu/people/alex-myers/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

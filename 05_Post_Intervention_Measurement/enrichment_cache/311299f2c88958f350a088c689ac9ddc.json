@@ -1,0 +1,26 @@
+{
+  "guest_name": "Jaffee Judah",
+  "searched_at": "2025-07-10T15:01:03.333348",
+  "search_results": [
+    {
+      "title": "Ras Jaffee Judah: HOME",
+      "snippet": "My name is Ras Jaffee Judah, and I'm a podcast host, public speaker, and advocate for sustainability, hip-hop, and the arts. I'm particularly passionate about ...",
+      "link": "https://www.rasjaffeejudah.com/"
+    },
+    {
+      "title": "WHO AM I | Ras Jaffee Judah",
+      "snippet": "Artist, Author, Model, and Eco Hood Healer! Tap in with Ras Jaffee Judah and learn more about his journey.",
+      "link": "https://www.rasjaffeejudah.com/who-am-i"
+    },
+    {
+      "title": "Jaffee Judah",
+      "snippet": "Jaffee Judah ... Jaffee is the community garden coordinator for The Nashville Food Project, and he manages two gardens for TNFP: McGruder Garden and Mill Ridge.",
+      "link": "https://www.tnlocalfood.org/jaffee-judah"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

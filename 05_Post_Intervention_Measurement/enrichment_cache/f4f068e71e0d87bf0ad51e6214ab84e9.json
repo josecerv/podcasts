@@ -1,0 +1,26 @@
+{
+  "guest_name": "Angel",
+  "searched_at": "2025-07-10T14:57:50.031746",
+  "search_results": [
+    {
+      "title": "Angel Parham, Ph.D. - Professor / Writer / Speaker",
+      "snippet": "Angel Adams Parham is Associate Professor of Sociology and senior fellow at the Institute for Advanced Studies in Culture (IASC) at the University of Virginia.",
+      "link": "https://angelparham.com/"
+    },
+    {
+      "title": "Roger Angel",
+      "snippet": "James Roger Prior Angel (born February 7, 1941) is a British-American astrophysicist known for his contributions to astronomy and the design and fabrication ...",
+      "link": "https://en.wikipedia.org/wiki/Roger_Angel"
+    },
+    {
+      "title": "Meet Jackie + Bobby Angel | Catholic Speakers",
+      "snippet": "Jackie + Bobby Angel are Catholic speakers, authors, and podcast hosts with years of ministry experience, sharing the Catholic faith in a fun and relatable ...",
+      "link": "https://jackieandbobby.com/about"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

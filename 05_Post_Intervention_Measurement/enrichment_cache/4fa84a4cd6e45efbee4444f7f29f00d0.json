@@ -1,0 +1,26 @@
+{
+  "guest_name": "Dolly Parton",
+  "searched_at": "2025-07-10T15:04:02.376636",
+  "search_results": [
+    {
+      "title": "Dolly Parton",
+      "snippet": "Dolly Parton ; Singer; songwriter; musician; actress; philanthropist; businesswoman \u00b7 1956\u2013present \u00b7 Carl Dean. \u200b. \u200b. ( m. \u00b7 1966; died 2025)\u200b \u00b7 Bill Owens (uncle) ...",
+      "link": "https://en.wikipedia.org/wiki/Dolly_Parton"
+    },
+    {
+      "title": "Dolly Parton - Country Singers",
+      "snippet": "Dolly Parton is a Grammy-winning musical icon whose powerful voice and songwriting skills have established her as a presence on the country and pop music ...",
+      "link": "https://www.biography.com/musicians/dolly-parton"
+    },
+    {
+      "title": "Life & Career",
+      "snippet": "Dolly Parton \u2013 Her life and career together make a rags-to-rhinestones story which began on January 19, 1946. Born the fourth child of 12, Dolly grew up in ...",
+      "link": "https://dollyparton.com/about-dolly-parton"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

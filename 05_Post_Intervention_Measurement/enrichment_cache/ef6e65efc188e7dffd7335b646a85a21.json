@@ -1,0 +1,26 @@
+{
+  "guest_name": "Thomas",
+  "searched_at": "2025-07-10T15:45:57.673723",
+  "search_results": [
+    {
+      "title": "Eric Thomas (motivational speaker)",
+      "snippet": "Eric D. Thomas (born September 3, 1970) is an American motivational speaker, author, consultant, and minister. Speeches by Thomas are popular on YouTube.",
+      "link": "https://en.wikipedia.org/wiki/Eric_Thomas_(motivational_speaker)"
+    },
+    {
+      "title": "Gary Thomas (author)",
+      "snippet": "Gary L. Thomas (born October 24, 1961) is an American evangelical minister and writer of Christian literature.",
+      "link": "https://en.wikipedia.org/wiki/Gary_Thomas_(author)"
+    },
+    {
+      "title": "About | dr. p.l. (paul) thomas",
+      "snippet": "P.L. Thomas, Professor of Education (Furman University, Greenville SC), taught high school English in rural South Carolina before moving to teacher education.",
+      "link": "https://radicalscholarship.com/about/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

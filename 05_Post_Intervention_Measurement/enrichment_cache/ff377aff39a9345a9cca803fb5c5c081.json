@@ -1,0 +1,26 @@
+{
+  "guest_name": "Luca",
+  "searched_at": "2025-07-10T17:33:14.459979",
+  "search_results": [
+    {
+      "title": "Falciola, Luca | Department of History",
+      "snippet": "Biography. Luca Falciola specializes in the history of social movements, radicalism, and political violence, with a focus on Europe and the United States ...",
+      "link": "https://history.columbia.edu/person/falciola-luca/"
+    },
+    {
+      "title": "About Luca",
+      "snippet": "Luca Dellanna is a management advisor and the author of more than ten books. He has been featured on Nudgestock, the largest behavioral sciences conference, ...",
+      "link": "https://luca-dellanna.com/about/"
+    },
+    {
+      "title": "Francis Luca | FIU Steven J. Green School of International ...",
+      "snippet": "Professor Luca is an ethnohistorian specializing in colonial North and Latin America, and U.S. history in the era of the New Deal and Good Neighbor policy ...",
+      "link": "https://sipa.fiu.edu/people/faculty/history/luca-francis.html"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

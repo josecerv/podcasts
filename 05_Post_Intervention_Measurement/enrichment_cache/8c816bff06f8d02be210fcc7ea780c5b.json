@@ -1,0 +1,26 @@
+{
+  "guest_name": "Unnamed Church Music Director",
+  "searched_at": "2025-07-10T16:33:43.756808",
+  "search_results": [
+    {
+      "title": "The Man Who Brought Harmony to Billy Graham's Ministry",
+      "snippet": "William Martin, Music director Cliff Barrows served for decades with a peaceful spirit and joyful song.",
+      "link": "https://www.christianitytoday.com/2016/11/cliff-barrows-music-director-harmony-to-billy-graham/"
+    },
+    {
+      "title": "Longtime music director at Michigan church fired for same- ...",
+      "snippet": "Fred Szczepanski said he was fired on Oct. 18 by the Rev. Michael Lingaur for marrying his longtime partner in a same-sex ceremony in Nevada in 2020.",
+      "link": "https://www.nbcnews.com/nbc-out/out-news/longtime-music-director-michigan-church-fired-sex-marriage-rcna178193"
+    },
+    {
+      "title": "Michigan church fires beloved music director after learning ...",
+      "snippet": "A beloved music director at a Michigan catholic church was fired after an unknown source informed church officials of his same-sex marriage.",
+      "link": "https://nypost.com/2024/11/12/us-news/michigan-church-fires-beloved-music-director-fred-szczepanski-after-learning-of-his-gay-marriage-sparking-outrage-among-parishioners/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

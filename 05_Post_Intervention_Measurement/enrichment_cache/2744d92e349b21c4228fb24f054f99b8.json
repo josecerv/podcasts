@@ -1,0 +1,26 @@
+{
+  "guest_name": "Adelle",
+  "searched_at": "2025-07-10T14:57:37.004970",
+  "search_results": [
+    {
+      "title": "Adelle Purdham, Author",
+      "snippet": "Adelle Purdham is an educator, parent disability advocate & author of the memoir I Don't Do Disability And Other Lies I've Told Myself.",
+      "link": "https://adellepurdham.ca/"
+    },
+    {
+      "title": "Bio | Adelle Purdham",
+      "snippet": "Adelle Purdham (she/her) is an educator, parent disability advocate, and author of the memoir-in-essays I Don't Do Disability And Other Lies I've Told Myself.",
+      "link": "https://adellepurdham.ca/bio/"
+    },
+    {
+      "title": "Adelle Davis",
+      "snippet": "Adelle Davis (25 February 1904 \u2013 31 May 1974) was an American writer and nutritionist, considered the most famous nutritionist in the early to mid-20th century.",
+      "link": "https://en.wikipedia.org/wiki/Adelle_Davis"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

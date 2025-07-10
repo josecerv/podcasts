@@ -1,0 +1,26 @@
+{
+  "guest_name": "Slav",
+  "searched_at": "2025-07-10T15:53:17.366640",
+  "search_results": [
+    {
+      "title": "Dr. Slav Gratchev \u2013 Department of Modern Languages",
+      "snippet": "Slav Gratchev, MBA, PhD, is Professor of Spanish at Marshall University and the recipient of the Distinguished Artists and Scholars Award.",
+      "link": "https://www.marshall.edu/language/profile/slav-n-gratchev/"
+    },
+    {
+      "title": "Slav Gratchev",
+      "snippet": "Biography. Slav N. Gratchev is Professor of Spanish at Marshall University, USA. He is the author or editor of eight books, including The Poetics of the ...",
+      "link": "https://www.bloomsbury.com/us/author/slav-gratchev/"
+    },
+    {
+      "title": "Slav Gratchev - Independent Researcher",
+      "snippet": "Slav N. Gratchev is Professor of Spanish at Marshall University, the recipient of the Distinguished Artist and Scholar Award (2019). He is author or editor ...",
+      "link": "https://independent.academia.edu/SlavGratchev"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

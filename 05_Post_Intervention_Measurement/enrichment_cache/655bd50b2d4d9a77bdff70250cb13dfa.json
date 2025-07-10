@@ -1,0 +1,26 @@
+{
+  "guest_name": "Isla",
+  "searched_at": "2025-07-10T16:59:45.083563",
+  "search_results": [
+    {
+      "title": "Ana Isla",
+      "snippet": "Ana Isla is Professor of Sociology and Women's Studies at Brock University (St. Catharines, Ontario). She teaches courses in social and feminist theories.",
+      "link": "https://www.anaisla.com/"
+    },
+    {
+      "title": "About Isla - Isla Morley",
+      "snippet": "Isla Morley grew up in South Africa during apartheid, the child of a British father and fourth-generation South African mother.",
+      "link": "https://islamorley.com/About__Biography_.html"
+    },
+    {
+      "title": "Isla Kay: books, biography, latest update",
+      "snippet": "Isla Kay is a graduate of The Banff Centre of the Arts' Wired Writing Studio and Toronto's Humber School for Writers. She has published short fiction.",
+      "link": "https://www.amazon.com/Isla-Kay/e/B093W3VXVK%3Fref=dbs_a_mng_rwt_scns_share"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

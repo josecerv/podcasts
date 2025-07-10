@@ -1,0 +1,26 @@
+{
+  "guest_name": "Aruba",
+  "searched_at": "2025-07-10T16:04:34.324738",
+  "search_results": [
+    {
+      "title": "Aruba",
+      "snippet": "Aruba, officially the Country of Aruba, is a constituent island country within the Kingdom of the Netherlands, in the southern Caribbean Sea 29 kilometres ...",
+      "link": "https://en.wikipedia.org/wiki/Aruba"
+    },
+    {
+      "title": "The Ultimate Guide to ARUBA - 40 Things to Do, Where to ...",
+      "snippet": "We're sharing 40 things to do in Aruba including all the costs you can expect to pay along the way all in this episode of Lucas World Travel.",
+      "link": "https://www.youtube.com/watch?v=06UZh3a749I"
+    },
+    {
+      "title": "Aruba Facts - Climate, Maps, Population Size & More",
+      "snippet": "Beyond our beautiful alabaster coasts, picture-perfect weather, and crystal clear waters teeming with aquatic life, Aruba is an island as diverse as its people.",
+      "link": "https://www.aruba.com/us/our-island/island-facts"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

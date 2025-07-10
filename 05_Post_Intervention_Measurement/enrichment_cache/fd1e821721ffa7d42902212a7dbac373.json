@@ -1,0 +1,26 @@
+{
+  "guest_name": "Walton",
+  "searched_at": "2025-07-10T16:28:21.580987",
+  "search_results": [
+    {
+      "title": "John H. Walton",
+      "snippet": "John H. Walton (born 1952) is an Old Testament scholar. He is Professor Emeritus at Wheaton College and was a Moody Bible Institute professor previously.",
+      "link": "https://en.wikipedia.org/wiki/John_H._Walton"
+    },
+    {
+      "title": "John Walton, Ph.D.",
+      "snippet": "John Walton, Ph.D. Professor of Old Testament Emeritus. Faculty Since: 2001, Emeritus status in 2023; Email: john.",
+      "link": "https://www.wheaton.edu/academics/faculty/john-walton/"
+    },
+    {
+      "title": "Jonathan Lee Walton",
+      "snippet": "Dr. Walton is trained as a social ethicist whose scholarship focuses on the intersection of evangelical Christianity, mass media, and political culture.",
+      "link": "https://ptsem.edu/faculty/jonathan-lee-walton/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

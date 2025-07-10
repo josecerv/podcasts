@@ -1,0 +1,26 @@
+{
+  "guest_name": "R",
+  "searched_at": "2025-07-10T17:10:20.864285",
+  "search_results": [
+    {
+      "title": "A reddit by professors, for professors.",
+      "snippet": "r/Professors: Welcome to r/Professors! This sub is for discussions amongst college & university faculty. Whether you are an adjunct, a lecturer, a grad TA ...",
+      "link": "https://www.reddit.com/r/Professors/"
+    },
+    {
+      "title": "R. Eric Thomas",
+      "snippet": "R. Eric Thomas is an American author, playwright, television writer and advice columnist. He is best known for his essay collection Here For It: Or, ...",
+      "link": "https://en.wikipedia.org/wiki/R._Eric_Thomas"
+    },
+    {
+      "title": "Laurie R. King: Home",
+      "snippet": "Laurie R. King is the bestselling, award-winning author of numerous beloved novels, short stories, anthologies, and works of nonfiction. She lives in California ...",
+      "link": "https://laurierking.com/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

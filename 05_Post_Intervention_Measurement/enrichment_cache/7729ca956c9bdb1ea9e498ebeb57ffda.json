@@ -1,0 +1,26 @@
+{
+  "guest_name": "Cory",
+  "searched_at": "2025-07-10T14:49:18.148987",
+  "search_results": [
+    {
+      "title": "About",
+      "snippet": "Cory Allen is a writer, teacher, and podcast host helping people slow down, think clearly, and live on purpose. His words reach over five million people each ...",
+      "link": "https://www.cory-allen.com/about"
+    },
+    {
+      "title": "Top Rated Youth Motivational Speaker - Cory Greenwood",
+      "snippet": "Cory Greenwood is one of the most in-demand youth speakers in America today. Cory's speaking style is engaging, entertaining, and authentic, ...",
+      "link": "https://corygreenwood.com/about/"
+    },
+    {
+      "title": "Cory Allen (author)",
+      "snippet": "Cory Allen (born February 22, 1982) is an author, podcast host, musician, composer, and mastering engineer. On his podcast The Astral Hustle, he speaks with ...",
+      "link": "https://en.wikipedia.org/wiki/Cory_Allen_(author)"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Bill M",
+  "searched_at": "2025-07-10T14:57:51.844193",
+  "search_results": [
+    {
+      "title": "Bill M. Williams: books, biography, latest update",
+      "snippet": "Bill M. Williams, PhD, CTA is the founder and visionary of the Profitunity Trading Group, which he established in 1984. Bill Williams is considered to be ...",
+      "link": "https://www.amazon.com/stores/author/B00BAYK6JA"
+    },
+    {
+      "title": "Bill Williams (trader)",
+      "snippet": "Bill M. Williams (1932\u20132019) was an American trader and author of books on trading psychology, technical analysis, and chaos theory in trading the stock, ...",
+      "link": "https://en.wikipedia.org/wiki/Bill_Williams_(trader)"
+    },
+    {
+      "title": "Bill M.",
+      "snippet": "Bill M. 617 likes \u00b7 27 talking about this. Musician, comedian, podcast host, creator of GeorgeCarlin.net, author, mathematician, COS Magister, farmer,...",
+      "link": "https://www.facebook.com/itsbillm/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Mr. C",
+  "searched_at": "2025-07-10T17:27:41.531324",
+  "search_results": [
+    {
+      "title": "Alias Mr C: Home",
+      "snippet": "You have reached the secret lair of Mr. C. Alas, he is not here. Feel free to browse in his absence, but be forewarned that most things in here have teeth.",
+      "link": "https://aliasmrc.com/"
+    },
+    {
+      "title": "Who is this guy?",
+      "snippet": "Christopher Jones (alias Mr. C, alias Brother C) has for several years taught classes on history, civics, speech and logic both on- and off-line.",
+      "link": "https://aliasmrc.com/who-is-this-guy/"
+    },
+    {
+      "title": "Mr. C",
+      "snippet": "Richard West (born 2 January 1965), known as Mr. C, is an English house music DJ, producer and rapper. He was the resident DJ at the early acid house \"RIP\" ...",
+      "link": "https://en.wikipedia.org/wiki/Mr._C"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

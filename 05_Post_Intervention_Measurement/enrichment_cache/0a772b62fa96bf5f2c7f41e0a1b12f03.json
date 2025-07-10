@@ -1,0 +1,26 @@
+{
+  "guest_name": "Chinny",
+  "searched_at": "2025-07-10T16:10:25.372824",
+  "search_results": [
+    {
+      "title": "Chinny Ogunro - NYU Abu Dhabi",
+      "snippet": "Chinny Ogunro is a healthcare executive and an academic professor of management and operations. She is the former Chief Operating Officer of The Africa Center.",
+      "link": "https://nyuad.nyu.edu/en/academics/divisions/social-science/faculty/chinny-ogunro.html"
+    },
+    {
+      "title": "Chinny Okpara, Founder",
+      "snippet": "Hi! I'm Chinny! ... I am an educator and mentor working with youth and families in the Austin area. I am also a wildly intentional mother of 2 (Isabelle & Jonas), ...",
+      "link": "https://girlspaceatx.com/chinny-okpara%2C-founder"
+    },
+    {
+      "title": "Dr Chinny Nzekwe-Excel - Business",
+      "snippet": "Dr Chinny is a distinguished academic, consultant/ practitioner, and research expert in the broad areas of Management/ Business Development Initiatives ...",
+      "link": "https://www.bcu.ac.uk/business-law-and-social-sciences/staff/business-and-management/chinny-nzekwe-excel"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

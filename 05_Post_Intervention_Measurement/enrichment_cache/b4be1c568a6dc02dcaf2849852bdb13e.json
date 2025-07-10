@@ -1,0 +1,26 @@
+{
+  "guest_name": "Dede",
+  "searched_at": "2025-07-10T15:51:39.022943",
+  "search_results": [
+    {
+      "title": "Christopher Dede",
+      "snippet": "Christopher 'Chris' Dede (born 1947), is an educational researcher and the Timothy E. Wirth Professor in Learning Technologies at the Harvard Graduate School ...",
+      "link": "https://en.wikipedia.org/wiki/Christopher_Dede"
+    },
+    {
+      "title": "Christopher Dede | Harvard Graduate School of Education",
+      "snippet": "Chris Dede was the Timothy E. Wirth Professor in Learning Technologies. His fundamental interest is developing new types of educational systems.",
+      "link": "https://www.gse.harvard.edu/directory/faculty/christopher-dede"
+    },
+    {
+      "title": "DeDe Halfhill - Keynote Speaker and Senior Executive ...",
+      "snippet": "DeDe's leadership journey far exceeded our expectations. She is a master storyteller with an uncanny ability to blend real-world experience, authenticity, ...",
+      "link": "https://dedehalfhill.com/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

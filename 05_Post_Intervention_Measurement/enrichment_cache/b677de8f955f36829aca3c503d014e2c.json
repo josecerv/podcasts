@@ -1,0 +1,26 @@
+{
+  "guest_name": "Sequent",
+  "searched_at": "2025-07-10T15:42:58.685821",
+  "search_results": [
+    {
+      "title": "About Us - Sequent",
+      "snippet": "Sequent was founded with a very clear mission: to enable sustainable and thriving democracies in the 21st century by building the digital infrastructure.",
+      "link": "https://sequentech.io/about-us/"
+    },
+    {
+      "title": "Steven Haines",
+      "snippet": "Steven Haines is the Founder and CEO of Sequent Learning Networks, the author of several bestselling business books, and an energetic public speaker.",
+      "link": "https://sequentlearning.com/who-we-are/why-sequent/team/steven-haines/"
+    },
+    {
+      "title": "Sequent: Interview With Co-Founder & CEO Shai Bargil ...",
+      "snippet": "Sequent is a company that is pioneering the world's first open-source and cryptographically-secure online voting platform for private and public sector ...",
+      "link": "https://pulse2.com/sequent-profile-shai-bargil-interview/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

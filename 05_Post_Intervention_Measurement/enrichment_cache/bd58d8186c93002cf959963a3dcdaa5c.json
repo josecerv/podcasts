@@ -1,0 +1,26 @@
+{
+  "guest_name": "Roscoe",
+  "searched_at": "2025-07-10T15:02:54.378164",
+  "search_results": [
+    {
+      "title": "Will Roscoe",
+      "snippet": "Will Roscoe (February 8, 1955) is an American activist, scholar, and author based in San Francisco, California. Will Roscoe. Born, (1955-02-08) February 8, ...",
+      "link": "https://en.wikipedia.org/wiki/Will_Roscoe"
+    },
+    {
+      "title": "William Roscoe",
+      "snippet": "William Roscoe (8 March 1753 \u2013 30 June 1831) was an English banker, lawyer, and briefly a Member of Parliament. He is best known as one of England's first ...",
+      "link": "https://en.wikipedia.org/wiki/William_Roscoe"
+    },
+    {
+      "title": "About",
+      "snippet": "I am Professor in Management at the the University of St Andrews, in Scotland. ... Philip Roscoe, Blog at WordPress.com. Subscribe Subscribed. Philip Roscoe.",
+      "link": "https://philiproscoe.net/about/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

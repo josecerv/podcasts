@@ -1,0 +1,26 @@
+{
+  "guest_name": "Lily",
+  "searched_at": "2025-07-10T15:48:11.591987",
+  "search_results": [
+    {
+      "title": "Lily King Bio",
+      "snippet": "Lily King is the award-winning author of five novels. Her most recent novel, Writers & Lovers, was published on March 3rd, 2020.",
+      "link": "https://lilykingbooks.com/bio"
+    },
+    {
+      "title": "About \u2014 Ms. Lily Anderson",
+      "snippet": "LILY ANDERSON is the author of several novels, including SCOUT'S HONOR, UNDEAD GIRL GANG, and THE ONLY THING WORSE THAN ME IS YOU. A former school librarian ...",
+      "link": "http://mslilyanderson.com/about"
+    },
+    {
+      "title": "About",
+      "snippet": "My real name is actually Dominique Valente, which yes sounds more like the made up name. I chose Lily Graham as my mother originally wanted to call me Lily and ...",
+      "link": "https://lilygraham.net/about/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

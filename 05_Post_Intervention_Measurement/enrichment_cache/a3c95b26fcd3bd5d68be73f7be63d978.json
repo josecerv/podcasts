@@ -1,0 +1,26 @@
+{
+  "guest_name": "Harrison Smith",
+  "searched_at": "2025-07-10T17:10:24.122399",
+  "search_results": [
+    {
+      "title": "Harrison Smith - Mt. San Antonio College",
+      "snippet": "Harrison Smith has been with Mt. San Antonio College since 2016 as a professor of kinesiology and strength & conditioning coach.",
+      "link": "https://www.mtsacathletics.com/biographies_staff/biographies/hsmith"
+    },
+    {
+      "title": "Smith, Harrison",
+      "snippet": "Harrison Smith (Yale College 1911) was born Oliver Harrison Smith in Hartford, Connecticut on August 4, 1888. He received a bachelor's degree from Yale College ...",
+      "link": "https://archives.yale.edu/agents/people/65476"
+    },
+    {
+      "title": "HARRISON SMITH BIOGRAPHY: The Inspiring Story of ...",
+      "snippet": "HARRISON SMITH BIOGRAPHY: The Inspiring Story of Minnesota's Defensive Star Who Redefined Excellence in the Safety Position.",
+      "link": "https://www.amazon.com/HARRISON-SMITH-BIOGRAPHY-Minnesotas-Excellence/dp/B0DQJFMHQX"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

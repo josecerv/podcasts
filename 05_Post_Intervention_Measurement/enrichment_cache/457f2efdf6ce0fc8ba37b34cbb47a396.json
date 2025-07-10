@@ -1,0 +1,26 @@
+{
+  "guest_name": "Healy",
+  "searched_at": "2025-07-10T16:58:17.277456",
+  "search_results": [
+    {
+      "title": "Biography | CV",
+      "snippet": "Dr. Mary Healy is professor of Scripture at Sacred Heart Major Seminary in Detroit and a bestselling author and international speaker.",
+      "link": "https://www.drmaryhealy.com/biography-cv"
+    },
+    {
+      "title": "Thomas J. Healy | Columbia Law School",
+      "snippet": "Thomas Healy is the Board of Visitors Distinguished Professor at Seton Hall Law School. He teaches and writes about constitutional law, freedom of speech, ...",
+      "link": "https://www.law.columbia.edu/faculty/thomas-j-healy"
+    },
+    {
+      "title": "Thomas Healy - Seton Hall Law School",
+      "snippet": "Professor Healy received his B.A. from the University of North Carolina at Chapel Hill and his J.D. from Columbia Law School, where he was Book Review and Essay ...",
+      "link": "https://law.shu.edu/profiles/healytho.html"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

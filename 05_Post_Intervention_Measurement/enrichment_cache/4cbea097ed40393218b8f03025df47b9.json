@@ -1,0 +1,26 @@
+{
+  "guest_name": "Dr. Wagner",
+  "searched_at": "2025-07-10T17:28:36.632481",
+  "search_results": [
+    {
+      "title": "Daniel A. Wagner | Penn GSE - University of Pennsylvania",
+      "snippet": "Dr. Dan Wagner is a Professor of Education at the University of Pennsylvania. ... Dr. Wagner received his Ph.D. in Psychology at the University of Michigan, was a ...",
+      "link": "https://www.gse.upenn.edu/faculty/daniel-wagner"
+    },
+    {
+      "title": "Remembering DR Wagner - Davis",
+      "snippet": "The poet, artist, publisher, and UC Davis Design professor DR Wagner got to share many kindnesses with his grandchildren and with the rest of us.",
+      "link": "https://www.yourquizmaster.com/remembering-dr-wagner/"
+    },
+    {
+      "title": "Dr. Jonathan Wagner",
+      "snippet": "Dr. Wagner specializes in modern European history, particularly German history. His research interests are focused on German migration to Canada.",
+      "link": "https://www.minotstateu.edu/history/faculty-staff/former-faculty/wagner_jonathan%20.shtml"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

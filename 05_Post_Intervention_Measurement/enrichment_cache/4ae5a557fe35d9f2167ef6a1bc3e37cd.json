@@ -1,0 +1,26 @@
+{
+  "guest_name": "Student 2",
+  "searched_at": "2025-07-10T17:15:07.156635",
+  "search_results": [
+    {
+      "title": "The Professor and the Student 2 - Tayu Andreason",
+      "snippet": "The Professor and the Student 2. #2 - The Professor and the Student. The Professor and the Student 2. Tayu Andreason. $1.99. $1.99 ...",
+      "link": "https://books.apple.com/us/book/the-professor-and-the-student-2/id1536294838"
+    },
+    {
+      "title": "The Professor and the Student 2 by Tayu Andreason | eBook",
+      "snippet": "The Professor and the Student 2 \u00b7 eBook \u00b7 $1.99.",
+      "link": "https://www.barnesandnoble.com/w/the-professor-and-the-student-2-tayu-andreason/1137957816"
+    },
+    {
+      "title": "The Professor and the Student 2 - Kindle edition by Andreason, ...",
+      "snippet": "The Professor and the Student 2 - Kindle edition by Andreason, Tayu. Contemporary Romance Kindle eBooks @ Amazon.com.",
+      "link": "https://www.amazon.com/Professor-Student-2-Tayu-Andreason-ebook/dp/B08LG78S5N"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

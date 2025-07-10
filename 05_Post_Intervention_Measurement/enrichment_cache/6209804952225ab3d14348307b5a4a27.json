@@ -1,0 +1,26 @@
+{
+  "guest_name": "Amanda",
+  "searched_at": "2025-07-10T14:49:25.557832",
+  "search_results": [
+    {
+      "title": "About \u2014 Amanda Ripley",
+      "snippet": "Amanda Ripley is a New York Times bestselling author, a Washington Post contributing columnist, and the co-founder of Good Conflict.",
+      "link": "https://www.amandaripley.com/about"
+    },
+    {
+      "title": "About Amanda Pittman",
+      "snippet": "Amanda Pittman is an author, speaker, entrepreneur, the Founder of Confident Woman Co., a ministry that equips women to stand confidently upon the finished ...",
+      "link": "https://amandaapittman.com/about"
+    },
+    {
+      "title": "About \u2013 Amanda Little",
+      "snippet": "Amanda Little is a professor of journalism and science writing at Vanderbilt University and a columnist for Bloomberg, where she writes about the environment, ...",
+      "link": "https://amandalittle.com/about/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

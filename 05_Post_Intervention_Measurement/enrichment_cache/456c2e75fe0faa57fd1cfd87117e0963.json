@@ -1,0 +1,26 @@
+{
+  "guest_name": "TJ",
+  "searched_at": "2025-07-10T17:07:04.991865",
+  "search_results": [
+    {
+      "title": "T.J. Stiles - Welcome to the Online Home of Author T.J. Stiles",
+      "snippet": "TJ Stiles is the author most recently of Custer's Trials: A Life on the Frontier of a New America, winner of the 2016 Pulitzer Prize for History.",
+      "link": "https://www.tjstiles.net/"
+    },
+    {
+      "title": "T.J. Stiles: Award-winning & History Author, Speaker",
+      "snippet": "T. J. Stiles is the Pulitzer Prize\u2013 and National Book Award\u2013winning author of The First Tycoon and Custer's Trials. He has served as a historical adviser ...",
+      "link": "https://www.prhspeakers.com/speaker/tj-stiles"
+    },
+    {
+      "title": "Bio \u2013 T. J. Demos",
+      "snippet": "T. J. Demos is an award-winning writer on contemporary art, global politics, and ecology. He is Professor in the Department of the History of Art and Visual ...",
+      "link": "https://tjdemos.sites.ucsc.edu/bio/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Matthew",
+  "searched_at": "2025-07-10T15:41:01.509313",
+  "search_results": [
+    {
+      "title": "Matthew the Apostle",
+      "snippet": "Matthew the Apostle was one of the twelve apostles of Jesus. According to Christian traditions, he was also one of the four Evangelists as author of the ...",
+      "link": "https://en.wikipedia.org/wiki/Matthew_the_Apostle"
+    },
+    {
+      "title": "About Matthew Dicks - Teacher / Coach / Author / Storyteller",
+      "snippet": "Matthew Dicks is the internationally bestselling author of the novels Memoirs of an Imaginary Friend, Something Missing, Unexpectedly, Milo, The Perfect ...",
+      "link": "https://www.storyworthymd.com/about"
+    },
+    {
+      "title": "Matthew L. Skinner",
+      "snippet": "Biography. Matthew Skinner joined Luther Seminary's faculty in 2002, having earned his Ph.D. in biblical studies from Princeton Theological Seminary, where he ...",
+      "link": "https://www.luthersem.edu/faculty/mskinner/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

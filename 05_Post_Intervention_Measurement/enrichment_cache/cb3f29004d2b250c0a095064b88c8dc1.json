@@ -1,0 +1,26 @@
+{
+  "guest_name": "Stacks",
+  "searched_at": "2025-07-10T17:33:52.477855",
+  "search_results": [
+    {
+      "title": "About \u2014 The Stacks | Traci Thomas",
+      "snippet": "Traci Thomas is the creator and host of the critically acclaimed literary podcast, The Stacks. She is a passionate champion of books and a deeply curious ...",
+      "link": "https://www.thestackspodcast.com/about"
+    },
+    {
+      "title": "Don Stacks - UM School of Communication - University of Miami",
+      "snippet": "Dr. Stacks received his Ph.D. in communication studies from the University of Florida. He has earned numerous academic and professional awards for teaching and ...",
+      "link": "https://com.miami.edu/profile/don-stacks/"
+    },
+    {
+      "title": "Stephen Stacks",
+      "snippet": "Stacks writes speculative fiction and has been a performing church musician for over 15 years. He lives in Apex with his wife and two daughters.",
+      "link": "https://www.nccu.edu/employee/sstacks"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Megin",
+  "searched_at": "2025-07-10T16:01:44.004524",
+  "search_results": [
+    {
+      "title": "Megin Charner-Laird",
+      "snippet": "Megin Charner-Laird is an assistant professor at Salem State University, where she teaches courses at the undergraduate and graduate level.",
+      "link": "https://projectngt.gse.harvard.edu/people/megin-charner-laird"
+    },
+    {
+      "title": "Megin Charner-Laird | Salem State University Directory",
+      "snippet": "Professional Biography. Megin Charner-Laird received her master's and doctorate from Harvard University. ... Interests: School Reform, Urban Schools, Teacher ...",
+      "link": "https://directory.salemstate.edu/profile/megin.charnerlaird"
+    },
+    {
+      "title": "MEGIN, Author at MEGIN",
+      "snippet": "MEGIN, the global leader in magnetoencephalography (MEG), to make high-precision brain scanning more widely available.",
+      "link": "https://megin.com/author/megin2/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

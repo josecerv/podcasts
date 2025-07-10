@@ -1,0 +1,26 @@
+{
+  "guest_name": "Karl",
+  "searched_at": "2025-07-10T14:53:30.870930",
+  "search_results": [
+    {
+      "title": "Allan Karl | Adventure Keynote Speaker | Travel Speaker",
+      "snippet": "Allan Karl is a keynote speaker, world traveler, photographer, author, and successful entrepreneur. In his keynotes, Allan inspires teams to overcome fear.",
+      "link": "https://www.allankarl.com/"
+    },
+    {
+      "title": "Meet the author- Dr Karl",
+      "snippet": "The author of 48 books, Dr Karl is a lifetime student with degrees in physics and mathematics, biomedical engineering, medicine and surgery. He has worked as a ...",
+      "link": "https://www.anu.edu.au/events/meet-the-author-dr-karl"
+    },
+    {
+      "title": "Karl Paulnack",
+      "snippet": "Karl is a nationally recognized speaker, writer, workshop facilitator, and thought leader on the Power of Music. He has keynoted national conventions including ...",
+      "link": "https://www.ithaca.edu/faculty/kpaulnack"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

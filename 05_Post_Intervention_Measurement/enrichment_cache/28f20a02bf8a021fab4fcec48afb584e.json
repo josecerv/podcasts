@@ -1,0 +1,26 @@
+{
+  "guest_name": "Friends",
+  "searched_at": "2025-07-10T17:29:04.635208",
+  "search_results": [
+    {
+      "title": "Friends",
+      "snippet": "Friends is an American television sitcom created by David Crane and Marta Kauffman, which aired on NBC from September 22, 1994, to May 6, 2004, lasting ten ...",
+      "link": "https://en.wikipedia.org/wiki/Friends"
+    },
+    {
+      "title": "Friends, Lovers, and the Big Terrible Thing: A Memoir ...",
+      "snippet": "The Beloved Star of Friends takes us behind the scenes of the hit sitcom and his struggles with addiction in this \u201cCANDID, DARKLY FUNNY...POIGNANT\u201d memoir.",
+      "link": "https://www.amazon.com/Friends-Lovers-Big-Terrible-Thing/dp/1250866448"
+    },
+    {
+      "title": "Charlie Wheeler | Friends Central | Fandom",
+      "snippet": "In the TV series Friends, Charlie Wheeler is a professor of Paleontology. She has notable romantic relationships with main characters Joey Tribbiani and Ross ...",
+      "link": "https://friends.fandom.com/wiki/Charlie_Wheeler"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

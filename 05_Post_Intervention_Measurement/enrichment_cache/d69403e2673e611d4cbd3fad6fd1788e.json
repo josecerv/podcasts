@@ -1,0 +1,26 @@
+{
+  "guest_name": "Steve",
+  "searched_at": "2025-07-10T14:53:26.997175",
+  "search_results": [
+    {
+      "title": "ABOUT",
+      "snippet": "The short bio: A former textbook writer, Steve Sheinkin is now making amends by writing books young people might actually want to read. He's the author of ...",
+      "link": "https://www.stevesheinkin.com/about"
+    },
+    {
+      "title": "About | My Site",
+      "snippet": "For me, making books represents the happy intersection of children, science, art, my design partnership with Robin, and my life-long love of reading. BIO. steve ...",
+      "link": "https://www.stevejenkinsbooks.com/about-1"
+    },
+    {
+      "title": "Steve Brown (author)",
+      "snippet": "Steve Brown is an American Christian author, a radio broadcaster, and a former seminary professor at Reformed Theological Seminary in Orlando, Florida.",
+      "link": "https://en.wikipedia.org/wiki/Steve_Brown_(author)"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

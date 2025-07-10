@@ -1,0 +1,26 @@
+{
+  "guest_name": "AB",
+  "searched_at": "2025-07-10T15:27:01.114354",
+  "search_results": [
+    {
+      "title": "A. B. Yehoshua",
+      "snippet": "A. B. Yehoshua ; Novelist; essayist; short story writer; playwright \u00b7 Israeli \u00b7 Hebrew University of Jerusalem (BA, 1961) Teachers College (1962) Sorbonne (MA, ...",
+      "link": "https://en.wikipedia.org/wiki/A._B._Yehoshua"
+    },
+    {
+      "title": "A. B. Guthrie Jr.",
+      "snippet": "A. B. Guthrie Jr. ... Alfred Bertram \"Bud\" Guthrie Jr. (January 13, 1901 \u2013 April 26, 1991) was an American novelist, screenwriter, historian, and literary ...",
+      "link": "https://en.wikipedia.org/wiki/A._B._Guthrie_Jr."
+    },
+    {
+      "title": "A. B. Stanley: books, biography, latest update",
+      "snippet": "A. B. Stanley. About the author. I am a part-time coach and a lifelong investor. My father taught me how to invest at a very young age, and for the past 25 ...",
+      "link": "https://www.amazon.com/A-B-Stanley/e/B098KJ4VVP/ref=dp_byline_cont_book_1"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

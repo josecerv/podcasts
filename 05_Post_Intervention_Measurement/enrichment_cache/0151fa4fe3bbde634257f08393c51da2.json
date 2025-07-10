@@ -1,0 +1,26 @@
+{
+  "guest_name": "McNeill family",
+  "searched_at": "2025-07-10T15:52:10.194486",
+  "search_results": [
+    {
+      "title": "I'm a Family Historian for the Ultra-Wealthy. Here's What ...",
+      "snippet": "vintage family photo from 1936. McNeill's family in Havana, Cuba, in 1936. Her grandmother is the brunette looking to the side sitting right ...",
+      "link": "https://www.businessinsider.com/family-historian-ultra-wealthy-us-bank-what-job-like-2021-10"
+    },
+    {
+      "title": "Bertha McNeill",
+      "snippet": "McNeill family papers, 1839-2008\". Finding Aids. Washington, D.C.: Library of Congress. pp. McNeill Family, Bertha McNeill. MSS85979. Retrieved January 25 ...",
+      "link": "https://en.wikipedia.org/wiki/Bertha_McNeill"
+    },
+    {
+      "title": "McNeill Family 1987",
+      "snippet": "This branch of McNeill family came to America from Ireland to Illinois about 1823. Elizabeth McNeill brought her four children, Neilly, Thomas B, Abraham, ...",
+      "link": "https://www.familysearch.org/library/books/records/print?search=%22MCNEILL%20FAMILY%22&sort=_score&perpage=10&page=1&fulltext=1&"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

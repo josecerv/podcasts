@@ -1,0 +1,26 @@
+{
+  "guest_name": "Toniann",
+  "searched_at": "2025-07-10T16:45:16.045962",
+  "search_results": [
+    {
+      "title": "ToniAnn Trevi\u00f1o - History - University of North Texas",
+      "snippet": "ToniAnn Trevi\u00f1o is a scholar of Mexican American history, with a focus on the war on drugs, urban history, and policing in the US-Mexico borderlands.",
+      "link": "https://history.unt.edu/people/toniann-trevio.html"
+    },
+    {
+      "title": "ToniAnn Trevi\u00f1o",
+      "snippet": "ToniAnn Trevi\u00f1o is a scholar of Mexican American history, with a focus on the war on drugs, urban history, and policing in the US-Mexico borderlands.",
+      "link": "https://lmas.unt.edu/people/toniann-trevio.html"
+    },
+    {
+      "title": "Toniann Pitassi",
+      "snippet": "Toniann Pitassi is a Canadian-American mathematician and computer scientist specializing in computational complexity theory. She is currently Jeffrey L. and ...",
+      "link": "https://en.wikipedia.org/wiki/Toniann_Pitassi"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": "Hispanic/Latino",
+  "gender_confidence": 0.8,
+  "race_confidence": 0.7,
+  "additional_context": {}
+}

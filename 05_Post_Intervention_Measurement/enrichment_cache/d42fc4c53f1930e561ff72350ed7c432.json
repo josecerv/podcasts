@@ -1,0 +1,26 @@
+{
+  "guest_name": "Unnamed Influential Female Architect",
+  "searched_at": "2025-07-10T15:47:13.444602",
+  "search_results": [
+    {
+      "title": "List of women architects",
+      "snippet": "The following is a list of women architects by nationality \u2013 notable women who are well known for their work in the field of architecture.",
+      "link": "https://en.wikipedia.org/wiki/List_of_women_architects"
+    },
+    {
+      "title": "Woman-Made: 13 Architects You Might Not Know",
+      "snippet": "Nigerian-born Olajumoke Adenowo has been dubbed a star architect of her country by CNN. At age 14 she enrolled at the University of Ife (now ...",
+      "link": "https://www.britannica.com/list/woman-architects-you-may-not-know"
+    },
+    {
+      "title": "Women in Architecture: The named and unnamed who ...",
+      "snippet": "Women in Architecture: Past, Present, and Future highlights female designers who have brought a personal and innovative contribution to the profession.",
+      "link": "https://www.madamearchitect.org/reviews/2021/8/30/women-in-architecture-the-named-and-unnamed-who-broke-into-the-profession"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

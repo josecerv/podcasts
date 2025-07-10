@@ -1,0 +1,26 @@
+{
+  "guest_name": "Ted",
+  "searched_at": "2025-07-10T17:05:20.676742",
+  "search_results": [
+    {
+      "title": "TED Speaker",
+      "snippet": "These are the speakers who have delivered a talk featured on TED.com. Whether the talk was given at an official TED conference, at one of thousands of local, ...",
+      "link": "https://www.ted.com/speakers"
+    },
+    {
+      "title": "TED About",
+      "snippet": "TED is a non-profit that believes powerful ideas, powerfully presented, move us: to feel something, to think differently, to take action.",
+      "link": "https://www.ted.com/about"
+    },
+    {
+      "title": "Ted Dekker",
+      "snippet": "Ted Dekker (born October 24, 1962) (stylized as TED DEKkER) is an American author of Christian mystery, thriller, and fantasy novels",
+      "link": "https://en.wikipedia.org/wiki/Ted_Dekker"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

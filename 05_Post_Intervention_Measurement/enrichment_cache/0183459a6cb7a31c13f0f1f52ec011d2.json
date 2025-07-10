@@ -1,0 +1,26 @@
+{
+  "guest_name": "Dre",
+  "searched_at": "2025-07-10T14:47:04.996352",
+  "search_results": [
+    {
+      "title": "Dr. Dre",
+      "snippet": "\"Doctor Dre\" and \"Andre Young\" redirect here. For the rapper and MTV VJ, see Doctor Dr\u00e9. For other uses, see Andre Young (disambiguation). Andre Romell Young ( ...",
+      "link": "https://en.wikipedia.org/wiki/Dr._Dre"
+    },
+    {
+      "title": "Dr. Dre: The Biography: 9781560259213: Ro, Ronin: Books",
+      "snippet": "Born on February 18, 1965 to a sixteen-year-old single mom, Andre Young, AKA Dr. Dre, co-founded the notorious rap group N.W.A. The group was one of the ...",
+      "link": "https://www.amazon.com/Dr-Dre-Biography-Ronin-Ro/dp/1560259213"
+    },
+    {
+      "title": "Dr. Dre - Music, Age & Facts",
+      "snippet": "Dr. Dre started working as a DJ in his teens. His first major success came with the rap group NWA and he later co-founded Death Row Records in 1991.",
+      "link": "https://www.biography.com/musicians/dr-dre"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

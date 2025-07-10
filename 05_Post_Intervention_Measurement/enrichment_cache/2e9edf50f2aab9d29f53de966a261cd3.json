@@ -1,0 +1,26 @@
+{
+  "guest_name": "Sue",
+  "searched_at": "2025-07-10T16:39:33.068378",
+  "search_results": [
+    {
+      "title": "Sue L. Hamilton: North Dakota Speaker | Teacher | Author",
+      "snippet": "... Sue - Speaker \u2022 Teacher \u2022 Author Founder of Live4One Ministry. I'm passionate about helping women just like you: \u2728 Deepen your relationship with God",
+      "link": "https://www.suelhamilton.com/"
+    },
+    {
+      "title": "About",
+      "snippet": "Sue Heimer is an author, counselor, Bible teacher and international speaker. Sue is the president and founder of Leaving Your Legacy Ministries.",
+      "link": "https://www.sueheimer.com/about-sue"
+    },
+    {
+      "title": "Bio - Sue Monk Kidd",
+      "snippet": "Sue Monk Kidd was raised in the small town of Sylvester, Georgia, a place that deeply influenced the writing of her first novel The Secret Life of Bees.",
+      "link": "https://suemonkkidd.com/author/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

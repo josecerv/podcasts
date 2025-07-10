@@ -1,0 +1,26 @@
+{
+  "guest_name": "Betty",
+  "searched_at": "2025-07-10T17:14:26.393484",
+  "search_results": [
+    {
+      "title": "Betty Levin",
+      "snippet": "Elizabeth \"Betty\" Lowenthal Levin (September 10, 1927 \u2013 July 4, 2022) was an American college professor and a writer who specialized in fiction for young ...",
+      "link": "https://en.wikipedia.org/wiki/Betty_Levin"
+    },
+    {
+      "title": "Betty Eadie",
+      "snippet": "Betty (Jean) Eadie (born 1942) is an American author of several books on near-death experiences (NDEs). Her best-known book is Embraced by the Light, (1992) ...",
+      "link": "https://en.wikipedia.org/wiki/Betty_Eadie"
+    },
+    {
+      "title": "About Me",
+      "snippet": "Betty G. Birney is best known as the author of the popular According to Humphrey series, which celebrated the 20 th anniversary of its debut in 2024.",
+      "link": "https://bettybirney.com/about.php"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Apple",
+  "searched_at": "2025-07-10T16:57:15.458319",
+  "search_results": [
+    {
+      "title": "Michael Apple",
+      "snippet": "Michael W. Apple (born August 20, 1942) is an educational theorist specialized on education and power, cultural politics, curriculum theory and research.",
+      "link": "https://en.wikipedia.org/wiki/Michael_Apple"
+    },
+    {
+      "title": "Apple Books for Authors: Self-publish an ebook",
+      "snippet": "Apple Books for Authors guides you through every step of your journey as an author self-publishing an ebook, from structuring your story to packaging your ...",
+      "link": "https://authors.apple.com/"
+    },
+    {
+      "title": "Sam Apple",
+      "snippet": "Sam Apple is a non-fiction writer. Sam Apple. Occupation, professor, non-fiction writer. Nationality, American. Alma mater, University of Michigan,",
+      "link": "https://en.wikipedia.org/wiki/Sam_Apple"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

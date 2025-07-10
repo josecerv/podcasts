@@ -1,0 +1,26 @@
+{
+  "guest_name": "Nostromo",
+  "searched_at": "2025-07-10T14:54:24.052484",
+  "search_results": [
+    {
+      "title": "Nostromo",
+      "snippet": "Nostromo: A Tale of the Seaboard is a 1904 novel by Joseph Conrad, set in the fictitious South American republic of \"Costaguana\".",
+      "link": "https://en.wikipedia.org/wiki/Nostromo"
+    },
+    {
+      "title": "Nostromo \u2013 Modernism Lab",
+      "snippet": "At the core of the novel is the attempt by two antithetical young men\u2014Nostromo, the Italian dockworkers' boss and the most trusted of the Europeans' laborers, ...",
+      "link": "https://campuspress.yale.edu/modernismlab/nostromo/"
+    },
+    {
+      "title": "Nostromo",
+      "snippet": "Nostromo, first published in 1904, is arguably Conrad's greatest and most complex novel. A compelling adventure story, it is also a novel of profound ...",
+      "link": "https://broadviewpress.com/product/nostromo/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

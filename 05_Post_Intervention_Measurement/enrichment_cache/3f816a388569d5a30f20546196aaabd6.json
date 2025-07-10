@@ -1,0 +1,26 @@
+{
+  "guest_name": "Les",
+  "searched_at": "2025-07-10T15:40:14.760947",
+  "search_results": [
+    {
+      "title": "Les Brown - The Official Website of Les Brown",
+      "snippet": "As one of the world's most renowned motivational speakers, Les Brown is a dynamic personality and highly-sought-after resource in business and professional ...",
+      "link": "https://lesbrown.com/"
+    },
+    {
+      "title": "The Honorable Les Brown's Biography",
+      "snippet": "Motivational speaker Les Brown was born Leslie Calvin Brown on February 17, 1945, in Miami, Florida. After giving birth to Brown and his twin brother, Wes, ...",
+      "link": "https://www.thehistorymakers.org/biography/honorable-les-brown"
+    },
+    {
+      "title": "Les Brown (politician)",
+      "snippet": "For other people with the same name, see Les Brown. Leslie Calvin Brown (born February 17, 1945) is an American politician and motivational speaker. He was a ...",
+      "link": "https://en.wikipedia.org/wiki/Les_Brown_(politician)"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

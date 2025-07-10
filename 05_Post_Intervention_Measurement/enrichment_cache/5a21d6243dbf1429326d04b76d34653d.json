@@ -1,0 +1,26 @@
+{
+  "guest_name": "Exile",
+  "searched_at": "2025-07-10T15:43:57.253210",
+  "search_results": [
+    {
+      "title": "Exile - Patterson, Richard North: Books",
+      "snippet": "In Exile, Patterson has redefined himself as a writer willing to take risks while seeking to understand one of the world's seemingly unsolvable problems.",
+      "link": "https://www.amazon.com/Exile-Richard-North-Patterson/dp/0805079475"
+    },
+    {
+      "title": "About",
+      "snippet": "In 2009 I handed off most of my clients, sold or gave away everything I owned that wouldn't fit into carry-on luggage, and started up my blog, Exile Lifestyle.",
+      "link": "https://exilelifestyle.com/about/"
+    },
+    {
+      "title": "The Exile (Buck book)",
+      "snippet": "The Exile (New York: John Day, 1936) is a memoir/biography, or work of creative non-fiction, written by Pearl S. Buck about her mother, Caroline Stulting ...",
+      "link": "https://en.wikipedia.org/wiki/The_Exile_(Buck_book)"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Helen",
+  "searched_at": "2025-07-10T16:41:18.239874",
+  "search_results": [
+    {
+      "title": "Helen Keller",
+      "snippet": "Helen Adams Keller (June 27, 1880 \u2013 June 1, 1968) was an American author, disability rights advocate, political activist and lecturer.",
+      "link": "https://en.wikipedia.org/wiki/Helen_Keller"
+    },
+    {
+      "title": "Helen Lee, Author and Publishing Coach | Discover Your ...",
+      "snippet": "Helen Lee, author and publishing professional, helps Christian writers navigate the book publishing process by understanding their unique expertise and ...",
+      "link": "https://www.helenleebooks.com/"
+    },
+    {
+      "title": "HOME | HELEN BENEDICT",
+      "snippet": "Helen Benedict, a British-American professor at Columbia University, is the author of eight novels, six books of nonfiction, and a play. Her latest novel, The ...",
+      "link": "https://www.helenbenedict.com/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

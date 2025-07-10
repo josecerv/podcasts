@@ -1,0 +1,26 @@
+{
+  "guest_name": "Clod9",
+  "searched_at": "2025-07-10T16:20:08.085751",
+  "search_results": [
+    {
+      "title": "About | Cloud9 Esports",
+      "snippet": "Founded in 2013, Cloud9 Esports emerged as one of the pioneering esports organizations in North America. Originally rooted in League of Legends.",
+      "link": "https://cloud9.gg/about/"
+    },
+    {
+      "title": "Cloud9",
+      "snippet": "The company was originally founded as a professional League of Legends team by Jack and Paullie Etienne in May 2013 and was incorporated into Cloud9 Esports, ...",
+      "link": "https://en.wikipedia.org/wiki/Cloud9"
+    },
+    {
+      "title": "Cloud9",
+      "snippet": "Cloud9 features interviews with artists from around the globe to learn about what inspires them to make a positive contribution to the world.",
+      "link": "https://bahaiteachings.org/podcasts/cloud9/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

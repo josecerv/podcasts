@@ -1,0 +1,26 @@
+{
+  "guest_name": "Ivie",
+  "searched_at": "2025-07-10T14:47:04.750891",
+  "search_results": [
+    {
+      "title": "Robert Ivie",
+      "snippet": "Robert Lynn Ivie is an American academic known for his works on American public rhetoric concerning war and terrorism. Education and career. edit. Ivie ...",
+      "link": "https://en.wikipedia.org/wiki/Robert_Ivie"
+    },
+    {
+      "title": "Robert L. Ivie - University of Alabama Press",
+      "snippet": "Ivie is a professor emeritus of American studies and communication and culture at Indiana University. He is the author of Democracy and America's War on Terror.",
+      "link": "https://www.uapress.ua.edu/author/robert-l-ivie/"
+    },
+    {
+      "title": "Mette Ivie Harrison: books, biography, latest update",
+      "snippet": "Mette Ivie Harrison grew up in a two-hundred-year-old farmhouse in central New Jersey in a family with eleven children, a dog, a pony, and lots of chickens.",
+      "link": "https://www.amazon.ca/stores/author/B001H6OMT6"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

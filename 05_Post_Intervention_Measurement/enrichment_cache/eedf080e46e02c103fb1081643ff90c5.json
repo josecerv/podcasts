@@ -1,0 +1,26 @@
+{
+  "guest_name": "Kristi",
+  "searched_at": "2025-07-10T15:40:05.406923",
+  "search_results": [
+    {
+      "title": "Kristi McLelland",
+      "snippet": "Kristi McLelland is a speaker, teacher and professor at Williamson College. Since completing her Masters in Christian Education at Dallas Theological Seminary.",
+      "link": "https://williamsoncc.edu/kristi-mclelland/"
+    },
+    {
+      "title": "Kristi McLelland Books and Bible Studies",
+      "snippet": "Kristi McLelland is a speaker, teacher, and college professor. Since completing her Masters of Arts in Christian Education at Dallas Theological Seminary.",
+      "link": "https://www.lifeway.com/en/contributors/kristi-mclelland"
+    },
+    {
+      "title": "Kristi McLelland",
+      "snippet": "Kristi Mclelland is a Professor, speaker and founder of New Lens Biblical Studies. She is dedicated to teaching scripture through the cultural context it was ...",
+      "link": "https://www.facebook.com/KristiMcLelland/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

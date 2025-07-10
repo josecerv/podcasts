@@ -1,0 +1,26 @@
+{
+  "guest_name": "Sonny",
+  "searched_at": "2025-07-10T17:17:45.119398",
+  "search_results": [
+    {
+      "title": "Sonny Hennessy | Speaker, Author, Designer, and Lead ...",
+      "snippet": "With a pioneering spirit and a degree in Theology, Sonny imparts Biblical truths, authors impactful books, and coaches leaders and pastors.",
+      "link": "https://www.sonnyhennessy.com/"
+    },
+    {
+      "title": "Lived Experience Educator",
+      "snippet": "Sonny Jane is a trans, multiply neurodivergent & disabled public speaker, advocate and author. Sonny was diagnosed with Autism and ADHD as a child.",
+      "link": "https://www.livedexperienceeducator.com/"
+    },
+    {
+      "title": "OUR STORY | legacyheirs - Legacy Heirs Productions",
+      "snippet": "Dr. Sonny Kelly's Bio: Sonny Kelly is a world class performer, story teller, motivator, speaker, and comedian. He holds a PhD in Communication & Performance ...",
+      "link": "https://www.legacyheirsproductions.com/my-story"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

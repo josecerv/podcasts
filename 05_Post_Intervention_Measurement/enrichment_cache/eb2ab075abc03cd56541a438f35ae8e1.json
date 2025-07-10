@@ -1,0 +1,26 @@
+{
+  "guest_name": "Othello Player",
+  "searched_at": "2025-07-10T15:56:35.277615",
+  "search_results": [
+    {
+      "title": "Imre Leader",
+      "snippet": "... professor in DPMMS at the University of Cambridge working in the field of combinatorics. He is also known as an Othello player. Imre Leader. Born, (1963-10-30) ...",
+      "link": "https://en.wikipedia.org/wiki/Imre_Leader"
+    },
+    {
+      "title": "My Othello Career - Econlib",
+      "snippet": "She is a weak Othello player. BTW, I once beat the Parsons program in an over the board tournament by running it out of time. I think it was ...",
+      "link": "https://www.econlib.org/archives/2011/02/my_othello_care.html"
+    },
+    {
+      "title": "Author: Ben Seeley",
+      "snippet": "... Othello player in America. But a Russian guy who made the list of opening names which ended up getting popularized, misread \u201cKling\u201d as \u201cKung\u201d, and the ...",
+      "link": "https://usothello.org/author/ben/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

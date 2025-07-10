@@ -1,0 +1,26 @@
+{
+  "guest_name": "Whitney",
+  "searched_at": "2025-07-10T15:08:22.133480",
+  "search_results": [
+    {
+      "title": "Whitney Phillips (author)",
+      "snippet": "Whitney Phillips is an American media studies scholar and author. She studies online misinformation. She is assistant professor in the School of Journalism ...",
+      "link": "https://en.wikipedia.org/wiki/Whitney_Phillips_(author)"
+    },
+    {
+      "title": "ABOUT \u2014 Whitney Capps",
+      "snippet": "Whitney Capps is a national speaker for ministries including Proverbs 31, Women of Joy, and LifeWay Women. She was a pioneer writer the Bible app, First 5.",
+      "link": "https://www.whitneycapps.com/about-2"
+    },
+    {
+      "title": "Whitney Akin",
+      "snippet": "My name is Whitney. I'm a speaker, author, wife to Eli, and mom to three beautiful (crazy!) kids. My daily life usually feels crowded and chaotic, ...",
+      "link": "https://www.whitneyakin.com/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Dr. Anand",
+  "searched_at": "2025-07-10T15:09:22.975322",
+  "search_results": [
+    {
+      "title": "Kanwaljeet S. Anand | Stanford Medicine",
+      "snippet": "Dr. Anand is currently Professor of Pediatrics, Anesthesiology, Perioperative & Pain Medicine at Stanford University School of Medicine; he directs the Pain ...",
+      "link": "https://med.stanford.edu/profiles/kanwaljeet-anand"
+    },
+    {
+      "title": "Neel Anand, MD",
+      "snippet": "Dr. Anand is a heavily-published author, editor and presenter of articles, studies and poster/abstract presentations in prestigious academic journals, trade ...",
+      "link": "https://isass.org/about/board-of-directors/neel-anand-md/"
+    },
+    {
+      "title": "A Glimpse Into Author Anand Ranganathan's Inspiring ...",
+      "snippet": "Dr. Anand Ranganathan is far more than an inspiring author, apart from being a popular name in the field of literature; he is also a scientist and a political ...",
+      "link": "https://theliteraturetoday.com/from-words-to-triumphs-a-glimpse-into-author-anand-ranganathans-inspiring-journey/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

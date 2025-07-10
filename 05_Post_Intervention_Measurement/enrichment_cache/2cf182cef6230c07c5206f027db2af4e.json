@@ -1,0 +1,26 @@
+{
+  "guest_name": "Lung",
+  "searched_at": "2025-07-10T14:48:02.234013",
+  "search_results": [
+    {
+      "title": "Lung Ying-tai",
+      "snippet": "Lung Ying-tai is a Taiwanese writer, cultural critic, and public intellectual. With more than 30 books to her credit, she not only has a large number of ...",
+      "link": "https://en.wikipedia.org/wiki/Lung_Ying-tai"
+    },
+    {
+      "title": "Professor Turns Devastating Cancer Diagnosis into an ...",
+      "snippet": "Dr. Bryant Lin explains how his stage IV lung cancer diagnosis didn't defeat him but instead inspired a revolutionary class.",
+      "link": "https://www.lung.org/blog/cancer-diagnosis-inspires-class"
+    },
+    {
+      "title": "Carole Frances Lung",
+      "snippet": "Carole Frances Lung (San Francisco, CA 1966) is an artist, soft power activist, and Professor of Fashion Fiber and Materials, at California State University ...",
+      "link": "https://www.calstatela.edu/academic/art/lung.php"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

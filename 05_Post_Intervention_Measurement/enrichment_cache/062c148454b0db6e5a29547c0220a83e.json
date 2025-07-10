@@ -1,0 +1,26 @@
+{
+  "guest_name": "Florence",
+  "searched_at": "2025-07-10T15:51:26.150734",
+  "search_results": [
+    {
+      "title": "Florence Williams Author, Speaker - Florence Williams",
+      "snippet": "A highly sought-after speaker, Florence leaves audiences motivated to seek beauty and awe for awakening compassion, purpose, health, and community.",
+      "link": "https://florencewilliams.com/"
+    },
+    {
+      "title": "Florence Littauer",
+      "snippet": "Florence Littauer (n\u00e9e Chapman; April 27, 1928 \u2013 July 11, 2020) was an American Christian self-help author and public speaker. Littauer is best known for her ...",
+      "link": "https://en.wikipedia.org/wiki/Florence_Littauer"
+    },
+    {
+      "title": "Florence Scovel Shinn",
+      "snippet": "Florence Scovel Shinn (September 24, 1871 \u2013 October 17, 1940) was an American artist and book illustrator who became a New Thought spiritual teacher and ...",
+      "link": "https://en.wikipedia.org/wiki/Florence_Scovel_Shinn"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

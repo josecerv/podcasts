@@ -1,0 +1,26 @@
+{
+  "guest_name": "Mikki",
+  "searched_at": "2025-07-10T16:07:02.855670",
+  "search_results": [
+    {
+      "title": "Mikki Kendall",
+      "snippet": "Mikki Kendall (born October 23, 1976) is an author, activist, and cultural critic. Her work often focuses on current events, media representation, the politics ...",
+      "link": "https://en.wikipedia.org/wiki/Mikki_Kendall"
+    },
+    {
+      "title": "About \u2013 MIKKI KENDALL",
+      "snippet": "Mikki Kendall is a writer, diversity consultant, and occasional feminist; she has appeared on the BBC, NPR, The Daily Show, PBS, Good Morning America, ...",
+      "link": "https://mikkikendall.com/about/"
+    },
+    {
+      "title": "Mikki Williams: Motivational Speaker & Executive Coach ...",
+      "snippet": "Mikki Williams, CSP, CPAE Speaker Hall of Fame is an international, celebrity inspirational TEDx speaker who also coaches top notch professional speakers ...",
+      "link": "https://www.mikkiwilliams.com/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

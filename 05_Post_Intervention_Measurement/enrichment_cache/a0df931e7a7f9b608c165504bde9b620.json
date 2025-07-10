@@ -1,0 +1,26 @@
+{
+  "guest_name": "Carl",
+  "searched_at": "2025-07-10T16:08:42.391774",
+  "search_results": [
+    {
+      "title": "Carl Anderson - Author Bio",
+      "snippet": "Carl Anderson is an internationally recognized expert in writing instruction for grades K-8. He works as a consultant in schools and districts around the world.",
+      "link": "https://www.heinemann.com/authors/1417.aspx"
+    },
+    {
+      "title": "About Carl",
+      "snippet": "Carl has been an educator for over 25 years. He has held a variety of positions in both multiple districts, from 1st grade teacher to Director of Innovation & ...",
+      "link": "https://carlhooker.com/about-carl/"
+    },
+    {
+      "title": "Carl Freedman (writer)",
+      "snippet": "Carl Howard Freedman (born 1951) is an American writer, literary theorist and professor of English literature at Louisiana State University.",
+      "link": "https://en.wikipedia.org/wiki/Carl_Freedman_(writer)"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

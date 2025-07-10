@@ -1,0 +1,26 @@
+{
+  "guest_name": "Blue October",
+  "searched_at": "2025-07-10T17:28:14.582138",
+  "search_results": [
+    {
+      "title": "Blue October",
+      "snippet": "Blue October is an American rock band originally from Houston, Texas, formed in 1995. It currently consists of singer/guitarist Justin Furstenfeld, drummer ...",
+      "link": "https://en.wikipedia.org/wiki/Blue_October"
+    },
+    {
+      "title": "Blue October biography",
+      "snippet": "Blue October is an alternative rock band headquartered in San Marcos, Texas, but is originally from Houston, Texas.",
+      "link": "https://www.last.fm/music/Blue+October/+wiki"
+    },
+    {
+      "title": "Blue October Songs, Albums, Reviews, Bio & Mor...",
+      "snippet": "Blue October Biography by MacKenzie Wilson. Foiled Lone Star State rockers Blue October deliver an emotionally charged amalgam of heart-heavy post-grunge ...",
+      "link": "https://www.allmusic.com/artist/blue-october-mn0000762097"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

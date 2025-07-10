@@ -1,0 +1,26 @@
+{
+  "guest_name": "Erika De Casier",
+  "searched_at": "2025-07-10T15:20:34.180178",
+  "search_results": [
+    {
+      "title": "Erika de Casier",
+      "snippet": "Erika de Casier is a Portuguese-born Danish singer, songwriter, and record producer. She began her career performing as half of the R&B duo Saint Cava.",
+      "link": "https://en.wikipedia.org/wiki/Erika_de_Casier"
+    },
+    {
+      "title": "R&B sensation Erika de Casier: 'I don't know if I ever think",
+      "snippet": "R&B sensation Erika de Casier: 'I don't know if I ever think \u2013 yep, I'm a musician' ... Erika de Casier is uncomfortable. She is sitting cross- ...",
+      "link": "https://www.theguardian.com/music/2024/jan/22/erika-de-casier-still-interview"
+    },
+    {
+      "title": "Erika de Casier's Still",
+      "snippet": "Erika de Casier makes music about stereotypically girly stuff\u2014the fantasies of love and the vicissitudes of romance, the innocent first blush of ...",
+      "link": "https://bombmagazine.org/articles/2024/03/15/erika-de-casier-still/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

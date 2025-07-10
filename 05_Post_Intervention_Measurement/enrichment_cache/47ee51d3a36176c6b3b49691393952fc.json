@@ -1,0 +1,26 @@
+{
+  "guest_name": "Sato",
+  "searched_at": "2025-07-10T15:56:45.254936",
+  "search_results": [
+    {
+      "title": "About Charlene J. Sato",
+      "snippet": "Charlene \u201cCharlie\u201d Junko Sato (1951-1996) was an associate professor in the Department of Second Language Studies (formerly ESL) at the University of Hawai'i ...",
+      "link": "https://www.hawaii.edu/satocenter/?page_id=320"
+    },
+    {
+      "title": "Vicki Sato",
+      "snippet": "Vicki L. Sato is a retired professor of management practice at Harvard Business School and a professor of the practice in the department of molecular and ...",
+      "link": "https://en.wikipedia.org/wiki/Vicki_Sato"
+    },
+    {
+      "title": "Manabu Sato",
+      "snippet": "Sato received his PhD from the University of Tokyo. His publications include Designing Educational Reform, Learning: Its Death and Restoration, and Learning as ...",
+      "link": "https://naeducation.org/member/manabu-sato/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Leading Experts",
+  "searched_at": "2025-07-10T17:09:01.202570",
+  "search_results": [
+    {
+      "title": "Jeffrey D. Sachs, PhD",
+      "snippet": "Professor Sachs is widely considered to be one of the world's leading experts on economic development, global macroeconomics, and the fight against poverty.",
+      "link": "https://sps.columbia.edu/person/jeffrey-d-sachs-phd"
+    },
+    {
+      "title": "ETHAN KROSS | Author, Scientist & Teacher",
+      "snippet": "Ethan Kross, PhD and author of the international bestseller Chatter, is one of the world's leading experts on emotion regulation. An award-winning professor ...",
+      "link": "https://www.ethankross.com/"
+    },
+    {
+      "title": "Leadership Coach, Keynote Speaker and Economist",
+      "snippet": "Caroline Webb is a leadership coach, author and speaker known for being one of the world's leading experts in using insights from behavioral science to improve ...",
+      "link": "https://carolinewebb.co/bio/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Corky",
+  "searched_at": "2025-07-10T14:53:19.054621",
+  "search_results": [
+    {
+      "title": "Corky Parker - La Finca",
+      "snippet": "At play with art and words. Official website for \u201cLa Finca: Love, Loss, and Laundry on a Tiny Puerto Rican Island,\u201d an illustrated graphic memoir by Corky ...",
+      "link": "https://www.corkyparker.com/"
+    },
+    {
+      "title": "Corky Parker, Author",
+      "snippet": "Corky Parker, Author. 2261 likes \u00b7 7 talking about this. Author, LA FINCA, love loss & laundry on a tiny puerto rican island. Finalist, '23 Audie Award...",
+      "link": "https://www.facebook.com/corkyparkerwriter/"
+    },
+    {
+      "title": "Corky Parker: books, biography, latest update",
+      "snippet": "Corky Parker grew up in Northern California; Sonoma County and Berkeley in the 60's. And although she never went to a traditional high school, she was given a ...",
+      "link": "https://www.amazon.com/Corky-Parker/e/B083YSY8FW/ref=dp_byline_cont_ebooks_1"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": "Hispanic/Latino",
+  "gender_confidence": 0.8,
+  "race_confidence": 0.7,
+  "additional_context": {}
+}

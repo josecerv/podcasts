@@ -1,0 +1,26 @@
+{
+  "guest_name": "Chris",
+  "searched_at": "2025-07-10T14:53:40.295457",
+  "search_results": [
+    {
+      "title": "Chris Widener (author)",
+      "snippet": "Chris Widener (born 18 April 1966) is an American author and motivational speaker. [1] Widener has written several books on motivation and business.",
+      "link": "https://en.wikipedia.org/wiki/Chris_Widener_(author)"
+    },
+    {
+      "title": "My Story | Chris Singleton",
+      "snippet": "Chris Singleton is a former professional athlete drafted by the Chicago Cubs. Following the loss of his mother in a racially motivated mass shooting.",
+      "link": "https://www.chrissingleton.com/chris-story"
+    },
+    {
+      "title": "Chris Fabry's Full Bio",
+      "snippet": "Chris Fabry is an award-winning author and radio personality who hosts the daily program Chris Fabry Live on Moody Radio. Site Search...",
+      "link": "https://chrisfabry.com/about/full-bio"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

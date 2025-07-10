@@ -1,0 +1,26 @@
+{
+  "guest_name": "Ross",
+  "searched_at": "2025-07-10T15:40:47.305350",
+  "search_results": [
+    {
+      "title": "About Ross Bernstein: Speaker & Author",
+      "snippet": "About Ross The best-selling author of nearly 50 sports books, Ross Bernstein, is an award-winning peak performance business speaker who's keynoted ...",
+      "link": "https://www.rossbernsteinspeaking.com/about-ross"
+    },
+    {
+      "title": "Lee Ross",
+      "snippet": "Lee David Ross (August 25, 1942 \u2013 May 14, 2021) was a Canadian-American professor. He held the title of the Stanford Federal Credit Union Professor of ...",
+      "link": "https://en.wikipedia.org/wiki/Lee_Ross"
+    },
+    {
+      "title": "Edward A. Ross",
+      "snippet": "Edward Ross was born in Virden, Illinois, where both his parents died when he was quite young. He was raised by several different farm families ...",
+      "link": "https://www.asanet.org/edward-a-ross/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

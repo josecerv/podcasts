@@ -1,0 +1,26 @@
+{
+  "guest_name": "Elisabeth",
+  "searched_at": "2025-07-10T15:35:04.192994",
+  "search_results": [
+    {
+      "title": "About Elisabeth Elliot",
+      "snippet": "Elisabeth Elliot (1926-2015) was a missionary and a critically acclaimed author and speaker. For over half a century, her life of obedience, timeless teachings,",
+      "link": "https://elisabethelliot.org/about/"
+    },
+    {
+      "title": "Elisabeth Elliot",
+      "snippet": "Elisabeth Elliot (n\u00e9e Howard; December 21, 1926 \u2013 June 15, 2015) was a Christian missionary, author, and speaker. Her first husband, Jim Elliot, ...",
+      "link": "https://en.wikipedia.org/wiki/Elisabeth_Elliot"
+    },
+    {
+      "title": "Elisabeth: books, biography, latest update",
+      "snippet": "Elisabeth was born in Congo, D.R., Africa, raised in West haven, CT and now resides in Ottawa, Canada. She is an Amazon best selling author who writes dark ...",
+      "link": "https://www.amazon.com/Elisabeth/e/B01E1M747Y/ref=ntt_dp_epwbk_0"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

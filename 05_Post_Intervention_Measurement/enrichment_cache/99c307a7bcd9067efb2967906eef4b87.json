@@ -1,0 +1,26 @@
+{
+  "guest_name": "Megan",
+  "searched_at": "2025-07-10T17:19:11.374239",
+  "search_results": [
+    {
+      "title": "About",
+      "snippet": "Megan is determined to use her life to spread hope, share truth, and celebrate others. She holds a Doctorate of Ministry and she serves as a teaching pastor.",
+      "link": "https://www.meganfate.com/about"
+    },
+    {
+      "title": "About Megan",
+      "snippet": "Megan B. Brown is a new and upcoming author, a Christian speaker, and a military missionary. She is passionate about equipping the United States military ...",
+      "link": "https://www.meganbbrown.com/megan-brown"
+    },
+    {
+      "title": "About Megan",
+      "snippet": "Megan E. Freeman attended an elementary school where poets visited her classroom every week to teach poetry, and she has been a writer ever since.",
+      "link": "https://www.meganefreeman.com/about-megan"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

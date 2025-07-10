@@ -1,0 +1,26 @@
+{
+  "guest_name": "The Real Dana",
+  "searched_at": "2025-07-10T16:06:34.015474",
+  "search_results": [
+    {
+      "title": "Dana Frank: HOME",
+      "snippet": "Dana Frank manages a third-generation real estate business, Frank Enterprises, originally founded by her father in 1950 with a single-family home.",
+      "link": "https://www.therealdanafrank.com/"
+    },
+    {
+      "title": "Book",
+      "snippet": "\u201cDana is an extraordinary human and leader\u2026creative, empathetic, committed, community-minded, generous, big-hearted, and smart as smart can be. I love working ...",
+      "link": "https://www.therealdanafrank.com/book"
+    },
+    {
+      "title": "Profile for The Real Dana Jay Books",
+      "snippet": "The Real Dana Jay Books. 2 likes. Hello! My name is Dana Jay and I am a children's book author. I self-published my first book, \u201cGizmo's New Best Friend\u201d...",
+      "link": "https://www.facebook.com/TheRealDanaJayBooks/?locale=en_GB"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

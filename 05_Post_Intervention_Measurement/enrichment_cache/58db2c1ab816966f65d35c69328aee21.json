@@ -1,0 +1,26 @@
+{
+  "guest_name": "Josiah Mortimer",
+  "searched_at": "2025-07-10T14:55:37.595913",
+  "search_results": [
+    {
+      "title": "Josiah Mortimer - Chief Reporter",
+      "snippet": "Josiah Mortimer is Byline Times' Chief Reporter. He joined the title in 2023 after working in local journalism for MyLondon.",
+      "link": "https://bylinetimes.com/author/josiahmortimer/"
+    },
+    {
+      "title": "Josiah Mortimer's Biography",
+      "snippet": "Josiah Mortimer is Chief Reporter for Byline Times. He was previously City Hall Editor for the Reach title MyLondon, and Editor at Left Foot Forward.",
+      "link": "https://muckrack.com/josiahmortimer/bio"
+    },
+    {
+      "title": "Josiah Mortimer",
+      "snippet": "Josiah Mortimer is a freelance journalist, and contributing editor for the website Left Foot Forward. He is also a senior correspondent for Bright Green and ...",
+      "link": "https://www.greeneuropeanjournal.eu/article-author/josiah-mortimer/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

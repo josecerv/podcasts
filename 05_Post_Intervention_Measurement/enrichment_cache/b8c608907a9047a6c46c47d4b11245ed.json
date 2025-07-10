@@ -1,0 +1,26 @@
+{
+  "guest_name": "Cadence",
+  "searched_at": "2025-07-10T14:59:28.039930",
+  "search_results": [
+    {
+      "title": "About",
+      "snippet": "Cadence Bambenek is a journalist, researcher, and editor interested in the intersection between science and technology and power and culture.",
+      "link": "http://www.cadencebambenek.com/about.html"
+    },
+    {
+      "title": "About Us",
+      "snippet": "Cadence is a pivotal leader in electronic systems design, building upon more than 30 years of computational software expertise.",
+      "link": "https://www.cadence.com/en_US/home/company.html"
+    },
+    {
+      "title": "Cadence Willse | Department of Political Science - TCNJ",
+      "snippet": "Cadence Willse is originally from Hingham, Massachusetts. She received her Bachelor's Degree from St. Mary's College of Maryland, and her M.A. and Ph.D. in ...",
+      "link": "https://polisci.tcnj.edu/faculty_staff/cadence-willse/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

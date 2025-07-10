@@ -1,0 +1,26 @@
+{
+  "guest_name": "Cat's Dad",
+  "searched_at": "2025-07-10T15:54:39.356526",
+  "search_results": [
+    {
+      "title": "Brian Unger + | The cat's dad",
+      "snippet": "Brian Unger + | The cat's dad | Instagram ...",
+      "link": "https://www.instagram.com/p/ChvQPQRJtQA/"
+    },
+    {
+      "title": "I wonder who Charlie's dad is.. - Facebook",
+      "snippet": "Anyone know who's cat this is?? Him and my cats stare at each other through the window almost every night and I think he might be my cat's dad.",
+      "link": "https://www.facebook.com/groups/605077103295318/posts/2232266273909718/"
+    },
+    {
+      "title": "Elizabeth Perkins' Post",
+      "snippet": "Proud cat's dad shows off unexpected trick he taught her as a kitten. ... Author, Psychologist, TEDx Speaker\u2013aka Dr. Friendtastic ...",
+      "link": "https://www.linkedin.com/posts/elizabethcunninghamperkins_proud-cats-dad-shows-off-unexpected-trick-activity-7290850012811472896-k3_J"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

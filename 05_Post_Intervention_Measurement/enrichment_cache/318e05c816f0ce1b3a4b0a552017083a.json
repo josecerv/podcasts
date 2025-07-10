@@ -1,0 +1,26 @@
+{
+  "guest_name": "Binance CEO",
+  "searched_at": "2025-07-10T15:23:07.194428",
+  "search_results": [
+    {
+      "title": "Changpeng Zhao",
+      "snippet": "\"Binance CEO \"CZ\" steps down, pleads guilty to U.S. money laundering violations\". Axios. Archived from the original on November 28, 2023. Retrieved November ...",
+      "link": "https://en.wikipedia.org/wiki/Changpeng_Zhao"
+    },
+    {
+      "title": "Changpeng Zhao",
+      "snippet": "In November 2023, Zhao stepped down as Binance's CEO as part of a sweeping settlement with U.S. authorities. Zhao pleaded guilty to failing to maintain an ...",
+      "link": "https://www.forbes.com/profile/changpeng-zhao/"
+    },
+    {
+      "title": "Binance",
+      "snippet": "According to a 2024 study by John Griffin, a finance professor at the ... \"How Binance CEO and aides plotted to dodge regulators in U.S. and UK\".",
+      "link": "https://en.wikipedia.org/wiki/Binance"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Producer Sam",
+  "searched_at": "2025-07-10T15:52:19.017670",
+  "search_results": [
+    {
+      "title": "Sam McAlister",
+      "snippet": "Samantha McAlister is an English TV producer, criminal barrister and author. ... \"Ex-Newsnight producer Sam McAlister on booking Prince Andrew and BBC's ...",
+      "link": "https://en.wikipedia.org/wiki/Sam_McAlister"
+    },
+    {
+      "title": "Sam Spiegel: The Incredible Life and Times of Hollywood's ...",
+      "snippet": "Prior to this meticulously researched biography, legendary producer Sam Spiegel had loomed large in countless Hollywood memoirs, but was rarely the subject of ...",
+      "link": "https://www.amazon.com/Sam-Spiegel-Incredible-Hollywoods-Iconoclastic/dp/068483619X"
+    },
+    {
+      "title": "Author and Producer Sam Greenlee Celebrated",
+      "snippet": "Today marks the birthday of author and producer, Sam Greenlee. Sam Greenlee, a Chicago native who was an American writer of fiction and poetry and is best ...",
+      "link": "https://nostalgiaking.com/2023/07/14/author-and-producer-sam-greenlee-celebrated/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

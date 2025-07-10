@@ -1,0 +1,26 @@
+{
+  "guest_name": "Adam",
+  "searched_at": "2025-07-10T15:25:38.207866",
+  "search_results": [
+    {
+      "title": "Bio \u2013 Adam Grant",
+      "snippet": "Adam Grant is an organizational psychologist and bestselling author who explores the science of character, connection, culture, and change. Adam Grant has been ...",
+      "link": "https://adamgrant.net/about/biography/"
+    },
+    {
+      "title": "Adam Grant",
+      "snippet": "Adam M. Grant (born August 13, 1981) is an American popular science author, and professor at the Wharton School of the University of Pennsylvania ...",
+      "link": "https://en.wikipedia.org/wiki/Adam_Grant"
+    },
+    {
+      "title": "Adam Grant \u2013 Books, Podcast, TED Talks, Newsletter, Articles",
+      "snippet": "Adam Grant is an organizational psychologist and bestselling author who studies how people find motivation and meaning, and what it takes to lead more ...",
+      "link": "https://adamgrant.net/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

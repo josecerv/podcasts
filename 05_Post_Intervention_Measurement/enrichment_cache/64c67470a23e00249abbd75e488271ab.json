@@ -1,0 +1,26 @@
+{
+  "guest_name": "Johana",
+  "searched_at": "2025-07-10T17:20:48.780523",
+  "search_results": [
+    {
+      "title": "Johana Harris: A Biography: Paquin, Ethel",
+      "snippet": "Johana Harris was a musical prodigy who began her education in her native Canada, then moved to New York at the age of 12. The youngest student ever admitted to ...",
+      "link": "https://www.amazon.com/Johana-Harris-Biography-Ethel-Paquin/dp/0810877597"
+    },
+    {
+      "title": "Johana Harris",
+      "snippet": "Johana Harris (31 December 1912 \u2013 5 June 1995) was a Canadian pianist, composer, and music educator. She had highly successful career as a concert pianist.",
+      "link": "https://en.wikipedia.org/wiki/Johana_Harris"
+    },
+    {
+      "title": "Johana Londo\u00f1o, Ph.D.",
+      "snippet": "Johana Londo\u00f1o, Ph.D. Associate Professor ... Professor Londo\u00f1o is an Associate Professor in the Department of Latino and ...",
+      "link": "https://latcar.rutgers.edu/people/faculty/core-faculty/core-faculty-members/415-johana-londono"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": "Hispanic/Latino",
+  "gender_confidence": 0.8,
+  "race_confidence": 0.7,
+  "additional_context": {}
+}

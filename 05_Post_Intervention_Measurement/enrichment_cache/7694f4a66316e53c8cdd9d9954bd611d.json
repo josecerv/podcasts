@@ -1,0 +1,26 @@
+{
+  "guest_name": "Q",
+  "searched_at": "2025-07-10T15:56:48.040719",
+  "search_results": [
+    {
+      "title": "About - Jesse Q Sutanto",
+      "snippet": "Hullooos! Photo of author Jesse Q. Sutanto. Jesse here! Thank you so much for ... If you are a writer from a marginalized community, come say hello to ...",
+      "link": "https://jesseqsutantoauthor.com/about"
+    },
+    {
+      "title": "Jesse Q. Sutanto",
+      "snippet": "Jesse Q. Sutanto is a Chinese-Indonesian author. As of 2023, she has published nine novels for adults, young adults, and middle grade readers.",
+      "link": "https://en.wikipedia.org/wiki/Jesse_Q._Sutanto"
+    },
+    {
+      "title": "James Q. Wilson",
+      "snippet": "James Q. Wilson ... James Quinn Wilson (May 27, 1931 \u2013 March 2, 2012) was an American political scientist and an authority on public administration. Most of his ...",
+      "link": "https://en.wikipedia.org/wiki/James_Q._Wilson"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Christy",
+  "searched_at": "2025-07-10T14:52:51.608407",
+  "search_results": [
+    {
+      "title": "Bio",
+      "snippet": "As a relationship and soul-health coach, popular national speaker, author and Executive Director of Living Soul, Christy's driving passion is to help women ...",
+      "link": "https://www.christyjohnson.org/about/bio/"
+    },
+    {
+      "title": "Christy Wilkens | Catholic Writer & Speaker | Home",
+      "snippet": "Christy Wilkens is a Catholic writer and speaker working where adversity meets faith. Disability, theology, community, and Jesus.",
+      "link": "https://christywilkens.com/"
+    },
+    {
+      "title": "Christian Motivational Speaker | Christy Boulware | Overcome ...",
+      "snippet": "Women ministry leader, Christy Boulware has a desire to set women and teens free from the chains of fear and anxiety. She founded and leads the ...",
+      "link": "https://www.christyboulware.com/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

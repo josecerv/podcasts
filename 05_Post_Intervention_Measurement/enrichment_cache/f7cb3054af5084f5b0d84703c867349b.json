@@ -1,0 +1,26 @@
+{
+  "guest_name": "Emil",
+  "searched_at": "2025-07-10T16:59:37.029410",
+  "search_results": [
+    {
+      "title": "Emil Draitser",
+      "snippet": "Emil Draitser (born 1937) is an author and professor of Russian at Hunter College in New York City. Besides seventeen books of artistic and scholarly prose, ...",
+      "link": "https://en.wikipedia.org/wiki/Emil_Draitser"
+    },
+    {
+      "title": "Emil Ludwig",
+      "snippet": "Emil Ludwig (25 January 1881 \u2013 17 September 1948) was a German-Swiss author, known for his biographies and study of historical greats.",
+      "link": "https://en.wikipedia.org/wiki/Emil_Ludwig"
+    },
+    {
+      "title": "Emil Lengyel | EBSCO Research Starters",
+      "snippet": "Emil Lengyel was a Hungarian-born figure known for his contributions to literature and academia, particularly regarding World War II and the Nazi regime.",
+      "link": "https://www.ebsco.com/research-starters/history/emil-lengyel"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

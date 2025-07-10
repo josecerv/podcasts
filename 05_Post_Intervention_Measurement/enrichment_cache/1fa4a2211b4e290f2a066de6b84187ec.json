@@ -1,0 +1,26 @@
+{
+  "guest_name": "Carla",
+  "searched_at": "2025-07-10T15:25:04.309000",
+  "search_results": [
+    {
+      "title": "Carla Kaplan, author | Official website | Biography",
+      "snippet": "Author Carla Kaplan is the Davis Distinguished Professor of American Literature at Northeastern University and author of Zora Neale Hurston: A Life in ...",
+      "link": "https://carlakaplan.com/biography.html"
+    },
+    {
+      "title": "About Me - Carla Naumburg, PhD ...",
+      "snippet": "Here is my short bio: Carla Naumburg, PhD, LICSW is the author of five books, including the bestselling How to Stop Losing Your Sh*t With Your Kids ( ...",
+      "link": "https://www.carlanaumburg.com/about/"
+    },
+    {
+      "title": "Author",
+      "snippet": "2024 Anthem Award Winner, Carla Harris, is a seasoned speaker and Wallstreet Veteran who specializes in leadership development and corporate success ...",
+      "link": "https://www.carlaspearls.com/author"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

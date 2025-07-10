@@ -1,0 +1,26 @@
+{
+  "guest_name": "Norris",
+  "searched_at": "2025-07-10T17:30:11.818900",
+  "search_results": [
+    {
+      "title": "Leslie Norris",
+      "snippet": "George Leslie Norris (21 May 1921 \u2013 6 April 2006), was a prize-winning Welsh poet and short story writer. He taught at academic institutions in Britain and ...",
+      "link": "https://en.wikipedia.org/wiki/Leslie_Norris"
+    },
+    {
+      "title": "Kathleen Norris: Bestselling Essayist on the Spiritual Life",
+      "snippet": "BIOGRAPHY. Kathleen Norris is the award-winning poet, writer, and author of The New York Times bestsellers The Cloister Walk, Acedia & Me: ...",
+      "link": "https://www.barclayagency.com/speakers/kathleen-norris"
+    },
+    {
+      "title": "Frank Norris",
+      "snippet": "Benjamin Franklin Norris Jr. (March 5, 1870 \u2013 October 25, 1902) was an American journalist and novelist during the Progressive Era",
+      "link": "https://en.wikipedia.org/wiki/Frank_Norris"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

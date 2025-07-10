@@ -1,0 +1,26 @@
+{
+  "guest_name": "Patel",
+  "searched_at": "2025-07-10T16:03:04.531318",
+  "search_results": [
+    {
+      "title": "Meet Raj - Raj Patel",
+      "snippet": "Raj Patel is an award-winning author, film-maker and academic. He is a Research Professor in the Lyndon B Johnson School of Public Affairs at the University ...",
+      "link": "https://rajpatel.org/meet-raj/"
+    },
+    {
+      "title": "Raj Patel",
+      "snippet": "Rajeev \"Raj\" Patel (born 1972) is a British academic, journalist, activist and writer who has lived and worked in Zimbabwe, South Africa, and the United ...",
+      "link": "https://en.wikipedia.org/wiki/Raj_Patel"
+    },
+    {
+      "title": "Raj Patel | Authors",
+      "snippet": "Raj Patel is an award-winning author, film-maker and academic. He is a Research Professor in the Lyndon B Johnson School of Public Affairs at the University ...",
+      "link": "https://us.macmillan.com/author/rajpatel"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

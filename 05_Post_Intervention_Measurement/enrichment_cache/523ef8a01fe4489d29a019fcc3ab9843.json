@@ -1,0 +1,26 @@
+{
+  "guest_name": "Bently",
+  "searched_at": "2025-07-10T16:05:57.848122",
+  "search_results": [
+    {
+      "title": "Jerry H. Bentley",
+      "snippet": "Jerry Harrell Bentley (December 12, 1949 \u2013 July 15, 2012) was an American academic and professor of world history. He was a founding editor of the Journal ...",
+      "link": "https://en.wikipedia.org/wiki/Jerry_H._Bentley"
+    },
+    {
+      "title": "E.C. Bentley | Crime Fiction Writer, Detective Novels & ...",
+      "snippet": "E.C. Bentley was a British journalist and man of letters who is remembered as the inventor of the clerihew and for his other light verse and ...",
+      "link": "https://www.britannica.com/biography/E-C-Bentley"
+    },
+    {
+      "title": "Richard Bentley",
+      "snippet": "Richard Bentley FRS was an English classical scholar, critic, and theologian. Considered the \"founder of historical philology\", Bentley is widely credited ...",
+      "link": "https://en.wikipedia.org/wiki/Richard_Bentley"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

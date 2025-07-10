@@ -1,0 +1,26 @@
+{
+  "guest_name": "Pepe",
+  "searched_at": "2025-07-10T17:26:00.320462",
+  "search_results": [
+    {
+      "title": "professor pepe digital marketing",
+      "snippet": "Digital Marketing Education website by Professor Pepe. Learn valuable digital marketing skills.",
+      "link": "https://www.professorpepedigitalmarketing.com/"
+    },
+    {
+      "title": "Pepe (footballer, born 1983)",
+      "snippet": "Born and raised in Brazil, Pepe moved to Portugal to sign with Mar\u00edtimo, before moving to Porto in 2004. During his first Porto stint, he won two Primeira Liga ...",
+      "link": "https://en.wikipedia.org/wiki/Pepe_(footballer,_born_1983)"
+    },
+    {
+      "title": "Pepe Chang, Ph.D. - Alvarez College of Business - UTSA",
+      "snippet": "Pepe Lee Chang is an associate professor in the Department of Management at The University of Texas at San Antonio. She joined the UTSA faculty in 2007 ...",
+      "link": "https://business.utsa.edu/faculty/profiles/chang-pepe.html"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

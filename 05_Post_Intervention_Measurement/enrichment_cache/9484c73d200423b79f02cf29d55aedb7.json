@@ -1,0 +1,26 @@
+{
+  "guest_name": "Centro",
+  "searched_at": "2025-07-10T17:04:09.994812",
+  "search_results": [
+    {
+      "title": "About \u2014 Centro Tyrone Guzman",
+      "snippet": "As the oldest and largest Minneapolis-based multi-service Latine* organization, Centro Tyrone Guzman is proud to represent a diverse group of staff and ...",
+      "link": "https://www.centromn.org/about"
+    },
+    {
+      "title": "Academics \u2013 The CENTRO",
+      "snippet": "Prof. Sabnis was Associate Professor at the Centro in 2017\u20132018 and has held research fellowships at Vassar College, Wellesley College, and the W. E. B. Du Bois ...",
+      "link": "https://thecentrorome.org/academics/"
+    },
+    {
+      "title": "About Us \u2013 The CENTRO",
+      "snippet": "The Centro, formally the \u201cIntercollegiate Center for Classical Studies in Rome,\u201d has been educating lovers of ancient Italy since 1965.",
+      "link": "https://thecentrorome.org/about/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

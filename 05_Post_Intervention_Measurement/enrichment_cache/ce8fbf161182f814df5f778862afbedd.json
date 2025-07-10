@@ -1,0 +1,26 @@
+{
+  "guest_name": "Reese",
+  "searched_at": "2025-07-10T16:59:39.521088",
+  "search_results": [
+    {
+      "title": "Roger R. Reese - Texas A&M College of Arts and Sciences",
+      "snippet": "Biography. Roger Reese received his Ph.D. from the University of Texas in 1990 and joined the Texas A&M History Department that same year.",
+      "link": "https://artsci.tamu.edu/history/contact/profiles/roger-r-reese.html"
+    },
+    {
+      "title": "Elizabeth Reese - Faculty - Stanford Law School",
+      "snippet": "Biography. Elizabeth Hidalgo Reese, Yunpov\u00ed (Tewa: Willow Flower) is a scholar of American Indian tribal law, federal Indian law, and constitutional law ...",
+      "link": "https://law.stanford.edu/elizabeth-reese/"
+    },
+    {
+      "title": "Professor William J. Reese",
+      "snippet": "Prof. Reese is the author of several books and numerous articles on the history of American education, and his research has been supported by generous grants ...",
+      "link": "https://web.education.wisc.edu/reese/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

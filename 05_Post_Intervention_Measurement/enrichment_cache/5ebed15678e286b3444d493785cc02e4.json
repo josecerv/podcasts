@@ -1,0 +1,26 @@
+{
+  "guest_name": "LOCASH",
+  "searched_at": "2025-07-10T16:46:37.738555",
+  "search_results": [
+    {
+      "title": "LoCash",
+      "snippet": "LoCash Cowboys is an American country music duo from Nashville. The duo consists of Chris Lucas and Preston Brust, both of whom are vocalists, songwriters, and ...",
+      "link": "https://en.wikipedia.org/wiki/LoCash"
+    },
+    {
+      "title": "About",
+      "snippet": "Named \u201ccountry music's iconic feel-good duo\u201d by PEOPLE, LOCASH \u2013 Preston Brust and Chris Lucas \u2013 are adding a new dimension to their hitmaking career.",
+      "link": "https://www.locash.com/about"
+    },
+    {
+      "title": "LOCASH Matures with the Times While Staying True to ...",
+      "snippet": "LOCASH, which will perform at Oaklawn in Hot Springs May 10, has been at the center of that melting pot for most of the duo's career, blending country, pop and ...",
+      "link": "https://aymag.com/keeping-the-faith-locash/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

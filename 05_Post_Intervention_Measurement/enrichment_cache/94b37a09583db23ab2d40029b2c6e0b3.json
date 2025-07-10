@@ -1,0 +1,26 @@
+{
+  "guest_name": "Kirsten",
+  "searched_at": "2025-07-10T17:18:43.288556",
+  "search_results": [
+    {
+      "title": "About",
+      "snippet": "Kirsten Holmberg's experience as a speaker and public speaking coach; links to other works and projects.",
+      "link": "https://kirstenholmberg.com/about/"
+    },
+    {
+      "title": "Kirsten E. Wood | FIU Steven J. Green School ...",
+      "snippet": "Kirsten E. Wood. Professor. History. Phone305-348-2803. Emailwoodk@fiu.edu ... Professor Wood is a specialist in the history of the early American republic.",
+      "link": "https://sipa.fiu.edu/people/faculty/history/wood.kirsten.html"
+    },
+    {
+      "title": "A. Kirsten Mullen | Author",
+      "snippet": "A. Kirsten Mullen is a writer, folklorist, museum consultant, and lecturer whose work focuses on race, art, history, and politics.",
+      "link": "https://uncpress.org/author/11616-a-kirsten-mullen/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

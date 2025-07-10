@@ -1,0 +1,26 @@
+{
+  "guest_name": "Andres",
+  "searched_at": "2025-07-10T16:45:11.187836",
+  "search_results": [
+    {
+      "title": "Andr\u00e9s Res\u00e9ndez | History Department",
+      "snippet": "Andr\u00e9s Res\u00e9ndez. Andres Resendez Portrait. Position Title. Professor. (530) 754-1649 \u00b7 aresendez@ucdavis.edu. SSH 3209. Bio. Education. Ph.D., History, ...",
+      "link": "https://history.ucdavis.edu/people/andres-resendez"
+    },
+    {
+      "title": "Andres Pinedo | Faculty Bio - Peabody College",
+      "snippet": "Andres (Andy) Pinedo is an assistant professor of human and organizational development who studies the processes that either perpetuate or disrupt inequality ...",
+      "link": "https://peabody.vanderbilt.edu/bio/?pid=andres-pinedo"
+    },
+    {
+      "title": "Dr. Michael Andres | Northwestern College in Iowa",
+      "snippet": "Dr. Andres teaches theology, Christian witness, Christian community development, and Calvin and Calvinism. He has research interests in Christian community ...",
+      "link": "https://www.nwciowa.edu/bible-theology/faculty/michael-andres"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

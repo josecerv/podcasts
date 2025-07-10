@@ -1,0 +1,26 @@
+{
+  "guest_name": "Casanova",
+  "searched_at": "2025-07-10T15:48:42.034511",
+  "search_results": [
+    {
+      "title": "Giacomo Casanova",
+      "snippet": "Giacomo Girolamo Casanova was an Italian adventurer who was born in the Republic of Venice and travelled extensively throughout Europe.",
+      "link": "https://en.wikipedia.org/wiki/Giacomo_Casanova"
+    },
+    {
+      "title": "Amazon.com: Casanova: The World of a Seductive Genius",
+      "snippet": "Giacomo Casanova was raised by his maternal grandmother, an illiterate peasant. His birthplace, Venice, was a republic in decline, reputedly the most debauched ...",
+      "link": "https://www.amazon.com/Casanova-Seductive-Genius-Laurence-Bergreen/dp/1476716498"
+    },
+    {
+      "title": "Giacomo Casanova | 18th Century Italian Lover & Adventurer",
+      "snippet": "Giacomo Casanova was an ecclesiastic, writer, soldier, spy, and diplomatist, chiefly remembered as the prince of Italian adventurers and as ...",
+      "link": "https://www.britannica.com/biography/Giacomo-Casanova"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

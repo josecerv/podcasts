@@ -1,0 +1,26 @@
+{
+  "guest_name": "Andrew",
+  "searched_at": "2025-07-10T14:53:12.109072",
+  "search_results": [
+    {
+      "title": "Andrew Sykes | Speaker, Author, Professor, CEO & ...",
+      "snippet": "Andrew Sykes is a professional speaker and the CEO & co-founder of the sales training company, Habits at Work. Andrew co-created the Promise Selling ...",
+      "link": "https://www.andrewsykes.com/"
+    },
+    {
+      "title": "Andrew Delbanco",
+      "snippet": "Andrew H. Delbanco (born 1952) is an American writer and professor. He is the Alexander Hamilton Professor of American Studies at Columbia University",
+      "link": "https://en.wikipedia.org/wiki/Andrew_Delbanco"
+    },
+    {
+      "title": "About Andrew",
+      "snippet": "About Andrew \u00b7 Growing Up \u00b7 Becoming a Teacher \u00b7 I got married my first year of teaching, and during my teaching years my wife had a career in professional theater ...",
+      "link": "https://www.andrewclements.com/about"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

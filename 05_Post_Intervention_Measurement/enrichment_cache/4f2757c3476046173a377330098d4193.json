@@ -1,0 +1,26 @@
+{
+  "guest_name": "Clarence",
+  "searched_at": "2025-07-10T16:30:03.200673",
+  "search_results": [
+    {
+      "title": "Clarence Lusane",
+      "snippet": "Clarence Lusane (born 1953) is an American author, activist, lecturer and freelance journalist. His most recent major work is his book The Black History of ...",
+      "link": "https://en.wikipedia.org/wiki/Clarence_Lusane"
+    },
+    {
+      "title": "Clarence Lusane | Howard Profiles",
+      "snippet": "Clarence Lusane is a full Professor, former Chairman of Howard University's Department of Political Science, and current Director of the International Affairs ...",
+      "link": "https://profiles.howard.edu/clarence-lusane"
+    },
+    {
+      "title": "Clarence Walker - History Department",
+      "snippet": "Distinguished Professor Clarence E. Walker, American historian and a highly esteemed scholar and critic of African American history, ...",
+      "link": "https://history.ucdavis.edu/clarence-walker"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": "Black",
+  "gender_confidence": 0.8,
+  "race_confidence": 0.7,
+  "additional_context": {}
+}

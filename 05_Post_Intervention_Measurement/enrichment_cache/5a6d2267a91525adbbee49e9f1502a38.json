@@ -1,0 +1,26 @@
+{
+  "guest_name": "Tom O'Bedlam",
+  "searched_at": "2025-07-10T15:29:52.157531",
+  "search_results": [
+    {
+      "title": "Tom O'Bedlam",
+      "snippet": "Tom O'Bedlam is the author of Trickster's Song. His writing is a madcap mixture of bad jokes, obscure references, and music of all kinds.",
+      "link": "https://podiumentertainment.com/authors/374/tom-obedlam"
+    },
+    {
+      "title": "Tom o' Bedlam",
+      "snippet": "\"Tom o' Bedlam\" is the title of an anonymous poem in the \"mad song\" genre, written in the voice of a homeless \"Bedlamite\". The poem was probably composed at ...",
+      "link": "https://en.wikipedia.org/wiki/Tom_o%27_Bedlam"
+    },
+    {
+      "title": "Tom O'Bedlam: books, biography, latest update",
+      "snippet": "Tom O'Bedlam is often accused of being away with the fairies, spends too much time rolling dice, and loves writing strange and madcap characters on strange ...",
+      "link": "https://www.amazon.co.uk/stores/author/B0BQ72VVH2/about"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

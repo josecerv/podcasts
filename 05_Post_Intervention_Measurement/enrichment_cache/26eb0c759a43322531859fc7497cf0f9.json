@@ -1,0 +1,26 @@
+{
+  "guest_name": "Andy Dandy",
+  "searched_at": "2025-07-10T14:47:26.739725",
+  "search_results": [
+    {
+      "title": "Andy Dandy's Candy (The Adventures of ...",
+      "snippet": "This story is about a little boy named Andy Dandy. He lives with his mother, father, and little sister. They live in a small town called Sprinkleville.",
+      "link": "https://www.amazon.com/Andy-Dandys-Candy-Adventures-Dandy/dp/1950574164"
+    },
+    {
+      "title": "Andy's Dandy Day - A story about kindness - JDEducational",
+      "snippet": "Andy learns about their day and his new friends are very thankful for his help completing different tasks. Read \"Andy's Dandy Day\" with your ...",
+      "link": "https://jdeducational.com/blogs/news/andys-dandy-day-giveaway"
+    },
+    {
+      "title": "Andy Dandy's Candy (Paperback)",
+      "snippet": "This story is about a little boy named Andy Dandy. He lives with his mother, father, and little sister. They live in a small town called ...",
+      "link": "https://www.sandmanbooks.com/book/9781950574162?srsltid=AfmBOoodB43d31oDwbdApuLVhSKmRZdaU4FvwNx7cb1zMdf7INvblXKD"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

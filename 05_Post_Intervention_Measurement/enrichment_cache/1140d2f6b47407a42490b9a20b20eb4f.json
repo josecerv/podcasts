@@ -1,0 +1,26 @@
+{
+  "guest_name": "Kathy",
+  "searched_at": "2025-07-10T16:10:40.609303",
+  "search_results": [
+    {
+      "title": "About Kathy",
+      "snippet": "Kathy Izard is an award-winning author and speaker who has helped bring transformation to Charlotte in homelessness, housing, and mental health.",
+      "link": "https://www.kathyizard.com/about"
+    },
+    {
+      "title": "Kathy Izard",
+      "snippet": "Kathy Izard is an award-winning author, speaker, and change-maker working on homelessness and mental health in Charlotte, North Carolina.",
+      "link": "https://www.kathyizard.com/"
+    },
+    {
+      "title": "About Kathy",
+      "snippet": "Kathy Coffey is the author of 13 award-winning books and many articles in Catholic periodicals like America, U.S. Catholic, St. Anthony Messenger, ...",
+      "link": "https://kathyjcoffey.com/bio-kathy-coffey/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Unknown Quinnipiac Hockey Player",
+  "searched_at": "2025-07-10T16:01:06.311124",
+  "search_results": [
+    {
+      "title": "Renowned sports journalist urges students to embrace ...",
+      "snippet": "Dana O'Neil was a college field hockey player without much of a career plan when she declared to her parents, after about a semester of ...",
+      "link": "https://www.qu.edu/quinnipiac-today/renowned-sports-journalist-dana-oneil-urges-quinnipiac-students-to-embrace-uncertainty-take-readers-to-places-unseen-2025-02-19/"
+    },
+    {
+      "title": "Renowned Sports Journalist Speaks at Quinnipiac University",
+      "snippet": "\u2013 Dana O'Neil was a college field hockey player without much of a career plan when she declared to her parents, after about a semester of ...",
+      "link": "https://patch.com/connecticut/northhaven/renowned-sports-journalist-speaks-quinnipiac-university"
+    },
+    {
+      "title": "Dr. Bruce: professor, researcher and musician",
+      "snippet": "Before coming to Quinnipiac, Bruce had started up a Criminal Justice program at Keuka College in upstate New York; he remained there for three ...",
+      "link": "https://quchronicle.com/4056/news/features/dr-bruce-professor-researcher-and-musician/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

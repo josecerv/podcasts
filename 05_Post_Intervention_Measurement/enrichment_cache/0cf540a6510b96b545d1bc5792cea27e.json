@@ -1,0 +1,26 @@
+{
+  "guest_name": "Tingting",
+  "searched_at": "2025-07-10T16:38:28.869513",
+  "search_results": [
+    {
+      "title": "Tingting Xu : People : Department of Art and Art History",
+      "snippet": "Biography. Tingting Xu is a historian of Chinese art with a focus on medium, format, and the related discourses. Her research interests include the history ...",
+      "link": "https://www.sas.rochester.edu/aah/people/faculty/xu-tingting/index.html"
+    },
+    {
+      "title": "Tingting Liu - Haslam College of Business",
+      "snippet": "Biography. Tingting Liu is a professor of finance at the University of Tennessee. She received her doctorate in finance from the University of Georgia.",
+      "link": "https://haslam.utk.edu/people/profile/tingting-liu/"
+    },
+    {
+      "title": "Tingting Zhao \u2013 College of Business",
+      "snippet": "Biography. Tingting is currently the Alfred J. Verrecchia Endowed Assistant Professor in the College of Business at URI. Previously, she served as an ...",
+      "link": "https://web.uri.edu/business/meet/tingting-zhao/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

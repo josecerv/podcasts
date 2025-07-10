@@ -1,0 +1,26 @@
+{
+  "guest_name": "Stacy",
+  "searched_at": "2025-07-10T14:59:08.312257",
+  "search_results": [
+    {
+      "title": "Author Stacy Hawkins Adams",
+      "snippet": "Author and Speaker Stacy Hawkins Adams' website. Updates on her books, blogs, essays, articles, speaking and writing classes.",
+      "link": "https://www.stacyhawkinsadams.com/"
+    },
+    {
+      "title": "Stacy Schiff, author | Official website | Home",
+      "snippet": "\u201cWith incomparable wit, grace, and insight, Stacy Schiff narrates the birth of the American Revolution in Boston and the artful, elusive magician who made it ...",
+      "link": "https://stacyschiff.com/index.html"
+    },
+    {
+      "title": "Stacy McAnulty (she/her)",
+      "snippet": "Stacy McAnulty is an award-winning children's book author, who used to be a mechanical engineer and still dreams of being an astronaut.",
+      "link": "https://theauthorvillage.com/presenters/stacy-mcanulty/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

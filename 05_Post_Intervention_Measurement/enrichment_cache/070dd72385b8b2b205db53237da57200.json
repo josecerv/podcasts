@@ -1,0 +1,26 @@
+{
+  "guest_name": "Ray",
+  "searched_at": "2025-07-10T15:34:43.534594",
+  "search_results": [
+    {
+      "title": "Ray Monk",
+      "snippet": "Ray Monk FRSL (born 15 February 1957) is a British biographer who is renowned for his biographies of Ludwig Wittgenstein, Bertrand Russell, and J. Robert ...",
+      "link": "https://en.wikipedia.org/wiki/Ray_Monk"
+    },
+    {
+      "title": "Ray Friedman | Biography",
+      "snippet": "An expert on negotiation, conflict resolution, Chinese management, and diversity, Ray Friedman brings a variety of business-relevant insights to his fields of ...",
+      "link": "https://business.vanderbilt.edu/bio/ray-friedman"
+    },
+    {
+      "title": "Ray Bradbury - Books, Short Stories & Quotes",
+      "snippet": "American fantasy and horror author Ray Bradbury is best known for his novels 'Fahrenheit 451,' 'The Illustrated Man' and 'The Martian Chronicles.'",
+      "link": "https://www.biography.com/authors-writers/ray-bradbury"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

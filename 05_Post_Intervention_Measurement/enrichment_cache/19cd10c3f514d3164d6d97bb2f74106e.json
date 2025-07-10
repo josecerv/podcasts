@@ -1,0 +1,26 @@
+{
+  "guest_name": "Elizabeth Jones\u2019 mother",
+  "searched_at": "2025-07-10T15:50:42.987771",
+  "search_results": [
+    {
+      "title": "Elizabeth Jones: books, biography, latest update",
+      "snippet": "Elizabeth Jones, mother of 2 and grandmother of 10, lives in the central valley of California with her husband, and their cat Lilybits, who sleeps in the ...",
+      "link": "https://www.amazon.com/Elizabeth-Jones/e/B00W8VJ672%3Fref=dbs_a_mng_rwt_scns_share"
+    },
+    {
+      "title": "The Cemetery Traveler - by Ed Snyder: Mom Loved to Fly",
+      "snippet": "When I was young, we had visited his grave several times, but I had no idea where it was located. Elizabeth Jones' mother, Elizabeth's (1880 ...",
+      "link": "http://thecemeterytraveler.blogspot.com/2017/07/mom-loved-to-fly.html"
+    },
+    {
+      "title": "Books - Through Sarah's Eyes: Jones, Elizabeth",
+      "snippet": "Elizabeth Jones, mother of 2 and grandmother of 10, lives in the central valley of California with her husband, and their cat Lilybits, who sleeps in the ...",
+      "link": "https://www.amazon.com/Through-Sarahs-Eyes-Elizabeth-Jones/dp/1517697921"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

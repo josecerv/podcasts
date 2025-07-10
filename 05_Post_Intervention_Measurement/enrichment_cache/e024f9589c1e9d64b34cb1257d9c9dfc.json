@@ -1,0 +1,26 @@
+{
+  "guest_name": "Andreas",
+  "searched_at": "2025-07-10T14:50:20.233893",
+  "search_results": [
+    {
+      "title": "Peter Andreas | Watson School of International and Public ...",
+      "snippet": "Peter Andreas is the John Hay Professor of International Studies at Brown University. He joined the Watson Institute in the fall of 2001.",
+      "link": "https://home.watson.brown.edu/people/faculty/watson-faculty/peter-andreas"
+    },
+    {
+      "title": "Remembering Andreas Eshete",
+      "snippet": "Andreas Eshete, who died last week at age seventy-nine, was one of the greatest minds of Ethiopia's finest generation of thinkers.",
+      "link": "https://www.bostonreview.net/articles/remembering-andreas-eshete/"
+    },
+    {
+      "title": "Andreas Malm",
+      "snippet": "Andreas Malm (born 1976 or 1977) is a Swedish author and an associate professor of human ecology at Lund University. He is on the editorial board of the ...",
+      "link": "https://en.wikipedia.org/wiki/Andreas_Malm"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

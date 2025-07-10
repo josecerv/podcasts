@@ -1,0 +1,26 @@
+{
+  "guest_name": "John Shepherd",
+  "searched_at": "2025-07-10T17:03:02.291210",
+  "search_results": [
+    {
+      "title": "John Shepherd - Music",
+      "snippet": "John Shepherd. Profile Image of John Shepherd. Distinguished Research Professor and Chancellor's Professor Emeritus. B.A., B.Mus. (Carleton), D.Phil. (York ...",
+      "link": "https://carleton.ca/music/cu-people/shepherd-john-2/"
+    },
+    {
+      "title": "Biography | Professor John Shepherd",
+      "snippet": "Professor John Shepherd CBE FRS MA PhD FIMA CMath is Emeritus Professor of Earth System Science in the Ocean & Earth Science department of the University of ...",
+      "link": "https://jgshepherd.com/biography/"
+    },
+    {
+      "title": "John Shepherd obituary | History books",
+      "snippet": "John Shepherd, who has died aged 82, was a leading historian of the Labour party. His book George Lansbury (2002) was acclaimed by Michael Foot as \u201cthe best ...",
+      "link": "https://www.theguardian.com/books/2025/jan/14/john-shepherd-obituary"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

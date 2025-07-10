@@ -1,0 +1,26 @@
+{
+  "guest_name": "Abi",
+  "searched_at": "2025-07-10T17:38:13.282833",
+  "search_results": [
+    {
+      "title": "Abi Dar\u00e9",
+      "snippet": "Abimbola \"Abi\" Dar\u00e9 is a Nigerian author and public speaker who now lives in Essex, England. In 2018, she won the Bath Novel Award, and was a finalist in ...",
+      "link": "https://en.wikipedia.org/wiki/Abi_Dar%C3%A9"
+    },
+    {
+      "title": "About me",
+      "snippet": "I'm Abi Elphinstone and I live on the wild east coast of Scotland with my husband and three little kids. One day, we hope to welcome a highland cow called ...",
+      "link": "https://www.abielphinstone.com/about-me/"
+    },
+    {
+      "title": "About Dr. Abi - Dr. Abigail Gewirtz",
+      "snippet": "Abi \u00b7 Events \u00b7 Recorded Events/Webinars \u00b7 Press & Media \u00b7 Print \u00b7 Podcasts \u00b7 Radio/TV \u00b7 Awards & Recommendations \u00b7 Dr. Abi at ASU \u00b7 Dr. Abi at UMN \u00b7 Blog.",
+      "link": "https://abigailgewirtz.com/about-dr-abi"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

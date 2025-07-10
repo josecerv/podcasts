@@ -1,0 +1,26 @@
+{
+  "guest_name": "Cleerly",
+  "searched_at": "2025-07-10T16:36:29.491495",
+  "search_results": [
+    {
+      "title": "In the News",
+      "snippet": "Cleerly continues to revolutionize heart attack and cardiovascular disease prevention and treatment everyday by inventing world-class technology. Cleerly ...",
+      "link": "https://cleerlyhealth.com/in-the-news/author/cleerly"
+    },
+    {
+      "title": "James K. Min, MD, Founder and CEO",
+      "snippet": "Patents. Cleerly continues to revolutionize heart attack and cardiovascular disease prevention and treatment everyday by inventing world-class technology.",
+      "link": "https://cleerlyhealth.com/leadership/james-k-min"
+    },
+    {
+      "title": "Heart Health Blog | Cleerly, Inc",
+      "snippet": "Cleerly has had a busy few months \u2013 attending conferences, panel sessions, and winning awards as we all work together to achieve our mission.",
+      "link": "https://cleerlyhealth.com/blog/author/cleerly"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

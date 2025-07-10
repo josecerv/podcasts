@@ -1,0 +1,26 @@
+{
+  "guest_name": "Margaret Stohl",
+  "searched_at": "2025-07-10T16:18:36.718445",
+  "search_results": [
+    {
+      "title": "Margaret Stohl",
+      "snippet": "Margaret Stohl is an American novelist. She is the author of 14 novels, as well as 5 volumes of comics and several video games. She lives in Santa Monica, ...",
+      "link": "https://en.wikipedia.org/wiki/Margaret_Stohl"
+    },
+    {
+      "title": "Bio",
+      "snippet": "Margaret Stohl is a #1 New York Times bestselling nerd, world-builder, video game creator, comic book writer and festival founder.",
+      "link": "https://margaretstohl.tumblr.com/bio"
+    },
+    {
+      "title": "Margaret Stohl '89: Writer Creates Worlds in Unexpected Ways",
+      "snippet": "Margaret Stohl has had, to put it lightly, a varied career. She has been a high-profile creator of video games, young adult novels, and most recently, comic ...",
+      "link": "https://amherststudent.amherst.edu/article/2017/10/20/margaret-stohl-89-writer-creates-worlds-unexpected-ways.html"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

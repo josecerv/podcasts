@@ -1,0 +1,26 @@
+{
+  "guest_name": "Navy veteran",
+  "searched_at": "2025-07-10T16:44:27.406431",
+  "search_results": [
+    {
+      "title": "Honoring Veterans: Navy Veteran William Wright Abbot III",
+      "snippet": "This week's Honoring Veterans Spotlight honors the service of Navy Veteran William Wright Abbot III, who served during World War II from ...",
+      "link": "https://news.va.gov/134785/honoring-veterans-navy-veteran-william-wright-abbot-iii/"
+    },
+    {
+      "title": "Faculty Spotlight: This Navy Veteran Brings Military Precision ...",
+      "snippet": "The daughter of a high school teacher in Hazard, Kentucky, and a U.S. Navy veteran, Smith teaches in the University of Virginia's School of ...",
+      "link": "https://news.virginia.edu/content/faculty-spotlight-navy-veteran-brings-military-precision-her-classroom"
+    },
+    {
+      "title": "Kendall McLemore's Inspiring Journey",
+      "snippet": "Kendall McLemore, a dedicated Navy veteran and accomplished author, recently shared insights into his remarkable journey from Navy military ...",
+      "link": "https://www.sdcity.edu/about/news/2024/11/KendallMcLemore.aspx"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

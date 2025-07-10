@@ -1,0 +1,26 @@
+{
+  "guest_name": "Margarita",
+  "searched_at": "2025-07-10T17:24:04.296465",
+  "search_results": [
+    {
+      "title": "Margarita Engle",
+      "snippet": "Margarita Engle (born in Los Angeles, California on September 2, 1951) is a Cuban American poet and author of many award-winning books for children, young ...",
+      "link": "https://en.wikipedia.org/wiki/Margarita_Engle"
+    },
+    {
+      "title": "About Margarita",
+      "snippet": "I also developed a lifelong passion for tropical nature, which led me to study agronomy and botany, along with creative writing. Margarita's video interview ...",
+      "link": "http://margaritaengle.com/about.html"
+    },
+    {
+      "title": "Margarita Mooney Clayton",
+      "snippet": "As a Cuban-American woman whose work lies at the intersection of the social sciences with philosophy and theology, Margarita Mooney Clayton excels at ...",
+      "link": "https://margaritamooneyclayton.com/bio/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

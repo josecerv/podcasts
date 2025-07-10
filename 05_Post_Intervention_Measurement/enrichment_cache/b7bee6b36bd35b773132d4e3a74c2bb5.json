@@ -1,0 +1,26 @@
+{
+  "guest_name": "Danny",
+  "searched_at": "2025-07-10T15:14:00.635274",
+  "search_results": [
+    {
+      "title": "Danny Bader: Back to Life",
+      "snippet": "Having died and literally come back to life, Danny challenges others to \"come back to life\" each day and move from just living to being fully alive.",
+      "link": "https://www.dannybader.com/"
+    },
+    {
+      "title": "Keynote Speaker Danny Bader Speaking Fee and ...",
+      "snippet": "Danny Bader is a renowned speaker and best-selling author whose life was forever changed after surviving electrocution and a near-death experience. His journey ...",
+      "link": "https://www.bigspeak.com/speakers/danny-bader/"
+    },
+    {
+      "title": "Danny M Cohen",
+      "snippet": "Danny M. Cohen: Professor - Writer - Musician - Public Speaker - Northwestern University - Unsilence - They Won't Win.",
+      "link": "https://www.dannymcohen.com/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

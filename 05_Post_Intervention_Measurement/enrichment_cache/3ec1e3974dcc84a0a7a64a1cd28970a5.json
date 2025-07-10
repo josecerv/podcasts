@@ -1,0 +1,26 @@
+{
+  "guest_name": "Qasim",
+  "searched_at": "2025-07-10T15:48:40.892072",
+  "search_results": [
+    {
+      "title": "Biography Of Qasim Ali Shah | by Hassan Abbas",
+      "snippet": "Qasim Ali Shah is a prominent Pakistani motivational speaker, corporate trainer, educator, and author. Born on December 25, 1980, in Gujrat, Punjab, Pakistan.",
+      "link": "https://medium.com/@hassankhan12/biography-of-qasim-ali-shah-eb6037fc0c8f"
+    },
+    {
+      "title": "Muhammad Qasim Zaman | Department of Religion",
+      "snippet": "Muhammad Qasim Zaman joined the Department in 2006. He has written on the relationship between religious and political institutions in medieval and modern ...",
+      "link": "https://religion.princeton.edu/people/muhammad-qasim-zaman"
+    },
+    {
+      "title": "Abd al-Sattar Qasim",
+      "snippet": "Abd al-Sattar Tawfiq Qasim al-Khader was a Palestinian writer, thinker, political analyst, and academic. He was born in the town of Deir al-Ghusun in ...",
+      "link": "https://en.wikipedia.org/wiki/Abd_al-Sattar_Qasim"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

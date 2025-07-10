@@ -1,0 +1,26 @@
+{
+  "guest_name": "Lumene",
+  "searched_at": "2025-07-10T14:59:16.685677",
+  "search_results": [
+    {
+      "title": "About us | LUMENE \u2013 Lumene FI",
+      "snippet": "LUMENE owes its existence to nature. We've been pioneering circularity for 20 years and counting. We want nature to thrive forever \u2013 so our products and ...",
+      "link": "https://lumene.com/pages/about-us"
+    },
+    {
+      "title": "History/heritage",
+      "snippet": "In 1970, a Finnish pharmaceutical company Orion-yhtym\u00e4 Oy introduced LUMENE, a beauty brand inspired by Nordic nature.",
+      "link": "https://www.lumenegroup.com/history-heritage/"
+    },
+    {
+      "title": "Lumene",
+      "snippet": "Lumene is a Finnish manufacturer of cosmetics, based in Kauklahti, Espoo. The majority of the Lumene products are developed and manufactured in Finland.",
+      "link": "https://en.wikipedia.org/wiki/Lumene"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Medical Officer",
+  "searched_at": "2025-07-10T15:15:29.877472",
+  "search_results": [
+    {
+      "title": "Devika Bhushan, MD, Chief Medical Officer, Daybreak Health",
+      "snippet": "Dr. Bhushan serves as Chief Medical Officer at Daybreak Health, which brings personalized mental health support directly to youth in schools, and as a senior ...",
+      "link": "https://www.behavioralhealthtech.com/2024-speakers/devika-bhushan"
+    },
+    {
+      "title": "Chief Medical Officer Biography - DHHS - Nebraska.gov",
+      "snippet": "On February 14, 2023, Governor Jim Pillen announced the appointment of Timothy A. Tesmer, M.D. as the next Chief Medical Officer of the Division of Public ...",
+      "link": "https://dhhs.ne.gov/Pages/Biography-Chief-Medical-Officer.aspx"
+    },
+    {
+      "title": "Tom Sequist, MD - Chief Medical Officer",
+      "snippet": "Tom Sequist, MD, MPH, is the Chief Medical Officer and the former Patient Experience and Equity Officer at Mass General Brigham.",
+      "link": "https://www.massgeneralbrigham.org/en/about/leadership-and-governance/tom-sequist"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

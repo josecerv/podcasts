@@ -1,0 +1,26 @@
+{
+  "guest_name": "Larry",
+  "searched_at": "2025-07-10T14:47:32.530859",
+  "search_results": [
+    {
+      "title": "Biography - Larry Watson",
+      "snippet": "Larry Watson was born in 1947 in Rugby, North Dakota. He grew up in Bismarck, North Dakota, and was educated in its public schools. Larry married his high ...",
+      "link": "https://www.larry-watson.com/bio.htm"
+    },
+    {
+      "title": "About Larry",
+      "snippet": "After being a psychology professor for many years, Dr. Crabb went into ... About Larry \u00b7 Dr. Larry Crabb's Life Work \u00b7 NewWay Ministries. Get INVOLVED. Join ...",
+      "link": "https://largerstory.com/about-larry-crabb/"
+    },
+    {
+      "title": "Larry Scheckel | Science teacher, author, and science shows ...",
+      "snippet": "Larry Scheckel grew up on a family farm in the hill country of southwestern Wisconsin, one of nine children. He attended eight years of a ...",
+      "link": "https://larryscheckel.com/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

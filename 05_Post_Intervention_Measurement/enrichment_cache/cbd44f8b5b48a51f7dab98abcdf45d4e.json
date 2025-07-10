@@ -1,0 +1,26 @@
+{
+  "guest_name": "Brian",
+  "searched_at": "2025-07-10T14:53:25.453706",
+  "search_results": [
+    {
+      "title": "Dr. Brian R. Little | Professor, author, speaker.",
+      "snippet": "Professor Brian R. Little received his early education in British Columbia and his Ph.D. in personality psychology from the University of California, Berkeley.",
+      "link": "https://www.brianrlittle.com/"
+    },
+    {
+      "title": "Brian Tracy",
+      "snippet": "Brian Tracy is a Canadian-American motivational public speaker and self-development author. He is the author of over eighty books that have been translated ...",
+      "link": "https://en.wikipedia.org/wiki/Brian_Tracy"
+    },
+    {
+      "title": "Brian McLaren",
+      "snippet": "Brian D. McLaren is an author, speaker, activist, and public theologian. A former college English teacher and pastor, he is a passionate advocate for \"a new ...",
+      "link": "https://brianmclaren.net/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Tracy Roberts",
+  "searched_at": "2025-07-10T17:00:04.171416",
+  "search_results": [
+    {
+      "title": "Professor Tracy Roberts - School of Health Sciences",
+      "snippet": "Tracy Roberts is the Head of the School of Health Sciences. Tracy is Professor of Health Economics and was Director of the Institute for Applied Health ...",
+      "link": "https://www.birmingham.ac.uk/staff/profiles/applied-health/roberts-tracy"
+    },
+    {
+      "title": "Prof Tracy Roberts",
+      "snippet": "Tracy Roberts is Head of the School of Health Sciences within the College of Medicine and Health. She is a Professor of Health Economics and Head of the Health ...",
+      "link": "https://www.hrc-devices.nihr.ac.uk/team-member/prof-tracy-roberts/"
+    },
+    {
+      "title": "Prof. Tracy Roberts",
+      "snippet": "Tracy Roberts is a Professor of Health Economics based at the University of Birmingham, where she is also Director of Global Engagement for the College of ...",
+      "link": "https://www.sequencedigital.org.uk/research-team-members/prof-tracy-roberts"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

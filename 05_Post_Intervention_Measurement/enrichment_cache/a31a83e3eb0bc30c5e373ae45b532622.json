@@ -1,0 +1,26 @@
+{
+  "guest_name": "Margo",
+  "searched_at": "2025-07-10T14:51:19.603202",
+  "search_results": [
+    {
+      "title": "Margo Jefferson",
+      "snippet": "Margo Lillian Jefferson (1947-10-17) October 17, 1947 (age 77) \u00b7 Writer; critic; journalist; professor \u00b7 Brandeis University (BA) Columbia University (MS) \u00b7 1973\u2013 ...",
+      "link": "https://en.wikipedia.org/wiki/Margo_Jefferson"
+    },
+    {
+      "title": "Margo J. Anderson",
+      "snippet": "Margo J. Anderson is an American social historian and historian of statistics known for her studies of the United States Census and on the history of ...",
+      "link": "https://en.wikipedia.org/wiki/Margo_J._Anderson"
+    },
+    {
+      "title": "Margo Demello",
+      "snippet": "Dr. Margo DeMello, Assistant Professor, is an internationally known leader in Anthrozoology, having helped to build the field through her work as the first ...",
+      "link": "https://www.carroll.edu/about/directory/margo-demello"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

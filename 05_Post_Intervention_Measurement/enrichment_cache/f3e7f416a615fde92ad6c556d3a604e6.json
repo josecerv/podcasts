@@ -1,0 +1,26 @@
+{
+  "guest_name": "Joost",
+  "searched_at": "2025-07-10T16:00:06.073620",
+  "search_results": [
+    {
+      "title": "Joost Augusteijn",
+      "snippet": "Joost Augusteijn (born 24 July 1960, in Amsterdam) is a Dutch historian and lecturer. He was formerly a lecturer in Modern Irish History at Trinity College ...",
+      "link": "https://en.wikipedia.org/wiki/Joost_Augusteijn"
+    },
+    {
+      "title": "Joost van Dreunen - Adjunct Assistant Professor",
+      "snippet": "Joost received a MA from the University of Amsterdam and a PhD from Columbia University. Courses Taught. Business of Video Games. Related News & Research.",
+      "link": "https://www.stern.nyu.edu/faculty/bio/joost-vandreunen"
+    },
+    {
+      "title": "Joost PAUWELYN",
+      "snippet": "Joost received degrees from the Universities of Namur and Leuven, Belgium as well as Oxford University and holds a doctorate from the University of Neuch\u00e2tel.",
+      "link": "https://www.graduateinstitute.ch/faculty/joost-pauwelyn"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

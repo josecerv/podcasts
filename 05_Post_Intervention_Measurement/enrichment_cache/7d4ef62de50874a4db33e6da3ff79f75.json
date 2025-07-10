@@ -1,0 +1,26 @@
+{
+  "guest_name": "Bryan",
+  "searched_at": "2025-07-10T17:30:47.998530",
+  "search_results": [
+    {
+      "title": "About \u2014 home - Bryan Bliss",
+      "snippet": "Bryan Bliss is a writer, a priest, and a theologian. His novel We'll Fly Away was longlisted for the 2018 National Book Award.",
+      "link": "https://www.bryanbliss.com/about"
+    },
+    {
+      "title": "Bryan Clark, Pastor/Author/Speaker",
+      "snippet": "Bryan has served as a Senior Pastor for nearly four decades. He served 10 years as Senior Pastor in the small rural community of Broken Bow, Nebraska.",
+      "link": "https://www.pastorbryanclark.org/"
+    },
+    {
+      "title": "Dr. Bryan K. Williams",
+      "snippet": "Dr. Bryan K. Williams is a keynote speaker, consultant, and author, who is a noted authority on service excellence and leadership effectiveness. His passion is ...",
+      "link": "https://www.drbwilliams.com/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

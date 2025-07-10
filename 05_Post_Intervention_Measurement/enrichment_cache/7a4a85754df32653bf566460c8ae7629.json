@@ -1,0 +1,26 @@
+{
+  "guest_name": "Road Soda",
+  "searched_at": "2025-07-10T17:12:17.772606",
+  "search_results": [
+    {
+      "title": "Road Soda: Recipes and Techniques for Making Great ...",
+      "snippet": "Road Soda is the ultimate guide for on-the-go cocktail making, with tips and recipes from cocktail expert Kara Newman.",
+      "link": "https://www.amazon.com/Road-Soda-techniques-cocktails-anywhere/dp/0998739936"
+    },
+    {
+      "title": "Road Soda: The Book That Helps You Drink ...",
+      "snippet": "Road Soda, by Kara Newman, an editor at Wine Enthusiast, contains a blueprint for how to drink well as you travel.",
+      "link": "https://www.phoenixnewtimes.com/restaurants/cocktail-recipes-road-soda-travel-mixology-10371861"
+    },
+    {
+      "title": "Mike Frizzelle & Brendan DeKemper",
+      "snippet": "Road Soda Podcast. Mike Frizzelle & Brendan DeKemper. podcast art. The podcast where we drink while you drive. Each week, Mike (professional brewer) and ...",
+      "link": "https://roadsoda.libsyn.com/site"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

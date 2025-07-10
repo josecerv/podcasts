@@ -1,0 +1,26 @@
+{
+  "guest_name": "Vertical Horizon",
+  "searched_at": "2025-07-10T16:32:39.682799",
+  "search_results": [
+    {
+      "title": "Vertical Horizon",
+      "snippet": "Vertical Horizon is an American alternative rock band, formed in Washington, DC. Vocalists and guitarists Matt Scannell and Keith Kane started the band in 1991.",
+      "link": "https://en.wikipedia.org/wiki/Vertical_Horizon"
+    },
+    {
+      "title": "Bio | Vertical Horizon",
+      "snippet": "Vertical Horizon was founded in the early 1990s, but it was seven years before lead singer Matt Scannell's songs became the radio hits that brought the popular ...",
+      "link": "http://www.verticalhorizon.com/bio"
+    },
+    {
+      "title": "Vertical Horizon - ABC-PR",
+      "snippet": "Vertical Horizon stands for a commitment to superior music. It's a concept that has always meant a steadfast striving for the artistically-creative high road.",
+      "link": "https://abc-pr.com/pages/vertical-horizon"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

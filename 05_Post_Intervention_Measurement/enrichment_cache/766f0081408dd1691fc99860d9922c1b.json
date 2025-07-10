@@ -1,0 +1,26 @@
+{
+  "guest_name": "Brooklyn",
+  "searched_at": "2025-07-10T16:01:21.826718",
+  "search_results": [
+    {
+      "title": "Brooklyn: The Once and Future City",
+      "snippet": "An unprecedented history of Brooklyn, told through its places, buildings, and the people who made them, from the early seventeenth century to today.",
+      "link": "https://press.princeton.edu/books/hardcover/9780691165387/brooklyn?srsltid=AfmBOoqacDH_Q7fdimeLZS1Dizf8ZlHB249w8KnXVHFLiLRDBXSKpNUy"
+    },
+    {
+      "title": "Brooklyn (novel)",
+      "snippet": "Brooklyn is a 2009 novel by Irish author Colm T\u00f3ib\u00edn. It won the 2009 Costa Novel Award, was shortlisted for the 2011 International Dublin Literary Award",
+      "link": "https://en.wikipedia.org/wiki/Brooklyn_(novel)"
+    },
+    {
+      "title": "Literary Brooklyn: The Writers of Brooklyn and the Story ...",
+      "snippet": "Literary Brooklyn is a prismatic investigation into a rich literary inheritance, but most of all it's a deep look into the beloved borough.",
+      "link": "https://www.amazon.com/Literary-Brooklyn-Writers-Story-American/dp/0805089861"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

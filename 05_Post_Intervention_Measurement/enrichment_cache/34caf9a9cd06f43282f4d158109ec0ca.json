@@ -1,0 +1,26 @@
+{
+  "guest_name": "13D",
+  "searched_at": "2025-07-10T14:54:24.711004",
+  "search_results": [
+    {
+      "title": "Kiril Sokoloff [Blind]",
+      "snippet": "In 1983, Kiril founded 13D Research & Strategy, which began analyzing stocks selling well below break-up value and evolved into a theme-driven investment ...",
+      "link": "https://www.13d.com/meet-the-experts/kiril-sokoloff/"
+    },
+    {
+      "title": "Stephen Leahy",
+      "snippet": "Steve became a member of the 13D brain trust in 2021. He is an award-winning journalist and author specializing in sustainability, climate science and ...",
+      "link": "https://www.13d.com/meet-the-experts/stephen-leahy-2/"
+    },
+    {
+      "title": "13D Research",
+      "snippet": "13D Research is an independent institutional global research firm founded by Kiril Sokoloff in 1983. The company derives its name from Schedule 13D, ...",
+      "link": "https://en.wikipedia.org/wiki/13D_Research"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Eileen",
+  "searched_at": "2025-07-10T15:01:54.818509",
+  "search_results": [
+    {
+      "title": "Eileen Pollack, Author",
+      "snippet": "Eileen Pollack is a writer who grew up in the Jewish Catskills where her grandparents ran Pollack's Hotel. She teaches Creative Writing at Univ. of ...",
+      "link": "https://eileenpollack.com/bio/"
+    },
+    {
+      "title": "About Eileen Flanagan | Quaker Author, Speaker and Activist",
+      "snippet": "Official bio. Eileen Flanagan is an award-winning author, speaker, and leader of spiritually-grounded activism. She has confronted corporate CEOs, ...",
+      "link": "https://eileenflanagan.com/about-eileen/"
+    },
+    {
+      "title": "Eileen Cook | Author | Speaker | Mentor",
+      "snippet": "Eileen Cook is a multi-published, award winning author with her novels appearing in nine languages. Her books have been optioned for film and TV.",
+      "link": "https://eileencook.com/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

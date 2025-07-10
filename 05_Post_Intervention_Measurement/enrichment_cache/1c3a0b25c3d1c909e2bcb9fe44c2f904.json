@@ -1,0 +1,26 @@
+{
+  "guest_name": "Walker",
+  "searched_at": "2025-07-10T16:03:21.078538",
+  "search_results": [
+    {
+      "title": "Alice Walker",
+      "snippet": "Alice Malsenior Tallulah-Kate Walker (born February 9, 1944) is an American novelist, short story writer, poet, and social activist. In 1982, she became the ...",
+      "link": "https://en.wikipedia.org/wiki/Alice_Walker"
+    },
+    {
+      "title": "Jerald Walker",
+      "snippet": "Jerald Walker is an American writer and professor of creative writing and African American literature at Emerson College.",
+      "link": "https://en.wikipedia.org/wiki/Jerald_Walker"
+    },
+    {
+      "title": "Psychologist, Professor, Speaker, and Author",
+      "snippet": "Dr. Rheeda Walker is a licensed clinical psychologist and keynote speaker on African American culture and mental health. She is an associate professor at ...",
+      "link": "https://www.rheedawalkerphd.com/about-dr-walker"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": "Black",
+  "gender_confidence": 0.8,
+  "race_confidence": 0.7,
+  "additional_context": {}
+}

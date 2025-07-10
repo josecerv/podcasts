@@ -1,0 +1,26 @@
+{
+  "guest_name": "Bia",
+  "searched_at": "2025-07-10T17:15:13.657498",
+  "search_results": [
+    {
+      "title": "Bia (rapper)",
+      "snippet": "Bianca Miquela Landrau (born August 16, 1991), known professionally as Bia, is an American rapper who debuted on the Oxygen reality television series ...",
+      "link": "https://en.wikipedia.org/wiki/Bia_(rapper)"
+    },
+    {
+      "title": "About - Bia",
+      "snippet": "Bia is your step-by-step guide to overcoming phobia and taking your life back. Based on researched techniques, get started in just a few minutes.",
+      "link": "https://biajourney.com/about"
+    },
+    {
+      "title": "Margaret Bia, MD - Yale School of Medicine",
+      "snippet": "Biography. Margaret Johnson Bia M.D. is now a retired Professor Emeritus of Medicine but is still involved in patient care. She functions intermittently as a ...",
+      "link": "https://medicine.yale.edu/profile/margaret-bia/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

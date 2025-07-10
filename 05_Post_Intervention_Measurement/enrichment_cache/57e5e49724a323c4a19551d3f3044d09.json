@@ -1,0 +1,26 @@
+{
+  "guest_name": "Dr. G",
+  "searched_at": "2025-07-10T15:49:52.323539",
+  "search_results": [
+    {
+      "title": "Jan Garavaglia",
+      "snippet": "Jan Carla Garavaglia (born September 14, 1957), sometimes known as \"Dr. G\", is an American physician and pathologist who served as the chief medical examiner",
+      "link": "https://en.wikipedia.org/wiki/Jan_Garavaglia"
+    },
+    {
+      "title": "Dr. G: books, biography, latest update",
+      "snippet": "Being a teacher, Dr.G views bedtime stories as a vehicle for not only capturing the children's attention but also molding their character. Dr.G (Gerard Danford) ...",
+      "link": "https://www.amazon.com/Dr-G/e/B09LHVGW63"
+    },
+    {
+      "title": "Dr. G Martins - Author and Speaker - G Ministries",
+      "snippet": "Dr. G is an internationally acclaimed speaker and author. His passion is to share the incomparable and magnificent power of God's word with all people all over ...",
+      "link": "https://uk.linkedin.com/in/dr-g-martins-41643727a"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

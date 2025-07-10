@@ -1,0 +1,26 @@
+{
+  "guest_name": "Usman",
+  "searched_at": "2025-07-10T16:01:03.180534",
+  "search_results": [
+    {
+      "title": "Usman Yusuf",
+      "snippet": "Usman Yusuf is a Nigerian professor of haematology-oncology and bone marrow transplantation and an alumnus of Ahmadu Bello University and has practiced ...",
+      "link": "https://en.wikipedia.org/wiki/Usman_Yusuf"
+    },
+    {
+      "title": "About the Author - Usman T. Malik - Midnight Doorways",
+      "snippet": "Usman T. Malik is a Pakistani-American writer and doctor whose fiction has won the Bram Stoker Award, the Crawford Award, and the British Fantasy Award.",
+      "link": "https://www.usmanmalik.org/about-the-author/"
+    },
+    {
+      "title": "Usman Mir: books, biography, latest update",
+      "snippet": "Usman Mir is a MBA graduate from Cambridge University. He's a certified online tutor from Oxford University and is the CEO of a global online tutoring ...",
+      "link": "https://www.amazon.com/stores/author/B00IF3YW26"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

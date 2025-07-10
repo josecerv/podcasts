@@ -1,0 +1,26 @@
+{
+  "guest_name": "Roman",
+  "searched_at": "2025-07-10T17:25:39.016874",
+  "search_results": [
+    {
+      "title": "Roman Krznaric - Author of History for Tomorrow",
+      "snippet": "Roman Krznaric's books include History for Tomorrow, The Good Ancestor, What The Rich Don't Tell The Poor, Carpe Diem Regained, Empathy, and The Wonderbox.",
+      "link": "https://www.romankrznaric.com/"
+    },
+    {
+      "title": "Author and Public Philosopher - Roman Krznaric",
+      "snippet": "Roman Krznaric is a public philosopher who writes about the power of ideas to change society. His books include The Good Ancestor and Empathy.",
+      "link": "https://www.romankrznaric.com/about"
+    },
+    {
+      "title": "Ediberto Roman",
+      "snippet": "Ediberto Roman is an American legal scholar working as a professor of law at the Florida International University College of Law.",
+      "link": "https://en.wikipedia.org/wiki/Ediberto_Roman"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

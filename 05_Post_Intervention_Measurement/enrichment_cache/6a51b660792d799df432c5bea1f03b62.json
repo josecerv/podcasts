@@ -1,0 +1,26 @@
+{
+  "guest_name": "her baby",
+  "searched_at": "2025-07-10T15:40:13.092783",
+  "search_results": [
+    {
+      "title": "Georgia professor helps student mom, cares for her baby",
+      "snippet": "Georgia professor helps student mom, cares for her baby. Jarquita Arrington brought her baby to class and got a hand from her professor. By ...",
+      "link": "https://abcnews.go.com/Lifestyle/georgia-professor-helps-student-mom-cares-baby/story?id=52532786"
+    },
+    {
+      "title": "Help! I can't remember the name / author of a book I'd very ...",
+      "snippet": "A teenager gives up her baby. Years later that baby finds her bio mom and steals bio moms new daughter from her. She raises the baby (her sister) ...",
+      "link": "https://www.facebook.com/groups/mybookloversclub/posts/9461686093900282/"
+    },
+    {
+      "title": "This mom's viral monologues might actually rewire her ...",
+      "snippet": "A mom's hilarious, reality-show-style chats with her baby are going viral\u2014but science says they're also boosting brain development.",
+      "link": "https://www.mother.ly/baby/baby-learn-play/viral-tiktok-mom-talking-to-baby/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

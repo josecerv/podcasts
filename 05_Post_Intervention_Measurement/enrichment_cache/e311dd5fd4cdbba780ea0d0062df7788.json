@@ -1,0 +1,26 @@
+{
+  "guest_name": "Christina",
+  "searched_at": "2025-07-10T15:20:31.890261",
+  "search_results": [
+    {
+      "title": "About \u2014 Christina Fox",
+      "snippet": "Welcome! My name is Christina and I am so glad you have stopped by for a visit. If you are reading this page, it's probably because you've read something ...",
+      "link": "https://www.christinafox.com/about"
+    },
+    {
+      "title": "Christina Rasmussen \u2013 Author of Invisible Loss, Where ...",
+      "snippet": "Christina Rasmussen is an acclaimed grief educator and bestselling author of Second Firsts (Hay House, 2013), Where Did You Go?",
+      "link": "https://christinarasmussen.com/"
+    },
+    {
+      "title": "About",
+      "snippet": "Christina Soontornvat is the New York Times bestselling author of books for children of all ages. Her picture books include The Ramble Shamble Children.",
+      "link": "https://soontornvat.com/about/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

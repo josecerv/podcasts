@@ -1,0 +1,26 @@
+{
+  "guest_name": "John Lai",
+  "searched_at": "2025-07-10T16:20:09.972775",
+  "search_results": [
+    {
+      "title": "John Lai: books, biography, latest update",
+      "snippet": "At 5 years old, John Lai knew that he wanted to pursue a profession in the medical field. Starting pre-med at 5 years old. He has been writing poetry since ...",
+      "link": "https://www.amazon.com/John-Lai/e/B076NNRCW9%3Fref=dbs_a_mng_rwt_scns_share"
+    },
+    {
+      "title": "Dr. John Lai - Food and Resource Economics Department",
+      "snippet": "Assistant Professor of Agribusiness. Dr. John Lai teaching and research program focuses on the market development of agricultural business ...",
+      "link": "https://fred.ifas.ufl.edu/about/directory/john-lai/"
+    },
+    {
+      "title": "Ask IFAS: John Lai",
+      "snippet": "Details for the Ask IFAS Expert 'John Lai', including publications they wrote, units they belong to, and topics they are associated with.",
+      "link": "https://edis.ifas.ufl.edu/experts/johnlai"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

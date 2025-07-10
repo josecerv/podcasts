@@ -1,0 +1,26 @@
+{
+  "guest_name": "Dr. Padia",
+  "searched_at": "2025-07-10T17:38:03.682771",
+  "search_results": [
+    {
+      "title": "Siddharth A. Padia, MD - Interventional Radiology",
+      "snippet": "Dr. Padia earned his medical degree from Johns Hopkins University School of Medicine. After completing his transitional internship at The University of ...",
+      "link": "https://www.uclahealth.org/providers/siddharth-padia"
+    },
+    {
+      "title": "Reema Padia, MD",
+      "snippet": "Dr. Padia is the Director of the Vascular Anomalies Center at Primary Children's Hospital and Fellowship Director for Pediatric Otolaryngology. She specializes ...",
+      "link": "https://healthcare.utah.edu/find-a-doctor/reema-padia"
+    },
+    {
+      "title": "Meet the Faculty: Reema Padia",
+      "snippet": "Dr. Padia is first generation South Asian Indian. She grew up in North Carolina, moved to Salt Lake City, UT, for residency, and then Seattle, ...",
+      "link": "https://eyeandear.org/2022/08/meet-the-faculty-reema-padia/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

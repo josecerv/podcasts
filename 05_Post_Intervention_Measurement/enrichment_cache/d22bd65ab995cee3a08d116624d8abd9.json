@@ -1,0 +1,26 @@
+{
+  "guest_name": "Jeff S.",
+  "searched_at": "2025-07-10T14:58:39.498544",
+  "search_results": [
+    {
+      "title": "Jeff's Bio and CV - Christotelic",
+      "snippet": "Jeff S. Kennedy / Ph.D., D.Min. \u201cYet for us, there is one God, the Father, from whom are all things and for whom we exist, and one Lord, Jesus Christ ...",
+      "link": "https://www.christotelic.faith/about-jeff"
+    },
+    {
+      "title": "Jeff's Story - Sermons - Christ Community Church",
+      "snippet": "Listen in as Jeff shares his journey of faith, identity, and purpose. Born with profound hearing loss, Jeff struggled with feelings of isolation.",
+      "link": "https://www.loveshelbyville.com/media/2025-03-09-jeff-s-story"
+    },
+    {
+      "title": "Jeff S. Shamma",
+      "snippet": "Jeff S. Shamma (born c. 1961) is an American control theorist. He is the Department Head and Professor of Industrial and Enterprise Systems Engineering",
+      "link": "https://en.wikipedia.org/wiki/Jeff_S._Shamma"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

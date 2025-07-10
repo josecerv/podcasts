@@ -1,0 +1,26 @@
+{
+  "guest_name": "Alex Thompson",
+  "searched_at": "2025-07-10T17:32:23.186506",
+  "search_results": [
+    {
+      "title": "Alex Thompson (@AlexThomp) / X",
+      "snippet": "co-author of #1 NYT bestseller \u201cOriginal Sin.\u201d Media & News Company ... Alex Thompson \u00b7 @AlexThomp. \u00b7. May 28. Thanks to everyone for reading the book ...",
+      "link": "https://x.com/alexthomp?lang=en"
+    },
+    {
+      "title": "Alex Thompson: books, biography, latest update",
+      "snippet": "Alex Thompson is a National Political Correspondent for Axios and a CNN contributor. He won the White House Correspondents' Association award.",
+      "link": "https://www.amazon.com/stores/author/B0F5Z2KDXL"
+    },
+    {
+      "title": "Alex Thompson - Authors",
+      "snippet": "Alex Thompson is a National Political Correspondent for Axios and a CNN contributor. He won the White House Correspondents' Association award.",
+      "link": "https://www.penguinrandomhouse.com/authors/2257780/alex-thompson/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

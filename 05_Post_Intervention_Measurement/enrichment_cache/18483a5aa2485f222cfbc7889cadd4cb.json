@@ -1,0 +1,26 @@
+{
+  "guest_name": "The Jonas Brothers",
+  "searched_at": "2025-07-10T16:44:03.654263",
+  "search_results": [
+    {
+      "title": "Jonas Brothers",
+      "snippet": "The Jonas Brothers are an American pop rock band formed in 2005 comprising brothers Kevin Jonas, Joe Jonas, and Nick Jonas. Raised in Wyckoff, New Jersey, ...",
+      "link": "https://en.wikipedia.org/wiki/Jonas_Brothers"
+    },
+    {
+      "title": "Jonas Brothers | Members, Songs, Albums, & Facts",
+      "snippet": "In 2009\u201310 the Jonas brothers starred in a new Disney series, JONAS (later JONAS L.A.). The half-hour show (in the vein of the Monkees' eponymous television ...",
+      "link": "https://www.britannica.com/topic/Jonas-Brothers"
+    },
+    {
+      "title": "Blood ANZ: A Memoir by the Jonas Brothers",
+      "snippet": "Since their formation in 2005, the Jonas Brothers have been critically adored and commercially celebrated\u2014with over 22 million album sales, sold-out stadium ...",
+      "link": "https://www.amazon.com/Blood-ANZ-Memoir-Jonas-Brothers/dp/0063211920"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

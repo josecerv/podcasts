@@ -1,0 +1,26 @@
+{
+  "guest_name": "Jennifer",
+  "searched_at": "2025-07-10T14:48:14.392659",
+  "search_results": [
+    {
+      "title": "About",
+      "snippet": "Hi! I'm Jennifer Rothschild\u2014with a sneaky silent \u201cs.\u201d I'm an author, speaker, Bible study teacher, podcaster, wife, and mom. Whew! No wonder I go to bed at ...",
+      "link": "https://www.jenniferrothschild.com/about/"
+    },
+    {
+      "title": "Jennifer Egan",
+      "snippet": "Jennifer Egan (born September 7, 1962) is an American novelist and short-story writer. Her novel, A Visit from the Goon Squad, won the 2011 Pulitzer Prize ...",
+      "link": "https://en.wikipedia.org/wiki/Jennifer_Egan"
+    },
+    {
+      "title": "Bio - Jennifer Ackerman",
+      "snippet": "Jennifer Ackerman has been writing about science, nature, and health for more than three decades. Her work aims to explain and interpret science for a lay ...",
+      "link": "https://www.jenniferackermanauthor.com/about-1"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

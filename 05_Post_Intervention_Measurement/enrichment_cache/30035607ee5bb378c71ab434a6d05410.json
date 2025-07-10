@@ -1,0 +1,26 @@
+{
+  "guest_name": "Jerry",
+  "searched_at": "2025-07-10T15:08:56.262741",
+  "search_results": [
+    {
+      "title": "Jerold W. Apps Author Biography",
+      "snippet": "Jerry Apps, born and raised on a Wisconsin farm, is Professor Emeritus at the University of Wisconsin-Madison and the author of more than 35 books.",
+      "link": "https://www.jerryapps.com/bio.shtml"
+    },
+    {
+      "title": "About the Author - Jerry Johnson",
+      "snippet": "Jerry taught for 29 years at the middle school, high school and college levels. He is a retired professor from Fitchburg State University in Massachusetts where ...",
+      "link": "https://jerryjohnsonvt.com/about-the-author/"
+    },
+    {
+      "title": "Jerry Sittser",
+      "snippet": "A professor emeritus of theology and senior fellow at Whitworth University, Jerry Sittser specializes in the History of Christianity, Christian Spirituality, ...",
+      "link": "https://www.jerrysittser.com/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

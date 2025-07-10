@@ -1,0 +1,26 @@
+{
+  "guest_name": "Brandon",
+  "searched_at": "2025-07-10T15:17:25.667222",
+  "search_results": [
+    {
+      "title": "About \u2014 Brandon J. O'Brien",
+      "snippet": "Brandon J. O'Brien (PhD, Trinity Evangelical Divinity School) is Director of Content Development and Distribution for Redeemer City to City.",
+      "link": "https://www.brandonjobrien.com/about"
+    },
+    {
+      "title": "Brandon Som",
+      "snippet": "Brandon Som (born August 13, 1975) is an American poet. His collections include The Tribute Horse (2014) and Tripas: Poems (2023), which won the Pulitzer ...",
+      "link": "https://en.wikipedia.org/wiki/Brandon_Som"
+    },
+    {
+      "title": "Brandon Hogan | Howard Profiles",
+      "snippet": "Biography. Brandon is an associate professor of philosophy. He earned a BA from Howard University, JD from Harvard Law School, MA in philosophy from Tufts ...",
+      "link": "https://profiles.howard.edu/brandon-hogan"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

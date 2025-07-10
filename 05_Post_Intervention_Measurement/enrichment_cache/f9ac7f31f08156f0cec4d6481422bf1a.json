@@ -1,0 +1,26 @@
+{
+  "guest_name": "Dr. Alo",
+  "searched_at": "2025-07-10T15:31:23.439412",
+  "search_results": [
+    {
+      "title": "CV",
+      "snippet": "Dr. Alo grew up in Toledo, Ohio, attended St. John's Jesuit High School and then went on to complete an Economics degree Magna Cum Laude at the University ...",
+      "link": "https://mohammedalo.com/cv/"
+    },
+    {
+      "title": "Dr. Alo America's Cardiologist! Alo Academy",
+      "snippet": "Dr. Alo has spent over 20 years teaching physicians cardiometabolic health and proper weight loss, lifestyle, obesity! Now you can learn from the master!",
+      "link": "https://www.dralo.net/"
+    },
+    {
+      "title": "About",
+      "snippet": "Dr. Alo is a board certified cardiologist based out of northwest Ohio. Dr. Alo grew up in Toledo, Ohio, attended St. John's Jesuit High School and then went on ...",
+      "link": "https://www.dralo.net/site/about"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

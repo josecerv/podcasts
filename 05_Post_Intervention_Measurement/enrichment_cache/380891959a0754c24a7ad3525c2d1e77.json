@@ -1,0 +1,26 @@
+{
+  "guest_name": "Gerald",
+  "searched_at": "2025-07-10T15:40:53.724380",
+  "search_results": [
+    {
+      "title": "Gerald Heard Official Website",
+      "snippet": "Born in London on October 6, 1889, of Irish ancestry, Gerald Heard was educated in England, taking honors in history and studying theology at the University of ...",
+      "link": "https://www.geraldheard.com/"
+    },
+    {
+      "title": "Graff, Gerald | English | University of Illinois Chicago",
+      "snippet": "Gerald Graff is one of his generation's most influential commentators on education, not only as a historian and theorist, but also through his impact on the ...",
+      "link": "https://engl.uic.edu/profiles/graff-gerald/"
+    },
+    {
+      "title": "H. Gerald Campano | Penn GSE",
+      "snippet": "He is a proud third generation Pinoy from the East Coast with ancestral roots in the Mindanao region of the Philippines. Gerald served as chair for his division ...",
+      "link": "https://www.gse.upenn.edu/faculty/h-gerald-campano"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

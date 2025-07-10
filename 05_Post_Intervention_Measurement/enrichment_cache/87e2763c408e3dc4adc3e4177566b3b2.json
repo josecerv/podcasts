@@ -1,0 +1,26 @@
+{
+  "guest_name": "Colin",
+  "searched_at": "2025-07-10T16:23:04.593433",
+  "search_results": [
+    {
+      "title": "Colin Wade \u2013 Colin Wade Author & Speaker",
+      "snippet": "Colin Wade | Author & Speaker. A video introduction from Colin Wade \u2013 Author. Click here for an introduction to Colin Wade \u2013 Author and my books. Do you like ...",
+      "link": "https://colinwade.com/"
+    },
+    {
+      "title": "Colin Turner \u2013 Keynote Speaker",
+      "snippet": "Listed as one of The World's Top Business Gurus, with a No. 1 World-Wide Ranking from the FT, Thought Leader and Practitioner Colin Turner is the author.",
+      "link": "https://us.londonspeakerbureau.com/speaker-profile/colin-turner/"
+    },
+    {
+      "title": "Colin Cotterill",
+      "snippet": "Colin Cotterill (born 2 October 1952) is a London-born teacher, author, comic book writer and cartoonist. Cotterill has dual British and Australian citizenship.",
+      "link": "https://en.wikipedia.org/wiki/Colin_Cotterill"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

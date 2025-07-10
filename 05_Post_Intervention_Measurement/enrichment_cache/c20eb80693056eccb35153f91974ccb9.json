@@ -1,0 +1,26 @@
+{
+  "guest_name": "Adrianto",
+  "searched_at": "2025-07-10T16:42:24.165251",
+  "search_results": [
+    {
+      "title": "Adrianto | Carlson School - University of Minnesota",
+      "snippet": "Biography. Adrianto completed his Bachelor's degree in Economics from Universitas Indonesia and Master's in Public Policy and Management from Carnegie Mellon ...",
+      "link": "https://carlsonschool.umn.edu/faculty/adrianto"
+    },
+    {
+      "title": "Luky Adrianto",
+      "snippet": "Luky Adrianto is an Associate Professor and Dean of the Faculty of Fisheries and Marine Sciences at Bogor Agricultural University (IPB).",
+      "link": "https://www.conservation-strategy.org/profile/luky-adrianto"
+    },
+    {
+      "title": "Luky Adrianto",
+      "snippet": "Dr. Luky Adrianto is Professor in Social-Ecological System of Fisheries and the Ocean Laboratory (SESO Lab), Division of Fisheries Resources Management.",
+      "link": "https://www.cifor-icraf.org/speaker/luky-adrianto/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

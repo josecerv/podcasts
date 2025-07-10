@@ -1,0 +1,21 @@
+{
+  "guest_name": "Max and Sada",
+  "searched_at": "2025-07-10T16:06:17.209205",
+  "search_results": [
+    {
+      "title": "The I Don't Know Show with Joe",
+      "snippet": "Max and Sada teach Joe about veganism! Further resources: Alex O'Connor on Triggernometry presenting the moral case for veganism: https://www.youtube.com ...",
+      "link": "https://redcircle.com/shows/the-i-dont-know-show-with-joe"
+    },
+    {
+      "title": "Joe IDontKnow",
+      "snippet": "... Max and Sada teach Joe about veganism!Further resources:Alex O'Connor on Triggernometry presenting the moral case for veganism: https://www.youtube.com ...",
+      "link": "https://podcastdetails.com/people?q=Joe+IDontKnow"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

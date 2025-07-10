@@ -1,0 +1,26 @@
+{
+  "guest_name": "Ky Dickens",
+  "searched_at": "2025-07-10T17:05:48.519458",
+  "search_results": [
+    {
+      "title": "Bio",
+      "snippet": "Ky Dickens is an award-winning filmmaker celebrated for her transformative documentaries that tackle complex social issues, influence public policy, and ignite ...",
+      "link": "http://www.kydickens.com/bio"
+    },
+    {
+      "title": "Ky Dickens",
+      "snippet": "Ky Dickens is an award-winning filmmaker celebrated for her transformative documentaries that tackle complex social issues, influence public policy, and ignite ...",
+      "link": "https://www.imdb.com/name/nm3338450/"
+    },
+    {
+      "title": "Ky Dickens | STORY | Production of Commercials, New ...",
+      "snippet": "Ky Dickens is an award-winning filmmaker best known for her highly acclaimed documentary work and her emotionally compelling commercial reel.",
+      "link": "https://storyco.tv/dickens/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

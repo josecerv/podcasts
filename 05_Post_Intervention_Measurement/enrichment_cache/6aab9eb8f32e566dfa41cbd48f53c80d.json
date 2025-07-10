@@ -1,0 +1,26 @@
+{
+  "guest_name": "Sage",
+  "searched_at": "2025-07-10T15:11:39.003831",
+  "search_results": [
+    {
+      "title": "about peter",
+      "snippet": "ABOUT PETER Who is Peter Sage? Peter is a globally renowned serial entrepreneur with expertise in human behavior and self-mastery.",
+      "link": "https://petersage.com/about/"
+    },
+    {
+      "title": "Steven Sage",
+      "snippet": "Steven F. Sage (born 1947, New York City) is a scholar and former American diplomat who has written on ancient China and on 20th-century Europe.",
+      "link": "https://en.wikipedia.org/wiki/Steven_Sage"
+    },
+    {
+      "title": "Dr. Sage Biography \u2013 The Sage Lab",
+      "snippet": "Peter T. Sage, PhD is an Associate Professor of Medicine at Harvard Medical School and an Associate Immunologist at Brigham and Women's Hospital.",
+      "link": "https://sagelab.bwh.harvard.edu/about-the-sage-lab/"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

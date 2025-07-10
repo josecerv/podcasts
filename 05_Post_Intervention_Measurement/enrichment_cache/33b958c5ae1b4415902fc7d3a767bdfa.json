@@ -1,0 +1,26 @@
+{
+  "guest_name": "Fr. John",
+  "searched_at": "2025-07-10T14:53:20.124093",
+  "search_results": [
+    {
+      "title": "Fr. John Bartunek, LC, Author at SpiritualDirection.com",
+      "snippet": "Fr. John Bartunek, LC, S.Th.D, received his BA in History from Stanford University in 1990. He comes from an evangelical Christian background and became a ...",
+      "link": "https://spiritualdirection.com/author/father-john-bartunek"
+    },
+    {
+      "title": "Bio - Fr. John Behr",
+      "snippet": "Fr John Behr is Regius Professor of Humanity at the University of Aberdeen. He previously taught at St Vladimir's Seminary, where he served as Dean from 2007- ...",
+      "link": "https://frjohnbehr.com/bio/"
+    },
+    {
+      "title": "Biography - Fr. John A. Hardon, S.J. Archive & Guild",
+      "snippet": "Biography ... It was also during these days of Catholic grammar school that Hardon formed his intention to become a priest. Fr. John A. Hardon with Friends ...",
+      "link": "https://hardonsj.org/biography/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

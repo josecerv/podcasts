@@ -1,0 +1,26 @@
+{
+  "guest_name": "Deerslayer",
+  "searched_at": "2025-07-10T17:12:21.894833",
+  "search_results": [
+    {
+      "title": "The Deerslayer",
+      "snippet": "The Deerslayer, or The First War-Path was James Fenimore Cooper's fifth and last novel published in 1841 in his Leatherstocking Tales.",
+      "link": "https://en.wikipedia.org/wiki/The_Deerslayer"
+    },
+    {
+      "title": "The Deerslayer by James Fenimore Cooper",
+      "snippet": "The story follows Natty Bumppo, known as Deerslayer, as he embarks on a perilous journey to Lake Glimmerglass with his companion Hurry Harry, aiming to warn ...",
+      "link": "https://www.ebsco.com/research-starters/history/deerslayer-james-fenimore-cooper"
+    },
+    {
+      "title": "The Deerslayer by James Fenimore Cooper",
+      "snippet": "Published in 1841, The Deerslayer is the first of the Leatherstocking Tales ... 576. Author. James Fenimore Cooper. James Fenimore Cooper (1789\u20131851) was ...",
+      "link": "https://www.penguinrandomhouse.com/books/296483/the-deerslayer-by-james-fenimore-cooper/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Ashi",
+  "searched_at": "2025-07-10T16:07:15.152977",
+  "search_results": [
+    {
+      "title": "Ashi | Jewish Rabbi, Talmudist, Gaon",
+      "snippet": "Ashi was head of the Jewish Academy at Sura, Babylonia, and was one of two chief editors who fixed the canon of the Babylonian Talmud.",
+      "link": "https://www.britannica.com/biography/Ashi"
+    },
+    {
+      "title": "About \u2014 ASHI DAY",
+      "snippet": "Ashi Day is a composer and educator whose vocally-driven music explores unconventional intersections between music and theater; using the voice as a ...",
+      "link": "https://www.ashi-day.com/about"
+    },
+    {
+      "title": "ASHI History",
+      "snippet": "The beginnings of ASHI came in 1972, in the early days of HLA typing for kidney transplantation, when Don Cross, Glenn Rodey, and Ken Sell had the idea of ...",
+      "link": "https://www.ashi-hla.org/page/ashi_history"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

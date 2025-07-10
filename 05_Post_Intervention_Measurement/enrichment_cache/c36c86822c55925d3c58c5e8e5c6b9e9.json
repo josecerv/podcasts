@@ -1,0 +1,26 @@
+{
+  "guest_name": "Monroe",
+  "searched_at": "2025-07-10T15:40:53.562198",
+  "search_results": [
+    {
+      "title": "Robert Monroe",
+      "snippet": "Robert Allan Monroe, also known as Bob Monroe (October 30, 1915 \u2013 March 17, 1995), was an American radio broadcasting executive who became known for his ...",
+      "link": "https://en.wikipedia.org/wiki/Robert_Monroe"
+    },
+    {
+      "title": "James T. Monroe",
+      "snippet": "James Thomas Monroe, or James T. Monroe, is an American scholar and translator of Arabic. He is emeritus professor of Arabic and Comparative Literature",
+      "link": "https://en.wikipedia.org/wiki/James_T._Monroe"
+    },
+    {
+      "title": "Monroe, Alan Houston, 1903-1975",
+      "snippet": "Alan H. Monroe received a Bachelor of Science from Northwestern University in 1924. He was hired by Purdue as Instructor in English.",
+      "link": "https://archives.lib.purdue.edu/agents/people/931"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

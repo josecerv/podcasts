@@ -1,0 +1,26 @@
+{
+  "guest_name": "Kill Tony",
+  "searched_at": "2025-07-10T17:08:29.082618",
+  "search_results": [
+    {
+      "title": "Tony Hinchcliffe",
+      "snippet": "Tony Hinchcliffe (born June 8, 1984) is an American comedian. Since 2013, he has hosted the live comedy podcast Kill Tony.",
+      "link": "https://en.wikipedia.org/wiki/Tony_Hinchcliffe"
+    },
+    {
+      "title": "The Jenny Fitzgerald STORY OF the MATH PROFESSOR ...",
+      "snippet": "Community Info Section. r/Killtony. Join. Kill Tony. r/KillTony is a subreddit dedicated to the discussion of the podcast Kill Tony Hosted by ...",
+      "link": "https://www.reddit.com/r/Killtony/comments/1ldrp43/the_jenny_fitzgerald_story_of_the_math_professor/"
+    },
+    {
+      "title": "Tony Hinchcliffe",
+      "snippet": "As the host of the No.1 live podcast in the world, Kill Tony, he has scaled his namesake platform to stream to hundreds of thousands weekly and over 100 million ...",
+      "link": "https://www.thefactorystl.com/artist/tony-hinchcliffe/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

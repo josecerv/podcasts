@@ -1,0 +1,26 @@
+{
+  "guest_name": "Charlie",
+  "searched_at": "2025-07-10T14:56:45.529818",
+  "search_results": [
+    {
+      "title": "About",
+      "snippet": "Charlie Lovett was born in Winston-Salem, NC in 1962 and grew up as the child of a book-collecting English professor. He spent his summers in the rural ...",
+      "link": "https://charlielovett.com/bio/"
+    },
+    {
+      "title": "About Charlie Trimm",
+      "snippet": "Charlie Trimm \u00b7 Home \u00b7 Books \u00b7 Research Topics \u00b7 PhD Careers \u00b7 About \u00b7 Media \u00b7 Contact ... Charlie Trimm: Research Topics. Violence and Warfare Old Testament ...",
+      "link": "https://www.charlietrimm.com/about"
+    },
+    {
+      "title": "About Charlie Donlea l Bestselling Author l Suspense ...",
+      "snippet": "Charlie Donlea is the International bestselling author of three acclaimed thrillers. He has been praised by Publishers Weekly as a \u201cbold new writer\u2026on his ...",
+      "link": "https://www.charliedonlea.com/bio"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Jin",
+  "searched_at": "2025-07-10T17:07:12.583249",
+  "search_results": [
+    {
+      "title": "Keyu Jin",
+      "snippet": "Jin Keyu (Chinese: \u91d1\u523b\u7fbd; born 13 November 1982) is a Chinese economist. She is currently associate professor of economics at the London School of Economics.",
+      "link": "https://en.wikipedia.org/wiki/Keyu_Jin"
+    },
+    {
+      "title": "Keyu Jin \u2013 Keynote Speaker",
+      "snippet": "Dr. Keyu Jin is a professor of economics at the LSE, where she researches and teaches International Macroeconomics, technology competition and the Chinese.",
+      "link": "https://us.londonspeakerbureau.com/speaker-profile/keyu-jin/"
+    },
+    {
+      "title": "Keyu Jin Author of The New China Playbook",
+      "snippet": "Jin is a tenured professor of economics at the London School of Economics and Political Science. Born and raised in Beijing, she attended high school and ...",
+      "link": "https://www.keyujin.com/keyu-jin"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

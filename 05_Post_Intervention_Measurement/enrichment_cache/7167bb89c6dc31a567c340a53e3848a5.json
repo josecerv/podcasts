@@ -1,0 +1,26 @@
+{
+  "guest_name": "Johnny Cash",
+  "searched_at": "2025-07-10T15:03:49.574137",
+  "search_results": [
+    {
+      "title": "Johnny Cash: Biography, Country Musician, Grammy Winner",
+      "snippet": "Johnny Cash was born J.R. Cash on February 26, 1932, in Kingsland, Arkansas. The son of poor Southern Baptist sharecroppers, Cash was one of ...",
+      "link": "https://www.biography.com/musicians/johnny-cash"
+    },
+    {
+      "title": "Biography | Johnny Cash Official Site",
+      "snippet": "Johnny Cash is one of the most important, influential and respected artists in the history of recorded music. From his monumental live prison albums, to his ...",
+      "link": "https://www.johnnycash.com/about/biography/"
+    },
+    {
+      "title": "Johnny Cash",
+      "snippet": "He traditionally began his concerts by introducing himself with \"Hello, I'm Johnny Cash\". He began to follow that by \"Folsom Prison Blues\", one of his signature ...",
+      "link": "https://en.wikipedia.org/wiki/Johnny_Cash"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

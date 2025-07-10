@@ -1,0 +1,26 @@
+{
+  "guest_name": "Mahdi",
+  "searched_at": "2025-07-10T16:01:35.640291",
+  "search_results": [
+    {
+      "title": "Muhsin Mahdi",
+      "snippet": "Mu\u1e25sin Sayyid Mahd\u012b (Arabic: \u0645\u062d\u0633\u0646 \u0645\u0647\u062f\u064a; cited Muhsin S. Mahdi; June 21, 1926 \u2013 July 9, 2007) was an Iraqi-American Islamologist and Arabist. He was a ...",
+      "link": "https://en.wikipedia.org/wiki/Muhsin_Mahdi"
+    },
+    {
+      "title": "Muhsin Mahdi teaches Arabic philosophy",
+      "snippet": "Muhsin Mahdi, one of the world's leading experts in Arabic history, philology, and philosophy, was born in Karbala, Iraq in 1926. After earning his B.A. from ...",
+      "link": "https://timeline.islamicstudies.harvard.edu/muhsin-mahdi"
+    },
+    {
+      "title": "Waleed Mahdi",
+      "snippet": "Mahdi is an associate professor at the University of Oklahoma with expertise in US-Arab cultural politics. His research examines cultural representation and ...",
+      "link": "http://www.ou.edu/cis/people/faculty/waleed-mahdi.html"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

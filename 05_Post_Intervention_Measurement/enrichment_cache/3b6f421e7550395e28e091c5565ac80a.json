@@ -1,0 +1,26 @@
+{
+  "guest_name": "AJ",
+  "searched_at": "2025-07-10T15:40:15.812228",
+  "search_results": [
+    {
+      "title": "About - A.J. Jacobs - Official Website",
+      "snippet": "Biography. A.J. Jacobs is an author, journalist, lecturer and human guinea pig. He has written four New York Times bestsellers that combine memoir, science, ...",
+      "link": "https://ajjacobs.com/about/"
+    },
+    {
+      "title": "A.J. Juliani | About",
+      "snippet": "Hi, I'm A.J. Juliani. I've been writing at AJJuliani.com since 2011. I'm the author of 8 books about learning, including best-sellers Empower, Launch, and ...",
+      "link": "https://www.ajjuliani.com/about"
+    },
+    {
+      "title": "A. J. Jacobs",
+      "snippet": "AJ Jacobs (born March 20, 1968) is an American journalist, author, and lecturer best known for writing about his lifestyle experiments.",
+      "link": "https://en.wikipedia.org/wiki/A._J._Jacobs"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

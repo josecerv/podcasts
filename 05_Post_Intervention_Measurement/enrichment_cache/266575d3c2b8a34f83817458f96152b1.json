@@ -1,0 +1,26 @@
+{
+  "guest_name": "Ramon",
+  "searched_at": "2025-07-10T16:45:21.801708",
+  "search_results": [
+    {
+      "title": "Ramon Lobato",
+      "snippet": "Ramon Lobato is an author, researcher, and scholar of cultural industries. The focus of his research is on video distribution networks.",
+      "link": "https://en.wikipedia.org/wiki/Ramon_Lobato"
+    },
+    {
+      "title": "The Journey - The Art of Ramon Shiloh",
+      "snippet": "Ramon Shiloh is an award-winning author, illustrator, activist for Native youth, and multicultural Chef of Black, Filipino, Creek, and Cherokee descent.",
+      "link": "https://ramonshiloh.com/my-journey/"
+    },
+    {
+      "title": "Ram\u00f3n Garc\u00eda \u2013 Ramon Garcia",
+      "snippet": "Ram\u00f3n Garc\u00eda was born in Colima, Mexico and grew up in Modesto, California. He has a B.A. in World Literature from the University of California, Santa Cruz and ...",
+      "link": "https://ramongarciaphd.com/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

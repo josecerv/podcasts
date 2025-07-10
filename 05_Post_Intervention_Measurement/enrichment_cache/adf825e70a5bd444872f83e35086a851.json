@@ -1,0 +1,26 @@
+{
+  "guest_name": "Prasanna",
+  "searched_at": "2025-07-10T15:15:32.360560",
+  "search_results": [
+    {
+      "title": "Viktor K. Prasanna - Sites at USC",
+      "snippet": "Viktor K. Prasanna (VK Prasanna Kumar) is Charles Lee Powell Chair in Engineering and is Professor of Electrical Engineering and Professor of Computer Science",
+      "link": "https://sites.usc.edu/prasanna/"
+    },
+    {
+      "title": "Prasanna Parasurama",
+      "snippet": "Prasanna Parasurama is an Assistant Professor of Information Systems & Operations Management at Emory University's Goizueta Business School. He received his PhD ...",
+      "link": "https://goizueta.emory.edu/faculty/profiles/prasanna-parasurama"
+    },
+    {
+      "title": "Debi Prasanna Pattanayak",
+      "snippet": "Debi Prasanna Pattanayak (born 14 March 1931) is an Indian professor, linguist, social scientist and author. He was the founder-director of the Central ...",
+      "link": "https://en.wikipedia.org/wiki/Debi_Prasanna_Pattanayak"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

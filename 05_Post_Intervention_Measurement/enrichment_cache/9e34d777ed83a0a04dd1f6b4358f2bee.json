@@ -1,0 +1,26 @@
+{
+  "guest_name": "Tony D",
+  "searched_at": "2025-07-10T17:08:26.119557",
+  "search_results": [
+    {
+      "title": "Tony D. Sampson",
+      "snippet": "Tony D. Sampson (born 1964) is a British academic author who writes about philosophies of affect, digital media cultures and labour, marketing power",
+      "link": "https://en.wikipedia.org/wiki/Tony_D._Sampson"
+    },
+    {
+      "title": "Tony D: books, biography, latest update",
+      "snippet": "Tony D. About the author. Tony was created when his father inseminated his mother in an undisclosed location in Canada. He then published his first novel, \"A ...",
+      "link": "https://www.amazon.com/Tony-D/e/B00F206ZMU"
+    },
+    {
+      "title": "Tony D - StoryTerrace - Books That Matter",
+      "snippet": "As a Story Terrace writer, Tony D interviews customers and turns their life stories into books. Get to know our writer better by reading the autobiographical ...",
+      "link": "https://www.storyterrace.com/writer/tony-d"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

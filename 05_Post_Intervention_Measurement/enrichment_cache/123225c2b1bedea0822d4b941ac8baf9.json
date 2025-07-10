@@ -1,0 +1,26 @@
+{
+  "guest_name": "Haron",
+  "searched_at": "2025-07-10T17:17:58.336383",
+  "search_results": [
+    {
+      "title": "Professor Muhammed Haron - IU ScholarWorks",
+      "snippet": "Muhammed Haron is a distinguished researcher, lecturer, and author specializing in multiple disciplines, including Islamic studies, Arabic, and international ...",
+      "link": "https://scholarworks.iu.edu/iupjournals/index.php/jems/article/view/6146"
+    },
+    {
+      "title": "Muhammed Haron \u2013 Professor, Department of Theology ...",
+      "snippet": "Muhammed Haron is a professor at the University of Botswana's Theology & Religious Studies Department where he teaches Religious Studies courses.",
+      "link": "https://www.dignityforeveryone.org/muhammed-haron-professor-department-of-theology-and-religious-studies-university-of-botswana/"
+    },
+    {
+      "title": "Prof Muhammad Haron",
+      "snippet": "Prof Mohamed Haron studied at the Universities of Durban-Westville, Cape Town, and South Africa as well as Vrije Universiteit te Amsterdam the King Sa'ud, and ...",
+      "link": "https://www.uj.ac.za/members/prof-muhammad-haron/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

@@ -1,0 +1,26 @@
+{
+  "guest_name": "Another individual with unexplained symptoms",
+  "searched_at": "2025-07-10T15:52:34.645981",
+  "search_results": [
+    {
+      "title": "Medically unexplained symptoms: assessment and ...",
+      "snippet": "Medically unexplained symptoms or persistent physical symptoms are common, real and are associated with significant distress, loss of functioning and high ...",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7850206/"
+    },
+    {
+      "title": "Explanation for symptoms and biographical repair in a ...",
+      "snippet": "People with persistent physical symptoms (sometimes referred to as medically unexplained symptoms) experience biographical disruption.",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2667321524000477?dgcid=rss_sd_all"
+    },
+    {
+      "title": "Patients' experiences of living with medically unexplained ...",
+      "snippet": "Patients with MUS have their own experiences of illness. They undertake attempts to interpret their symptoms and learn to live with them.",
+      "link": "https://bmcprimcare.biomedcentral.com/articles/10.1186/s12875-018-0709-6"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

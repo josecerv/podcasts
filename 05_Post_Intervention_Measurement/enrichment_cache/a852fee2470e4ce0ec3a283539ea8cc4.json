@@ -1,0 +1,26 @@
+{
+  "guest_name": "Royal Flush",
+  "searched_at": "2025-07-10T15:03:43.286350",
+  "search_results": [
+    {
+      "title": "Royal Flush (novel)",
+      "snippet": "Royal Flush is a 1932 British historical novel by the British writer Margaret Irwin. It portrays the married life of Henrietta Stuart, known as Minette.",
+      "link": "https://en.wikipedia.org/wiki/Royal_Flush_(novel)"
+    },
+    {
+      "title": "Royal Flush: The Story of Minette by Margaret Irwin",
+      "snippet": "Royal Flush: The Story of Minette ; GenresHistorical FictionHistoricalFictionFrance17th CenturyHistorical Romance ; Margaret Irwin \u00b7 Born in 1899 and educated at ...",
+      "link": "https://www.goodreads.com/book/show/2346941.Royal_Flush"
+    },
+    {
+      "title": "The Royal Flush: Phillip D. Farrara",
+      "snippet": "The Royal Flush is the acclaimed debut short story from Berks county author Phillip D. Farrara. As an author Phillip Farrara's writing grabs you from the get go ...",
+      "link": "https://www.amazon.com/Royal-Flush-Phillip-D-Farrara/dp/1434912353"
+    }
+  ],
+  "enhanced_gender": null,
+  "enhanced_race": null,
+  "gender_confidence": 0.0,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

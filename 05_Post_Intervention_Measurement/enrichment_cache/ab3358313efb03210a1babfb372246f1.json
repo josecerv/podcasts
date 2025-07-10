@@ -1,0 +1,26 @@
+{
+  "guest_name": "Abbey",
+  "searched_at": "2025-07-10T15:52:45.048561",
+  "search_results": [
+    {
+      "title": "Edward Abbey",
+      "snippet": "Edward Paul Abbey (January 29, 1927 \u2013 March 14, 1989) was an American author and essayist noted for his advocacy of environmental issues.",
+      "link": "https://en.wikipedia.org/wiki/Edward_Abbey"
+    },
+    {
+      "title": "Edward Abbey | American Author, Environmental Activist & ...",
+      "snippet": "Edward Abbey was an American writer whose works, set primarily in the southwestern United States, reflect an uncompromising environmentalist ...",
+      "link": "https://www.britannica.com/biography/Edward-Abbey"
+    },
+    {
+      "title": "Abbey Wedgeworth",
+      "snippet": "If we haven't met before, I'm Abbey. I'm the thankful wife of David, who I met while working for RUF shortly after I finished my time at UNC Chapel Hill.",
+      "link": "https://www.abbeywedgeworth.com/"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

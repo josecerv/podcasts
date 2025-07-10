@@ -1,0 +1,26 @@
+{
+  "guest_name": "Sarah's Daughter",
+  "searched_at": "2025-07-10T15:36:32.166814",
+  "search_results": [
+    {
+      "title": "Sarah's Daughter",
+      "snippet": "A sequel to \"Sarah's Daughter,\" published by Gadd Books in 2010. \"Sarah's Daughter\". A 19th century teen deals with family sorrow, joy, friendship, bereavement.",
+      "link": "https://www.ruthbass.com/_sarah_s_daughter__77331.htm"
+    },
+    {
+      "title": "Sarah's Daughter: Ruth Bass: 9780977405343 - Books",
+      "snippet": "Sarah's Daughter captures the ambiance of the 1880's and the angst of teenage emotions. Ms. Bass had done her homework in her descriptions of New England life ...",
+      "link": "https://www.amazon.com/Sarahs-Daughter-Ruth-Bass/dp/0977405346"
+    },
+    {
+      "title": "Sarah's Daughter",
+      "snippet": "Praise for SARAH'S DAUGHTER\u2013. Ruth Bass has written a rich, intimate, engrossing portrait of Rose\u2014a child thrust into the demanding adult life of her 19th ...",
+      "link": "https://northriverpress.com/sarahs-daughter/"
+    }
+  ],
+  "enhanced_gender": "Female",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}

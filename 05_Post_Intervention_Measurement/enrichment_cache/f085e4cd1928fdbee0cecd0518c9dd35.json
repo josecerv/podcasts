@@ -1,0 +1,26 @@
+{
+  "guest_name": "Sam Short",
+  "searched_at": "2025-07-10T17:23:10.287252",
+  "search_results": [
+    {
+      "title": "Sam Short, Author at Journal of the American Revolution",
+      "snippet": "Sam Short is an Instructor of History with Motlow State Community College in Smyrna, Tennessee. Sam started teaching with Motlow in 2022.",
+      "link": "https://allthingsliberty.com/author/sam-short/"
+    },
+    {
+      "title": "Sam Short",
+      "snippet": "Sam Short is an Instructor of History with Motlow State Community College in Smyrna, Tennessee.",
+      "link": "https://www.worldhistory.org/user/samuelrshort/"
+    },
+    {
+      "title": "Sam Short: books, biography, latest update",
+      "snippet": "Sam Short loves writing, narrowboats, and laughing. It's his dream to one day be able to leave land behind and live on the canals in a narrowboat of his own.",
+      "link": "https://www.amazon.com/stores/author/B01MTFDW04"
+    }
+  ],
+  "enhanced_gender": "Male",
+  "enhanced_race": null,
+  "gender_confidence": 0.8,
+  "race_confidence": 0.0,
+  "additional_context": {}
+}
