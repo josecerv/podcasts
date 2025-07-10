@@ -1,0 +1,15 @@
+{
+  "processing_date": "2024-12-17T11:46:57.823000",
+  "processing_time_minutes": 33.8939417997996,
+  "total_initial_podcasts": 46678,
+  "podcasts_with_guests": 31863,
+  "podcasts_meeting_criteria": 2448,
+  "final_podcasts": 200,
+  "episodes_per_podcast": "variable",
+  "publishing_interval_distribution": {
+    "year": 152,
+    "half-year": 41,
+    "quarter": 7
+  },
+  "cpu_cores_used": 23
+}

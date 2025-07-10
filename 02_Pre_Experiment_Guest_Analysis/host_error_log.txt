@@ -1,0 +1,470 @@
+[2025-03-14 08:10:35] Error processing a304ce16b16041ddaba1d93856714f41_afdb7942e267886444821824578940230feb62b794976d41a69d02b3b628a5cf: invalid literal for int() with base 10: 'NA'
+[2025-03-14 08:10:35] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 88, in process_item
+    if r['total_hosts'] != "NA" and int(r['total_hosts']) < int(r['urm_hosts']):
+                                                            ^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'NA'
+
+[2025-03-14 08:10:39] Error processing 3a4966e140f14846b03ea186672ac0cb_d9faf701e727e0e71a692a24d81bd223722ac8dcf54bf51e77a8225d7a9790a8: invalid literal for int() with base 10: 'NA'
+[2025-03-14 08:10:39] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 88, in process_item
+    if r['total_hosts'] != "NA" and int(r['total_hosts']) < int(r['urm_hosts']):
+                                                            ^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'NA'
+
+[2025-03-14 08:10:42] Error processing ec6fc39fa94043ce984e44c6c9a5d86e_e73d07346cbec05b475fb2418697e41aeb8ca9b0c5914a52821fd26fdca93b10: Expecting property name enclosed in double quotes: line 6 column 1 (char 393)
+[2025-03-14 08:10:42] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 77, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 6 column 1 (char 393)
+
+[2025-03-14 08:10:42] Error processing 08929f9cedd144a9a0a8a44ce1bb3d3a_2dd21edb3535c128b8a1c91e818db332db14355b4062d8b22162d756123fc84e: invalid literal for int() with base 10: 'NA'
+[2025-03-14 08:10:42] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 88, in process_item
+    if r['total_hosts'] != "NA" and int(r['total_hosts']) < int(r['urm_hosts']):
+                                                            ^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'NA'
+
+[2025-03-14 08:10:42] Error processing 3425161c6e7544308bd1c8b7dbb1a4af_3068090ca7350a80d3c91ef6a23c918be7490513c33c8852a3c17c454eb50d7f: Expecting value: line 3 column 18 (char 41)
+[2025-03-14 08:10:42] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 77, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 3 column 18 (char 41)
+
+[2025-03-14 08:10:43] Error processing 039e67280e884a7792ff1d37029eef28_0f0778b51a9e792b5fbd289a8c5c5f8416d18ad60b6b5383532c6ea1290c75a5: invalid literal for int() with base 10: 'NA'
+[2025-03-14 08:10:43] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 88, in process_item
+    if r['total_hosts'] != "NA" and int(r['total_hosts']) < int(r['urm_hosts']):
+                                                            ^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'NA'
+
+[2025-03-14 08:10:43] Error processing 3e1296308bc8406987a1304be37fc4e3_42390cb9d1b1206d0f4232dd4f2c5dac8dd644bcbb09dcc75e4dd55133264dc2: invalid literal for int() with base 10: 'NA'
+[2025-03-14 08:10:43] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 88, in process_item
+    if r['total_hosts'] != "NA" and int(r['total_hosts']) < int(r['urm_hosts']):
+                                                            ^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'NA'
+
+[2025-03-14 08:10:43] Error processing 3e1296308bc8406987a1304be37fc4e3_06ab32ef05543a9ce4927b4b1c211c68c2ce6669eb8168d53bc985c90902fc45: invalid literal for int() with base 10: 'NA'
+[2025-03-14 08:10:43] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 88, in process_item
+    if r['total_hosts'] != "NA" and int(r['total_hosts']) < int(r['urm_hosts']):
+                                                            ^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'NA'
+
+[2025-03-14 08:10:45] Error processing ad6e5552b708420ba56b7e5fc82b9d32_d3e64c797c7e2ea46c5b4013bdf7e7c648613a02db6d0c8b30a808c2947bca15: invalid literal for int() with base 10: 'NA'
+[2025-03-14 08:10:45] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 88, in process_item
+    if r['total_hosts'] != "NA" and int(r['total_hosts']) < int(r['urm_hosts']):
+                                                            ^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'NA'
+
+[2025-03-14 08:10:48] Error processing 0e7ad1a8dccc419f91269eb57d51d245_680991529a7a4846c94e23518f7c297831ee14a266b187daac97a1b981c28ace: Expecting value: line 3 column 18 (char 41)
+[2025-03-14 08:10:48] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 77, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 3 column 18 (char 41)
+
+[2025-03-14 08:10:48] Error processing eda78d27dd0d456db592ff9d8ea30a3a_8df49b38e9c79903d502a197faaad642a5b51d0de901e7371312f49488440992: invalid literal for int() with base 10: 'NA'
+[2025-03-14 08:10:48] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 88, in process_item
+    if r['total_hosts'] != "NA" and int(r['total_hosts']) < int(r['urm_hosts']):
+                                                            ^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'NA'
+
+[2025-03-14 08:10:48] Error processing dead941b7c88462fb7052191975f2ff3_411544057a3b71cd268740be3f1aef25ecdad82e4625446e669956541a7a972b: Expecting property name enclosed in double quotes: line 6 column 1 (char 254)
+[2025-03-14 08:10:48] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 77, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 6 column 1 (char 254)
+
+[2025-03-14 08:10:50] Error processing 5f9aa3e4423347498e210138e3090b0c_0169e46aacb05810f10104bc2dfba02ca0baaa99c29138a97e04db18e8b0c7a8: invalid literal for int() with base 10: 'NA'
+[2025-03-14 08:10:50] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 88, in process_item
+    if r['total_hosts'] != "NA" and int(r['total_hosts']) < int(r['urm_hosts']):
+                                                            ^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'NA'
+
+[2025-03-14 08:10:51] Error processing 7db42aeda008464abd007326e56fd168_840df9603e6c89f389c791bffdc058523df860db87c62ce51113da47b2c43688: invalid literal for int() with base 10: 'NA'
+[2025-03-14 08:10:51] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 88, in process_item
+    if r['total_hosts'] != "NA" and int(r['total_hosts']) < int(r['urm_hosts']):
+                                                            ^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'NA'
+
+[2025-03-14 08:11:02] Error processing c33e85baaa5d4814a3b0f58302c5c4a5_34ea72d70b5f1a59147923befcb1a217aaf7558565ed48afb83d8d0df38ce78b: Expecting value: line 3 column 18 (char 41)
+[2025-03-14 08:11:02] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 77, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 3 column 18 (char 41)
+
+[2025-03-14 08:11:02] Error processing f12b2bd6e6d041cd90e66abfc6b75d49_f095ea63ae1a03b43a5d5743e39abf16bf3b34e4cc5c20105813366e3e1dc66d: invalid literal for int() with base 10: 'NA'
+[2025-03-14 08:11:02] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 88, in process_item
+    if r['total_hosts'] != "NA" and int(r['total_hosts']) < int(r['urm_hosts']):
+                                                            ^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'NA'
+
+[2025-03-14 08:11:02] Error processing ec6e456c96c5477ab3d63e16038a9d60_a6a0fe8c286fc6a2ed2289a53ed4c9db9f6c4bd939b3a42cc4a08e678a67c131: Expecting property name enclosed in double quotes: line 6 column 1 (char 236)
+[2025-03-14 08:11:02] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 77, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 6 column 1 (char 236)
+
+[2025-03-14 08:11:02] Error processing 78ac8d51d739443e9d76612b416f4fb6_32be372d14d5cf6eb132ae79ef3e4b4586952a2774587f42334aad62f09a299f: Expecting value: line 3 column 18 (char 41)
+[2025-03-14 08:11:02] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 77, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 3 column 18 (char 41)
+
+[2025-03-14 08:11:03] Error processing 3b1493b9cf1d48938bb357ec7276eba5_076e1f98a2b6dd6ea072528d3e8789b896d6f54d3838a56f85de141702091572: Expecting value: line 3 column 18 (char 41)
+[2025-03-14 08:11:03] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 77, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 3 column 18 (char 41)
+
+[2025-03-14 08:11:06] Error processing a629904c88a94ef68871b543aec7b37e_1e222f55af49a1a90c257483be33875483ef0cb7cb87a92398b07ce6b5380a7f: invalid literal for int() with base 10: 'NA'
+[2025-03-14 08:11:06] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 88, in process_item
+    if r['total_hosts'] != "NA" and int(r['total_hosts']) < int(r['urm_hosts']):
+                                                            ^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'NA'
+
+[2025-03-14 08:11:10] Error processing c2a9412ddc614a1fa11f1aa9617cad80_496ef1dc0bd3441d1ae71dfcbd3f87191c8dd4beeed8d35fbf22046e4b3be5ca: invalid literal for int() with base 10: 'NA'
+[2025-03-14 08:11:10] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 88, in process_item
+    if r['total_hosts'] != "NA" and int(r['total_hosts']) < int(r['urm_hosts']):
+                                                            ^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'NA'
+
+[2025-03-14 08:11:11] Error processing fe10655c46da4499816fee6826d2c405_a17f9214be9019afb70c53de56817f79edf13176f288f4756c725b96572e54e5: Expecting property name enclosed in double quotes: line 6 column 1 (char 313)
+[2025-03-14 08:11:11] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 77, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 6 column 1 (char 313)
+
+[2025-03-14 08:11:14] Error processing 2126d72df3e14030b71236acc3a58d2b_85d97dcfdb201a08b65ab2fd42c9c2d21e3da1d9d8fa9fa8988cc78c5395327f: invalid literal for int() with base 10: 'NA'
+[2025-03-14 08:11:14] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 88, in process_item
+    if r['total_hosts'] != "NA" and int(r['total_hosts']) < int(r['urm_hosts']):
+                                                            ^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'NA'
+
+[2025-03-14 08:11:14] Error processing 045800f278b543e1800b9ec62a345f01_46ba29e257876c8cdc1f391646a071542da9b9542e7290a7ef143a6d8f78742a: Expecting value: line 3 column 18 (char 41)
+[2025-03-14 08:11:14] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 77, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 3 column 18 (char 41)
+
+[2025-03-14 08:11:17] Error processing e5e7e761d69740018a64c91265c06606_a8a38c2a0f2f08d1a1c3ad0011cd2b91f4d3e7914f1177d9cacc906a12f0367f: invalid literal for int() with base 10: 'NA'
+[2025-03-14 08:11:17] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 88, in process_item
+    if r['total_hosts'] != "NA" and int(r['total_hosts']) < int(r['urm_hosts']):
+                                                            ^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'NA'
+
+[2025-03-14 08:11:26] Error processing e3093756026f4c5689f4ce6db457dcc0_d546748467fe09537ab626684684433b38a334445cf7fff1df48f83e57014063: invalid literal for int() with base 10: 'NA'
+[2025-03-14 08:11:26] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 88, in process_item
+    if r['total_hosts'] != "NA" and int(r['total_hosts']) < int(r['urm_hosts']):
+                                                            ^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'NA'
+
+[2025-03-14 08:11:28] Error processing 158066c838964d8d9f79e76176fa1e3a_d62a271319ca67d82a23a0de1611bffc8d486494861e328139e320966a4a0ed0: invalid literal for int() with base 10: 'NA'
+[2025-03-14 08:11:28] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 88, in process_item
+    if r['total_hosts'] != "NA" and int(r['total_hosts']) < int(r['urm_hosts']):
+                                                            ^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'NA'
+
+[2025-03-14 08:11:29] Error processing b5bdd5504983400eafc3ad795117664c_6829b28435368ff745397406e3db14827fbe2ef33410823e3dec68aec52521f0: invalid literal for int() with base 10: 'NA'
+[2025-03-14 08:11:29] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 88, in process_item
+    if r['total_hosts'] != "NA" and int(r['total_hosts']) < int(r['urm_hosts']):
+                                                            ^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'NA'
+
+[2025-03-14 08:11:30] Error processing 825dff83094c468eac1a39cce3310619_5d2c457e3e530c384ba6cf7a989e23c1840e1d7cab8b790ff4c15e119eafb8e2: invalid literal for int() with base 10: 'NA'
+[2025-03-14 08:11:30] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 88, in process_item
+    if r['total_hosts'] != "NA" and int(r['total_hosts']) < int(r['urm_hosts']):
+                                                            ^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'NA'
+
+[2025-03-14 08:11:30] Error processing 3a10ab4ab25f4793b6ef06e25052a7a6_8c246509887ae1fd669a1c7700074c0e62eb5493eb6f5094d41309f4f2dd64da: Expecting value: line 3 column 18 (char 41)
+[2025-03-14 08:11:30] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 77, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 3 column 18 (char 41)
+
+[2025-03-14 08:11:30] Error processing 825dff83094c468eac1a39cce3310619_c075369e6cdd7721c35d99707f28968277d0c705d95599556f39ce53e55b2a01: invalid literal for int() with base 10: 'NA'
+[2025-03-14 08:11:30] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 88, in process_item
+    if r['total_hosts'] != "NA" and int(r['total_hosts']) < int(r['urm_hosts']):
+                                                            ^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'NA'
+
+[2025-03-14 08:11:33] Error processing be0540b89f0c4dfcbdac868db8191d72_2aa7217eaf8b20e1ab78dc56bc8296c0d263f1efa736c726b8e80e3a040c9baa: Expecting property name enclosed in double quotes: line 6 column 1 (char 268)
+[2025-03-14 08:11:33] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 77, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 6 column 1 (char 268)
+
+[2025-03-14 08:11:33] Error processing bb53b4a2f7554b5c935255bd8fd0ac0e_79ef0bb36bde950fd6a0706291e4e64a1f7a41177d51df3f55d04949d5c06b95: invalid literal for int() with base 10: 'NA'
+[2025-03-14 08:11:33] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 88, in process_item
+    if r['total_hosts'] != "NA" and int(r['total_hosts']) < int(r['urm_hosts']):
+                                                            ^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'NA'
+
+[2025-03-15 14:03:56] Error processing 37e8c31c203e46739aabb37c069c0859_5698ac7051513643fa8bb34dd69c6eb7a035230ab6e75f0e3a9f1ad0dae7b30b: invalid literal for int() with base 10: 'NA'
+[2025-03-15 14:03:56] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 88, in process_item
+    if r['total_hosts'] != "NA" and int(r['total_hosts']) < int(r['urm_hosts']):
+                                                            ^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'NA'
+
+[2025-03-15 14:03:56] Error processing ad6e5552b708420ba56b7e5fc82b9d32_d3e64c797c7e2ea46c5b4013bdf7e7c648613a02db6d0c8b30a808c2947bca15: invalid literal for int() with base 10: 'NA'
+[2025-03-15 14:03:56] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 88, in process_item
+    if r['total_hosts'] != "NA" and int(r['total_hosts']) < int(r['urm_hosts']):
+                                                            ^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'NA'
+
+[2025-03-15 14:03:56] Error processing c2a9412ddc614a1fa11f1aa9617cad80_496ef1dc0bd3441d1ae71dfcbd3f87191c8dd4beeed8d35fbf22046e4b3be5ca: invalid literal for int() with base 10: 'NA'
+[2025-03-15 14:03:56] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 88, in process_item
+    if r['total_hosts'] != "NA" and int(r['total_hosts']) < int(r['urm_hosts']):
+                                                            ^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'NA'
+
+[2025-03-15 14:03:56] Error processing 3e1296308bc8406987a1304be37fc4e3_06ab32ef05543a9ce4927b4b1c211c68c2ce6669eb8168d53bc985c90902fc45: invalid literal for int() with base 10: 'NA'
+[2025-03-15 14:03:56] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 88, in process_item
+    if r['total_hosts'] != "NA" and int(r['total_hosts']) < int(r['urm_hosts']):
+                                                            ^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'NA'
+
+[2025-03-15 14:03:56] Error processing 7db42aeda008464abd007326e56fd168_840df9603e6c89f389c791bffdc058523df860db87c62ce51113da47b2c43688: Expecting value: line 3 column 18 (char 41)
+[2025-03-15 14:03:56] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 77, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 3 column 18 (char 41)
+
+[2025-03-15 14:03:56] Error processing 3a10ab4ab25f4793b6ef06e25052a7a6_8c246509887ae1fd669a1c7700074c0e62eb5493eb6f5094d41309f4f2dd64da: Expecting value: line 3 column 18 (char 41)
+[2025-03-15 14:03:56] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 77, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 3 column 18 (char 41)
+
+[2025-03-15 14:03:56] Error processing 3076159051ec451da3f9560a7c2ac0b4_637319075a0814bfda2c5b41d4c1d50b2ade1e4f7324b5671226200fa73e4dbb: invalid literal for int() with base 10: 'NA'
+[2025-03-15 14:03:56] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 88, in process_item
+    if r['total_hosts'] != "NA" and int(r['total_hosts']) < int(r['urm_hosts']):
+                                                            ^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'NA'
+
+[2025-03-15 14:03:57] Error processing be0540b89f0c4dfcbdac868db8191d72_2aa7217eaf8b20e1ab78dc56bc8296c0d263f1efa736c726b8e80e3a040c9baa: Expecting property name enclosed in double quotes: line 6 column 1 (char 306)
+[2025-03-15 14:03:57] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 77, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 6 column 1 (char 306)
+
+[2025-03-15 14:03:57] Error processing 509d1b21c8cc4f799b1b7507dc062df5_f5a2c093d3da775ee9b45d037879493771ed106659aa6425a4d60fd7e4f42f56: invalid literal for int() with base 10: 'NA'
+[2025-03-15 14:03:57] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 88, in process_item
+    if r['total_hosts'] != "NA" and int(r['total_hosts']) < int(r['urm_hosts']):
+                                                            ^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'NA'
+
+[2025-03-15 14:03:57] Error processing 1e21f0a0681846e49cc7ee2629f0c693_4b8b01880631a9d399056647cba0dc589d65ea071cbcd180e0570d1d702e5a66: invalid literal for int() with base 10: 'NA'
+[2025-03-15 14:03:57] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 88, in process_item
+    if r['total_hosts'] != "NA" and int(r['total_hosts']) < int(r['urm_hosts']):
+                                                            ^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'NA'
+
+[2025-03-18 20:45:18] Error processing 3e1296308bc8406987a1304be37fc4e3_06ab32ef05543a9ce4927b4b1c211c68c2ce6669eb8168d53bc985c90902fc45: Expecting value: line 3 column 18 (char 41)
+[2025-03-18 20:45:18] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 77, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 3 column 18 (char 41)
+
+[2025-03-18 20:45:19] Error processing cbff848ae8a540e099fe57d9155260a4_16b0b45e1388508cd6c400ca7f012653faee5933d217c2a125c3216a76f98cd5: invalid literal for int() with base 10: 'NA'
+[2025-03-18 20:45:19] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 88, in process_item
+    if r['total_hosts'] != "NA" and int(r['total_hosts']) < int(r['urm_hosts']):
+                                                            ^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'NA'
+
+[2025-03-18 20:45:19] Error processing 3076159051ec451da3f9560a7c2ac0b4_637319075a0814bfda2c5b41d4c1d50b2ade1e4f7324b5671226200fa73e4dbb: invalid literal for int() with base 10: 'NA'
+[2025-03-18 20:45:19] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 88, in process_item
+    if r['total_hosts'] != "NA" and int(r['total_hosts']) < int(r['urm_hosts']):
+                                                            ^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'NA'
+
+[2025-03-18 20:45:21] Error processing c2a9412ddc614a1fa11f1aa9617cad80_496ef1dc0bd3441d1ae71dfcbd3f87191c8dd4beeed8d35fbf22046e4b3be5ca: invalid literal for int() with base 10: 'NA'
+[2025-03-18 20:45:21] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 88, in process_item
+    if r['total_hosts'] != "NA" and int(r['total_hosts']) < int(r['urm_hosts']):
+                                                            ^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'NA'
+
+[2025-03-19 19:32:21] Error processing 2e3ee6b53c2c485cb9521ebf8cf0635a_f88f7b1edfab140c30e535de24f6696dd0756ccdea72ca0d0acd8d5c0f4afbaa: invalid literal for int() with base 10: 'NA'
+[2025-03-19 19:32:21] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\podcast_host_extract.py", line 88, in process_item
+    if r['total_hosts'] != "NA" and int(r['total_hosts']) < int(r['urm_hosts']):
+                                                            ^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'NA'
+

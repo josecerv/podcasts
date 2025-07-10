@@ -1,0 +1,32 @@
+Guest Data Conflicts Report
+========================
+
+Total conflicts: 1
+
+Conflict for ID: 873103f7dc6b46dca1da958ebb5e9e96-3874a511ad9e9b33e390583dacf522d5cd43c17846ca34450d644d950f578477
+Resolution: Using data from guests-extract_names_URM-e2.jsonl
+
+Chosen record:
+{
+  "podcast_id": "873103f7dc6b46dca1da958ebb5e9e96",
+  "episode_id": "3874a511ad9e9b33e390583dacf522d5cd43c17846ca34450d644d950f578477",
+  "unique_id": "873103f7dc6b46dca1da958ebb5e9e96-3874a511ad9e9b33e390583dacf522d5cd43c17846ca34450d644d950f578477",
+  "total_guests": "3",
+  "urm_guests": "1",
+  "female_guests": "2",
+  "explain": "The episode features three guests explicitly mentioned: Laurie Mullen, Lori Tremblay, and Daryl Anka. Among these, Laurie Mullen and Lori Tremblay are female, and Daryl Anka, while not female, is included in the total count. Only Daryl Anka has been classified as a Hispanic or Black guest, which is why there is one guest in the URM category. Since the total number of guests from the episode only includes those explicitly mentioned, all counts align appropriately."
+}
+Conflicting records:
+
+From guests-extract_names_URM-e2.jsonl:
+{
+  "podcast_id": "873103f7dc6b46dca1da958ebb5e9e96",
+  "episode_id": "3874a511ad9e9b33e390583dacf522d5cd43c17846ca34450d644d950f578477",
+  "unique_id": "873103f7dc6b46dca1da958ebb5e9e96-3874a511ad9e9b33e390583dacf522d5cd43c17846ca34450d644d950f578477",
+  "total_guests": "3",
+  "urm_guests": "1",
+  "female_guests": "2",
+  "explain": "The episode features three guests explicitly mentioned: Laurie Mullen, Lori Tremblay, and Daryl Anka. Among these, Laurie Mullen and Lori Tremblay are female, and Daryl Anka, while not female, is included in the total count. Only Daryl Anka has been classified as a Hispanic or Black guest, which is why there is one guest in the URM category. Since the total number of guests from the episode only includes those explicitly mentioned, all counts align appropriately."
+}
+--------------------------------------------------
+

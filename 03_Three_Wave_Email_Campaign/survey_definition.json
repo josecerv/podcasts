@@ -1,0 +1,2063 @@
+{
+  "QuestionCount": "14",
+  "SurveyOptions": {
+    "BackButton": "true",
+    "SaveAndContinue": "false",
+    "SurveyProtection": "PublicSurvey",
+    "BallotBoxStuffingPrevention": "false",
+    "NoIndex": "Yes",
+    "SecureResponseFiles": "true",
+    "SurveyExpiration": "None",
+    "SurveyTermination": "DisplayMessage",
+    "Header": "",
+    "Footer": "",
+    "ProgressBarDisplay": "None",
+    "PartialData": "+4 hour",
+    "ValidationMessage": null,
+    "PreviousButton": "",
+    "NextButton": "",
+    "SurveyTitle": "Qualtrics Survey | Qualtrics Experience Management",
+    "SkinLibrary": "wharton",
+    "SkinType": "templated",
+    "Skin": {
+      "brandingId": "6138034454",
+      "templateId": "*base",
+      "overrides": null
+    },
+    "NewScoring": 1,
+    "SurveyMetaDescription": "The most powerful, simple and trusted way to gather experience data. Start your journey to experience management and try a free account today.",
+    "CustomStyles": {
+      "customCSS": ""
+    },
+    "EOSMessage": "MS_9pgPWCNBhT4j47I",
+    "ShowExportTags": "false",
+    "CollectGeoLocation": "false",
+    "PasswordProtection": "No",
+    "AnonymizeResponse": "No",
+    "RefererCheck": "No",
+    "BallotBoxStuffingPreventionBehavior": null,
+    "BallotBoxStuffingPreventionMessage": null,
+    "BallotBoxStuffingPreventionMessageLibrary": null,
+    "BallotBoxStuffingPreventionURL": null,
+    "RecaptchaV3": "false",
+    "ConfirmStart": false,
+    "AutoConfirmStart": false,
+    "RelevantID": "false",
+    "RelevantIDLockoutPeriod": "+30 days",
+    "UseCustomSurveyLinkCompletedMessage": null,
+    "SurveyLinkCompletedMessage": null,
+    "SurveyLinkCompletedMessageLibrary": null,
+    "ResponseSummary": "No",
+    "EOSMessageLibrary": "UR_51kqMTaUzYIYveC",
+    "EOSRedirectURL": "http://",
+    "EmailThankYou": "false",
+    "ThankYouEmailMessageLibrary": null,
+    "ThankYouEmailMessage": null,
+    "ValidateMessage": "false",
+    "ValidationMessageLibrary": null,
+    "InactiveSurvey": "DefaultMessage",
+    "PartialDeletion": null,
+    "PartialDataCloseAfter": "LastActivity",
+    "InactiveMessageLibrary": null,
+    "InactiveMessage": null,
+    "AvailableLanguages": {
+      "EN": []
+    },
+    "ProtectSelectionIds": true,
+    "AutoCloseSurvey": true,
+    "SurveyName": "podcasts field launch 022625",
+    "SurveyLanguage": "EN",
+    "ActiveResponseSet": "RS_eEW3ytVj6JdYjVc",
+    "SurveyStartDate": null,
+    "SurveyExpirationDate": null,
+    "SurveyCreationDate": "2025-02-25T23:52:44Z"
+  },
+  "SurveyID": "SV_0IobgvbcBJXc5H8",
+  "SurveyName": "podcasts field launch 022625",
+  "SurveyStatus": "Active",
+  "LastModified": "2025-02-28T23:35:55Z",
+  "BrandID": "wharton",
+  "OwnerID": "UR_51kqMTaUzYIYveC",
+  "LastAccessed": null,
+  "CreatorID": "UR_51kqMTaUzYIYveC",
+  "LastActivated": "2025-02-25T23:59:48Z",
+  "Questions": {
+    "QID1": {
+      "QuestionText": "\n<div style=\"font-family: Arial, sans-serif; line-height: 1.6; max-width: 1400px; margin: 0 auto; padding: 20px; font-size: 14px;\" id=\"episode-container\">\n    <h2 style=\"color: #333; margin-bottom: 30px; font-size: 16px; font-weight: normal;\">\n        Before starting this \"<span id=\"year-quarter\"></span>\" we want to confirm that you are affiliated with the podcast:\n    </h2>\n    \n    <div style=\"text-align: center;\">\n        <span style=\"font-weight: bold;\" id=\"podcast-name\"></span>\n    </div>\n\n    <div style=\"background: #f9f9f9; padding: 20px; border-radius: 5px; margin-top: 30px;\">\n        <div style=\"text-align: center; display: flex; justify-content: center; gap: 20px;\">\n            <button style=\"padding: 12px 24px; background-color: #e0e0e0; color: #333; border: none; border-radius: 6px; cursor: pointer; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: all 0.2s ease; min-width: 200px; font-weight: 500;\" type=\"button\" id=\"confirm-no\">\n                No - I am not affiliated\n            </button>\n            <button style=\"padding: 12px 24px; background-color: #0066cc; color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: all 0.2s ease; min-width: 200px; font-weight: 500;\" type=\"button\" id=\"confirm-yes\">\n                Yes - I am affiliated\n            </button>\n        </div>\n    </div>\n</div>",
+      "QuestionJS": "Qualtrics.SurveyEngine.addOnload(function() {\n    // Hide the Next and Previous buttons\n    jQuery(\"#NextButton\").hide();\n    jQuery(\"#PreviousButton\").hide();\n    \n    // Add CSS to ensure they stay hidden\n    var style = document.createElement('style');\n    style.textContent = '#NextButton, #PreviousButton { display: none !important; }';\n    document.head.appendChild(style);\n\n    // Retrieve the publishing_interval from Embedded Data\n    var publishingInterval = \"${e://Field/review_label}\";\n\t\n\t// First get the raw data\n\tvar ep_json = JSON.parse(Qualtrics.SurveyEngine.getEmbeddedData(\"episodes\"));\n    console.log(ep_json);\n\n    console.log('Publishing interval:', publishingInterval);\n\n    // Format display interval based on new anchor windows:\n    // (3, 5) -> \"1-Month in review\"\n    // (7, 9) -> \"2-Month lookback\"\n    // (11, 13) -> \"Quarter in review\"\n    // (24, 28) -> \"Half-Year in review\"\n    // (50, 60) -> \"Year in review\"\n    // We assume the embedded value is one of these or a similar variation.\n\tlet displayInterval;\n\tlet displayIntervalPeriod;\n\n\tswitch(publishingInterval.toLowerCase().trim()) {\n\t\tcase '1-month in review':\n\t\t\tdisplayInterval = '1-month in review';\n\t\t\tdisplayIntervalPeriod = 'one month';\n\t\t\tbreak;\n\t\tcase '2-month lookback':\n\t\t\tdisplayInterval = '2-month lookback';\n\t\t\tdisplayIntervalPeriod = 'two months';\n\t\t\tbreak;\n\t\tcase 'quarter in review':\n\t\t\tdisplayInterval = 'Quarter in review';\n\t\t\tdisplayIntervalPeriod = 'quarter';\n\t\t\tbreak;\n\t\tcase '6-month lookback':\n\t\t\tdisplayInterval = 'Half year in review';\n\t\t\tdisplayIntervalPeriod = 'half year';\n\t\t\tbreak;\n\t\tcase '1-year in review':\n\t\t\tdisplayInterval = 'Year in review';\n\t\t\tdisplayIntervalPeriod = 'year';\n\t\t\tbreak;\n\t\tdefault:\n\t\t\tdisplayInterval = publishingInterval;\n\t\t\tdisplayIntervalPeriod = publishingInterval;\n\t}\n\n\t// Store the formatted intervals in Embedded Data\n\tQualtrics.SurveyEngine.setEmbeddedData('display_interval', displayInterval);\n\tQualtrics.SurveyEngine.setEmbeddedData('display_interval_lowercase', displayIntervalPeriod);\n\n\n    // Store reference to Qualtrics object\n    var that = this;\n\n    // Wait for DOM to be ready\n    jQuery(document).ready(function() {\n        setTimeout(function() {\n            try {\n                // Get embedded data\n                var displayInterval = Qualtrics.SurveyEngine.getEmbeddedData('display_interval');\n                var podcastTitle = Qualtrics.SurveyEngine.getEmbeddedData('podcast_title');\n                \n                console.log('Display Interval:', displayInterval);\n                console.log('Podcast Title:', podcastTitle);\n\n                // Update elements using jQuery\n                jQuery('#year-quarter').text(displayInterval || '');\n                jQuery('#podcast-name').text(podcastTitle || '');\n\n                // Set up button click handlers\n                jQuery('#confirm-yes').on('click', function() {\n                    that.setChoiceValue(1, true);\n                    Qualtrics.SurveyEngine.setEmbeddedData('is_affiliated', 'yes');\n                    that.clickNextButton();\n                });\n\n                jQuery('#confirm-no').on('click', function() {\n                    that.setChoiceValue(2, true);\n                    Qualtrics.SurveyEngine.setEmbeddedData('is_affiliated', 'no');\n                    that.clickNextButton();\n                });\n            } catch (error) {\n                console.error('Error in setting up question:', error);\n            }\n        });\n    });\n});",
+      "DefaultChoices": false,
+      "DataExportTag": "Q1",
+      "QuestionID": "QID1",
+      "QuestionType": "DB",
+      "Selector": "TB",
+      "DataVisibility": {
+        "Private": false,
+        "Hidden": false
+      },
+      "Configuration": {
+        "QuestionDescriptionOption": "UseText"
+      },
+      "QuestionDescription": "Before starting this \"\" we want to confirm that you are affiliated with the podcast: No - I am no...",
+      "ChoiceOrder": [],
+      "Validation": {
+        "Settings": {
+          "Type": "None"
+        }
+      },
+      "GradingData": [],
+      "Language": [],
+      "NextChoiceId": 4,
+      "NextAnswerId": 1,
+      "QuestionText_Unsafe": "\n<div style=\"font-family: Arial, sans-serif; line-height: 1.6; max-width: 1400px; margin: 0 auto; padding: 20px; font-size: 14px;\" id=\"episode-container\">\n    <h2 style=\"color: #333; margin-bottom: 30px; font-size: 16px; font-weight: normal;\">\n        Before starting this \"<span id=\"year-quarter\"></span>\" we want to confirm that you are affiliated with the podcast:\n    </h2>\n    \n    <div style=\"text-align: center;\">\n        <span style=\"font-weight: bold;\" id=\"podcast-name\"></span>\n    </div>\n\n    <div style=\"background: #f9f9f9; padding: 20px; border-radius: 5px; margin-top: 30px;\">\n        <div style=\"text-align: center; display: flex; justify-content: center; gap: 20px;\">\n            <button style=\"padding: 12px 24px; background-color: #e0e0e0; color: #333; border: none; border-radius: 6px; cursor: pointer; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: all 0.2s ease; min-width: 200px; font-weight: 500;\" type=\"button\" id=\"confirm-no\">\n                No - I am not affiliated\n            </button>\n            <button style=\"padding: 12px 24px; background-color: #0066cc; color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: all 0.2s ease; min-width: 200px; font-weight: 500;\" type=\"button\" id=\"confirm-yes\">\n                Yes - I am affiliated\n            </button>\n        </div>\n    </div>\n</div>"
+    },
+    "QID10": {
+      "QuestionText": "Click to write the question text",
+      "DataExportTag": "Q10",
+      "QuestionType": "MC",
+      "Selector": "SAVR",
+      "SubSelector": "TX",
+      "DataVisibility": {
+        "Private": false,
+        "Hidden": false
+      },
+      "Configuration": {
+        "QuestionDescriptionOption": "UseText"
+      },
+      "QuestionDescription": "Click to write the question text",
+      "Choices": {
+        "1": {
+          "Display": "Click to write Choice 1"
+        },
+        "2": {
+          "Display": "Click to write Choice 2"
+        },
+        "3": {
+          "Display": "Click to write Choice 3"
+        }
+      },
+      "ChoiceOrder": [
+        "1",
+        "2",
+        "3"
+      ],
+      "Validation": {
+        "Settings": {
+          "ForceResponse": "OFF",
+          "Type": "None"
+        }
+      },
+      "Language": [],
+      "NextChoiceId": 4,
+      "NextAnswerId": 1,
+      "QuestionID": "QID10",
+      "QuestionText_Unsafe": "Click to write the question text"
+    },
+    "QID11": {
+      "QuestionText": "Click to write the question text",
+      "DefaultChoices": false,
+      "DataExportTag": "s",
+      "QuestionID": "QID11",
+      "QuestionType": "TE",
+      "Selector": "SL",
+      "DataVisibility": {
+        "Private": false,
+        "Hidden": false
+      },
+      "Configuration": {
+        "QuestionDescriptionOption": "UseText"
+      },
+      "QuestionDescription": "Click to write the question text",
+      "Validation": {
+        "Settings": {
+          "ForceResponse": "OFF",
+          "Type": "None"
+        }
+      },
+      "GradingData": [],
+      "Language": [],
+      "NextChoiceId": 4,
+      "NextAnswerId": 1,
+      "SearchSource": {
+        "AllowFreeResponse": "false"
+      },
+      "QuestionText_Unsafe": "Click to write the question text"
+    },
+    "QID12": {
+      "QuestionText": "&nbsp;",
+      "QuestionJS": "Qualtrics.SurveyEngine.addOnload(function() {\n    // Replace 'QID12' with your actual question ID\n    jQuery(\"#QID12\").hide();\n});",
+      "DefaultChoices": false,
+      "DataExportTag": "Q12",
+      "QuestionID": "QID12",
+      "QuestionType": "TE",
+      "Selector": "SL",
+      "DataVisibility": {
+        "Private": false,
+        "Hidden": false
+      },
+      "Configuration": {
+        "QuestionDescriptionOption": "UseText"
+      },
+      "QuestionDescription": " ",
+      "Validation": {
+        "Settings": {
+          "ForceResponse": "OFF",
+          "Type": "None"
+        }
+      },
+      "GradingData": [],
+      "Language": [],
+      "NextChoiceId": 4,
+      "NextAnswerId": 1,
+      "SearchSource": {
+        "AllowFreeResponse": "false"
+      },
+      "QuestionText_Unsafe": "&nbsp;"
+    },
+    "QID13": {
+      "QuestionText": "Timing",
+      "DefaultChoices": false,
+      "DataExportTag": "Q13",
+      "QuestionID": "QID13",
+      "QuestionType": "Timing",
+      "Selector": "PageTimer",
+      "DataVisibility": {
+        "Private": false,
+        "Hidden": false
+      },
+      "Configuration": {
+        "QuestionDescriptionOption": "UseText",
+        "MinSeconds": "0",
+        "MaxSeconds": 3
+      },
+      "QuestionDescription": "Timing",
+      "Choices": {
+        "1": {
+          "Display": "First Click"
+        },
+        "2": {
+          "Display": "Last Click"
+        },
+        "3": {
+          "Display": "Page Submit"
+        },
+        "4": {
+          "Display": "Click Count"
+        }
+      },
+      "GradingData": [],
+      "Language": [],
+      "NextChoiceId": 56,
+      "NextAnswerId": 1,
+      "QuestionText_Unsafe": "Timing"
+    },
+    "QID14": {
+      "QuestionText": "${e://Field/podcastID}Click to write the question text",
+      "DataExportTag": "Q14",
+      "QuestionType": "MC",
+      "Selector": "SAVR",
+      "SubSelector": "TX",
+      "DataVisibility": {
+        "Private": false,
+        "Hidden": false
+      },
+      "Configuration": {
+        "QuestionDescriptionOption": "UseText"
+      },
+      "QuestionDescription": "${e://Field/podcastID}Click to write the question text",
+      "Choices": {
+        "1": {
+          "Display": "Click to write Choice 1"
+        },
+        "2": {
+          "Display": "Click to write Choice 2"
+        },
+        "3": {
+          "Display": "Click to write Choice 3"
+        }
+      },
+      "ChoiceOrder": [
+        "1",
+        "2",
+        "3"
+      ],
+      "Validation": {
+        "Settings": {
+          "ForceResponse": "OFF",
+          "Type": "None"
+        }
+      },
+      "Language": [],
+      "NextChoiceId": 4,
+      "NextAnswerId": 1,
+      "QuestionID": "QID14",
+      "QuestionText_Unsafe": "${e://Field/podcastID}Click to write the question text"
+    },
+    "QID2": {
+      "QuestionText": "\n<script src=\"https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js\"></script>\n\n<script src=\"https://www.gstatic.com/firebasejs/9.23.0/firebase-firestore-compat.js\"></script>\n\n\n<div style=\"text-align: center; padding: 20px; font-family: Arial; font-size: 14pt;\">\n    <p>Loading data from <b id=\"podcast-title\">podcast title</b>.</p>\n    <p>This will only take a few seconds.</p>\n    <p>Please wait&hellip;</p>\n</div>\n",
+      "DefaultChoices": false,
+      "DataExportTag": "Q2",
+      "QuestionID": "QID2",
+      "QuestionType": "DB",
+      "Selector": "TB",
+      "DataVisibility": {
+        "Private": false,
+        "Hidden": false
+      },
+      "Configuration": {
+        "QuestionDescriptionOption": "UseText"
+      },
+      "QuestionDescription": "Loading data from podcast title. This will only take a few seconds. Please wait\u2026",
+      "ChoiceOrder": [],
+      "Validation": {
+        "Settings": {
+          "Type": "None"
+        }
+      },
+      "GradingData": [],
+      "Language": [],
+      "NextChoiceId": 4,
+      "NextAnswerId": 1,
+      "QuestionJS": "Qualtrics.SurveyEngine.addOnload(function() {\n    // Hide the Next and Previous buttons\n    jQuery(\"#NextButton\").hide();\n    jQuery(\"#PreviousButton\").hide();\n\n    // Add CSS to ensure they stay hidden\n    var style = document.createElement('style');\n    style.textContent = '#NextButton, #PreviousButton { display: none !important; }';\n    document.head.appendChild(style);\n\n    // Add font styling (Optional)\n    var fontStyle = document.createElement('style');\n    fontStyle.textContent = '.QuestionText { font-family: Arial, sans-serif !important; font-size: 14pt !important; }';\n    document.head.appendChild(fontStyle);\n\n    // Extract podcastId from Embedded Data\n    var podcastId = \"${e://Field/podcastID}\";\n    console.log('Loaded podcast ID:', podcastId);\n\n    if (!podcastId) {\n        showError('No podcast ID provided in URL');\n        return;\n    }\n\n    // Update loading screen message\n    jQuery('#' + this.questionId).find('.QuestionText')\n        .html('<div style=\"text-align: center; padding: 14px;\">' +\n              '<p>Loading data for Podcast ID: <b>' + podcastId + '</b>.</p>' +\n              '<p>This will only take a few seconds.</p>' +\n              '<p>Please wait&hellip;</p></div>');\n\n    // Function to show error messages\n    function showError(message) {\n        jQuery('#' + that.questionId).find('.QuestionText')\n            .html('<div style=\"color: red; text-align: center; padding: 20px;\">' +\n                  '<p>Error: ' + message + '</p></div>');\n    }\n\n    // Reference to the current question (needed for showError function)\n    var that = this;\n\n    // Proceed to next question after a brief delay\n    setTimeout(function() {\n        jQuery('#NextButton').click();\n    }, 500);\n});",
+      "QuestionText_Unsafe": "\n<script src=\"https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js\"></script>\n\n<script src=\"https://www.gstatic.com/firebasejs/9.23.0/firebase-firestore-compat.js\"></script>\n\n\n<div style=\"text-align: center; padding: 20px; font-family: Arial; font-size: 14pt;\">\n    <p>Loading data from <b id=\"podcast-title\">podcast title</b>.</p>\n    <p>This will only take a few seconds.</p>\n    <p>Please wait&hellip;</p>\n</div>\n"
+    },
+    "QID3": {
+      "QuestionText": "Timing",
+      "DefaultChoices": false,
+      "DataExportTag": "Q3",
+      "QuestionID": "QID3",
+      "QuestionType": "Timing",
+      "Selector": "PageTimer",
+      "DataVisibility": {
+        "Private": false,
+        "Hidden": false
+      },
+      "Configuration": {
+        "QuestionDescriptionOption": "UseText",
+        "MinSeconds": "0",
+        "MaxSeconds": 4
+      },
+      "QuestionDescription": "Timing",
+      "Choices": {
+        "1": {
+          "Display": "First Click"
+        },
+        "2": {
+          "Display": "Last Click"
+        },
+        "3": {
+          "Display": "Page Submit"
+        },
+        "4": {
+          "Display": "Click Count"
+        }
+      },
+      "GradingData": [],
+      "Language": [],
+      "NextChoiceId": 104,
+      "NextAnswerId": 1,
+      "QuestionJS": false,
+      "QuestionText_Unsafe": "Timing"
+    },
+    "QID4": {
+      "QuestionText": "<div id=\"episode-container\" style=\"font-family: Arial, sans-serif; line-height: 1.6; max-width: 1200px; margin: 0 auto; padding: 20px; font-size: 14px;\">\n  <h2 style=\"color: #333; margin-bottom: 20px; font-size: 16px; font-weight: normal;\">\n    <span id=\"display-interval\"></span>\u2013Please Review This Episode:\n    <span style=\"float: right; color: #999; font-size: 14px;\">Episode <span id=\"current-episode\"></span></span>\n  </h2>\n\n  <div style=\"background: #f9f9f9; padding: 20px; border-radius: 5px; margin-bottom: 30px;\">\n    <div style=\"margin-bottom: 15px;\">\n      <span style=\"font-size: 14px;\">Episode Title:</span>\n      <span id=\"episode-title\" style=\"margin-left: 10px; font-size: 14px; font-weight: bold;\"></span>\n    </div>\n\n    <div style=\"margin-bottom: 15px;\">\n      <span style=\"font-size: 14px;\">Episode Date:</span>\n      <span id=\"episode-date\" style=\"margin-left: 10px; font-size: 14px;\"></span>\n    </div>\n\n    <div style=\"margin-bottom: 15px;\">\n      <span style=\"font-size: 14px;\">Episode Description:</span>\n      <div id=\"episode-description-short\" style=\"margin-top: 10px; font-size: 14px;\"></div>\n      <a href=\"#\" id=\"toggle-description\" style=\"color: #0066cc; text-decoration: none; display: none; margin-top: 10px; font-size: 14px;\">Click for more</a>\n      <div id=\"episode-description-full\" style=\"display: none; margin-top: 10px;\">\n        <span id=\"episode-description-full-text\" style=\"font-size: 14px;\"></span>\n      </div>\n    </div>\n  </div>\n\n  <p style=\"margin-bottom: 20px; font-size: 14px;\">\n    If this episode featured multiple guests, please select one primary guest to classify.\n  </p>\n\n  \n  <div id=\"classification-form\" style=\"background: #fff; padding: 20px; border: 1px solid #ddd; border-radius: 5px;\"></div>\n\n  \n  <p style=\"text-align: center; font-size: 14px; color: #555; margin-top: 10px;\">\n    (if there are no guests to classify, please continue to next episode)\n  </p>\n\n  <div style=\"margin-top: 30px; display: flex; flex-direction: column; gap: 15px; max-width: 500px; margin-left: auto; margin-right: auto;\">\n    <div style=\"display: flex; justify-content: space-between; gap: 15px;\">\n      <button id=\"back-button\" style=\"padding: 10px 20px; background-color: #6c757d; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 14px; flex: 1; white-space: nowrap;\" type=\"button\">\n        Previous Episode\n      </button>\n      <button id=\"next-button\" style=\"padding: 10px 20px; background-color: #0066cc; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 14px; flex: 1; white-space: nowrap;\" type=\"button\">\n        Classify next episode\n      </button>\n    </div>\n\n    <div>\n      <button id=\"stop-button\" style=\"padding: 10px 20px; background-color: #495057; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 14px; width: 100%; white-space: nowrap;\" type=\"button\">\n        Review episodes classified so far\n      </button>\n    </div>\n  </div>\n\n  <div style=\"margin-top: 40px; padding: 20px 0; max-width: 500px; margin-left: auto; margin-right: auto;\">\n    <div style=\"width: 100%; background-color: #e9ecef; height: 8px; border-radius: 4px; overflow: hidden;\">\n      <div id=\"progress-bar\" style=\"width: 0%; height: 100%; background-color: #0d6efd; transition: width 0.3s ease;\"></div>\n    </div>\n    <div style=\"text-align: center; margin-top: 8px; color: #666; font-size: 12px;\">\n      Progress\n    </div>\n  </div>\n</div>\n",
+      "DefaultChoices": false,
+      "DataExportTag": "episodes",
+      "QuestionType": "DB",
+      "Selector": "TB",
+      "DataVisibility": {
+        "Private": false,
+        "Hidden": false
+      },
+      "Configuration": {
+        "QuestionDescriptionOption": "UseText"
+      },
+      "QuestionDescription": "\u2013Please Review This Episode: Episode Episode Title: Episode Date: Episode Description: Click for...",
+      "ChoiceOrder": [],
+      "Validation": {
+        "Settings": {
+          "Type": "None"
+        }
+      },
+      "GradingData": [],
+      "Language": [],
+      "NextChoiceId": 4,
+      "NextAnswerId": 1,
+      "QuestionID": "QID4",
+      "QuestionJS": "Qualtrics.SurveyEngine.addOnload(function() {\n    var that = this;\n    \n    // Function to get URL parameters\n    function getParameterByName(name, url) {\n        if (!url) url = window.location.href;\n        name = name.replace(/[$$$$]/g, '\\\\$&');\n        var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'), results = regex.exec(url);\n        if (!results) return null;\n        if (!results[2]) return '';\n        return decodeURIComponent(results[2].replace(/\\+/g, ' '));\n    }\n\n    // Retrieve 'podcastID' from survey URL\n    var podcastID = getParameterByName('podcastID') || '';\n    Qualtrics.SurveyEngine.setEmbeddedData('podcastID', podcastID);\n    console.log('Embedded podcastID:', podcastID);\n\n    // Retrieve the flag from embedded data\n    var flag = parseInt(\"${e://Field/flag}\") || 0;\n    if (flag === 1) {\n        // Automatically proceed to the next page\n        that.clickNextButton();\n        return;\n    }\n\n    // -------------------------\n    // Custom Episode Counter Setup\n    // -------------------------\n    // Get total episodes from your embedded episode_count field\n    var totalEpisodes = parseInt(\"${e://Field/episode_count}\") || 1;\n\n    // Try to retrieve a previously stored value for currentEpisode. Default to 1 if not set.\n    var storedCurrentEpisode = parseInt(Qualtrics.SurveyEngine.getEmbeddedData('currentEpisode'));\n    var currentEpisodeNumber = !isNaN(storedCurrentEpisode) ? storedCurrentEpisode : 1;\n\n    // Enforce boundaries: if currentEpisodeNumber is greater than totalEpisodes, reset it.\n    if (currentEpisodeNumber > totalEpisodes) {\n        console.warn(\"Current episode exceeds available episodes. Resetting to last episode.\");\n        currentEpisodeNumber = totalEpisodes;\n    } else if (currentEpisodeNumber < 1) {\n        currentEpisodeNumber = 1;\n    }\n\n    var currentEpisodeIndex = currentEpisodeNumber - 1;\n\n    // Save the currentEpisode back to embedded data for persistence.\n    Qualtrics.SurveyEngine.setEmbeddedData('currentEpisode', currentEpisodeNumber);\n\n    console.log('Current Episode Number:', currentEpisodeNumber);\n    console.log('Current Episode Index:', currentEpisodeIndex);\n    console.log('Total Episodes:', totalEpisodes);\n\n    // -------------------------\n    // End Custom Counter Setup\n    // -------------------------\n\n    var isSubmitting = false; // Flag to prevent multiple submissions\n    var hasReachedSummary = false;\n    var formattedSummary = '';\n\n    // **1. Hide the Default Qualtrics Next and Previous Buttons Without Removing Them**\n    jQuery(\"#NextButton\").hide();\n    jQuery(\"#PreviousButton\").hide();\n\n    // **2. Add Additional CSS to Ensure Buttons Remain Hidden and Style Custom Buttons**\n    var style = document.createElement('style');\n    style.textContent = `\n        #NextButton, #PreviousButton { display: none !important; }\n        #next-button { background-color: #0066cc !important; }\n        #next-button:hover { background-color: #0052a3 !important; }\n    `;\n    document.head.appendChild(style);\n\n    // **3. Retrieve Episodes Data**\n    var episodes;\n    try {\n        var episodesJsonRaw = Qualtrics.SurveyEngine.getEmbeddedData('podcast_episodes');\n        console.log('Raw episodes data:', episodesJsonRaw);\n\n        if (!episodesJsonRaw) {\n            throw new Error('No episodes data found in embedded data');\n        }\n\n        // Trim whitespace and remove wrapping quotes if they exist.\n        episodesJsonRaw = episodesJsonRaw.trim();\n        if (episodesJsonRaw.startsWith('\"') && episodesJsonRaw.endsWith('\"')) {\n            episodesJsonRaw = episodesJsonRaw.slice(1, -1);\n        }\n\n        // Fix the description fields.\n        episodesJsonRaw = episodesJsonRaw.replace(\n            /(\"description\":\\s*\")(.*?)(\")/g,\n            function(match, prefix, description, suffix) {\n                var fixedDescription = description.replace(/(?<!\\\\)\"/g, '\\\\\"');\n                return prefix + fixedDescription + suffix;\n            }\n        );\n\n        console.log('Cleaned episodes JSON data:', episodesJsonRaw);\n\n        // Attempt to parse the cleaned JSON.\n        episodes = JSON.parse(episodesJsonRaw);\n        console.log('Parsed episodes:', episodes);\n\n        // Validate episodes structure.\n        if (!Array.isArray(episodes) || episodes.length === 0) {\n            throw new Error('Episodes data is invalid');\n        }\n    } catch (e) {\n        console.error('Error parsing episodes:', e);\n        alert('Error loading episode data: ' + e.message + '. Please refresh the page.');\n        return;\n    }\n\n    var availableQuestions;\n    var responses = [];\n\n    // **4. Initialize Question Setup**\n    function initializeQuestionSetup() {\n        try {\n            console.log('Initializing question setup');\n\n            // Get condition from embedded data\n            var condition = Qualtrics.SurveyEngine.getEmbeddedData('cond') || 'control';\n            console.log('Condition:', condition);\n\n            // Get stored question order\n            var questionOrder = Qualtrics.SurveyEngine.getEmbeddedData('question_order');\n            console.log('Existing question order:', questionOrder);\n\n            // Define all possible questions\n            var allQuestions = [\n                {\n                    id: 'guest-appeared-before',\n                    question: 'Has this guest appeared on the show before?',\n                    type: 'base',\n                    options: [\n                        { value: '', text: 'Select Answer' },\n                        { value: 'Yes', text: 'Yes' },\n                        { value: 'No', text: 'No' }\n                    ]\n                },\n                {\n                    id: 'guest-profession',\n                    question: 'What is this guest\\'s profession?',\n                    type: 'base',\n                    options: [\n                        { value: '', text: 'Select Profession' },\n                        { value: 'Entertainment/Media', text: 'Entertainment/Media (Actor, Musician, Media Personality)' },\n                        { value: 'Business/Entrepreneur', text: 'Business/Entrepreneur (CEO, Founder, Business Owner)' },\n                        { value: 'Academic/Expert', text: 'Academic/Expert (Professor, Researcher, Scholar)' },\n                        { value: 'Professional', text: 'Professional (Doctor, Lawyer, Engineer, etc.)' },\n                        { value: 'Government/Politics', text: 'Government/Politics (Politicians, Officials, Activists)' },\n                        { value: 'Athletics', text: 'Competitive Sports (Athlete, Coach, Trainer)' },\n                        { value: 'Creative/Arts', text: 'Creative/Arts (Author, Artist, Designer)' },\n                        { value: 'Other', text: 'Other' }\n                    ]\n                },\n                {\n                    id: 'guest-location',\n                    question: 'Where is this guest based?',\n                    type: 'base',\n                    options: [\n                        { value: '', text: 'Select Location' },\n                        { value: 'United States', text: 'United States' },\n                        { value: 'International', text: 'International' },\n                        { value: 'Unsure', text: 'Unsure' }\n                    ]\n                },\n                {\n                    id: 'guest-age',\n                    question: 'What is this guest\\'s age group?',\n                    type: 'base',\n                    options: [\n                        { value: '', text: 'Select Age Range' },\n                        { value: 'Under 50', text: 'Under 50' },\n                        { value: '50 or above', text: '50 or above' },\n                        { value: 'Unsure', text: 'Unsure' }\n                    ]\n                },\n                {\n                    id: 'guest-gender',\n                    question: 'What is the guest\\'s gender?',\n                    type: 'demographic',\n                    options: [\n                        { value: '', text: 'Select Gender' },\n                        { value: 'Woman', text: 'Woman' },\n                        { value: 'Man', text: 'Man' },\n                        { value: 'Other', text: 'Other' }\n                    ]\n                },\n                {\n                    id: 'guest-race',\n                    question: 'What is the guest\\'s race?',\n                    type: 'demographic',\n                    options: [\n                        { value: '', text: 'Select Race' },\n                        { value: 'White', text: 'White' },\n                        { value: 'Asian', text: 'Asian' },\n                        { value: 'Black', text: 'Black' },\n                        { value: 'Latino', text: 'Latino' },\n                        { value: 'Other', text: 'Other' },\n                        { value: 'Unsure', text: 'Unsure' }\n                    ]\n                }\n            ];\n\n            // Separate questions by type\n            var baseQuestions = allQuestions.filter(q => q.type === 'base');\n            var demographicQuestions = allQuestions.filter(q => q.type === 'demographic');\n\n            // Function to shuffle array\n            function shuffleArray(array) {\n                for (let i = array.length - 1; i > 0; i--) {\n                    const j = Math.floor(Math.random() * (i + 1));\n                    [array[i], array[j]] = [array[j], array[i]];\n                }\n                return array;\n            }\n\n            var selectedQuestions;\n            if (!questionOrder) {\n                // If no stored order exists, create new randomization\n                if (condition === 'treatment') {\n                    // Randomly select 2 base questions\n                    var shuffledBase = shuffleArray([...baseQuestions]);\n                    var selectedBase = shuffledBase.slice(0, 2);\n\n                    // Combine with demographic questions and shuffle again\n                    selectedQuestions = shuffleArray([...selectedBase, ...demographicQuestions]);\n                } else {\n                    // Use all base questions but shuffle them\n                    selectedQuestions = shuffleArray([...baseQuestions]);\n                }\n\n                // Store the randomized order\n                Qualtrics.SurveyEngine.setEmbeddedData('question_order',\n                    JSON.stringify(selectedQuestions.map(q => q.id)));\n\n                // Store selected questions for summary calculations\n                Qualtrics.SurveyEngine.setEmbeddedData('selected_questions',\n                    JSON.stringify(selectedQuestions.map(q => q.id)));\n\n                console.log('New randomized questions:', selectedQuestions);\n            } else {\n                // Use existing stored order\n                var orderIds = JSON.parse(questionOrder);\n                var orderedQuestions = orderIds.map(id =>\n                    allQuestions.find(q => q.id === id)\n                );\n                console.log('Using stored question order:', orderedQuestions);\n\n                selectedQuestions = orderedQuestions;\n\n                // Ensure selected_questions is still stored\n                if (!Qualtrics.SurveyEngine.getEmbeddedData('selected_questions')) {\n                    Qualtrics.SurveyEngine.setEmbeddedData('selected_questions', questionOrder);\n                }\n            }\n\n            console.log('Selected questions:', selectedQuestions);\n            return selectedQuestions;\n\n        } catch (error) {\n            console.error('Error in initializeQuestionSetup:', error);\n            return [];\n        }\n    }\n\n    availableQuestions = initializeQuestionSetup();\n\n    // **5. Function to Format Dates**\n    function formatDate(dateString) {\n        try {\n            var date = new Date(dateString);\n            var options = { month: 'long', day: 'numeric', year: 'numeric' };\n            return date.toLocaleDateString(undefined, options);\n        } catch (e) {\n            console.error('Date formatting error:', e);\n            return dateString;\n        }\n    }\n\n    // **6. Display the Episode Data**\n    function displayEpisode(index) {\n        console.log('Displaying episode:', index + 1);\n        var episode = episodes[index];\n\n        try {\n            // Update episode information\n            document.getElementById('episode-title').textContent = episode.title || '';\n            document.getElementById('episode-date').textContent = formatDate(episode.published_at) || '';\n            \n            // Set display-interval content\n            var displayInterval = document.getElementById('display-interval');\n            if (displayInterval) {\n                var displayIntervalValue = Qualtrics.SurveyEngine.getEmbeddedData('display_interval') || '';\n                displayInterval.textContent = displayIntervalValue;\n                console.log('Set display-interval to:', displayIntervalValue);\n            } else {\n                console.warn('display-interval element not found.');\n            }\n\n            // Handle description\n            var shortDescEl = document.getElementById('episode-description-short');\n            var fullDescEl = document.getElementById('episode-description-full');\n            var fullDescTextEl = document.getElementById('episode-description-full-text');\n            var toggleLink = document.getElementById('toggle-description');\n\n            if (shortDescEl && fullDescEl && fullDescTextEl && episode.description) {\n                var words = episode.description.trim().split(/\\s+/);\n                if (words.length <= 100) {\n                    shortDescEl.textContent = episode.description;\n                    if (toggleLink) toggleLink.style.display = 'none';\n                    fullDescEl.style.display = 'none';\n                } else {\n                    var shortDesc = words.slice(0, 100).join(' ');\n                    shortDescEl.textContent = shortDesc + '...';\n                    fullDescTextEl.textContent = episode.description;\n                    if (toggleLink) {\n                        toggleLink.style.display = 'block';\n                        toggleLink.textContent = 'Click for more';\n                    }\n                    fullDescEl.style.display = 'none';\n                }\n            }\n\n            // Update classification form\n            var classificationForm = document.getElementById('classification-form');\n            if (classificationForm) {\n                classificationForm.innerHTML = generateFormHTML(availableQuestions);\n\n                // Retrieve stored response for the current episode\n                var storedResponse = Qualtrics.SurveyEngine.getEmbeddedData('response_' + currentEpisodeNumber);\n                var currentResponse = storedResponse ? JSON.parse(storedResponse) : null;\n\n                // If a response exists, populate the form fields\n                if (currentResponse) {\n                    availableQuestions.forEach(function(q) {\n                        var field = document.getElementById(q.id);\n                        if (field && currentResponse[q.id] && currentResponse[q.id] !== 'Not specified') {\n                            field.value = currentResponse[q.id];\n                            console.log('Restored value for', q.id + ':', currentResponse[q.id]);\n                        }\n                    });\n                }\n            }\n\n            // Update counters and states\n            updateEpisodeCounter();\n            updateButtonText();\n            // Navigation is handled by page transitions\n\n        } catch (e) {\n            console.error('Error in displayEpisode:', e);\n        }\n    }\n\n    // **7. Function to Generate Form HTML**\n    function generateFormHTML(questions) {\n        var questionsHtml = '';\n        var dropdownsHtml = '';\n\n        questions.forEach(function(q) {\n            questionsHtml += '<div style=\"margin-bottom: 25px; padding-top: 8px;\">' + q.question + '</div>';\n            dropdownsHtml += '<div class=\"form-group\" style=\"margin-bottom: 20px;\">';\n            dropdownsHtml += '<select id=\"' + q.id + '\" style=\"width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px; font-size: 14px; background-color: #f8f8f8;\">';\n            q.options.forEach(function(opt) {\n                dropdownsHtml += '<option value=\"' + opt.value + '\">' + opt.text + '</option>';\n            });\n            dropdownsHtml += '</select></div>';\n        });\n\n        return '<div style=\"display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: start;\">' +\n            '<div style=\"font-size: 14px;\">' + questionsHtml + '</div>' +\n            '<div>' + dropdownsHtml + '</div>' +\n            '</div>';\n    }\n\n    // **8. Update Episode Counter and Progress Bar**\n    function updateEpisodeCounter() {\n        // Update episode number\n        var currentEpisodeEl = document.getElementById('current-episode');\n        if (currentEpisodeEl) {\n            currentEpisodeEl.textContent = currentEpisodeNumber;\n        }\n        // Update progress bar\n        var progressBar = document.getElementById('progress-bar');\n        if (progressBar) {\n            var progress = (currentEpisodeNumber / episodes.length) * 95;\n            if (progress > 95) { progress = 95; }\n            progressBar.style.width = progress + '%';\n            console.log('Progress bar updated: ' + progress.toFixed(2) + '% (' + currentEpisodeNumber + '/' + episodes.length + ')');\n        }\n    }\n\n    // **9. Function to Update Next Button Text**\n    function updateButtonText() {\n        var nextButton = document.getElementById('next-button');\n        var stopButton = document.getElementById('stop-button');\n\n        if (nextButton) {\n            if (currentEpisodeNumber === totalEpisodes) {\n                nextButton.textContent = 'Proceed to overview';\n                if (stopButton) {\n                    stopButton.style.display = 'none';\n                }\n            } else {\n                nextButton.textContent = 'Classify next episode';\n                if (stopButton) {\n                    stopButton.style.display = 'block';\n                }\n            }\n        } else {\n            console.error('next-button not found');\n        }\n    }\n\n    // **10. Collect Responses Function**\n    function collectResponses() {\n        console.log('Collecting responses for episode:', currentEpisodeNumber);\n        var responseData = {\n            episodeNumber: currentEpisodeNumber,\n            episodeTitle: episodes[currentEpisodeIndex].title\n        };\n\n        var allQuestionIds = [\n            'guest-appeared-before',\n            'guest-profession',\n            'guest-location',\n            'guest-age',\n            'guest-gender',\n            'guest-race'\n        ];\n\n        allQuestionIds.forEach(function(questionId) {\n            var element = document.getElementById(questionId);\n            var value = '';\n            if (element) {\n                value = element.value || 'Not specified';\n            } else {\n                value = '';\n            }\n            responseData[questionId] = value;\n            var existingValues = Qualtrics.SurveyEngine.getEmbeddedData(questionId) || '';\n            var updatedValues = existingValues ? existingValues + ',' + value : value;\n            Qualtrics.SurveyEngine.setEmbeddedData(questionId, updatedValues);\n        });\n\n        Qualtrics.SurveyEngine.setEmbeddedData('response_' + currentEpisodeNumber, JSON.stringify(responseData));\n        Qualtrics.SurveyEngine.setEmbeddedData('currentEpisode', currentEpisodeNumber);\n        console.log('Stored response for episode ' + currentEpisodeNumber + ':', responseData);\n    }\n\n    // **11. Next Button Event Listener**\n    var nextButton = document.getElementById('next-button');\n    if (nextButton) {\n        nextButton.addEventListener('click', function() {\n            if (isSubmitting) {\n                console.log('Already submitting, ignoring additional click.');\n                return;\n            }\n            isSubmitting = true;\n            collectResponses();\n            aggregateResponsesAndCalculateStatistics();\n\n            if (currentEpisodeNumber >= totalEpisodes) {\n                console.log('Last episode completed');\n                Qualtrics.SurveyEngine.setEmbeddedData('flag', '1');\n                that.clickNextButton();\n            } else {\n                // Increment custom counter\n                currentEpisodeNumber++;\n                currentEpisodeIndex = currentEpisodeNumber - 1;\n                Qualtrics.SurveyEngine.setEmbeddedData('currentEpisode', currentEpisodeNumber);\n                that.clickNextButton();\n            }\n        });\n    }\n\n    // **12. Previous Button Event Listener**\n    var backButton = document.getElementById('back-button');\n    if (backButton) {\n        backButton.addEventListener('click', function() {\n            if (isSubmitting) {\n                console.log('Already submitting, ignoring additional click.');\n                return;\n            }\n            isSubmitting = true;\n            collectResponses();\n            // Decrement custom counter ensuring it does not go below 1\n            currentEpisodeNumber = Math.max(currentEpisodeNumber - 1, 1);\n            currentEpisodeIndex = currentEpisodeNumber - 1;\n            Qualtrics.SurveyEngine.setEmbeddedData('currentEpisode', currentEpisodeNumber);\n            console.log('Navigating to previous episode. Updated Current Episode Number:', currentEpisodeNumber);\n            that.clickPreviousButton();\n        });\n    }\n\n    // **13. Stop Button Event Listener**\n    var stopButton = document.getElementById('stop-button');\n    if (stopButton) {\n        stopButton.addEventListener('click', function() {\n            if (isSubmitting) {\n                console.log('Already submitting, ignoring additional click.');\n                return;\n            }\n            isSubmitting = true;\n            console.log('Stop button clicked');\n            collectResponses();\n            Qualtrics.SurveyEngine.setEmbeddedData('flag', '1');\n            aggregateResponsesAndCalculateStatistics();\n            that.clickNextButton();\n        });\n    }\n\n    // **14. Toggle Description Event Listener**\n    var toggleDescription = document.getElementById('toggle-description');\n    if (toggleDescription) {\n        toggleDescription.addEventListener('click', function(event) {\n            event.preventDefault();\n            var fullDesc = document.getElementById('episode-description-full');\n            var shortDesc = document.getElementById('episode-description-short');\n            if (fullDesc.style.display === 'none') {\n                fullDesc.style.display = 'block';\n                shortDesc.style.display = 'none';\n                this.textContent = 'Show less';\n            } else {\n                fullDesc.style.display = 'none';\n                shortDesc.style.display = 'block';\n                this.textContent = 'Click for more';\n            }\n        });\n    } else {\n        console.warn('toggle-description element not found');\n    }\n\n    // **15. Initialize the Page**\n    try {\n        console.log('Initializing page');\n        var condition = Qualtrics.SurveyEngine.getEmbeddedData('cond') || 'control';\n        if (!condition) {\n            console.warn('Condition not set, defaulting to control');\n            condition = 'control';\n        }\n        console.log('Current condition:', condition);\n        availableQuestions = initializeQuestionSetup();\n        console.log('Available questions:', availableQuestions);\n        displayEpisode(currentEpisodeIndex);\n        updateEpisodeCounter();\n        initializeTooltips();\n    } catch (e) {\n        console.error('Initialization error:', e);\n        alert('Error initializing page: ' + e.message);\n    }\n    \n    // **Function to Aggregate Responses and Calculate Statistics**\n    function aggregateResponsesAndCalculateStatistics() {\n        console.log('Aggregating responses and calculating statistics...');\n        var currentStoredEpisode = parseInt(Qualtrics.SurveyEngine.getEmbeddedData('currentEpisode')) || 1;\n        var responsesArray = [];\n        for (var i = 1; i <= currentStoredEpisode; i++) {\n            var storedResponse = Qualtrics.SurveyEngine.getEmbeddedData('response_' + i);\n            if (storedResponse) {\n                responsesArray.push(JSON.parse(storedResponse));\n            }\n        }\n        console.log('All collected responses:', responsesArray);\n        Qualtrics.SurveyEngine.setEmbeddedData('stored_responses', JSON.stringify(responsesArray));\n        if (calculateSummaryStatistics(responsesArray)) {\n            console.log('Statistics calculated successfully');\n            var formattedSummary = generateFormattedSummary(responsesArray);\n            Qualtrics.SurveyEngine.setEmbeddedData('formatted_summary', formattedSummary);\n            console.log('Updated formatted_summary embedded data.');\n        } else {\n            console.error('Failed to calculate statistics');\n        }\n    }\n    \n    function generateFormattedSummary(responses) {\n        var episodesCount = Qualtrics.SurveyEngine.getEmbeddedData('episodes_classified') || '0';\n        var podcastTitle = Qualtrics.SurveyEngine.getEmbeddedData('podcast_title') || 'Unknown Podcast';\n        var podcastID = Qualtrics.SurveyEngine.getEmbeddedData('podcastID') || '';\n        var summaryText = '<p>Here is a summary of the guests from the last ' + episodesCount +\n                          ' episodes of ' + podcastTitle + ':</p>\\n';\n        var summaryListItems = [];\n\n        function calculatePercentage(questionId, value) {\n            var answered = responses.filter(function(r) {\n                return r[questionId] && r[questionId] !== 'Not specified';\n            });\n            if (answered.length === 0) return null;\n            var matches = answered.filter(function(r) {\n                return r[questionId] === value;\n            }).length;\n            return Math.round((matches / answered.length) * 100);\n        }\n\n        function formatProfessions() {\n            var professionResponses = responses.filter(function(r) {\n                return r['guest-profession'] && r['guest-profession'] !== 'Not specified';\n            });\n            if (professionResponses.length === 0) return '';\n            var professionCounts = {};\n            professionResponses.forEach(function(r) {\n                var p = r['guest-profession'];\n                professionCounts[p] = (professionCounts[p] || 0) + 1;\n            });\n            var sorted = Object.entries(professionCounts).sort(function(a,b){return b[1]-a[1]});\n            var total = professionResponses.length;\n            var texts = [];\n            for (var i=0; i<Math.min(sorted.length,3); i++){\n                var profName = sorted[i][0];\n                var profCount = sorted[i][1];\n                var profPercent = Math.round((profCount / total)*100);\n                texts.push(profPercent + '% were from ' + profName);\n            }\n            if (sorted.length > 3) {\n                var otherCount = 0;\n                for (var j=3; j<sorted.length; j++){ \n                    otherCount += sorted[j][1]; \n                }\n                var otherPercent = Math.round((otherCount / total)*100);\n                texts.push(otherPercent + '% were from other professions');\n            }\n            return texts.join(', ');\n        }\n\n        var condition = Qualtrics.SurveyEngine.getEmbeddedData('cond') || 'control';\n        var questionOrderStr = Qualtrics.SurveyEngine.getEmbeddedData('question_order');\n        var selectedQuestions = questionOrderStr ? JSON.parse(questionOrderStr) : [];\n\n        if (condition === 'control') {\n            var repeatPercent = calculatePercentage('guest-appeared-before','Yes');\n            if (repeatPercent !== null) summaryListItems.push(repeatPercent + '% were repeat guests');\n            var professionText = formatProfessions();\n            if (professionText) summaryListItems.push(professionText);\n            var usPercent = calculatePercentage('guest-location','United States');\n            if (usPercent !== null) summaryListItems.push(usPercent + '% were from the United States');\n            var under50 = calculatePercentage('guest-age','Under 50');\n            if (under50 !== null) summaryListItems.push(under50 + '% were under 50 years old');\n        } else {\n            selectedQuestions.forEach(function(qid){\n                switch(qid) {\n                    case 'guest-appeared-before':\n                        var rp = calculatePercentage(qid,'Yes');\n                        if (rp !== null) summaryListItems.push(rp + '% were repeat guests');\n                        break;\n                    case 'guest-profession':\n                        var pText = formatProfessions();\n                        if (pText) summaryListItems.push(pText);\n                        break;\n                    case 'guest-location':\n                        var loc = calculatePercentage(qid,'United States');\n                        if (loc !== null) summaryListItems.push(loc + '% were from the United States');\n                        break;\n                    case 'guest-age':\n                        var age = calculatePercentage(qid,'Under 50');\n                        if (age !== null) summaryListItems.push(age + '% were under 50 years old');\n                        break;\n                    case 'guest-gender':\n                        var w = calculatePercentage(qid,'Woman');\n                        if (w !== null) summaryListItems.push(w + '% were women');\n                        break;\n                    case 'guest-race':\n                        var raceStrings = [];\n                        ['White','Asian','Black','Latino'].forEach(function(race){\n                            var raceVal = calculatePercentage(qid, race);\n                            if (raceVal !== null){\n                                raceStrings.push(raceVal + '% were ' + race.toLowerCase());\n                            }\n                        });\n                        if (raceStrings.length > 0) summaryListItems.push(raceStrings.join(', '));\n                        break;\n                }\n            });\n        }\n\n        if (summaryListItems.length > 0){\n            summaryText += '<ul style=\"margin-left: 20px;\">\\n';\n            summaryListItems.forEach(function(item){\n                summaryText += '<li style=\"margin-bottom:10px;\">' + item + '</li>\\n';\n            });\n            summaryText += '</ul>\\n\\n';\n        } else {\n            summaryText += '<p>No data available to display.</p>\\n';\n        }\n\n        summaryText += '<hr style=\"margin: 30px 0; border-top: 1px solid #ccc;\">\\n';\n        summaryText += '<div style=\"margin-top: 30px;\">\\n';\n        summaryText += '<h2 style=\"color: #000; margin-bottom: 20px; font-size: 18px; font-weight: bold;\">\\n';\n        summaryText += 'Let Wharton Podcast Analytics Help You Diversify Your Guest Lineup\\n';\n        summaryText += '</h2>\\n';\n        summaryText += '<p style=\"margin-bottom: 30px; font-size: 16px;\">\\n';\n        summaryText += 'Curated lists contain expert guests who can help you increase your show\u2019s representation of\u2026\\n';\n        summaryText += '</p>\\n';\n        summaryText += '<div style=\"display: flex; flex-wrap: wrap; gap: 20px;\">\\n';\n        summaryText += '<div style=\"flex: 1 1 calc(50% - 20px); display: flex; align-items: center; margin-bottom: 8px;\">\\n';\n        summaryText += '<img src=\"https://img.icons8.com/?size=100&id=ZwzI4PXONU0W&format=png&color=000000\" alt=\"Female Voices Icon\" style=\"width: 40px; height: 40px; margin-right: 15px;\">\\n';\n        summaryText += '<a href=\"https://wharton.qualtrics.com/jfe/form/SV_0GPL6YDOtCpbrKK?PODCAST_ID=' + encodeURIComponent(podcastID) + '&LIST=FEMALE\" target=\"_blank\" style=\"text-decoration: underline; font-size: 16px; color: #0066cc;\">\\n';\n        summaryText += 'Female voices\\n';\n        summaryText += '</a>\\n</div>\\n';\n        summaryText += '<div style=\"flex: 1 1 calc(50% - 20px); display: flex; align-items: center; margin-bottom: 8px;\">\\n';\n        summaryText += '<img src=\"https://img.icons8.com/?size=100&id=5s7R5DwJr50s&format=png&color=000000\" alt=\"Minority Voices Icon\" style=\"width: 40px; height: 40px; margin-right: 15px;\">\\n';\n        summaryText += '<a href=\"https://wharton.qualtrics.com/jfe/form/SV_0GPL6YDOtCpbrKK?PODCAST_ID=' + encodeURIComponent(podcastID) + '&LIST=URM\" target=\"_blank\" style=\"text-decoration: underline; font-size: 16px; color: #0066cc;\">\\n';\n        summaryText += 'Underrepresented minority voices\\n';\n        summaryText += '</a>\\n</div>\\n';\n        summaryText += '<div style=\"flex: 1 1 calc(50% - 20px); display: flex; align-items: center; margin-bottom: 8px;\">\\n';\n        summaryText += '<img src=\"https://img.icons8.com/?size=100&id=31757&format=png&color=000000\" alt=\"International Voices Icon\" style=\"width: 40px; height: 40px; margin-right: 15px;\">\\n';\n        summaryText += '<a href=\"https://wharton.qualtrics.com/jfe/form/SV_0GPL6YDOtCpbrKK?PODCAST_ID=' + encodeURIComponent(podcastID) + '&LIST=INTER\" target=\"_blank\" style=\"text-decoration: underline; font-size: 16px; color: #0066cc;\">\\n';\n        summaryText += 'International voices\\n';\n        summaryText += '</a>\\n</div>\\n';\n        summaryText += '<div style=\"flex: 1 1 calc(50% - 20px); display: flex; align-items: center; margin-bottom: 8px;\">\\n';\n        summaryText += '<img src=\"https://img.icons8.com/?size=100&id=11270&format=png&color=000000\" alt=\"Entrepreneurs Icon\" style=\"width: 40px; height: 40px; margin-right: 15px;\">\\n';\n        summaryText += '<a href=\"https://wharton.qualtrics.com/jfe/form/SV_0GPL6YDOtCpbrKK?PODCAST_ID=' + encodeURIComponent(podcastID) + '&LIST=BUS\" target=\"_blank\" style=\"text-decoration: underline; font-size: 16px; color: #0066cc;\">\\n';\n        summaryText += 'Entrepreneurs and business leaders\\n';\n        summaryText += '</a>\\n</div>\\n';\n        summaryText += '<div style=\"flex: 1 1 calc(50% - 20px); display: flex; align-items: center; margin-bottom: 8px;\">\\n';\n        summaryText += '<img src=\"https://img.icons8.com/?size=100&id=HvGeRWevmI34&format=png&color=000000\" alt=\"Media Professionals Icon\" style=\"width: 40px; height: 40px; margin-right: 15px;\">\\n';\n        summaryText += '<a href=\"https://wharton.qualtrics.com/jfe/form/SV_0GPL6YDOtCpbrKK?PODCAST_ID=' + encodeURIComponent(podcastID) + '&LIST=MEDIA\" target=\"_blank\" style=\"text-decoration: underline; font-size: 16px; color: #0066cc;\">\\n';\n        summaryText += 'Media professionals\\n';\n        summaryText += '</a>\\n</div>\\n';\n        summaryText += '<div style=\"flex: 1 1 calc(50% - 20px); display: flex; align-items: center; margin-bottom: 8px;\">\\n';\n        summaryText += '<img src=\"https://img.icons8.com/?size=100&id=41414&format=png&color=000000\" alt=\"Authors and Writers Icon\" style=\"width: 40px; height: 40px; margin-right: 15px;\">\\n';\n        summaryText += '<a href=\"https://wharton.qualtrics.com/jfe/form/SV_0GPL6YDOtCpbrKK?PODCAST_ID=' + encodeURIComponent(podcastID) + '&LIST=AUTHORS\" target=\"_blank\" style=\"text-decoration: underline; font-size: 16px; color: #0066cc;\">\\n';\n        summaryText += 'Authors and writers\\n';\n        summaryText += '</a>\\n</div>\\n';\n        summaryText += '</div>\\n</div>\\n';\n        return summaryText;\n    }\n\n    // **19. Function to Calculate Summary Statistics**\n    function calculateSummaryStatistics(responses) {\n        try {\n            var validResponses = responses.filter(function(r) {\n                if (!r) return false;\n                return Object.keys(r).some(function(key) {\n                    return key !== 'episodeNumber' &&\n                           key !== 'episodeTitle' &&\n                           r[key] &&\n                           r[key] !== 'Not specified' &&\n                           r[key] !== '';\n                });\n            });\n\n            var total = validResponses.length;\n            console.log('Total episodes with valid responses:', total);\n            Qualtrics.SurveyEngine.setEmbeddedData('episodes_classified', total);\n            console.log('Set episodes_classified:', total);\n\n            if (total === 0) {\n                console.log('No valid responses, setting defaults');\n                setDefaultValues();\n                return true;\n            }\n\n            function getValidResponseCount(questionId) {\n                return validResponses.filter(function(r) {\n                    return r[questionId] && r[questionId] !== 'Not specified' && r[questionId] !== '';\n                }).length;\n            }\n\n            function calculatePercentage(questionId, value) {\n                var answeredResponses = validResponses.filter(function(r) {\n                    return r[questionId] && r[questionId] !== 'Not specified';\n                });\n                if (answeredResponses.length === 0) return null;\n                var matchingCount = answeredResponses.filter(function(r) {\n                    return r[questionId] === value;\n                }).length;\n                return Math.round((matchingCount / answeredResponses.length) * 100);\n            }\n\n            var condition = Qualtrics.SurveyEngine.getEmbeddedData('cond') || 'control';\n            var questionOrder = Qualtrics.SurveyEngine.getEmbeddedData('question_order');\n            var selectedQuestions = questionOrder ? JSON.parse(questionOrder) : [];\n            console.log('Processing statistics for condition:', condition);\n            console.log('Selected questions:', selectedQuestions);\n\n            if (condition === 'control') {\n                var repeatCount = getValidResponseCount('guest-appeared-before');\n                if (repeatCount > 0) {\n                    var repeatPercent = calculatePercentage('guest-appeared-before', 'Yes');\n                    Qualtrics.SurveyEngine.setEmbeddedData('repeat_guests_percent', repeatPercent);\n                    console.log('Set repeat_guests_percent:', repeatPercent);\n                }\n                var professionCount = getValidResponseCount('guest-profession');\n                if (professionCount > 0) {\n                    var professionCounts = {};\n                    validResponses.forEach(function(r) {\n                        if (r['guest-profession'] && r['guest-profession'] !== 'Not specified') {\n                            professionCounts[r['guest-profession']] = (professionCounts[r['guest-profession']] || 0) + 1;\n                        }\n                    });\n                    var sortedProfessions = [];\n                    for (var prof in professionCounts) {\n                        sortedProfessions.push([prof, professionCounts[prof]]);\n                    }\n                    sortedProfessions.sort(function(a, b) { return b[1] - a[1]; });\n                    Qualtrics.SurveyEngine.setEmbeddedData('unique_profession_count', sortedProfessions.length);\n                    for (var i = 0; i < Math.min(sortedProfessions.length, 3); i++) {\n                        var profName = sortedProfessions[i][0];\n                        var profCount = sortedProfessions[i][1];\n                        var profPercent = Math.round((profCount / professionCount) * 100);\n                        Qualtrics.SurveyEngine.setEmbeddedData('top_profession' + (i + 1) + '_name', profName);\n                        Qualtrics.SurveyEngine.setEmbeddedData('top_profession' + (i + 1) + '_percent', profPercent);\n                        console.log('Set profession ' + (i + 1) + ':', profName, profPercent);\n                    }\n                    if (sortedProfessions.length > 3) {\n                        var otherCount = 0;\n                        for (var j = 3; j < sortedProfessions.length; j++) {\n                            otherCount += sortedProfessions[j][1];\n                        }\n                        var otherPercent = Math.round((otherCount / professionCount) * 100);\n                        Qualtrics.SurveyEngine.setEmbeddedData('profession_other_percent', otherPercent);\n                        console.log('Set profession_other_percent:', otherPercent);\n                    }\n                }\n                var locationCount = getValidResponseCount('guest-location');\n                if (locationCount > 0) {\n                    var usPercent = calculatePercentage('guest-location', 'United States');\n                    Qualtrics.SurveyEngine.setEmbeddedData('location_us_percent', usPercent);\n                    console.log('Set location_us_percent:', usPercent);\n                }\n                var ageCount = getValidResponseCount('guest-age');\n                if (ageCount > 0) {\n                    var under50Percent = calculatePercentage('guest-age', 'Under 50');\n                    Qualtrics.SurveyEngine.setEmbeddedData('age_under_50_percent', under50Percent);\n                    console.log('Set age_under_50_percent:', under50Percent);\n                }\n            } else {\n                for (var k = 0; k < selectedQuestions.length; k++) {\n                    var questionId = selectedQuestions[k];\n                    var validCount = getValidResponseCount(questionId);\n                    if (validCount === 0) continue;\n                    switch(questionId) {\n                        case 'guest-appeared-before':\n                            var repeatPercent = calculatePercentage(questionId, 'Yes');\n                            Qualtrics.SurveyEngine.setEmbeddedData('repeat_guests_percent', repeatPercent);\n                            console.log('Set repeat_guests_percent:', repeatPercent);\n                            break;\n                        case 'guest-profession':\n                            var profCounts = {};\n                            validResponses.forEach(function(r) {\n                                if (r[questionId] && r[questionId] !== 'Not specified') {\n                                    profCounts[r[questionId]] = (profCounts[r[questionId]] || 0) + 1;\n                                }\n                            });\n                            var sortedProfs = [];\n                            for (var p in profCounts) {\n                                sortedProfs.push([p, profCounts[p]]);\n                            }\n                            sortedProfs.sort(function(a, b) { return b[1] - a[1]; });\n                            Qualtrics.SurveyEngine.setEmbeddedData('unique_profession_count', sortedProfs.length);\n                            for (var m = 0; m < Math.min(sortedProfs.length, 3); m++) {\n                                var pName = sortedProfs[m][0];\n                                var pCount = sortedProfs[m][1];\n                                var pPercent = Math.round((pCount / validCount) * 100);\n                                Qualtrics.SurveyEngine.setEmbeddedData('top_profession' + (m + 1) + '_name', pName);\n                                Qualtrics.SurveyEngine.setEmbeddedData('top_profession' + (m + 1) + '_percent', pPercent);\n                                console.log('Set profession ' + (m + 1) + ':', pName, pPercent);\n                            }\n                            if (sortedProfs.length > 3) {\n                                var pOtherCount = 0;\n                                for (var n = 3; n < sortedProfs.length; n++) {\n                                    pOtherCount += sortedProfs[n][1];\n                                }\n                                var pOtherPercent = Math.round((pOtherCount / validCount) * 100);\n                                Qualtrics.SurveyEngine.setEmbeddedData('profession_other_percent', pOtherPercent);\n                                console.log('Set profession_other_percent:', pOtherPercent);\n                            }\n                            break;\n                        case 'guest-location':\n                            var usPercent = calculatePercentage(questionId, 'United States');\n                            Qualtrics.SurveyEngine.setEmbeddedData('location_us_percent', usPercent);\n                            console.log('Set location_us_percent:', usPercent);\n                            break;\n                        case 'guest-age':\n                            var under50Percent = calculatePercentage(questionId, 'Under 50');\n                            Qualtrics.SurveyEngine.setEmbeddedData('age_under_50_percent', under50Percent);\n                            console.log('Set age_under_50_percent:', under50Percent);\n                            break;\n                        case 'guest-gender':\n                            var womenPercent = calculatePercentage(questionId, 'Woman');\n                            Qualtrics.SurveyEngine.setEmbeddedData('gender_woman_percent', womenPercent);\n                            console.log('Set gender_woman_percent:', womenPercent);\n                            break;\n                        case 'guest-race':\n                            var races = ['White', 'Asian', 'Black', 'Latino'];\n                            for (var r = 0; r < races.length; r++) {\n                                var racePercent = calculatePercentage(questionId, races[r]);\n                                Qualtrics.SurveyEngine.setEmbeddedData('race_' + races[r].toLowerCase() + '_percent', racePercent);\n                                console.log('Set race_' + races[r].toLowerCase() + '_percent:', racePercent);\n                            }\n                            break;\n                    }\n                }\n            }\n            console.log('Final statistics set. Checking values...');\n            logStoredValues();\n            return true;\n        } catch (error) {\n            console.error('Error calculating statistics:', error);\n            setDefaultValues();\n            return false;\n        }\n    }\n\n    // Helper function to set default values\n    function setDefaultValues() {\n        try {\n            Qualtrics.SurveyEngine.setEmbeddedData('episodes_classified', 0);\n            Qualtrics.SurveyEngine.setEmbeddedData('repeat_guests_percent', 0);\n            Qualtrics.SurveyEngine.setEmbeddedData('unique_profession_count', 0);\n            Qualtrics.SurveyEngine.setEmbeddedData('location_us_percent', 0);\n            Qualtrics.SurveyEngine.setEmbeddedData('age_under_50_percent', 0);\n            for (var i = 1; i <= 3; i++) {\n                Qualtrics.SurveyEngine.setEmbeddedData('top_profession' + i + '_name', '');\n                Qualtrics.SurveyEngine.setEmbeddedData('top_profession' + i + '_percent', 0);\n            }\n            Qualtrics.SurveyEngine.setEmbeddedData('profession_other_percent', 0);\n            if (Qualtrics.SurveyEngine.getEmbeddedData('cond') === 'treatment') {\n                Qualtrics.SurveyEngine.setEmbeddedData('gender_woman_percent', 0);\n                var races = ['white', 'asian', 'black', 'latino'];\n                for (var j = 0; j < races.length; j++) {\n                    Qualtrics.SurveyEngine.setEmbeddedData('race_' + races[j] + '_percent', 0);\n                }\n            }\n            console.log('Default values set');\n            return true;\n        } catch (error) {\n            console.error('Error setting default values:', error);\n            return false;\n        }\n    }\n\n    // Helper function to log stored values\n    function logStoredValues() {\n        console.group('Verifying stored data:');\n        console.log('episodes_classified:', Qualtrics.SurveyEngine.getEmbeddedData('episodes_classified'));\n        console.log('repeat_guests_percent:', Qualtrics.SurveyEngine.getEmbeddedData('repeat_guests_percent'));\n        console.log('unique_profession_count:', Qualtrics.SurveyEngine.getEmbeddedData('unique_profession_count'));\n        for (var i = 1; i <= 3; i++) {\n            console.log('top_profession' + i + '_name:', Qualtrics.SurveyEngine.getEmbeddedData('top_profession' + i + '_name'));\n            console.log('top_profession' + i + '_percent:', Qualtrics.SurveyEngine.getEmbeddedData('top_profession' + i + '_percent'));\n        }\n        console.log('profession_other_percent:', Qualtrics.SurveyEngine.getEmbeddedData('profession_other_percent'));\n        console.log('location_us_percent:', Qualtrics.SurveyEngine.getEmbeddedData('location_us_percent'));\n        console.log('age_under_50_percent:', Qualtrics.SurveyEngine.getEmbeddedData('age_under_50_percent'));\n        if (Qualtrics.SurveyEngine.getEmbeddedData('cond') === 'treatment') {\n            console.log('gender_woman_percent:', Qualtrics.SurveyEngine.getEmbeddedData('gender_woman_percent'));\n            var races = ['white', 'asian', 'black', 'latino'];\n            for (var j = 0; j < races.length; j++) {\n                console.log('race_' + races[j] + '_percent:', Qualtrics.SurveyEngine.getEmbeddedData('race_' + races[j] + '_percent'));\n            }\n        }\n        console.groupEnd();\n    }\n\n    // **20. Function to Save Responses and Proceed to Next Page**\n    function saveResponsesAndProceed() {\n        console.log('Saving responses and calculating statistics');\n        var currentResponse = collectResponses();\n        sendDataToServer(currentResponse);\n        Qualtrics.SurveyEngine.setEmbeddedData('last_episode_index', currentEpisodeIndex);\n        Qualtrics.SurveyEngine.setEmbeddedData('stored_responses', JSON.stringify(responses));\n        console.log('Stored responses:', responses);\n        if (calculateSummaryStatistics()) {\n            console.log('Navigating to the next page');\n            that.clickNextButton();\n        } else {\n            console.error('Failed to calculate statistics');\n            alert('There was an error saving your responses. Please try again.');\n            isSubmitting = false;\n        }\n    }\n\n    // **21. Function to Initialize Tooltips**\n    function initializeTooltips() {\n        var nextButton = document.getElementById('next-button');\n        var stopButton = document.getElementById('stop-button');\n        if (nextButton) nextButton.title = 'Advance to next episode';\n        if (stopButton) stopButton.title = 'Stop and review responses';\n    }\n\n    // **22. Function to Add Input Change Listeners**\n    function addInputChangeListeners() {\n        availableQuestions.forEach(function(q) {\n            var element = document.getElementById(q.id);\n            if (element) {\n                element.addEventListener('change', function() {\n                    collectResponses();\n                });\n            }\n        });\n    }\n\n    // **23. Initialize the Page**\n    try {\n        console.log('Initializing page');\n        var condition = Qualtrics.SurveyEngine.getEmbeddedData('cond');\n        if (!condition) {\n            console.warn('Condition not set, defaulting to control');\n            condition = 'control';\n        }\n        console.log('Current condition:', condition);\n        availableQuestions = initializeQuestionSetup();\n        console.log('Available questions:', availableQuestions);\n        displayEpisode(currentEpisodeIndex);\n        updateEpisodeCounter();\n        initializeTooltips();\n    } catch (e) {\n        console.error('Initialization error:', e);\n        alert('Error initializing page: ' + e.message);\n    }\n});",
+      "DisplayLogic": {
+        "0": {
+          "0": {
+            "Description": "<span class=\"ConjDesc\">If</span> <span class=\"LeftOpDesc\">flag</span> <span class=\"OpDesc\">Is Not Equal to</span> <span class=\"RightOpDesc\"> 1 </span>",
+            "LeftOperand": "flag",
+            "LogicType": "EmbeddedField",
+            "Operator": "NotEqualTo",
+            "RightOperand": "1",
+            "Type": "Expression"
+          },
+          "1": {
+            "Conjuction": "And",
+            "Description": "<span class=\"ConjDesc\">And</span> <span class=\"LeftOpDesc\">end</span> <span class=\"OpDesc\">Is Not Equal to</span> <span class=\"RightOpDesc\"> 1 </span>",
+            "LeftOperand": "end",
+            "LogicType": "EmbeddedField",
+            "Operator": "NotEqualTo",
+            "RightOperand": "1",
+            "Type": "Expression"
+          },
+          "Type": "If"
+        },
+        "Type": "BooleanExpression",
+        "inPage": false
+      },
+      "QuestionText_Unsafe": "<div id=\"episode-container\" style=\"font-family: Arial, sans-serif; line-height: 1.6; max-width: 1200px; margin: 0 auto; padding: 20px; font-size: 14px;\">\n  <h2 style=\"color: #333; margin-bottom: 20px; font-size: 16px; font-weight: normal;\">\n    <span id=\"display-interval\"></span>\u2013Please Review This Episode:\n    <span style=\"float: right; color: #999; font-size: 14px;\">Episode <span id=\"current-episode\"></span></span>\n  </h2>\n\n  <div style=\"background: #f9f9f9; padding: 20px; border-radius: 5px; margin-bottom: 30px;\">\n    <div style=\"margin-bottom: 15px;\">\n      <span style=\"font-size: 14px;\">Episode Title:</span>\n      <span id=\"episode-title\" style=\"margin-left: 10px; font-size: 14px; font-weight: bold;\"></span>\n    </div>\n\n    <div style=\"margin-bottom: 15px;\">\n      <span style=\"font-size: 14px;\">Episode Date:</span>\n      <span id=\"episode-date\" style=\"margin-left: 10px; font-size: 14px;\"></span>\n    </div>\n\n    <div style=\"margin-bottom: 15px;\">\n      <span style=\"font-size: 14px;\">Episode Description:</span>\n      <div id=\"episode-description-short\" style=\"margin-top: 10px; font-size: 14px;\"></div>\n      <a href=\"#\" id=\"toggle-description\" style=\"color: #0066cc; text-decoration: none; display: none; margin-top: 10px; font-size: 14px;\">Click for more</a>\n      <div id=\"episode-description-full\" style=\"display: none; margin-top: 10px;\">\n        <span id=\"episode-description-full-text\" style=\"font-size: 14px;\"></span>\n      </div>\n    </div>\n  </div>\n\n  <p style=\"margin-bottom: 20px; font-size: 14px;\">\n    If this episode featured multiple guests, please select one primary guest to classify.\n  </p>\n\n  \n  <div id=\"classification-form\" style=\"background: #fff; padding: 20px; border: 1px solid #ddd; border-radius: 5px;\"></div>\n\n  \n  <p style=\"text-align: center; font-size: 14px; color: #555; margin-top: 10px;\">\n    (if there are no guests to classify, please continue to next episode)\n  </p>\n\n  <div style=\"margin-top: 30px; display: flex; flex-direction: column; gap: 15px; max-width: 500px; margin-left: auto; margin-right: auto;\">\n    <div style=\"display: flex; justify-content: space-between; gap: 15px;\">\n      <button id=\"back-button\" style=\"padding: 10px 20px; background-color: #6c757d; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 14px; flex: 1; white-space: nowrap;\" type=\"button\">\n        Previous Episode\n      </button>\n      <button id=\"next-button\" style=\"padding: 10px 20px; background-color: #0066cc; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 14px; flex: 1; white-space: nowrap;\" type=\"button\">\n        Classify next episode\n      </button>\n    </div>\n\n    <div>\n      <button id=\"stop-button\" style=\"padding: 10px 20px; background-color: #495057; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 14px; width: 100%; white-space: nowrap;\" type=\"button\">\n        Review episodes classified so far\n      </button>\n    </div>\n  </div>\n\n  <div style=\"margin-top: 40px; padding: 20px 0; max-width: 500px; margin-left: auto; margin-right: auto;\">\n    <div style=\"width: 100%; background-color: #e9ecef; height: 8px; border-radius: 4px; overflow: hidden;\">\n      <div id=\"progress-bar\" style=\"width: 0%; height: 100%; background-color: #0d6efd; transition: width 0.3s ease;\"></div>\n    </div>\n    <div style=\"text-align: center; margin-top: 8px; color: #666; font-size: 12px;\">\n      Progress\n    </div>\n  </div>\n</div>\n"
+    },
+    "QID5": {
+      "QuestionText": "<div id=\"full-container\" style=\"font-family: Arial, sans-serif; line-height: 1.6; max-width: 1400px; margin: 0 auto; padding: 20px; font-size: 16px;\">\n    \n    <div id=\"summary-content\">\n        \n    </div>\n\n    <hr style=\"margin: 40px 0; border-top: 1px solid #ccc;\">\n\n    \n    <div id=\"guest-recommendations\" style=\"margin-top: 30px; display: none;\">\n        <h2 style=\"color: #000; margin-bottom: 20px; font-size: 18px; font-weight: bold;\">\n            Let Wharton Podcast Analytics Help You Diversify Your Guest Lineup\n        </h2>\n        <p style=\"margin-bottom: 30px; font-size: 16px;\">\n            Curated lists contain expert guests who can help you increase your show\u2019s representation of\u2026\n        </p>\n\n        \n        <div style=\"display: flex; flex-wrap: wrap; gap: 20px;\">\n            \n            <div class=\"list-item\" style=\"flex: 1 1 calc(50% - 20px); display: flex; align-items: center;\">\n                <img src=\"https://img.icons8.com/?size=100&id=ZwzI4PXONU0W&format=png&color=000000\" alt=\"Female Voices Icon\" style=\"width: 40px; height: 40px; margin-right: 15px;\">\n                <a href=\"https://wharton.qualtrics.com/jfe/form/SV_0GPL6YDOtCpbrKK\" target=\"_blank\" class=\"list-link\" data-list-name=\"Female Voices\" data-list-value=\"FEMALE\" style=\"text-decoration: underline; font-size: 16px; color: #0066cc;\">\n                    Female voices\n                </a>\n            </div>\n\n            \n            <div class=\"list-item\" style=\"flex: 1 1 calc(50% - 20px); display: flex; align-items: center;\">\n                <img src=\"https://img.icons8.com/?size=100&id=5s7R5DwJr50s&format=png&color=000000\" alt=\"Underrepresented Minority Voices Icon\" style=\"width: 40px; height: 40px; margin-right: 15px;\">\n                <a href=\"https://wharton.qualtrics.com/jfe/form/SV_0GPL6YDOtCpbrKK\" target=\"_blank\" class=\"list-link\" data-list-name=\"Underrepresented Minority Voices\" data-list-value=\"URM\" style=\"text-decoration: underline; font-size: 16px; color: #0066cc;\">\n                    Underrepresented minority voices\n                </a>\n            </div>\n\n            \n            <div class=\"list-item\" style=\"flex: 1 1 calc(50% - 20px); display: flex; align-items: center;\">\n                <img src=\"https://img.icons8.com/?size=100&id=31757&format=png&color=000000\" alt=\"International Voices Icon\" style=\"width: 40px; height: 40px; margin-right: 15px;\">\n                <a href=\"https://wharton.qualtrics.com/jfe/form/SV_0GPL6YDOtCpbrKK\" target=\"_blank\" class=\"list-link\" data-list-name=\"International Voices\" data-list-value=\"INTER\" style=\"text-decoration: underline; font-size: 16px; color: #0066cc;\">\n                    International voices\n                </a>\n            </div>\n\n            \n            <div class=\"list-item\" style=\"flex: 1 1 calc(50% - 20px); display: flex; align-items: center;\">\n                <img src=\"https://img.icons8.com/?size=100&id=11270&format=png&color=000000\" alt=\"Entrepreneurs Icon\" style=\"width: 40px; height: 40px; margin-right: 15px;\">\n                <a href=\"https://wharton.qualtrics.com/jfe/form/SV_0GPL6YDOtCpbrKK\" target=\"_blank\" class=\"list-link\" data-list-name=\"Entrepreneurs and Business Leaders\" data-list-value=\"BUS\" style=\"text-decoration: underline; font-size: 16px; color: #0066cc;\">\n                    Entrepreneurs and business leaders\n                </a>\n            </div>\n\n            \n            <div class=\"list-item\" style=\"flex: 1 1 calc(50% - 20px); display: flex; align-items: center;\">\n                <img src=\"https://img.icons8.com/?size=100&id=HvGeRWevmI34&format=png&color=000000\" alt=\"Media Professionals Icon\" style=\"width: 40px; height: 40px; margin-right: 15px;\">\n                <a href=\"https://wharton.qualtrics.com/jfe/form/SV_0GPL6YDOtCpbrKK\" target=\"_blank\" class=\"list-link\" data-list-name=\"Media Professionals\" data-list-value=\"MEDIA\" style=\"text-decoration: underline; font-size: 16px; color: #0066cc;\">\n                    Media professionals\n                </a>\n            </div>\n\n            \n            <div class=\"list-item\" style=\"flex: 1 1 calc(50% - 20px); display: flex; align-items: center;\">\n                <img src=\"https://img.icons8.com/?size=100&id=41414&format=png&color=000000\" alt=\"Authors and Writers Icon\" style=\"width: 40px; height: 40px; margin-right: 15px;\">\n                <a href=\"https://wharton.qualtrics.com/jfe/form/SV_0GPL6YDOtCpbrKK\" target=\"_blank\" class=\"list-link\" data-list-name=\"Authors and Writers\" data-list-value=\"AUTHORS\" style=\"text-decoration: underline; font-size: 16px; color: #0066cc;\">\n                    Authors and writers\n                </a>\n            </div>\n        </div>\n    </div>\n\n    \n    <div style=\"margin-top: 40px; text-align: center; display: flex; justify-content: center; gap: 15px;\">\n        <button type=\"button\" id=\"classify-more-button\" style=\"\n            padding: 12px 24px;\n            background-color: #0d6efd;\n            color: white;\n            border: none;\n            border-radius: 6px;\n            cursor: pointer;\n            font-size: 14px;\n            flex: 1;\n            max-width: 250px;\n            white-space: nowrap;\n            box-shadow: 0 2px 4px rgba(0,0,0,0.1);\n            transition: all 0.2s ease;\">\n            Classify More Guests\n        </button>\n        <button type=\"button\" id=\"email-report-button\" style=\"\n            padding: 12px 24px;\n            background-color: #28a745;\n            color: white;\n            border: none;\n            border-radius: 6px;\n            cursor: pointer;\n            font-size: 14px;\n            flex: 1;\n            max-width: 350px;\n            white-space: nowrap;\n            box-shadow: 0 2px 4px rgba(0,0,0,0.1);\n            transition: all 0.2s ease;\">\n            Email Myself a Copy of This Report\n        </button>\n        <button type=\"button\" id=\"finish-button\" style=\"\n            padding: 12px 24px;\n            background-color: #6c757d;\n            color: white;\n            border: none;\n            border-radius: 6px;\n            cursor: pointer;\n            font-size: 14px;\n            flex: 1;\n            max-width: 250px;\n            white-space: nowrap;\n            box-shadow: 0 2px 4px rgba(0,0,0,0.1);\n            transition: all 0.2s ease;\">\n            Finish\n        </button>\n    </div>\n</div>",
+      "DefaultChoices": false,
+      "DataExportTag": "Q5",
+      "QuestionID": "QID5",
+      "QuestionType": "DB",
+      "Selector": "TB",
+      "DataVisibility": {
+        "Private": false,
+        "Hidden": false
+      },
+      "Configuration": {
+        "QuestionDescriptionOption": "UseText"
+      },
+      "QuestionDescription": "Let Wharton Podcast Analytics Help You Diversify Your Guest Lineup Curated lists contain expert g...",
+      "ChoiceOrder": [],
+      "Validation": {
+        "Settings": {
+          "Type": "None"
+        }
+      },
+      "GradingData": [],
+      "Language": [],
+      "NextChoiceId": 4,
+      "NextAnswerId": 1,
+      "QuestionJS": "Qualtrics.SurveyEngine.addOnload(function() {\n    var qThis = this; // Reference to the Qualtrics question\n\n    console.log('Starting script initialization...');\n    Qualtrics.SurveyEngine.setEmbeddedData('has_viewed_summary', 'true');\n\n    // Hide Next and Previous buttons\n    jQuery(\"#NextButton\").hide();\n    jQuery(\"#PreviousButton\").hide();\n\n    // Add CSS to ensure they stay hidden\n    var style = document.createElement('style');\n    style.textContent = '#NextButton, #PreviousButton { display: none !important; }';\n    document.head.appendChild(style);\n\n    // Function to get URL parameters\n    function getParameterByName(name, url) {\n        if (!url) url = window.location.href;\n        name = name.replace(/[$$$$]/g, '\\\\$&'); // Escape special characters\n        var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)');\n        var results = regex.exec(url);\n        if (!results) return null;\n        if (!results[2]) return '';\n        return decodeURIComponent(results[2].replace(/\\+/g, ' '));\n    }\n\n    // Retrieve 'LIST' from URL parameters (if needed)\n    var listParam = getParameterByName('LIST') || '';\n    Qualtrics.SurveyEngine.setEmbeddedData('list', listParam.toUpperCase());\n\n    // Retrieve 'podcastID' from Embedded Data\n    var podcastID = Qualtrics.SurveyEngine.getEmbeddedData('podcastID') || '';\n    console.log('Retrieved podcastID on Page 2:', podcastID);\n\n    // Function to log click events\n    function logClickEvent(listName, listValue) {\n        console.log('Logging click event for list:', listName);\n        // Store the clicked list and timestamp in Embedded Data\n        Qualtrics.SurveyEngine.setEmbeddedData('clicked_list', listName);\n        Qualtrics.SurveyEngine.setEmbeddedData('clicked_list_value', listValue);\n        Qualtrics.SurveyEngine.setEmbeddedData('click_timestamp', new Date().toISOString());\n    }\n\n    // Function to log all embedded data values (for debugging)\n    function logEmbeddedData() {\n        console.group('Embedded Data Values');\n\n        // Basic data\n        console.log('podcastID:', Qualtrics.SurveyEngine.getEmbeddedData('podcastID'));\n        console.log('list:', Qualtrics.SurveyEngine.getEmbeddedData('list'));\n        console.log('has_viewed_summary:', Qualtrics.SurveyEngine.getEmbeddedData('has_viewed_summary'));\n\n        // Additional embedded data fields\n        console.log('clicked_list:', Qualtrics.SurveyEngine.getEmbeddedData('clicked_list'));\n        console.log('clicked_list_value:', Qualtrics.SurveyEngine.getEmbeddedData('clicked_list_value'));\n        console.log('click_timestamp:', Qualtrics.SurveyEngine.getEmbeddedData('click_timestamp'));\n        console.log('flag:', Qualtrics.SurveyEngine.getEmbeddedData('flag'));\n        console.log('end:', Qualtrics.SurveyEngine.getEmbeddedData('end'));\n        console.log('additional_emails:', Qualtrics.SurveyEngine.getEmbeddedData('additional_emails'));\n        console.log('formatted_summary:', Qualtrics.SurveyEngine.getEmbeddedData('formatted_summary'));\n\n        console.groupEnd();\n    }\n\n    // Ensure event listeners are added when the page is ready\n    Qualtrics.SurveyEngine.addOnReady(function() {\n        // Adjust the links immediately\n        var listLinks = document.querySelectorAll('.list-link');\n        listLinks.forEach(function(link) {\n            var listValue = link.getAttribute('data-list-value') || '';\n            var baseUrl = link.getAttribute('href').split('?')[0]; // Ensure base URL\n            var newHref = baseUrl\n                + '?PODCAST_ID=' + encodeURIComponent(podcastID)\n                + '&LIST=' + encodeURIComponent(listValue);\n\n            link.setAttribute('href', newHref);\n            console.log('Updated link href for ' + listValue + ': ' + newHref);\n        });\n\n        // Set up click event listeners to log clicks\n        listLinks.forEach(function(link) {\n            link.addEventListener('click', function(event) {\n                var listName = link.getAttribute('data-list-name');\n                var listValue = link.getAttribute('data-list-value');\n                logClickEvent(listName, listValue);\n                // No need to adjust href here\n            });\n        });\n\n        // Conditional display based on the 'LIST' Embedded Data (if needed)\n        var listParam = Qualtrics.SurveyEngine.getEmbeddedData('list') || '';\n        var contentSections = document.querySelectorAll('.content-section');\n        contentSections.forEach(function(section) {\n            var sectionList = section.getAttribute('data-list');\n            if (sectionList && sectionList.toUpperCase() === listParam.toUpperCase()) {\n                section.style.display = 'block';\n            } else {\n                section.style.display = 'none';\n            }\n        });\n\n        // Initialize the summary and setup buttons after the DOM is ready\n        initializeSummary();\n        setupButtonHandlers();\n    });\n\n    // Function to format summary for email (if needed)\n    function formatSummaryForEmail() {\n        var formattedSummary = Qualtrics.SurveyEngine.getEmbeddedData('formatted_summary') || '';\n        return formattedSummary;\n    }\n\n    function initializeSummary() {\n        try {\n            // Get condition and basic info\n            var condition = Qualtrics.SurveyEngine.getEmbeddedData('cond') || 'control';\n            var episodesClassified = parseInt(Qualtrics.SurveyEngine.getEmbeddedData('episodes_classified') || '0', 10);\n            var podcastTitle = Qualtrics.SurveyEngine.getEmbeddedData('podcast_title') || 'Podcast Title';\n\n            var summaryContent = document.getElementById('summary-content');\n            if (!summaryContent) {\n                console.error('Summary content container not found');\n                return;\n            }\n\n            // Clear existing content\n            summaryContent.innerHTML = '';\n\n            if (episodesClassified === 0) {\n                // Show message for no classifications\n                var message = document.createElement('h2');\n                message.style.color = '#000';\n                message.style.marginBottom = '30px';\n                message.style.fontSize = '16px';\n                message.style.fontWeight = 'normal';\n                message.textContent = 'A summary of the guests on ' + podcastTitle +\n                    ' can only be provided if you classify guests from recent episodes. ' +\n                    'Please click \"Classify More Guests\" below to return to the classification activity ' +\n                    'so this summary can be populated.';\n\n                summaryContent.appendChild(message);\n\n                // Hide the guest recommendations\n                var guestRecommendations = document.getElementById('guest-recommendations');\n                if (guestRecommendations) {\n                    guestRecommendations.style.display = 'none';\n                }\n            } else {\n                // Show summary header\n                var header = document.createElement('h2');\n                header.style.color = '#000';\n                header.style.marginBottom = '30px';\n                header.style.fontSize = '16px';\n                header.style.fontWeight = 'normal';\n                header.textContent = 'Here is a summary of the guests from the last ' +\n                    episodesClassified + ' episodes of ' + podcastTitle + ':';\n                summaryContent.appendChild(header);\n\n                // Create list container\n                var summaryList = document.createElement('ul');\n                summaryList.id = 'summary-list';\n                summaryList.style.listStyleType = 'disc';\n                summaryList.style.margin = '0';\n                summaryList.style.paddingLeft = '20px';\n                summaryList.style.fontSize = '16px';\n                summaryContent.appendChild(summaryList);\n\n                // Helper function to add list item\n                function addListItem(text) {\n                    if (text && text.indexOf('null') === -1) {\n                        var li = document.createElement('li');\n                        li.style.marginBottom = '10px';\n                        li.textContent = text;\n                        summaryList.appendChild(li);\n                    }\n                }\n\n                if (condition === 'control') {\n                    // Always show all four base categories in this order\n\n                    // 1. Repeat guests\n                    var repeatPercent = calculatePercentage('guest-appeared-before', 'Yes');\n                    if (repeatPercent !== null) {\n                        addListItem(repeatPercent + '% were repeat guests');\n                    }\n\n                    // 2. Professions\n                    var professionText = formatProfessions();\n                    if (professionText) {\n                        addListItem(professionText);\n                    }\n\n                    // 3. Location\n                    var usPercent = calculatePercentage('guest-location', 'United States');\n                    if (usPercent !== null) {\n                        addListItem(usPercent + '% were from the United States');\n                    }\n\n                    // 4. Age\n                    var under50Percent = calculatePercentage('guest-age', 'Under 50');\n                    if (under50Percent !== null) {\n                        addListItem(under50Percent + '% were under 50 years old');\n                    }\n\n                } else {\n                    // Treatment condition - show selected questions\n                    var questionOrderStr = Qualtrics.SurveyEngine.getEmbeddedData('question_order');\n                    var selectedQuestions = questionOrderStr ? JSON.parse(questionOrderStr) : [];\n                    selectedQuestions.forEach(function(questionId) {\n                        switch (questionId) {\n                            case 'guest-appeared-before':\n                                var repeatPercent = calculatePercentage(questionId, 'Yes');\n                                if (repeatPercent !== null) {\n                                    addListItem(repeatPercent + '% were repeat guests');\n                                }\n                                break;\n\n                            case 'guest-profession':\n                                var professionText = formatProfessions();\n                                if (professionText) {\n                                    addListItem(professionText);\n                                }\n                                break;\n\n                            case 'guest-location':\n                                var usPercent = calculatePercentage(questionId, 'United States');\n                                if (usPercent !== null) {\n                                    addListItem(usPercent + '% were from the United States');\n                                }\n                                break;\n\n                            case 'guest-age':\n                                var under50Percent = calculatePercentage(questionId, 'Under 50');\n                                if (under50Percent !== null) {\n                                    addListItem(under50Percent + '% were under 50 years old');\n                                }\n                                break;\n\n                            case 'guest-gender':\n                                var womenPercent = calculatePercentage(questionId, 'Woman');\n                                if (womenPercent !== null) {\n                                    addListItem(womenPercent + '% were women');\n                                }\n                                break;\n\n                            case 'guest-race':\n                                var races = [];\n                                var hasAnyRaceData = false;\n                                ['White', 'Asian', 'Black', 'Latino'].forEach(function(race) {\n                                    var percent = calculatePercentage(questionId, race);\n                                    if (percent !== null) {\n                                        hasAnyRaceData = true;\n                                        races.push(percent + '% were ' + race.toLowerCase());\n                                    }\n                                });\n                                if (hasAnyRaceData) {\n                                    addListItem(races.join(', '));\n                                }\n                                break;\n                        }\n                    });\n                }\n\n                // Show the guest recommendations\n                var guestRecommendations = document.getElementById('guest-recommendations');\n                if (guestRecommendations) {\n                    guestRecommendations.style.display = 'block';\n                }\n\n                // After all list items are added, format and store the summary (if needed)\n                var formattedSummary = formatSummaryForEmail();\n                Qualtrics.SurveyEngine.setEmbeddedData('formatted_summary', formattedSummary);\n                console.log('Stored formatted summary:', formattedSummary);\n            }\n\n        } catch (error) {\n            console.error('Error initializing summary:', error);\n        }\n    }\n\n    // Helper function to calculate percentages\n    function calculatePercentage(questionId, value) {\n        // Get stored responses from embedded data\n        var storedResponsesStr = Qualtrics.SurveyEngine.getEmbeddedData('stored_responses');\n        var storedResponses = storedResponsesStr ? JSON.parse(storedResponsesStr) : [];\n        var validResponses = storedResponses.filter(function(r) {\n            return r && Object.keys(r).some(function(key) {\n                return key !== 'episodeNumber' &&\n                    key !== 'episodeTitle' &&\n                    r[key] &&\n                    r[key] !== 'Not specified';\n            });\n        });\n\n        // Get responses where this question was actually answered\n        var answeredResponses = validResponses.filter(function(r) {\n            return r[questionId] && r[questionId] !== 'Not specified';\n        });\n\n        // If no answers for this question, return null\n        if (answeredResponses.length === 0) return null;\n\n        // Count matches for the specified value\n        var matchingCount = answeredResponses.filter(function(r) {\n            return r[questionId] === value;\n        }).length;\n\n        // Calculate percentage based on answered responses\n        return Math.round((matchingCount / answeredResponses.length) * 100);\n    }\n\n    // Function to format profession text\n    function formatProfessions() {\n        var professions = [];\n        var profText = '';\n        var uniqueProfCount = parseInt(Qualtrics.SurveyEngine.getEmbeddedData('unique_profession_count') || '0', 10);\n\n        // Get all profession responses first to check if any were answered\n        var storedResponsesStr = Qualtrics.SurveyEngine.getEmbeddedData('stored_responses');\n        var storedResponses = storedResponsesStr ? JSON.parse(storedResponsesStr) : [];\n        var professionResponses = storedResponses.filter(function(r) {\n            return r['guest-profession'] && r['guest-profession'] !== 'Not specified';\n        });\n\n        // Only proceed if we have any profession responses\n        if (professionResponses.length > 0) {\n            // Process each profession\n            for (var i = 1; i <= Math.min(uniqueProfCount, 3); i++) {\n                var profName = Qualtrics.SurveyEngine.getEmbeddedData('top_profession' + i + '_name');\n                var profPercent = Qualtrics.SurveyEngine.getEmbeddedData('top_profession' + i + '_percent');\n\n                console.log('Processing profession ' + i + ':', profName, profPercent);\n\n                if (profName && profPercent && profName !== 'null' && profPercent !== 'null') {\n                    professions.push(profPercent + '% were from ' + profName);\n                }\n            }\n\n            // Add other professions if any\n            var otherPercent = Qualtrics.SurveyEngine.getEmbeddedData('profession_other_percent');\n            if (otherPercent && otherPercent !== 'null' && otherPercent !== '0') {\n                professions.push(otherPercent + '% were from other professions');\n            }\n\n            if (professions.length > 0) {\n                profText = professions.join(', ');\n            }\n        }\n\n        console.log('Final profession text:', profText);\n        return profText;\n    }\n\n    function setupButtonHandlers() {\n        // Handle Classify More button\n        var classifyMoreButton = document.getElementById('classify-more-button');\n        if (classifyMoreButton) {\n            classifyMoreButton.addEventListener('click', function() {\n                console.log('Classify More button clicked');\n                // Set 'flag' back to '0' to hide the summary page\n                Qualtrics.SurveyEngine.setEmbeddedData('flag', '0');\n                // 'end' remains '0' to continue the loop\n\n                // Advance to the next loop iteration (next classification)\n                qThis.clickNextButton();\n            });\n        } else {\n            console.log('Classify More button not found');\n        }\n\n        // Handle Email Report button (Modified)\n        var emailReportButton = document.getElementById('email-report-button');\n        if (emailReportButton) {\n\n            emailReportButton.addEventListener('click', function() {\n                // Get podcast email from embedded data\n                var podcastEmail = Qualtrics.SurveyEngine.getEmbeddedData('podcast_email');\n                if (!podcastEmail) {\n                    console.error('No podcast email found in embedded data');\n                    podcastEmail = ''; // Fallback email just in case\n                }\n\n                var currentSummary = formatSummaryForEmail();\n                Qualtrics.SurveyEngine.setEmbeddedData('formatted_summary', currentSummary);\n\n                // Set recipient email\n                Qualtrics.SurveyEngine.setEmbeddedData('recipient_email', podcastEmail);\n\n                // Create modal for additional emails\n                var modalHtml = '<div id=\"emailModal\" style=\"position: fixed !important; top: 0 !important; left: 0 !important; width: 100% !important; height: 100% !important; ' +\n                    'background-color: rgba(0, 0, 0, 0.5) !important; display: flex !important; ' +\n                    'justify-content: center !important; align-items: center !important; z-index: 2147483647 !important; pointer-events: auto !important;\">' +\n                    '<div style=\"position: relative; background-color: white; padding: 30px; border-radius: 8px; width: 400px; max-width: 90%;\">' +\n                    '<h3 style=\"margin-top: 0; color: #333; font-size: 18px;\">Additional Email Recipients</h3>' +\n                    '<p style=\"font-size: 14px; color: #666; margin-bottom: 20px;\">An email has been sent to: ' + podcastEmail + '</p>' +\n                    '<p style=\"font-size: 14px; color: #666;\">Please enter any additional email addresses that you would like this sent to:</p>' +\n                    '<input type=\"email\" id=\"emailInput\" style=\"width: 100%; padding: 8px; margin: 10px 0; border: 1px solid #ddd; ' +\n                    'border-radius: 4px; font-size: 14px;\" placeholder=\"Enter email address\">' +\n                    '<div style=\"display: flex; justify-content: flex-end; gap: 10px; margin-top: 20px;\">' +\n                    '<button id=\"cancelEmail\" style=\"padding: 8px 15px; border: none; border-radius: 4px; ' +\n                    'background-color: #6c757d; color: white; cursor: pointer; font-size: 14px;\">Close</button>' +\n                    '<button id=\"sendEmail\" style=\"padding: 8px 15px; border: none; border-radius: 4px; ' +\n                    'background-color: #0066cc; color: white; cursor: pointer; font-size: 14px;\">Send to Additional Email</button>' +\n                    '</div>' +\n                    '</div>' +\n                    '</div>';\n\n                // Add modal to body and attach event handlers after the modal is added\n                jQuery('body').append(modalHtml);\n\n                // Wait for the modal to be added to the DOM\n                setTimeout(function() {\n                    // Get modal elements using jQuery\n                    var $modal = jQuery('#emailModal');\n                    var $cancelButton = jQuery('#cancelEmail');\n                    var $sendButton = jQuery('#sendEmail');\n                    var $emailInput = jQuery('#emailInput');\n\n                    console.log('Modal elements:', {\n                        modal: $modal.length,\n                        cancelButton: $cancelButton.length,\n                        sendButton: $sendButton.length,\n                        emailInput: $emailInput.length\n                    });\n\n                    // Modified close function: now the modal will simply close without advancing the page.\n                    function closeModal() {\n                        console.log('Closing modal');\n                        if ($modal && $modal.length > 0) {\n                            $modal.remove();\n                        }\n                    }\n\n                    // Attach event handlers using jQuery\n                    $cancelButton.on('click', function(e) {\n                        console.log('Cancel button clicked');\n                        e.preventDefault();\n                        e.stopPropagation();\n                        closeModal();\n                    });\n\n                    $sendButton.on('click', function(e) {\n                        console.log('Send Email button clicked');\n                        e.preventDefault();\n                        e.stopPropagation();\n\n                        var additionalEmail = $emailInput.val().trim();\n                        console.log('Additional email entered:', additionalEmail);\n                        if (!additionalEmail) {\n                            alert('Please enter a valid email address.');\n                            return;\n                        }\n\n                        // Store additional email\n                        var currentEmails = Qualtrics.SurveyEngine.getEmbeddedData('additional_emails') || '';\n                        var emailsArray = currentEmails ? currentEmails.split(',') : [];\n                        emailsArray.push(additionalEmail);\n                        Qualtrics.SurveyEngine.setEmbeddedData('additional_emails', emailsArray.join(','));\n\n                        // Show confirmation and close the modal (no forward behavior)\n                        alert('Summary report will be sent to: ' + additionalEmail);\n                        closeModal();\n                    });\n\n                    // Allow clicking outside modal to close it\n                    $modal.on('click', function(e) {\n                        console.log('Modal background clicked');\n                        if (e.target === $modal[0]) {\n                            closeModal();\n                        }\n                    });\n\n                    // Prevent clicks within modal content from closing the modal\n                    $modal.find('div').on('click', function(e) {\n                        e.stopPropagation();\n                    });\n\n                }, 0);\n            });\n        } else {\n            console.log('Email Report button not found');\n        }\n\n        // Handle Finish button\n        var finishButton = document.getElementById('finish-button');\n        if (finishButton) {\n            finishButton.addEventListener('click', function() {\n                console.log('Finish button clicked');\n                // Set 'end' to '1' to indicate the loop should end\n                Qualtrics.SurveyEngine.setEmbeddedData('end', '1');\n\n                // Proceed to the next page\n                qThis.clickNextButton();\n            });\n        } else {\n            console.log('Finish button not found');\n        }\n    }\n});",
+      "DisplayLogic": {
+        "0": {
+          "0": {
+            "Description": "<span class=\"ConjDesc\">If</span> <span class=\"LeftOpDesc\">flag</span> <span class=\"OpDesc\">Is Equal to</span> <span class=\"RightOpDesc\"> 1 </span>",
+            "LeftOperand": "flag",
+            "LogicType": "EmbeddedField",
+            "Operator": "EqualTo",
+            "RightOperand": "1",
+            "Type": "Expression"
+          },
+          "1": {
+            "Conjuction": "And",
+            "Description": "<span class=\"ConjDesc\">And</span> <span class=\"LeftOpDesc\">end</span> <span class=\"OpDesc\">Is Not Equal to</span> <span class=\"RightOpDesc\"> 1 </span>",
+            "LeftOperand": "end",
+            "LogicType": "EmbeddedField",
+            "Operator": "NotEqualTo",
+            "RightOperand": "1",
+            "Type": "Expression"
+          },
+          "Type": "If"
+        },
+        "Type": "BooleanExpression",
+        "inPage": false
+      },
+      "QuestionText_Unsafe": "<div id=\"full-container\" style=\"font-family: Arial, sans-serif; line-height: 1.6; max-width: 1400px; margin: 0 auto; padding: 20px; font-size: 16px;\">\n    \n    <div id=\"summary-content\">\n        \n    </div>\n\n    <hr style=\"margin: 40px 0; border-top: 1px solid #ccc;\">\n\n    \n    <div id=\"guest-recommendations\" style=\"margin-top: 30px; display: none;\">\n        <h2 style=\"color: #000; margin-bottom: 20px; font-size: 18px; font-weight: bold;\">\n            Let Wharton Podcast Analytics Help You Diversify Your Guest Lineup\n        </h2>\n        <p style=\"margin-bottom: 30px; font-size: 16px;\">\n            Curated lists contain expert guests who can help you increase your show\u2019s representation of\u2026\n        </p>\n\n        \n        <div style=\"display: flex; flex-wrap: wrap; gap: 20px;\">\n            \n            <div class=\"list-item\" style=\"flex: 1 1 calc(50% - 20px); display: flex; align-items: center;\">\n                <img src=\"https://img.icons8.com/?size=100&id=ZwzI4PXONU0W&format=png&color=000000\" alt=\"Female Voices Icon\" style=\"width: 40px; height: 40px; margin-right: 15px;\">\n                <a href=\"https://wharton.qualtrics.com/jfe/form/SV_0GPL6YDOtCpbrKK\" target=\"_blank\" class=\"list-link\" data-list-name=\"Female Voices\" data-list-value=\"FEMALE\" style=\"text-decoration: underline; font-size: 16px; color: #0066cc;\">\n                    Female voices\n                </a>\n            </div>\n\n            \n            <div class=\"list-item\" style=\"flex: 1 1 calc(50% - 20px); display: flex; align-items: center;\">\n                <img src=\"https://img.icons8.com/?size=100&id=5s7R5DwJr50s&format=png&color=000000\" alt=\"Underrepresented Minority Voices Icon\" style=\"width: 40px; height: 40px; margin-right: 15px;\">\n                <a href=\"https://wharton.qualtrics.com/jfe/form/SV_0GPL6YDOtCpbrKK\" target=\"_blank\" class=\"list-link\" data-list-name=\"Underrepresented Minority Voices\" data-list-value=\"URM\" style=\"text-decoration: underline; font-size: 16px; color: #0066cc;\">\n                    Underrepresented minority voices\n                </a>\n            </div>\n\n            \n            <div class=\"list-item\" style=\"flex: 1 1 calc(50% - 20px); display: flex; align-items: center;\">\n                <img src=\"https://img.icons8.com/?size=100&id=31757&format=png&color=000000\" alt=\"International Voices Icon\" style=\"width: 40px; height: 40px; margin-right: 15px;\">\n                <a href=\"https://wharton.qualtrics.com/jfe/form/SV_0GPL6YDOtCpbrKK\" target=\"_blank\" class=\"list-link\" data-list-name=\"International Voices\" data-list-value=\"INTER\" style=\"text-decoration: underline; font-size: 16px; color: #0066cc;\">\n                    International voices\n                </a>\n            </div>\n\n            \n            <div class=\"list-item\" style=\"flex: 1 1 calc(50% - 20px); display: flex; align-items: center;\">\n                <img src=\"https://img.icons8.com/?size=100&id=11270&format=png&color=000000\" alt=\"Entrepreneurs Icon\" style=\"width: 40px; height: 40px; margin-right: 15px;\">\n                <a href=\"https://wharton.qualtrics.com/jfe/form/SV_0GPL6YDOtCpbrKK\" target=\"_blank\" class=\"list-link\" data-list-name=\"Entrepreneurs and Business Leaders\" data-list-value=\"BUS\" style=\"text-decoration: underline; font-size: 16px; color: #0066cc;\">\n                    Entrepreneurs and business leaders\n                </a>\n            </div>\n\n            \n            <div class=\"list-item\" style=\"flex: 1 1 calc(50% - 20px); display: flex; align-items: center;\">\n                <img src=\"https://img.icons8.com/?size=100&id=HvGeRWevmI34&format=png&color=000000\" alt=\"Media Professionals Icon\" style=\"width: 40px; height: 40px; margin-right: 15px;\">\n                <a href=\"https://wharton.qualtrics.com/jfe/form/SV_0GPL6YDOtCpbrKK\" target=\"_blank\" class=\"list-link\" data-list-name=\"Media Professionals\" data-list-value=\"MEDIA\" style=\"text-decoration: underline; font-size: 16px; color: #0066cc;\">\n                    Media professionals\n                </a>\n            </div>\n\n            \n            <div class=\"list-item\" style=\"flex: 1 1 calc(50% - 20px); display: flex; align-items: center;\">\n                <img src=\"https://img.icons8.com/?size=100&id=41414&format=png&color=000000\" alt=\"Authors and Writers Icon\" style=\"width: 40px; height: 40px; margin-right: 15px;\">\n                <a href=\"https://wharton.qualtrics.com/jfe/form/SV_0GPL6YDOtCpbrKK\" target=\"_blank\" class=\"list-link\" data-list-name=\"Authors and Writers\" data-list-value=\"AUTHORS\" style=\"text-decoration: underline; font-size: 16px; color: #0066cc;\">\n                    Authors and writers\n                </a>\n            </div>\n        </div>\n    </div>\n\n    \n    <div style=\"margin-top: 40px; text-align: center; display: flex; justify-content: center; gap: 15px;\">\n        <button type=\"button\" id=\"classify-more-button\" style=\"\n            padding: 12px 24px;\n            background-color: #0d6efd;\n            color: white;\n            border: none;\n            border-radius: 6px;\n            cursor: pointer;\n            font-size: 14px;\n            flex: 1;\n            max-width: 250px;\n            white-space: nowrap;\n            box-shadow: 0 2px 4px rgba(0,0,0,0.1);\n            transition: all 0.2s ease;\">\n            Classify More Guests\n        </button>\n        <button type=\"button\" id=\"email-report-button\" style=\"\n            padding: 12px 24px;\n            background-color: #28a745;\n            color: white;\n            border: none;\n            border-radius: 6px;\n            cursor: pointer;\n            font-size: 14px;\n            flex: 1;\n            max-width: 350px;\n            white-space: nowrap;\n            box-shadow: 0 2px 4px rgba(0,0,0,0.1);\n            transition: all 0.2s ease;\">\n            Email Myself a Copy of This Report\n        </button>\n        <button type=\"button\" id=\"finish-button\" style=\"\n            padding: 12px 24px;\n            background-color: #6c757d;\n            color: white;\n            border: none;\n            border-radius: 6px;\n            cursor: pointer;\n            font-size: 14px;\n            flex: 1;\n            max-width: 250px;\n            white-space: nowrap;\n            box-shadow: 0 2px 4px rgba(0,0,0,0.1);\n            transition: all 0.2s ease;\">\n            Finish\n        </button>\n    </div>\n</div>"
+    },
+    "QID6": {
+      "QuestionText": "Click to write the question text",
+      "DefaultChoices": false,
+      "DataExportTag": "Q6",
+      "QuestionType": "DB",
+      "Selector": "TB",
+      "DataVisibility": {
+        "Private": false,
+        "Hidden": false
+      },
+      "Configuration": {
+        "QuestionDescriptionOption": "UseText"
+      },
+      "QuestionDescription": "Click to write the question text",
+      "ChoiceOrder": [],
+      "Validation": {
+        "Settings": {
+          "Type": "None"
+        }
+      },
+      "GradingData": [],
+      "Language": [],
+      "NextChoiceId": 4,
+      "NextAnswerId": 1,
+      "QuestionID": "QID6",
+      "QuestionText_Unsafe": "Click to write the question text"
+    },
+    "QID7": {
+      "QuestionText": "<div style=\"font-family: Arial, sans-serif; line-height: 1.6; max-width: 1400px; margin: 0 auto; padding: 20px; font-size: 14px;\" id=\"episode-container\">\n    <h2 style=\"color: #333; margin-bottom: 30px; font-size: 16px; font-weight: normal;\">\n        Welcome to a tailored \"<span id=\"display-interval\"></span>\" for <span id=\"podcast-name\" style=\"font-weight: bold;\"></span> designed to help summarize the guests you've featured on your <span id=\"episode-count\"></span> podcast episodes over the past <span id=\"interval-lowercase\"></span>.*\n    </h2>\n    \n    <div style=\"background: #f9f9f9; padding: 20px; border-radius: 5px; margin-bottom: 30px; text-align: center;\">\n        <button type=\"button\" id=\"continue-button\" style=\"padding: 12px 24px;\n            background-color: #0066cc;\n            color: white;\n            border: none;\n            border-radius: 6px;\n            cursor: pointer;\n            font-size: 14px;\n            display: inline-block;\n            min-width: 150px;\n            max-width: 200px;\n            box-shadow: 0 2px 4px rgba(0,0,0,0.1);\n            transition: all 0.2s ease;\">\n            Begin Classification\n        </button>\n    </div>\n\n    <div style=\"text-align: left; font-size: 10px; color: #666; margin-top: 40px; padding-top: 20px; border-top: 1px solid #eee;\">\n        *To make this review manageable, we'll focus on up to 30 of your most recent guest episodes. Feel free to review fewer episodes - you can view your classification summary at any time. By participating in this classification task, you acknowledge that your responses may be used for research purposes by the Wharton Podcast Analytics team to better understand podcast guest selection patterns.\n    </div>\n</div>\n",
+      "DefaultChoices": false,
+      "DataExportTag": "Q7",
+      "QuestionID": "QID7",
+      "QuestionType": "DB",
+      "Selector": "TB",
+      "DataVisibility": {
+        "Private": false,
+        "Hidden": false
+      },
+      "Configuration": {
+        "QuestionDescriptionOption": "UseText"
+      },
+      "QuestionDescription": "Welcome to a tailored \"\" for designed to help summarize the guests you've featured on your podcas...",
+      "ChoiceOrder": [],
+      "Validation": {
+        "Settings": {
+          "Type": "None"
+        }
+      },
+      "GradingData": [],
+      "Language": [],
+      "NextChoiceId": 4,
+      "NextAnswerId": 1,
+      "QuestionJS": "Qualtrics.SurveyEngine.addOnload(function() {\n    // Hide the Next and Previous buttons\n    jQuery(\"#NextButton\").hide();\n    jQuery(\"#PreviousButton\").hide();\n    \n    // Add CSS to ensure they stay hidden\n    var style = document.createElement('style');\n    style.textContent = '#NextButton, #PreviousButton { display: none !important; }';\n    document.head.appendChild(style);\n\n    // Store reference to Qualtrics object\n    var that = this;\n\n    // Wait for DOM to be ready\n    jQuery(document).ready(function() {\n        setTimeout(function() {\n            try {\n                // Get embedded data\n                var displayInterval = Qualtrics.SurveyEngine.getEmbeddedData('display_interval');\n                var podcastTitle = Qualtrics.SurveyEngine.getEmbeddedData('podcast_title');\n                var displayIntervalLowercase = Qualtrics.SurveyEngine.getEmbeddedData('display_interval_lowercase');\n                var episodeCount = Qualtrics.SurveyEngine.getEmbeddedData('episode_count');\n                \n                console.log('Display Interval:', displayInterval);\n                console.log('Podcast Title:', podcastTitle);\n                console.log('Display Interval Lowercase:', displayIntervalLowercase);\n                console.log('Episode Count:', episodeCount);\n\n                // Update elements using jQuery\n                jQuery('#display-interval').text(displayInterval || '');\n                jQuery('#podcast-name').text(podcastTitle || '');\n                jQuery('#interval-lowercase').text(displayIntervalLowercase || '');\n                jQuery('#interval-lowercase-footnote').text(displayIntervalLowercase || '');\n                jQuery('#episode-count').text(episodeCount || '0');\n\n                // Set up button click handler\n                jQuery('#continue-button').on('click', function() {\n                    that.clickNextButton();\n                });\n\n            } catch (error) {\n                console.error('Error in setting up question:', error);\n            }\n        }); \n    });\n});",
+      "QuestionText_Unsafe": "<div style=\"font-family: Arial, sans-serif; line-height: 1.6; max-width: 1400px; margin: 0 auto; padding: 20px; font-size: 14px;\" id=\"episode-container\">\n    <h2 style=\"color: #333; margin-bottom: 30px; font-size: 16px; font-weight: normal;\">\n        Welcome to a tailored \"<span id=\"display-interval\"></span>\" for <span id=\"podcast-name\" style=\"font-weight: bold;\"></span> designed to help summarize the guests you've featured on your <span id=\"episode-count\"></span> podcast episodes over the past <span id=\"interval-lowercase\"></span>.*\n    </h2>\n    \n    <div style=\"background: #f9f9f9; padding: 20px; border-radius: 5px; margin-bottom: 30px; text-align: center;\">\n        <button type=\"button\" id=\"continue-button\" style=\"padding: 12px 24px;\n            background-color: #0066cc;\n            color: white;\n            border: none;\n            border-radius: 6px;\n            cursor: pointer;\n            font-size: 14px;\n            display: inline-block;\n            min-width: 150px;\n            max-width: 200px;\n            box-shadow: 0 2px 4px rgba(0,0,0,0.1);\n            transition: all 0.2s ease;\">\n            Begin Classification\n        </button>\n    </div>\n\n    <div style=\"text-align: left; font-size: 10px; color: #666; margin-top: 40px; padding-top: 20px; border-top: 1px solid #eee;\">\n        *To make this review manageable, we'll focus on up to 30 of your most recent guest episodes. Feel free to review fewer episodes - you can view your classification summary at any time. By participating in this classification task, you acknowledge that your responses may be used for research purposes by the Wharton Podcast Analytics team to better understand podcast guest selection patterns.\n    </div>\n</div>\n"
+    },
+    "QID8": {
+      "QuestionText": "Timing",
+      "DefaultChoices": false,
+      "DataExportTag": "Q8",
+      "QuestionID": "QID8",
+      "QuestionType": "Timing",
+      "Selector": "PageTimer",
+      "DataVisibility": {
+        "Private": false,
+        "Hidden": false
+      },
+      "Configuration": {
+        "QuestionDescriptionOption": "UseText",
+        "MinSeconds": "0",
+        "MaxSeconds": 5
+      },
+      "QuestionDescription": "Timing",
+      "Choices": {
+        "1": {
+          "Display": "First Click"
+        },
+        "2": {
+          "Display": "Last Click"
+        },
+        "3": {
+          "Display": "Page Submit"
+        },
+        "4": {
+          "Display": "Click Count"
+        }
+      },
+      "GradingData": [],
+      "Language": [],
+      "NextChoiceId": 40,
+      "NextAnswerId": 1,
+      "QuestionText_Unsafe": "Timing"
+    },
+    "QID9": {
+      "QuestionText": "Click to write the question text",
+      "DataExportTag": "Q9",
+      "QuestionType": "MC",
+      "Selector": "SAVR",
+      "SubSelector": "TX",
+      "DataVisibility": {
+        "Private": false,
+        "Hidden": false
+      },
+      "Configuration": {
+        "QuestionDescriptionOption": "UseText"
+      },
+      "QuestionDescription": "Click to write the question text",
+      "Choices": {
+        "1": {
+          "Display": "Click to write Choice 1"
+        },
+        "2": {
+          "Display": "Click to write Choice 2"
+        },
+        "3": {
+          "Display": "Click to write Choice 3"
+        }
+      },
+      "ChoiceOrder": [
+        "1",
+        "2",
+        "3"
+      ],
+      "Validation": {
+        "Settings": {
+          "ForceResponse": "OFF",
+          "Type": "None"
+        }
+      },
+      "Language": [],
+      "NextChoiceId": 4,
+      "NextAnswerId": 1,
+      "QuestionID": "QID9",
+      "QuestionText_Unsafe": "Click to write the question text"
+    }
+  },
+  "Blocks": {
+    "BL_aUVYWg2GyCRLWgm": {
+      "Type": "Default",
+      "Description": "confirmation page",
+      "ID": "BL_aUVYWg2GyCRLWgm",
+      "BlockElements": [
+        {
+          "Type": "Question",
+          "QuestionID": "QID1"
+        }
+      ]
+    },
+    "BL_2tLPoAceTga8Mzs": {
+      "Type": "Trash",
+      "Description": "Trash / Unused Questions",
+      "ID": "BL_2tLPoAceTga8Mzs",
+      "BlockElements": [
+        {
+          "Type": "Question",
+          "QuestionID": "QID8"
+        },
+        {
+          "Type": "Question",
+          "QuestionID": "QID9"
+        },
+        {
+          "Type": "Question",
+          "QuestionID": "QID6"
+        },
+        {
+          "Type": "Question",
+          "QuestionID": "QID10"
+        },
+        {
+          "Type": "Question",
+          "QuestionID": "QID11"
+        },
+        {
+          "Type": "Question",
+          "QuestionID": "QID3"
+        },
+        {
+          "Type": "Question",
+          "QuestionID": "QID2"
+        },
+        {
+          "Type": "Question",
+          "QuestionID": "QID12"
+        },
+        {
+          "Type": "Question",
+          "QuestionID": "QID13"
+        },
+        {
+          "Type": "Question",
+          "QuestionID": "QID14"
+        }
+      ]
+    },
+    "BL_861pmEMTJTJssKi": {
+      "Type": "Standard",
+      "SubType": "",
+      "Description": "Block 1",
+      "ID": "BL_861pmEMTJTJssKi",
+      "BlockElements": [
+        {
+          "Type": "Question",
+          "QuestionID": "QID4"
+        },
+        {
+          "Type": "Page Break"
+        },
+        {
+          "Type": "Question",
+          "QuestionID": "QID5"
+        }
+      ],
+      "Options": {
+        "BlockLocking": "false",
+        "RandomizeQuestions": "false",
+        "Looping": "Static",
+        "LoopingOptions": {
+          "Static": {
+            "1": {
+              "1": "",
+              "2": ""
+            },
+            "2": {
+              "1": "",
+              "2": ""
+            },
+            "3": {
+              "1": "",
+              "2": ""
+            },
+            "4": {
+              "1": "",
+              "2": ""
+            },
+            "5": {
+              "1": "",
+              "2": ""
+            },
+            "6": {
+              "1": "",
+              "2": ""
+            },
+            "7": {
+              "1": "",
+              "2": ""
+            },
+            "8": {
+              "1": "",
+              "2": ""
+            },
+            "9": {
+              "1": "",
+              "2": ""
+            },
+            "10": {
+              "1": "",
+              "2": ""
+            },
+            "11": {
+              "1": "",
+              "2": ""
+            },
+            "12": {
+              "1": "",
+              "2": ""
+            },
+            "13": {
+              "1": "",
+              "2": ""
+            },
+            "14": {
+              "1": "",
+              "2": ""
+            },
+            "15": {
+              "1": "",
+              "2": ""
+            },
+            "16": {
+              "1": "",
+              "2": ""
+            },
+            "17": {
+              "1": "",
+              "2": ""
+            },
+            "18": {
+              "1": "",
+              "2": ""
+            },
+            "19": {
+              "1": "",
+              "2": ""
+            },
+            "20": {
+              "1": "",
+              "2": ""
+            },
+            "21": {
+              "1": "",
+              "2": ""
+            },
+            "22": {
+              "1": "",
+              "2": ""
+            },
+            "23": {
+              "1": "",
+              "2": ""
+            },
+            "24": {
+              "1": "",
+              "2": ""
+            },
+            "25": {
+              "1": "",
+              "2": ""
+            },
+            "26": {
+              "1": "",
+              "2": ""
+            },
+            "27": {
+              "1": "",
+              "2": ""
+            },
+            "28": {
+              "1": "",
+              "2": ""
+            },
+            "29": {
+              "1": "",
+              "2": ""
+            },
+            "30": {
+              "1": "",
+              "2": ""
+            },
+            "31": {
+              "1": "",
+              "2": ""
+            },
+            "32": {
+              "1": "",
+              "2": ""
+            },
+            "33": {
+              "1": "",
+              "2": ""
+            },
+            "34": {
+              "1": "",
+              "2": ""
+            },
+            "35": {
+              "1": "",
+              "2": ""
+            },
+            "36": {
+              "1": "",
+              "2": ""
+            },
+            "37": {
+              "1": "",
+              "2": ""
+            },
+            "38": {
+              "1": "",
+              "2": ""
+            },
+            "39": {
+              "1": "",
+              "2": ""
+            },
+            "40": {
+              "1": "",
+              "2": ""
+            },
+            "41": {
+              "1": "",
+              "2": ""
+            },
+            "42": {
+              "1": "",
+              "2": ""
+            },
+            "43": {
+              "1": "",
+              "2": ""
+            },
+            "44": {
+              "1": "",
+              "2": ""
+            },
+            "45": {
+              "1": "",
+              "2": ""
+            },
+            "46": {
+              "1": "",
+              "2": ""
+            },
+            "47": {
+              "1": "",
+              "2": ""
+            },
+            "48": {
+              "1": "",
+              "2": ""
+            },
+            "49": {
+              "1": "",
+              "2": ""
+            },
+            "50": {
+              "1": "",
+              "2": ""
+            },
+            "51": {
+              "1": "",
+              "2": ""
+            },
+            "52": {
+              "1": "",
+              "2": ""
+            },
+            "53": {
+              "1": "",
+              "2": ""
+            },
+            "54": {
+              "1": "",
+              "2": ""
+            },
+            "55": {
+              "1": "",
+              "2": ""
+            },
+            "56": {
+              "1": "",
+              "2": ""
+            },
+            "57": {
+              "1": "",
+              "2": ""
+            },
+            "58": {
+              "1": "",
+              "2": ""
+            },
+            "59": {
+              "1": "",
+              "2": ""
+            },
+            "60": {
+              "1": "",
+              "2": ""
+            },
+            "61": {
+              "1": "",
+              "2": ""
+            },
+            "62": {
+              "1": "",
+              "2": ""
+            },
+            "63": {
+              "1": "",
+              "2": ""
+            },
+            "64": {
+              "1": "",
+              "2": ""
+            },
+            "65": {
+              "1": "",
+              "2": ""
+            },
+            "66": {
+              "1": "",
+              "2": ""
+            },
+            "67": {
+              "1": "",
+              "2": ""
+            },
+            "68": {
+              "1": "",
+              "2": ""
+            },
+            "69": {
+              "1": "",
+              "2": ""
+            },
+            "70": {
+              "1": "",
+              "2": ""
+            },
+            "71": {
+              "1": "",
+              "2": ""
+            },
+            "72": {
+              "1": "",
+              "2": ""
+            },
+            "73": {
+              "1": "",
+              "2": ""
+            },
+            "74": {
+              "1": "",
+              "2": ""
+            },
+            "75": {
+              "1": "",
+              "2": ""
+            },
+            "76": {
+              "1": "",
+              "2": ""
+            },
+            "77": {
+              "1": "",
+              "2": ""
+            },
+            "78": {
+              "1": "",
+              "2": ""
+            },
+            "79": {
+              "1": "",
+              "2": ""
+            },
+            "80": {
+              "1": "",
+              "2": ""
+            },
+            "81": {
+              "1": "",
+              "2": ""
+            },
+            "82": {
+              "1": "",
+              "2": ""
+            },
+            "83": {
+              "1": "",
+              "2": ""
+            },
+            "84": {
+              "1": "",
+              "2": ""
+            },
+            "85": {
+              "1": "",
+              "2": ""
+            },
+            "86": {
+              "1": "",
+              "2": ""
+            },
+            "87": {
+              "1": "",
+              "2": ""
+            },
+            "88": {
+              "1": "",
+              "2": ""
+            },
+            "89": {
+              "1": "",
+              "2": ""
+            },
+            "90": {
+              "1": "",
+              "2": ""
+            },
+            "91": {
+              "1": "",
+              "2": ""
+            },
+            "92": {
+              "1": "",
+              "2": ""
+            },
+            "93": {
+              "1": "",
+              "2": ""
+            },
+            "94": {
+              "1": "",
+              "2": ""
+            },
+            "95": {
+              "1": "",
+              "2": ""
+            },
+            "96": {
+              "1": "",
+              "2": ""
+            },
+            "97": {
+              "1": "",
+              "2": ""
+            },
+            "98": {
+              "1": "",
+              "2": ""
+            },
+            "99": {
+              "1": "",
+              "2": ""
+            },
+            "100": {
+              "1": "",
+              "2": ""
+            }
+          },
+          "Randomization": "None"
+        }
+      }
+    },
+    "BL_8HUjhr7t2ROx7wy": {
+      "Type": "Standard",
+      "SubType": "",
+      "Description": "preview",
+      "ID": "BL_8HUjhr7t2ROx7wy",
+      "BlockElements": [
+        {
+          "Type": "Question",
+          "QuestionID": "QID7"
+        }
+      ],
+      "Options": {
+        "BlockLocking": "false",
+        "RandomizeQuestions": "false",
+        "Looping": "None",
+        "LoopingOptions": null
+      }
+    }
+  },
+  "ResponseSets": {
+    "RS_eEW3ytVj6JdYjVc": null
+  },
+  "QuotaGroups": {
+    "QG_WoCwGsPbuHo260Q": {
+      "ID": "QG_WoCwGsPbuHo260Q",
+      "Name": "Default Quota Group",
+      "Selected": true,
+      "MultipleMatch": "PlaceInAll",
+      "Public": false,
+      "Quotas": []
+    }
+  },
+  "QuotaGroupOrder": [
+    "QG_WoCwGsPbuHo260Q"
+  ],
+  "SurveyFlow": {
+    "Type": "Root",
+    "FlowID": "FL_1",
+    "Flow": [
+      {
+        "Type": "EmbeddedData",
+        "FlowID": "FL_3",
+        "EmbeddedData": [
+          {
+            "Description": "podcast_id",
+            "Type": "Recipient",
+            "Field": "podcast_id",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "podcastID",
+            "Type": "Recipient",
+            "Field": "podcastID",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "podcast_title",
+            "Type": "Recipient",
+            "Field": "podcast_title",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "podcast_email",
+            "Type": "Recipient",
+            "Field": "podcast_email",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "episode_title",
+            "Type": "Recipient",
+            "Field": "episode_title",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "episode_description",
+            "Type": "Recipient",
+            "Field": "episode_description",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "episode_duration",
+            "Type": "Recipient",
+            "Field": "episode_duration",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "episode_count",
+            "Type": "Recipient",
+            "Field": "episode_count",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "episode_published_at",
+            "Type": "Recipient",
+            "Field": "episode_published_at",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "publishing_interval",
+            "Type": "Recipient",
+            "Field": "publishing_interval",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "display_interval",
+            "Type": "Recipient",
+            "Field": "display_interval",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "display_interval_lowercase",
+            "Type": "Recipient",
+            "Field": "display_interval_lowercase",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "episode_id",
+            "Type": "Recipient",
+            "Field": "episode_id",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "podcast_episodes",
+            "Type": "Recipient",
+            "Field": "podcast_episodes",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "repeat_guests_percent",
+            "Type": "Recipient",
+            "Field": "repeat_guests_percent",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "top_profession_1_name",
+            "Type": "Recipient",
+            "Field": "top_profession_1_name",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "top_profession_1_percent",
+            "Type": "Recipient",
+            "Field": "top_profession_1_percent",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "top_profession_2_name",
+            "Type": "Recipient",
+            "Field": "top_profession_2_name",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "top_profession_2_percent",
+            "Type": "Recipient",
+            "Field": "top_profession_2_percent",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "top_profession_3_name",
+            "Type": "Recipient",
+            "Field": "top_profession_3_name",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "top_profession_3_percent",
+            "Type": "Recipient",
+            "Field": "top_profession_3_percent",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "other_professions_percent",
+            "Type": "Recipient",
+            "Field": "other_professions_percent",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "profession_other_percent",
+            "Type": "Recipient",
+            "Field": "profession_other_percent",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "gender_female_percent",
+            "Type": "Recipient",
+            "Field": "gender_female_percent",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "gender_male_percent",
+            "Type": "Recipient",
+            "Field": "gender_male_percent",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "gender_other_percent",
+            "Type": "Recipient",
+            "Field": "gender_other_percent",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "race_white_percent",
+            "Type": "Recipient",
+            "Field": "race_white_percent",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "race_asian_percent",
+            "Type": "Recipient",
+            "Field": "race_asian_percent",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "race_black_percent",
+            "Type": "Recipient",
+            "Field": "race_black_percent",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "race_latino_percent",
+            "Type": "Recipient",
+            "Field": "race_latino_percent",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "race_other_percent",
+            "Type": "Recipient",
+            "Field": "race_other_percent",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "unique_profession_count",
+            "Type": "Recipient",
+            "Field": "unique_profession_count",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "last_episode_index",
+            "Type": "Recipient",
+            "Field": "last_episode_index",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "stored_responses",
+            "Type": "Recipient",
+            "Field": "stored_responses",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "total_episodes",
+            "Type": "Recipient",
+            "Field": "total_episodes",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "recipient_email",
+            "Type": "Recipient",
+            "Field": "recipient_email",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "trigger_update",
+            "Type": "Recipient",
+            "Field": "trigger_update",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "is_affiliated",
+            "Type": "Recipient",
+            "Field": "is_affiliated",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "formatted_summary",
+            "Type": "Recipient",
+            "Field": "formatted_summary",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "additional_emails",
+            "Type": "Recipient",
+            "Field": "additional_emails",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "question_order",
+            "Type": "Recipient",
+            "Field": "question_order",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "has_viewed_summary",
+            "Type": "Custom",
+            "Field": "has_viewed_summary",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false,
+            "Value": "false"
+          },
+          {
+            "Description": "incomplete_session_summary",
+            "Type": "Recipient",
+            "Field": "incomplete_session_summary",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "flag",
+            "Type": "Recipient",
+            "Field": "flag",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "currentEpisode",
+            "Type": "Recipient",
+            "Field": "currentEpisode",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "response_1",
+            "Type": "Recipient",
+            "Field": "response_1",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "response_2",
+            "Type": "Recipient",
+            "Field": "response_2",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "response_3",
+            "Type": "Recipient",
+            "Field": "response_3",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "response_4",
+            "Type": "Recipient",
+            "Field": "response_4",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "response_5",
+            "Type": "Recipient",
+            "Field": "response_5",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "response_6",
+            "Type": "Recipient",
+            "Field": "response_6",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "response_7",
+            "Type": "Recipient",
+            "Field": "response_7",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "response_8",
+            "Type": "Recipient",
+            "Field": "response_8",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "response_9",
+            "Type": "Recipient",
+            "Field": "response_9",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "respose_10",
+            "Type": "Recipient",
+            "Field": "respose_10",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "response_11",
+            "Type": "Recipient",
+            "Field": "response_11",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "response_12",
+            "Type": "Recipient",
+            "Field": "response_12",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "response_13",
+            "Type": "Recipient",
+            "Field": "response_13",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "response_14",
+            "Type": "Recipient",
+            "Field": "response_14",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "response_15",
+            "Type": "Recipient",
+            "Field": "response_15",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "response_16",
+            "Type": "Recipient",
+            "Field": "response_16",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "response_17",
+            "Type": "Recipient",
+            "Field": "response_17",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "response_18",
+            "Type": "Recipient",
+            "Field": "response_18",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "response_19",
+            "Type": "Recipient",
+            "Field": "response_19",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "response_20",
+            "Type": "Recipient",
+            "Field": "response_20",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "response_21",
+            "Type": "Recipient",
+            "Field": "response_21",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "response_22",
+            "Type": "Recipient",
+            "Field": "response_22",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "response_23",
+            "Type": "Recipient",
+            "Field": "response_23",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "response_24",
+            "Type": "Recipient",
+            "Field": "response_24",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "response_25",
+            "Type": "Recipient",
+            "Field": "response_25",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "response_26",
+            "Type": "Recipient",
+            "Field": "response_26",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "response_27",
+            "Type": "Recipient",
+            "Field": "response_27",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "response_28",
+            "Type": "Recipient",
+            "Field": "response_28",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "response_29",
+            "Type": "Recipient",
+            "Field": "response_29",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "response_30",
+            "Type": "Recipient",
+            "Field": "response_30",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "end",
+            "Type": "Custom",
+            "Field": "end",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false,
+            "Value": "0"
+          },
+          {
+            "Description": "review_label",
+            "Type": "Recipient",
+            "Field": "review_label",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "listen_score",
+            "Type": "Recipient",
+            "Field": "listen_score",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "currentEpisode",
+            "Type": "Custom",
+            "Field": "currentEpisode",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false,
+            "Value": "1"
+          },
+          {
+            "Description": "episodes_classified",
+            "Type": "Recipient",
+            "Field": "episodes_classified",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          },
+          {
+            "Description": "cond",
+            "Type": "Recipient",
+            "Field": "cond",
+            "VariableType": "String",
+            "DataVisibility": [],
+            "AnalyzeText": false
+          }
+        ]
+      },
+      {
+        "Type": "WebService",
+        "FlowID": "FL_27",
+        "URL": "https://zyp4husiiu5s373ww3lrjxlmyq0jdvwa.lambda-url.us-east-1.on.aws/?id=${e://Field/podcastID}&filename=prod_db.jsonl&fields=title,email,episodes,listen_score,num_episodes,interval_weeks,review_label",
+        "Method": "GET",
+        "RequestParams": [],
+        "EditBodyParams": [],
+        "Body": [],
+        "ContentType": "application/x-www-form-urlencoded",
+        "Headers": [],
+        "ResponseMap": [
+          {
+            "key": "title",
+            "value": "podcast_title"
+          },
+          {
+            "key": "email",
+            "value": "podcast_email"
+          },
+          {
+            "key": "num_episodes",
+            "value": "episode_count"
+          },
+          {
+            "key": "review_label",
+            "value": "review_label"
+          },
+          {
+            "key": "episodes",
+            "value": "podcast_episodes"
+          },
+          {
+            "key": "listen_score",
+            "value": "listen_score"
+          }
+        ],
+        "FireAndForget": false,
+        "SchemaVersion": 0,
+        "StringifyValues": true
+      },
+      {
+        "Type": "Block",
+        "ID": "BL_aUVYWg2GyCRLWgm",
+        "FlowID": "FL_2",
+        "Autofill": []
+      },
+      {
+        "Type": "Branch",
+        "FlowID": "FL_10",
+        "Description": "New Branch",
+        "BranchLogic": {
+          "0": {
+            "0": {
+              "LogicType": "EmbeddedField",
+              "LeftOperand": "is_affiliated",
+              "Operator": "EqualTo",
+              "RightOperand": "no",
+              "_HiddenExpression": false,
+              "Type": "Expression",
+              "Description": "<span class=\"ConjDesc\">If</span> <span class=\"LeftOpDesc\">is_affiliated</span> <span class=\"OpDesc\">Is Equal to</span> <span class=\"RightOpDesc\"> no </span>"
+            },
+            "Type": "If"
+          },
+          "Type": "BooleanExpression"
+        },
+        "Flow": [
+          {
+            "Type": "EndSurvey",
+            "FlowID": "FL_11"
+          }
+        ]
+      },
+      {
+        "Type": "Standard",
+        "ID": "BL_8HUjhr7t2ROx7wy",
+        "FlowID": "FL_12",
+        "Autofill": []
+      },
+      {
+        "Type": "Branch",
+        "FlowID": "FL_39",
+        "Description": "New Branch",
+        "BranchLogic": {
+          "0": {
+            "0": {
+              "LogicType": "EmbeddedField",
+              "LeftOperand": "cond",
+              "Operator": "Empty",
+              "_HiddenExpression": false,
+              "Type": "Expression",
+              "Description": "<span class=\"ConjDesc\">If</span> <span class=\"LeftOpDesc\">cond</span> <span class=\"OpDesc\">Is Empty</span> "
+            },
+            "Type": "If"
+          },
+          "Type": "BooleanExpression"
+        },
+        "Flow": [
+          {
+            "Type": "Branch",
+            "FlowID": "FL_30",
+            "Description": "New Branch",
+            "BranchLogic": {
+              "0": {
+                "0": {
+                  "LogicType": "EmbeddedField",
+                  "LeftOperand": "listen_score",
+                  "Operator": "LessThan",
+                  "RightOperand": "0",
+                  "_HiddenExpression": false,
+                  "Type": "Expression",
+                  "Description": "<span class=\"ConjDesc\">If</span> <span class=\"LeftOpDesc\">listen_score</span> <span class=\"OpDesc\">Is Less Than</span> <span class=\"RightOpDesc\"> 0 </span>"
+                },
+                "Type": "If"
+              },
+              "Type": "BooleanExpression"
+            },
+            "Flow": [
+              {
+                "Type": "BlockRandomizer",
+                "FlowID": "FL_14",
+                "SubSet": 1,
+                "EvenPresentation": true,
+                "Flow": [
+                  {
+                    "Type": "EmbeddedData",
+                    "FlowID": "FL_15",
+                    "EmbeddedData": [
+                      {
+                        "Description": "cond",
+                        "Type": "Custom",
+                        "Field": "cond",
+                        "VariableType": "String",
+                        "DataVisibility": [],
+                        "AnalyzeText": false,
+                        "Value": "treatment"
+                      }
+                    ]
+                  },
+                  {
+                    "Type": "EmbeddedData",
+                    "FlowID": "FL_16",
+                    "EmbeddedData": [
+                      {
+                        "Description": "cond",
+                        "Type": "Custom",
+                        "Field": "cond",
+                        "VariableType": "String",
+                        "DataVisibility": [],
+                        "AnalyzeText": false,
+                        "Value": "control"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Type": "Branch",
+        "FlowID": "FL_38",
+        "Description": "New Branch",
+        "BranchLogic": {
+          "0": {
+            "0": {
+              "LogicType": "EmbeddedField",
+              "LeftOperand": "cond",
+              "Operator": "Empty",
+              "_HiddenExpression": false,
+              "Type": "Expression",
+              "Description": "<span class=\"ConjDesc\">If</span> <span class=\"LeftOpDesc\">cond</span> <span class=\"OpDesc\">Is Empty</span> "
+            },
+            "Type": "If"
+          },
+          "Type": "BooleanExpression"
+        },
+        "Flow": [
+          {
+            "Type": "Branch",
+            "FlowID": "FL_34",
+            "Description": "New Branch",
+            "BranchLogic": {
+              "0": {
+                "0": {
+                  "LogicType": "EmbeddedField",
+                  "LeftOperand": "listen_score",
+                  "Operator": "GreaterThanOrEqual",
+                  "RightOperand": "0",
+                  "_HiddenExpression": false,
+                  "Type": "Expression",
+                  "Description": "<span class=\"ConjDesc\">If</span> <span class=\"LeftOpDesc\">listen_score</span> <span class=\"OpDesc\">Is Greater Than or Equal to</span> <span class=\"RightOpDesc\"> 0 </span>"
+                },
+                "Type": "If"
+              },
+              "Type": "BooleanExpression"
+            },
+            "Flow": [
+              {
+                "Type": "BlockRandomizer",
+                "FlowID": "FL_35",
+                "SubSet": 1,
+                "EvenPresentation": true,
+                "Flow": [
+                  {
+                    "Type": "EmbeddedData",
+                    "FlowID": "FL_36",
+                    "EmbeddedData": [
+                      {
+                        "Description": "cond",
+                        "Type": "Custom",
+                        "Field": "cond",
+                        "VariableType": "String",
+                        "DataVisibility": [],
+                        "AnalyzeText": false,
+                        "Value": "treatment"
+                      }
+                    ]
+                  },
+                  {
+                    "Type": "EmbeddedData",
+                    "FlowID": "FL_37",
+                    "EmbeddedData": [
+                      {
+                        "Description": "cond",
+                        "Type": "Custom",
+                        "Field": "cond",
+                        "VariableType": "String",
+                        "DataVisibility": [],
+                        "AnalyzeText": false,
+                        "Value": "control"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Type": "Standard",
+        "ID": "BL_861pmEMTJTJssKi",
+        "FlowID": "FL_4",
+        "Autofill": []
+      },
+      {
+        "Type": "EndSurvey",
+        "FlowID": "FL_17",
+        "EndingType": "Advanced",
+        "Options": {
+          "Advanced": "true",
+          "SurveyTermination": "DisplayMessage",
+          "EOSMessageLibrary": "UR_51kqMTaUzYIYveC",
+          "EOSMessage": "MS_9pgPWCNBhT4j47I"
+        }
+      }
+    ],
+    "Properties": {
+      "Count": 39
+    }
+  },
+  "Scoring": {
+    "ScoringCategories": [],
+    "ScoringCategoryGroups": [],
+    "ScoringSummaryCategory": null,
+    "ScoringSummaryAfterQuestions": 0,
+    "ScoringSummaryAfterSurvey": 0,
+    "DefaultScoringCategory": null,
+    "AutoScoringCategory": null
+  },
+  "ProjectInfo": {
+    "SurveyID": "SV_0IobgvbcBJXc5H8",
+    "ProjectCategory": "CORE",
+    "ProjectType": null,
+    "CompositionType": null,
+    "ContentBundle": null
+  },
+  "BrandBaseURL": "https://wharton.qualtrics.com"
+}

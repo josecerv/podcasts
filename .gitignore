@@ -10,6 +10,19 @@
 *.sql.gz
 *.sql
 
+# Large data files (>50MB)
+prod_db*.jsonl
+sample_db.jsonl
+guests-extract.jsonl
+*_prod_db.jsonl
+guests-extract-combined*.jsonl
+cleaned-guests-extract.jsonl
+podcasts_sample.csv
+email_*_survey.csv
+podcast_hosts_email_onetwo.jsonl
+email_one_two_host.jsonl
+podcasts_final_sample.csv
+
 # Temporary files
 o365_token.txt
 *_token.txt

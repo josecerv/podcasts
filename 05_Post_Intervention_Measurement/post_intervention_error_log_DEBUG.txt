@@ -1,0 +1,65 @@
+2025-04-22 18:02:03,856 - INFO - __main__ - --- Starting Post-Intervention Analysis Pipeline (DEBUG MODE - First 10) ---
+2025-04-22 18:02:03,856 - INFO - __main__ - Loading podcast data from podcast_rss_export.csv
+2025-04-22 18:02:03,868 - INFO - __main__ - DEBUG MODE: Processing only first 10 podcasts.
+2025-04-22 18:02:03,868 - INFO - __main__ - Fetching RSS feeds and filtering post-intervention episodes (Serial Debug Mode)...
+2025-04-22 18:02:03,873 - CRITICAL - __main__ - Unhandled exception: 'NoneType' object has no attribute 'tzinfo'
+Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\post-intervention-guest.py", line 393, in <module>
+    try: main()
+  File "C:\Users\jcerv\Jose\podcasts\post-intervention-guest.py", line 323, in main
+    episodes = fetch_and_filter_episodes(podcast_info)
+  File "C:\Users\jcerv\Jose\podcasts\post-intervention-guest.py", line 132, in fetch_and_filter_episodes
+    print(f"  Completion Timestamp: {completion_timestamp} (tz: {completion_timestamp.tzinfo})")
+AttributeError: 'NoneType' object has no attribute 'tzinfo'
+2025-04-22 18:03:31,664 - INFO - __main__ - --- Starting Post-Intervention Analysis Pipeline (DEBUG MODE - First 10) ---
+2025-04-22 18:03:31,665 - INFO - __main__ - Loading podcast data from podcast_rss_export.csv
+2025-04-22 18:03:31,672 - INFO - __main__ - Initial rows loaded: 6050
+2025-04-22 18:03:31,673 - INFO - __main__ - Columns: ['podcastID', 'rss', 'latest_response_time']
+2025-04-22 18:03:31,677 - INFO - __main__ - Rows remaining after dropna: 6050
+2025-04-22 18:03:31,677 - INFO - __main__ - DEBUG MODE: Processing only first 10 podcasts.
+2025-04-22 18:03:31,678 - INFO - __main__ - Fetching RSS feeds and filtering post-intervention episodes (Serial Debug Mode)...
+2025-04-22 18:03:57,789 - INFO - __main__ - Found 34 relevant post-intervention episodes in the first 10 podcasts.
+2025-04-22 18:03:57,790 - INFO - __main__ - Processing 34 episodes from 7 podcasts (>= 1 post-episodes).
+2025-04-22 18:03:57,790 - INFO - __main__ - Starting LLM classification. Outputting raw results to post_intervention_guest_classification_DEBUG.jsonl
+2025-04-22 18:03:57,790 - INFO - __main__ - Episodes to classify in this debug run: 34
+2025-04-22 18:03:57,791 - INFO - __main__ - Using 5 workers for LLM classification.
+2025-04-22 18:03:59,879 - INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:04:00,311 - INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:04:00,337 - INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:04:00,342 - INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:04:01,369 - INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:04:01,653 - INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:04:01,911 - INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:04:02,168 - INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:04:02,363 - INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:04:02,525 - INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:04:03,115 - INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:04:03,540 - INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:04:03,547 - INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:04:03,637 - INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:04:04,091 - INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:04:04,337 - INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:04:04,857 - INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:04:05,010 - INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:04:05,399 - INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:04:05,791 - INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:04:05,881 - INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:04:06,183 - INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:04:07,174 - INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:04:07,447 - INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:04:07,491 - INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:04:07,583 - INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:04:07,734 - INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:04:09,158 - INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:04:09,333 - INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:04:09,341 - INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:04:11,177 - INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:04:11,331 - INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:04:11,622 - INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:04:11,795 - INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:04:11,813 - INFO - __main__ - LLM classification complete for debug run.
+2025-04-22 18:04:11,813 - INFO - __main__ - Aggregating results from post_intervention_guest_classification_DEBUG.jsonl...
+2025-04-22 18:04:11,815 - INFO - __main__ - Aggregating based on 34 valid episodes out of 34.
+2025-04-22 18:04:11,818 - INFO - __main__ - Aggregation complete. Found results for 7 podcasts.
+2025-04-22 18:04:11,820 - INFO - __main__ - Aggregated results saved to post_intervention_guest_summary_DEBUG.csv
+2025-04-22 18:04:11,820 - INFO - __main__ - --- DEBUG Pipeline finished in 40.16 seconds ---

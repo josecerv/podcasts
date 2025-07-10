@@ -1,0 +1,400 @@
+[2025-03-13 16:24:14] Error processing 55537bff67e0440aafbb2ec9c707db59_19eb77ae2112c01340148c25fbceed45ef0396b2aebc3315c4b32b66e38245d0: Expecting property name enclosed in double quotes: line 6 column 1 (char 357)
+[2025-03-13 16:24:14] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\guests-extract_urm.py", line 72, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 6 column 1 (char 357)
+
+[2025-03-15 14:00:04] Error processing 1992f8df369f4e2ca78573155d556622_daf483b8693d6d1c24b144ec7f3e270d3008eaaa7a749afcaa7c856cb45d732f: Expecting property name enclosed in double quotes: line 6 column 1 (char 251)
+[2025-03-15 14:00:04] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\guests-extract_urm.py", line 72, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 6 column 1 (char 251)
+
+[2025-03-15 14:00:35] Error processing 3fb53d6115bc40ff81cf379a6898a20b_0ede8f46e73fc9757e8e2bccfe61dc8d9e2d7847318cbd1ae09283d92ea81404: Expecting property name enclosed in double quotes: line 6 column 1 (char 267)
+[2025-03-15 14:00:35] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\guests-extract_urm.py", line 72, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 6 column 1 (char 267)
+
+[2025-03-15 14:00:39] Error processing 459ce7b9536e4364aa05ca467be39a7b_b11bd96378b91b3b56bd1e8103511225d1ce378e7e9fbda432b725a645ae0533: Expecting property name enclosed in double quotes: line 6 column 1 (char 269)
+[2025-03-15 14:00:39] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\guests-extract_urm.py", line 72, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 6 column 1 (char 269)
+
+[2025-03-15 14:01:38] Error processing 8536f0247b4444439d8144dbb671dbc2_a88235ef48ca09bbd3614f4ac07714ec60bc341b2b9734919b11ccfb659e3935: Expecting property name enclosed in double quotes: line 6 column 1 (char 239)
+[2025-03-15 14:01:38] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\guests-extract_urm.py", line 72, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 6 column 1 (char 239)
+
+[2025-03-15 14:01:57] Error processing 990020ce94bb4eebb27eafe5a821413a_cb8a82f1f9c8057eea379abe0da6584c8354453224f6823ded2c6a3db9963be4: Expecting property name enclosed in double quotes: line 6 column 1 (char 414)
+[2025-03-15 14:01:57] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\guests-extract_urm.py", line 72, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 6 column 1 (char 414)
+
+[2025-03-15 14:01:59] Error processing 9e3182c11dae4d1c8710a54f1fc82895_5cffc5ac366a4b0ed2be7b6789acbc03d2ad124dde591c9bde3652ed7577ccc7: Expecting property name enclosed in double quotes: line 6 column 1 (char 301)
+[2025-03-15 14:01:59] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\guests-extract_urm.py", line 72, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 6 column 1 (char 301)
+
+[2025-03-15 14:02:12] Error processing afc893afc8d9423ab221a3d8e1687fde_dc3b6ce2e06736ef13bc6eb8ccad361d0db001f9f00aefadfd97bfc93166c220: Expecting property name enclosed in double quotes: line 6 column 1 (char 326)
+[2025-03-15 14:02:12] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\guests-extract_urm.py", line 72, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 6 column 1 (char 326)
+
+[2025-03-15 14:02:17] Error processing b6fb7a2206f943fe9bd547ce6e897fba_b7a8b01bb90fc7d35a28eefa77670a58fecf390984a27ea3078edef1e791d3dc: Expecting property name enclosed in double quotes: line 6 column 1 (char 214)
+[2025-03-15 14:02:17] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\guests-extract_urm.py", line 72, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 6 column 1 (char 214)
+
+[2025-03-15 14:02:51] Error processing d926a26ef65746ac83a9340a7cba178c_c0487e29ce2d977d34e83e1e5a07df31ce3e2a063919a9abba7d25825532d04a: Expecting property name enclosed in double quotes: line 6 column 1 (char 333)
+[2025-03-15 14:02:51] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\guests-extract_urm.py", line 72, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 6 column 1 (char 333)
+
+[2025-03-15 14:02:51] Error processing d926a26ef65746ac83a9340a7cba178c_888dc4ab82c3b42375e55d4d651fd2506da4a1ba6ee7e961e773b080eb38082d: Expecting property name enclosed in double quotes: line 6 column 1 (char 225)
+[2025-03-15 14:02:51] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\guests-extract_urm.py", line 72, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 6 column 1 (char 225)
+
+[2025-03-18 20:49:16] Error processing 46b342808c6548d988ec03a325cee455_e1235e8e4b4ba30404d339083f02e87da50a8c3064c55772e4662dc368a6417f: Expecting property name enclosed in double quotes: line 6 column 1 (char 244)
+[2025-03-18 20:49:16] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\guests-extract_urm.py", line 72, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 6 column 1 (char 244)
+
+[2025-03-18 20:49:20] Error processing 467eac2875174b46a65d1b135b4d6926_98a6eea58b9a2c18dc571fd52d2278522be21e580b9ac5264f3fa253700e326f: Expecting property name enclosed in double quotes: line 6 column 1 (char 373)
+[2025-03-18 20:49:20] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\guests-extract_urm.py", line 72, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 6 column 1 (char 373)
+
+[2025-03-18 20:49:52] Error processing 4eb1d4d9b6d54e6aad9e07ccee382041_d57c3d11d2b95162c925a37eccc916bb04bc4b455f5fa23add7a770081b459f5: Expecting property name enclosed in double quotes: line 6 column 1 (char 248)
+[2025-03-18 20:49:52] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\guests-extract_urm.py", line 72, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 6 column 1 (char 248)
+
+[2025-03-18 20:49:56] Error processing 557d132581ca40bc8d4126e24a51c4ca_f129475e485d301f5aa1743412fcf7ad1784b7ef8bafe180d55a55f3a282acbc: Expecting property name enclosed in double quotes: line 6 column 1 (char 248)
+[2025-03-18 20:49:56] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\guests-extract_urm.py", line 72, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 6 column 1 (char 248)
+
+[2025-03-18 20:50:01] Error processing 59b788e4ebaa4d7998c48fbe85f4a40c_753b44bb5d244465195dfcbc36dea7ff74080810c8f97d311da45aface036155: Expecting property name enclosed in double quotes: line 6 column 1 (char 256)
+[2025-03-18 20:50:01] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\guests-extract_urm.py", line 72, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 6 column 1 (char 256)
+
+[2025-03-18 20:50:17] Error processing 62d0b813018b4c87a8bbb6aee34d24ad_117486570d0291e242df38fe62e96c9b17212c46a35313f1d869ece2216229e7: Expecting property name enclosed in double quotes: line 6 column 1 (char 396)
+[2025-03-18 20:50:17] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\guests-extract_urm.py", line 72, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 6 column 1 (char 396)
+
+[2025-03-18 20:50:44] Error processing 752dd12cb2bf48f781f026186d1cbc6a_10263d6ddbd4b020ae5ea1669199391f530dab0cdea75ecae46e3d1b84496ca4: Expecting property name enclosed in double quotes: line 6 column 1 (char 274)
+[2025-03-18 20:50:44] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\guests-extract_urm.py", line 72, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 6 column 1 (char 274)
+
+[2025-03-18 20:50:55] Error processing 821e40ab4aec4aeda2a43a963d8e3b52_a2c52e7e87bc57deb0ed1bbb41028c5c7b427713100812fc345683afff923b2a: Expecting property name enclosed in double quotes: line 6 column 1 (char 351)
+[2025-03-18 20:50:55] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\guests-extract_urm.py", line 72, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 6 column 1 (char 351)
+
+[2025-03-18 20:51:05] Error processing 89fdc63ebf8e45beb2889c4fb8f94132_910371c4f1ca07262f24f116d5e0344a1861b2d52373215c8bcc12ebd44373b8: Expecting property name enclosed in double quotes: line 6 column 1 (char 255)
+[2025-03-18 20:51:05] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\guests-extract_urm.py", line 72, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 6 column 1 (char 255)
+
+[2025-03-18 20:51:09] Error processing 8e4f48878c044067a556f567d9f260a3_97453da7b4d8f3ff419eadec915e485a319fce44558dce09773635865117ec32: Expecting property name enclosed in double quotes: line 6 column 1 (char 246)
+[2025-03-18 20:51:09] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\guests-extract_urm.py", line 72, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 6 column 1 (char 246)
+
+[2025-03-18 20:51:36] Error processing a9432e10311d46e294184a4f1ecaa543_912cff175114f090cda555f55a1a830f2751a48889cde37e7b3e60636fbd3d5e: Expecting property name enclosed in double quotes: line 6 column 1 (char 226)
+[2025-03-18 20:51:36] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\guests-extract_urm.py", line 72, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 6 column 1 (char 226)
+
+[2025-03-18 20:51:50] Error processing b62c2725108142528d7ef327bf09222c_2187f7ae74e300e955b1946bdacf4fed2a68b214c6dd7ee96369ab034ad794bb: Expecting property name enclosed in double quotes: line 6 column 1 (char 264)
+[2025-03-18 20:51:50] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\guests-extract_urm.py", line 72, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 6 column 1 (char 264)
+
+[2025-03-19 19:40:48] Error processing 8285929a6501438f996b892ade378dbb_5a043ea6a3e23192be3e02b92d16fd578d6d754405281eb3a32112999a09327f: Expecting property name enclosed in double quotes: line 6 column 1 (char 256)
+[2025-03-19 19:40:48] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\guests-extract_urm.py", line 72, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 6 column 1 (char 256)
+
+[2025-03-19 19:41:16] Error processing c90dc45851ec45d99112ee68c7ee3e8a_512dca1aca58db534c76ee867457974843f9b5bd5ef6cc76e1e69796c19bfd0e: Expecting property name enclosed in double quotes: line 6 column 1 (char 466)
+[2025-03-19 19:41:16] Traceback (most recent call last):
+  File "C:\Users\jcerv\Jose\podcasts\guests-extract_urm.py", line 72, in process_item
+    r = json.loads(clean_response)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcerv\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 6 column 1 (char 466)
+
