@@ -27,3 +27,13 @@ podcasts_final_sample.csv
 o365_token.txt
 *_token.txt
 *firebase-adminsdk*.json
+
+# Environment variables and secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.key
+*.pem
+config.json
