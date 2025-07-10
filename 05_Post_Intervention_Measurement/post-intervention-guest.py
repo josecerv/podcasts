@@ -49,7 +49,7 @@ MIN_REQUIRED_EPISODES = 1
 feedparser.USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 PodcastScraper/1.0"
 
 # LLM Config
-OPENAI_API_KEY = "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" # Replace or use env var
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")  # Use environment variable for security
 LLM_MODEL = "gpt-4o-mini"
 MAX_LLM_WORKERS = 20
 LLM_RETRY_ATTEMPTS = 2
