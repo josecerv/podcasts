@@ -37,3 +37,12 @@ o365_token.txt
 *.key
 *.pem
 config.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Log files
+*.log
+enhanced_analysis.log
