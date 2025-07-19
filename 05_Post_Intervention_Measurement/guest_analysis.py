@@ -230,6 +230,7 @@ def search_guest_web(name: str, affiliation: str = "") -> Dict:
     if cache_file.exists():
         try:
             with open(cache_file, 'r') as f:
+                logger.debug(f"Using cached web search for {name}")
                 return json.load(f)
         except:
             pass
@@ -250,6 +251,7 @@ def search_guest_web(name: str, affiliation: str = "") -> Dict:
             "engine": "google"
         }
         
+        logger.info(f"🔍 Searching web for: {name}")
         response = requests.get("https://serpapi.com/search", params=params, timeout=10)
         if response.status_code == 200:
             results = response.json()
